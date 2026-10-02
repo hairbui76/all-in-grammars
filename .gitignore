@@ -1,0 +1,11 @@
+node_modules/
+dist/
+src/generated/
+
+# source scan of the book (133 MB, over GitHub's file limit)
+grammar.pdf
+# old single-file build, replaced by this app
+Hoc-Ngu-Phap.html
+
+.DS_Store
+*.log

@@ -1,0 +1,18 @@
+{
+  "name": "all-in-grammars",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "content": "node scripts/build-content.mjs",
+    "predev": "npm run content",
+    "dev": "vite",
+    "prebuild": "npm run content",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "marked": "^18.0.14",
+    "vite": "^8.3.2"
+  }
+}

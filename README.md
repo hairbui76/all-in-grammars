@@ -3,7 +3,7 @@
 Web học ngữ pháp tiếng Anh: 296 bài chia theo 24 chuyên đề, kèm flashcard và quiz.
 Tiến độ học lưu trong `localStorage` của trình duyệt, không cần tài khoản.
 
-**Dùng ngay:** https://hairbui76.github.io/all-in-grammars/
+**Dùng ngay:** https://grammars.hairbui76.id.vn/
 
 ## Tính năng
 

@@ -948,22 +948,24 @@ mark {
 }
 
 /* ---------- wider screens ---------- */
+/* html.fit marks a phone showing the page zoomed up from a desktop-width layout (see index.html):
+   the window measures wide there, but the screen is still a phone. */
 @media (min-width: 640px) {
-  .ulist.cols {
+  html:not(.fit) .ulist.cols {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
-  .modal {
+  html:not(.fit) .modal {
     align-items: center;
   }
-  .cta {
+  html:not(.fit) .cta {
     display: flex;
     align-items: center;
   }
-  .cta > .btn {
+  html:not(.fit) .cta > .btn {
     flex: none;
     padding-inline: 16px;
   }
-  .cta .cta-main {
+  html:not(.fit) .cta .cta-main {
     flex: 1;
   }
 }

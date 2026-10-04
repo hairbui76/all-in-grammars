@@ -250,3 +250,9 @@ body[data-mode='focus'] .tabbar {
     color: var(--ink-2);
   }
 }
+
+/* html.fit: the page is zoomed up on a phone that laid it out at desktop width (see index.html).
+   Viewport units ignore that zoom, so a full-height minimum would leave a tall blank tail. */
+html.fit .app {
+  min-height: 0;
+}

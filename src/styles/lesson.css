@@ -144,7 +144,10 @@
 }
 
 /* ---------- lesson text ---------- */
+/* Tables, code and contrast cards respond to the width of the text column itself,
+   not the window: correct in the side-rail layout and when the page is zoomed (html.fit). */
 .prose {
+  container: prose / inline-size;
   font-size: var(--read);
   line-height: 1.65;
   overflow-wrap: anywhere;
@@ -292,8 +295,8 @@
 .tw tbody tr:last-child td {
   border-bottom: 0;
 }
-@media (max-width: 639px) {
-  /* Three or more columns do not fit a phone. Each row becomes a card:
+@container prose (max-width: 559px) {
+  /* Three or more columns do not fit a narrow column. Each row becomes a card:
      first cell is the heading, the others are labelled with their column name. */
   .tw.stack {
     border: 0;
@@ -494,7 +497,7 @@ a.vs-i b {
   }
 }
 
-@media (min-width: 640px) {
+@container prose (min-width: 560px) {
   .vs {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }

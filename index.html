@@ -14,6 +14,24 @@ try {
   if (t !== 'dark' && t !== 'light') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
   document.documentElement.dataset.theme = t;
 } catch (e) {}
+
+// A phone sometimes lays the page out at desktop width (about 980px) and shrinks it to fit,
+// e.g. with "Desktop site" switched on, which leaves the phone layout unreadably small.
+// Scale it back up so one CSS pixel matches the real screen again.
+(function () {
+  function fit() {
+    var landscape = matchMedia('(orientation: landscape)').matches;
+    // iOS keeps screen.width as the portrait width whichever way the phone is held
+    var screenW = landscape ? Math.max(screen.width, screen.height) : Math.min(screen.width, screen.height);
+    var w = window.innerWidth;
+    var touch = navigator.maxTouchPoints > 0 || 'ontouchstart' in window || matchMedia('(pointer: coarse)').matches;
+    var on = touch && screenW < 700 && w < 1000 && w > screenW * 1.25;
+    document.documentElement.style.zoom = on ? w / screenW : '';
+    document.documentElement.classList.toggle('fit', on);
+  }
+  fit();
+  addEventListener('resize', fit);
+})();
 </script>
 </head>
 <body>

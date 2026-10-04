@@ -1,5 +1,40 @@
 {
   "book": "Tập 26 Chuyên đề Ngữ pháp — Nguyễn Anh Tuấn (2023)",
+  "paths": [
+    {
+      "title": "Nền tảng",
+      "desc": "Bắt đầu từ đây: các chuyên đề lõi xuất hiện trong mọi đề thi.",
+      "units": [
+        1,
+        5,
+        6,
+        10,
+        7,
+        3
+      ]
+    },
+    {
+      "title": "Nâng cao",
+      "desc": "Cấu trúc khó giúp ăn điểm cao: đảo ngữ, giả định, phân từ, từ nối.",
+      "units": [
+        12,
+        11,
+        4,
+        13
+      ]
+    },
+    {
+      "title": "Trắc nghiệm",
+      "desc": "Gỡ điểm nhanh ở phần trắc nghiệm: trọng âm, cấu tạo từ, cụm động từ, giới từ, giao tiếp.",
+      "units": [
+        20,
+        19,
+        22,
+        23,
+        24
+      ]
+    }
+  ],
   "units": [
     {
       "id": 1,

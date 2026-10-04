@@ -1,6 +1,6 @@
 // Turns the Obsidian vault in Grammar/ into the JSON the app imports:
 //   src/generated/index.json       units + light per-note metadata (always loaded)
-//   src/generated/units/<id>.json  rendered lessons + flashcards, one chunk per unit
+//   src/generated/units/<id>.json  lessons split into typed sections + flashcards, one chunk per unit
 //   src/generated/search.json      plain text of every lesson, loaded on first search
 import { readFile, readdir, mkdir, writeFile, rm } from 'node:fs/promises'
 import { fileURLToPath } from 'node:url'
@@ -85,8 +85,20 @@ function render(md) {
     .map((part, i) => (i % 2 ? part : part.replace(/\*\*([^*<\n]+?)\*\*/g, '<strong>$1</strong>')))
     .join('')
   html = html.replace(/[❌✗]/g, '<span class="x">✗</span>').replace(/[✅✓]/g, '<span class="v">✓</span>')
-  html = html.replace(/<table>/g, '<div class="tw"><table>').replace(/<\/table>/g, '</table></div>')
+  html = html.replace(/<table>[\s\S]*?<\/table>/g, labelTable)
   return html.trim()
+}
+
+/** Wraps a table for scrolling and copies each column heading onto its cells, so narrow screens can show rows as cards. */
+function labelTable(table) {
+  const heads = [...table.matchAll(/<th[^>]*>([\s\S]*?)<\/th>/g)].map((m) => escAttr(unescHtml(m[1].replace(/<[^>]+>/g, '')).trim()))
+  const body = table.replace(/<tr>([\s\S]*?)<\/tr>/g, (row) => {
+    let i = 0
+    // one wrapper per cell, so a stacked cell can lay out "label | content" as two columns
+    return row.replace(/<td>([\s\S]*?)<\/td>/g,(_, cell) => `<td data-label="${heads[i++] ?? ''}"><span>${cell}</span></td>`)
+  })
+  // three or more columns are too wide for a phone; the stylesheet stacks those
+  return `<div class="tw${heads.length >= 3 ? ' stack' : ''}">${body}</div>`
 }
 
 const renderInline = (md) => render(md).replace(/^<p>|<\/p>$/g, '')
@@ -141,6 +153,83 @@ function quizPairs(sections) {
   return pairs
 }
 
+// Known section headings: [kind, Vietnamese label]. Anything else keeps its English title.
+const SECTION = {
+  Form: ['form', 'Công thức'],
+  Rule: ['form', 'Quy tắc'],
+  Rules: ['form', 'Quy tắc'],
+  'When to use': ['use', 'Cách dùng'],
+  'When to use each': ['use', 'Cách dùng'],
+  Uses: ['use', 'Cách dùng'],
+  'Main uses': ['use', 'Cách dùng'],
+  Examples: ['ex', 'Ví dụ'],
+  'Notes & exceptions': ['note', 'Lưu ý & ngoại lệ'],
+  'Common mistakes': ['fix', 'Lỗi thường gặp'],
+  'Contrast with': ['vs', 'Phân biệt với'],
+  Related: ['rel', 'Bài liên quan'],
+  'The list': ['list', 'Danh sách'],
+  List: ['list', 'Danh sách'],
+  'Reference list': ['list', 'Danh sách'],
+  'Full lists by preposition': ['list', 'Danh sách theo giới từ'],
+  'The set': ['list', 'Nhóm từ'],
+  'The group': ['list', 'Nhóm từ'],
+  'The pairs': ['list', 'Các cặp từ'],
+  'Useful patterns': ['other', 'Mẫu câu hay dùng'],
+  Patterns: ['other', 'Mẫu câu'],
+  'Common fixed expressions': ['other', 'Cụm cố định'],
+}
+
+function sectionMeta(title) {
+  if (SECTION[title]) return { k: SECTION[title][0], vn: SECTION[title][1], en: title }
+  const ex = title.match(/^Examples\s*[—-]\s*(.+)$/)
+  if (ex) return { k: 'ex', vn: `Ví dụ — ${ex[1]}`, en: '' }
+  return { k: 'other', vn: '', en: title }
+}
+
+/** Section titles may carry inline markdown such as `code`. */
+function titleHtml(meta) {
+  return { ...meta, vn: escHtml(meta.vn), en: meta.vn ? escHtml(meta.en) : renderInline(meta.en) }
+}
+
+/** "❌ wrong → ✅ right" bullets become correction cards; other lines render as usual. */
+function renderMistakes(md) {
+  const out = []
+  for (const line of md.split('\n')) {
+    const m = line.match(/^- [❌✗]\s*(.+?)\s*→\s*[✅✓]\s*(.+)$/)
+    if (!m) {
+      out.push(line)
+      continue
+    }
+    const cell = (cls, mark, text) => `<p class="fix-${cls}"><span class="${cls}">${mark}</span><span>${renderInline(text)}</span></p>`
+    // entities, so render() does not wrap the marks a second time
+    out.push('', `<div class="fix">${cell('x', '&#10007;', m[1])}${cell('v', '&#10003;', m[2])}</div>`, '')
+  }
+  return render(out.join('\n'))
+}
+
+/** Bullets of the form "[[Note]] — why it differs". Returns null when the section holds anything else. */
+function linkBullets(md) {
+  const items = []
+  for (const line of md.split('\n')) {
+    if (!line.trim()) continue
+    const m = line.match(/^- \[\[([^\]|]+)(?:\|[^\]]+)?\]\]\s*(?:[—–-]\s*(.+))?$/)
+    if (!m) return null
+    items.push({ t: m[1].trim(), d: m[2] || '' })
+  }
+  return items
+}
+
+function renderContrast(md) {
+  const items = linkBullets(md)
+  if (!items) return render(md)
+  const cards = items.map(({ t, d }) => {
+    const to = linkTarget(t)
+    const inner = `<b>${escHtml(t)}</b>${d ? `<span>${renderInline(d)}</span>` : ''}`
+    return to ? `<a class="vs-i" href="${escAttr(to)}">${inner}</a>` : `<div class="vs-i">${inner}</div>`
+  })
+  return `<div class="vs">${cards.join('')}</div>`
+}
+
 // ---------- read the vault ----------
 const files = (await readdir(conceptsDir)).filter((f) => f.endsWith('.md'))
 const raw = new Map()
@@ -180,7 +269,7 @@ linkTarget = (target) => {
 }
 
 // ---------- render ----------
-const index = { meta: { book: config.book, total: 0, quiz: 0 }, units: [], notes: {} }
+const index = { meta: { book: config.book, total: 0, quiz: 0 }, paths: config.paths || [], units: [], notes: {} }
 const chunks = new Map(config.units.map((u) => [u.id, {}]))
 const search = {}
 
@@ -194,12 +283,34 @@ for (const u of config.units) {
 
     const abstract = (md.match(/^> \[!abstract\][^\n]*\n((?:>.*\n?)+)/m)?.[1] || '').replace(/^> ?/gm, '').trim()
     const sections = splitSections(md)
-    const html = render(md)
     const q = quizPairs(sections)
 
+    // whatever sits between the one-line summary and the first heading
+    const intro = md.split(/^## /m)[0].replace(/^> \[!abstract\][^\n]*\n(?:>.*\n?)+/m, '').trim()
+    const secs = []
+    let rel = []
+    for (const [name, text] of Object.entries(sections)) {
+      const meta = sectionMeta(name)
+      const body = text.trim()
+      if (!body) continue
+      if (meta.k === 'rel') {
+        const links = linkBullets(body)
+        if (links) {
+          // lessons and units that exist become chips; anything unresolved is dropped
+          rel = links.map(({ t }) => ({ t, h: linkTarget(t) })).filter((l) => l.h && l.h !== '#/')
+          continue
+        }
+      }
+      const html = meta.k === 'fix' ? renderMistakes(body) : meta.k === 'vs' ? renderContrast(body) : render(body)
+      secs.push({ ...titleHtml(meta), h: html })
+    }
+    const lead = renderInline(abstract)
+    const introHtml = intro ? render(intro) : ''
+
     index.notes[title] = { u: u.id, ab: plain(abstract), al: Array.isArray(fm.aliases) ? fm.aliases : [], q }
-    chunks.get(u.id)[title] = { h: html, src: fm.source || '', fc: flashcard(sections) }
-    search[title] = unescHtml(html.replace(/<[^>]+>/g, ' ')).replace(/\s+/g, ' ').trim()
+    chunks.get(u.id)[title] = { lead, intro: introHtml, secs, rel, src: fm.source || '', fc: flashcard(sections) }
+    const text = [lead, introHtml, ...secs.map((x) => `${x.en} ${x.h}`)].join(' ')
+    search[title] = unescHtml(text.replace(/<[^>]+>/g, ' ')).replace(/\s+/g, ' ').trim()
     index.meta.total++
     index.meta.quiz += q.length
   }

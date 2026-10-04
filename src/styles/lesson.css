@@ -1,0 +1,608 @@
+/* The lesson page: reading column, section chips, tables that reflow, bottom bar. */
+.lesson-wrap {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 16px 16px 0;
+}
+.lesson {
+  min-width: 0;
+}
+.toc-rail {
+  display: none;
+}
+
+.lmeta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 36px;
+  font-size: 0.8125rem;
+  color: var(--ink-3);
+}
+.lmeta a {
+  min-width: 0;
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.lmeta span {
+  flex: none;
+}
+.lmeta span::before {
+  content: '·';
+  margin-right: 8px;
+}
+.aa {
+  flex: none;
+  min-width: 44px;
+  height: 36px;
+  margin-left: auto;
+  border: 1px solid var(--line-2);
+  border-radius: 10px;
+  color: var(--ink-2);
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+.aa b {
+  font-size: 1.35em;
+}
+.lhead h1 {
+  margin: 6px 0 4px;
+  overflow-wrap: anywhere;
+}
+.aliases {
+  font-size: 0.8125rem;
+  color: var(--ink-3);
+}
+.lead {
+  margin-top: 14px;
+  padding: 14px 16px;
+  border-radius: 14px;
+  background: var(--accent-soft);
+  font-size: var(--read);
+  line-height: 1.55;
+  overflow-wrap: anywhere;
+}
+.lead code {
+  font-family: var(--mono);
+  font-size: 0.9em;
+}
+
+/* section chips: stick under the top bar so any section is one tap away */
+.toc-chips {
+  position: sticky;
+  top: calc(var(--top-h) + var(--safe-t));
+  z-index: 20;
+  display: flex;
+  gap: 6px;
+  margin: 12px -16px 0;
+  padding: 8px 16px;
+  overflow-x: auto;
+  scrollbar-width: none;
+  background: var(--bg);
+  border-bottom: 1px solid var(--line);
+}
+.toc-chips::-webkit-scrollbar {
+  display: none;
+}
+.toc-chips button {
+  flex: none;
+  min-height: 34px;
+  padding: 0 12px;
+  border: 1px solid var(--line-2);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--ink-2);
+  font-size: 0.8125rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.toc-chips button.on,
+.toc-rail button.on {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  color: var(--accent-ink);
+  font-weight: 600;
+}
+.toc-chips code,
+.toc-rail code,
+.sec h2 code {
+  font-family: var(--mono);
+  font-size: 0.92em;
+}
+
+.sec {
+  margin-top: 28px;
+  scroll-margin-top: calc(var(--top-h) + var(--safe-t) + 62px);
+}
+.sec > h2 {
+  overflow-wrap: anywhere;
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 2px 8px;
+  margin-bottom: 10px;
+  padding-left: 12px;
+  border-left: 4px solid var(--accent);
+  border-radius: 2px;
+}
+.sec > h2 small {
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--ink-3);
+}
+.sec-note > h2 {
+  border-color: var(--warn);
+}
+.sec-fix > h2 {
+  border-color: var(--bad);
+}
+.sec-vs > h2,
+.sec-rel > h2 {
+  border-color: var(--line-2);
+}
+
+/* ---------- lesson text ---------- */
+.prose {
+  font-size: var(--read);
+  line-height: 1.65;
+  overflow-wrap: anywhere;
+}
+.prose > :first-child {
+  margin-top: 0;
+}
+.prose > :last-child {
+  margin-bottom: 0;
+}
+.prose p {
+  margin: 0.65em 0;
+}
+.prose ul,
+.prose ol {
+  margin: 0.65em 0;
+  padding-left: 1.25em;
+}
+.prose li {
+  margin: 0.4em 0;
+}
+.prose li::marker {
+  color: var(--ink-3);
+}
+.prose h3 {
+  margin: 1.2em 0 0.4em;
+  font-size: 1em;
+  font-weight: 600;
+}
+.prose strong {
+  font-weight: 600;
+  color: var(--accent-ink);
+}
+.prose em {
+  color: var(--ink-2);
+}
+.prose code {
+  padding: 0.1em 0.4em;
+  border-radius: 6px;
+  background: var(--surface-2);
+  font-family: var(--mono);
+  font-size: 0.875em;
+}
+.prose code strong {
+  color: inherit;
+  font-weight: 700;
+}
+.prose pre {
+  margin: 0.7em 0;
+  padding: 12px 14px;
+  border-radius: 12px;
+  background: var(--surface-2);
+  font-size: 0.8125rem;
+  line-height: 1.7;
+  /* formulas wrap on phones instead of hiding behind a sideways scroll */
+  white-space: pre-wrap;
+}
+.prose pre code {
+  padding: 0;
+  background: none;
+  font-size: inherit;
+}
+.sec-form .prose pre,
+.sec-form .prose > p > code:only-child {
+  border-left: 3px solid var(--accent);
+}
+.sec-form .prose > p > code:only-child {
+  display: block;
+  padding: 12px 14px;
+  border-radius: 12px;
+  line-height: 1.6;
+}
+.prose a.wl {
+  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, var(--accent) 45%, transparent);
+  text-underline-offset: 3px;
+}
+.prose blockquote {
+  margin: 0.7em 0;
+  padding: 2px 14px;
+  border-left: 3px solid var(--line-2);
+  color: var(--ink-2);
+}
+.dead {
+  color: var(--ink-2);
+}
+.x {
+  color: var(--bad);
+  font-weight: 700;
+}
+.v {
+  color: var(--accent);
+  font-weight: 700;
+}
+.callout {
+  margin: 0.8em 0;
+  padding: 12px 14px;
+  border-radius: 12px;
+  background: var(--warn-soft);
+}
+.callout p {
+  margin: 0;
+}
+.callout p + p {
+  margin-top: 0.4em;
+}
+.callout .ct {
+  margin-bottom: 4px;
+  font-weight: 600;
+}
+
+/* ---------- tables ---------- */
+.tw {
+  margin: 0.8em 0;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--surface);
+  overflow-x: auto;
+}
+.tw table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9375em;
+  line-height: 1.5;
+}
+.tw th,
+.tw td {
+  padding: 9px 12px;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  vertical-align: top;
+  /* break only between words, so a narrow column cannot split a word letter by letter */
+  overflow-wrap: break-word;
+}
+.tw th + th,
+.tw td + td {
+  border-left: 1px solid var(--line);
+}
+.tw th {
+  background: var(--surface-2);
+  color: var(--ink-2);
+  font-size: 0.8125em;
+  font-weight: 600;
+}
+.tw tbody tr:last-child td {
+  border-bottom: 0;
+}
+@media (max-width: 639px) {
+  /* Three or more columns do not fit a phone. Each row becomes a card:
+     first cell is the heading, the others are labelled with their column name. */
+  .tw.stack {
+    border: 0;
+    background: none;
+    overflow: visible;
+  }
+  .tw.stack thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+  }
+  .tw.stack table,
+  .tw.stack tbody,
+  .tw.stack tr,
+  .tw.stack td {
+    display: block;
+  }
+  .tw.stack tr {
+    margin-bottom: 8px;
+    padding: 10px 14px 12px;
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    background: var(--surface);
+  }
+  .tw.stack td,
+  .tw.stack td + td {
+    padding: 0;
+    border: 0;
+  }
+  .tw.stack td:first-child {
+    padding-bottom: 6px;
+    font-size: 1.04em;
+    font-weight: 600;
+  }
+  .tw.stack td:not(:first-child) {
+    display: grid;
+    grid-template-columns: 5.5rem minmax(0, 1fr);
+    gap: 10px;
+    padding-top: 6px;
+  }
+  .tw.stack td:not(:first-child)::before {
+    content: attr(data-label);
+    padding-top: 0.2em;
+    color: var(--ink-3);
+    font-size: 0.75rem;
+    line-height: 1.5;
+  }
+  .tw.stack td:has(> span:empty) {
+    display: none;
+  }
+}
+
+/* ---------- wrong → right cards ---------- */
+.fix {
+  margin: 8px 0;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--surface);
+  overflow: hidden;
+}
+.fix p {
+  display: flex;
+  gap: 10px;
+  margin: 0;
+  padding: 10px 14px;
+}
+.fix p > span:last-child {
+  min-width: 0;
+}
+.fix-x {
+  background: var(--bad-soft);
+  color: var(--ink-2);
+}
+.fix-link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 9px 14px;
+  border-top: 1px solid var(--line);
+  font-size: 0.8125rem;
+  font-weight: 600;
+}
+
+/* ---------- contrast and related ---------- */
+.vs {
+  display: grid;
+  gap: 8px;
+}
+.vs-i {
+  display: grid;
+  gap: 2px;
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--surface);
+  color: var(--ink);
+}
+.vs-i b {
+  font-size: 0.9375em;
+  font-weight: 600;
+}
+a.vs-i b {
+  color: var(--accent-ink);
+}
+.vs-i span {
+  font-size: 0.875em;
+  line-height: 1.5;
+  color: var(--ink-2);
+}
+.chipset {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 36px;
+  padding: 4px 13px;
+  border: 1px solid var(--line-2);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--ink);
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+.chip.unit {
+  border-color: transparent;
+  background: var(--surface-2);
+}
+.chip .i {
+  width: 14px;
+  height: 14px;
+  color: var(--ink-3);
+}
+
+.src {
+  margin-top: 28px;
+  font-size: 0.75rem;
+  color: var(--ink-3);
+}
+
+/* ---------- bottom bar: previous / mark as learnt / next ---------- */
+.lbar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 30;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 12px calc(10px + var(--safe-b));
+  background: var(--surface);
+  border-top: 1px solid var(--line);
+}
+.lbar-nav {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 48px;
+  height: 48px;
+  border: 1px solid var(--line-2);
+  border-radius: 12px;
+  background: var(--surface);
+  color: var(--ink);
+}
+/* first lesson of a unit: no previous, so the main button takes the room */
+.lbar-nav.off {
+  display: none;
+}
+.lbar-t {
+  display: none;
+}
+.lbar-done {
+  flex: 1;
+  min-height: 48px;
+}
+/* once the lesson is learnt, "next" becomes the obvious move */
+.lbar.is-done .lbar-nav.next {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: var(--on-accent);
+}
+
+@media (hover: hover) {
+  a.vs-i:hover,
+  .chip:hover,
+  .lbar-nav:hover {
+    border-color: var(--accent);
+  }
+  .toc-rail button:hover {
+    color: var(--ink);
+  }
+}
+
+@media (min-width: 640px) {
+  .vs {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .prose pre {
+    white-space: pre;
+    overflow-x: auto;
+  }
+}
+@media (min-width: 1000px) {
+  .lesson-wrap {
+    padding: 28px 32px 0;
+  }
+  .toc-chips {
+    top: 0;
+    margin: 14px 0 0;
+    padding: 8px 0;
+  }
+  .sec {
+    scroll-margin-top: 66px;
+  }
+  .lbar {
+    position: static;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+    gap: 12px;
+    margin-top: 40px;
+    padding: 20px 0 0;
+    background: none;
+  }
+  .lbar-nav {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    width: auto;
+    height: auto;
+    min-height: 56px;
+    padding: 8px 12px;
+  }
+  .lbar-nav.off {
+    display: block;
+    visibility: hidden;
+  }
+  .lbar-nav.next {
+    justify-content: flex-end;
+    text-align: right;
+  }
+  .lbar-t {
+    display: block;
+    min-width: 0;
+  }
+  .lbar-t small,
+  .lbar-t b {
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .lbar-t small {
+    font-size: 0.75rem;
+    opacity: 0.75;
+  }
+  .lbar-t b {
+    font-size: 0.875rem;
+    font-weight: 600;
+  }
+  .lbar-done {
+    flex: none;
+    padding: 0 22px;
+  }
+}
+/* room for a side rail: the chips give way to a fixed list of sections */
+@media (min-width: 1280px) {
+  .lesson-wrap {
+    display: grid;
+    grid-template-columns: minmax(0, 740px) 200px;
+    justify-content: center;
+    gap: 56px;
+    max-width: none;
+  }
+  .toc-chips {
+    display: none;
+  }
+  .sec {
+    scroll-margin-top: 28px;
+  }
+  .toc-rail {
+    position: sticky;
+    top: 32px;
+    display: grid;
+    align-self: start;
+    gap: 2px;
+  }
+  .toc-rail p {
+    margin-bottom: 6px;
+    padding-left: 12px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+  }
+  .toc-rail button {
+    padding: 6px 12px;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    color: var(--ink-2);
+    font-size: 0.8125rem;
+    line-height: 1.35;
+    text-align: left;
+  }
+}

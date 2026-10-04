@@ -7,13 +7,21 @@ Tiến độ học lưu trong `localStorage` của trình duyệt, không cần 
 
 ## Tính năng
 
-- Đọc bài theo chuyên đề, đánh dấu bài đã học, xem phần trăm hoàn thành
-- Flashcard cho từng chuyên đề (công thức + ví dụ ở mặt sau)
-- Quiz "câu nào đúng ngữ pháp" theo chuyên đề, quiz tổng hợp, và luyện lại các bài hay sai
-- Tìm kiếm theo tên bài, tên tiếng Việt và toàn bộ nội dung
-- Giao diện sáng/tối, dùng tốt trên điện thoại
+- **Trang chủ** gợi ý bài học tiếp theo, ba lộ trình học (nền tảng, nâng cao, trắc nghiệm), số ngày học liên tiếp và hoạt động 7 ngày qua.
+- **Bài học** chia theo mục (công thức, cách dùng, ví dụ, lưu ý, lỗi thường gặp, phân biệt), có mục lục nhảy nhanh và đổi cỡ chữ.
+- **Flashcard** theo chuyên đề: chạm để lật, vuốt trái/phải hoặc bấm nút để đánh dấu thuộc/chưa thuộc.
+- **Quiz** "câu nào đúng ngữ pháp" theo chuyên đề, quiz nhanh 10 câu, và ôn lại các câu từng sai.
+- **Tìm kiếm** theo tên bài, tên tiếng Việt của chuyên đề và toàn bộ nội dung.
+- Giao diện sáng/tối.
 
-Phím tắt: `/` tìm kiếm · `←` `→` bài trước/sau · trong flashcard: `Space` lật thẻ, `→` đã thuộc, `←` chưa thuộc · trong quiz: `1` `2` chọn đáp án.
+Bố cục theo cỡ màn hình:
+
+| Màn hình | Điều hướng | Bài học |
+|---|---|---|
+| Điện thoại, tablet (< 1000px) | Thanh tab dưới đáy | Bảng từ 3 cột trở lên hiện thành thẻ; thanh "bài trước / đã học / bài sau" cố định dưới đáy |
+| Máy tính (≥ 1000px) | Sidebar bên trái | Bảng đầy đủ; từ 1280px có mục lục cố định bên phải |
+
+Phím tắt: `/` tìm kiếm · `←` `→` bài trước/sau · flashcard: `Space` lật thẻ, `→` đã thuộc, `←` chưa thuộc · quiz: `1` `2` chọn đáp án.
 
 ## Chạy trên máy
 
@@ -28,12 +36,23 @@ npm run build    # ra thư mục dist/
 Bài học là các file Markdown (kiểu Obsidian) trong `Grammar/Concepts/`. Mỗi lần `dev` hoặc `build`,
 `scripts/build-content.mjs` chuyển chúng thành JSON trong `src/generated/`:
 
+- Mỗi tiêu đề `##` thành một mục của bài; các tiêu đề quen thuộc (`Form`, `Examples`, `Common mistakes`…) được gắn nhãn tiếng Việt.
 - Mục `## Form` và `## Examples` thành mặt sau flashcard.
-- Các dòng `- ❌ câu sai → ✅ câu đúng` trong `## Common mistakes` thành câu quiz.
-- `[[Tên bài]]` thành liên kết giữa các bài.
+- Các dòng `- ❌ câu sai → ✅ câu đúng` trong `## Common mistakes` thành thẻ sửa lỗi và câu quiz.
+- `[[Tên bài]]` thành liên kết giữa các bài; mục `## Related` thành các nút "Bài liên quan".
 
-`content/units.json` quy định thứ tự chuyên đề, tên tiếng Việt và bài nào thuộc chuyên đề nào.
+`content/units.json` quy định thứ tự chuyên đề, tên tiếng Việt, bài nào thuộc chuyên đề nào và các lộ trình học.
 Bài mới chưa có trong file này sẽ tự vào chuyên đề đầu tiên được liên kết ở mục `## Related`.
+
+## Mã nguồn
+
+| Đường dẫn | Vai trò |
+|---|---|
+| `src/main.js` | Khung trang (sidebar, thanh trên, thanh tab), router theo hash, xử lý sự kiện |
+| `src/views/` | Mỗi màn hình một file: trang chủ, chuyên đề, bài học, ôn tập, tìm kiếm, flashcard, quiz |
+| `src/state.js` | Tiến độ học và lưu `localStorage` |
+| `src/data.js` | Nội dung đã build, tải bài theo từng chuyên đề khi cần |
+| `src/styles/` | CSS viết theo hướng mobile-first |
 
 ## Triển khai
 

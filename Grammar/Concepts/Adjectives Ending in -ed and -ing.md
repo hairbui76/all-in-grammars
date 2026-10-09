@@ -78,4 +78,56 @@ Thing/Person + be + Adjective-ing           -> the source of the feeling
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Tính từ đuôi `-ed` cho biết một người **cảm thấy** thế nào; tính từ đuôi `-ing` cho biết điều gì **gây ra** cảm xúc đó.
+
+### The pairs
+
+| `-ed` (feeling) | `-ing` (cause) |
+| --- | --- |
+| interested | interesting |
+| bored | boring |
+| excited | exciting |
+| annoyed | annoying |
+| surprised | surprising |
+| frightened | frightening |
+| embarrassed | embarrassing |
+| amused | amusing |
+| confused | confusing |
+| thrilled | thrilling |
+| worried | worrying |
+| tired | tiring |
+| horrified | horrifying |
+| shocked | shocking |
+
+### Examples
+
+`-ed` — cảm xúc mà một người cảm thấy:
+
+- Anh ấy cảm thấy **sợ hãi**.
+- Tôi **quan tâm** đến tất cả những người tôi gặp.
+- Tôi chắc là bạn hẳn rất **mệt** sau khi làm việc vất vả như vậy.
+- Các học sinh cảm thấy **chán**.
+
+`-ing` — thứ tạo ra cảm xúc đó:
+
+- Câu chuyện ma đó thật **đáng sợ**.
+- Ông thầy đó thật **nhàm chán**.
+- Đọc tiểu thuyết của các tác giả nổi tiếng khá **thú vị**.
+- Tranh cãi với người phụ nữ lắm lời đó thật **chán**.
+
+### Notes & exceptions
+
+- Cả hai dạng đều là phân từ thực thụ, nên cũng có thể đứng trước danh từ để bổ nghĩa cho nó: *a frightened child* (một đứa trẻ đang sợ hãi), *a frightening film* (một bộ phim đáng sợ).
+- Nói *I am boring* có nghĩa là "tôi làm người khác thấy chán" — một lỗi rất phổ biến và vô tình thành ra khiếm nhã.
+
+### Common mistakes
+
+- Nói về cảm xúc của chính mình phải dùng dạng `-ed` (`bored`); `boring` nghĩa là làm người khác thấy chán.
+- Bộ phim là thứ gây ra cảm xúc nên dùng dạng `-ing` (`interesting`), không dùng `-ed`.
+
+### Contrast with
+
+- [[Participles as Adjectives]] — quy tắc rộng hơn về phân từ dùng làm từ bổ nghĩa
+- [[Position of Adjectives]] — vị trí của các tính từ này

@@ -63,4 +63,43 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Động từ nguyên mẫu không `to` là dạng nguyên mẫu bỏ `to`; nó được dùng sau tất cả các động từ khuyết thiếu chính và sau một số động từ đặc biệt.
+
+### Where the bare infinitive is used
+
+| After | Meaning | Example |
+|---|---|---|
+| `will / shall` | thì tương lai đơn | Vài ngày tới thời tiết **sẽ có** thay đổi. |
+| `must` | sự bắt buộc, sự chắc chắn | Muộn quá rồi. Tôi **phải đi** bây giờ. |
+| `can / could` | khả năng | Tôi **nói được** tiếng Anh. |
+| `should / had better` | lời khuyên | Tôi nghĩ bạn **nên học** chăm hơn. |
+| `may as well / might as well` | không có lý do gì để không làm | Chuyến xe buýt cuối cùng đi mất rồi, chúng ta **đi bộ** về nhà **cũng được**. |
+| `needn't` | hiện tại không cần thiết | Cô ấy **không cần lo** chuyện tiền bạc, phải không? |
+| `used to / would` | thói quen trong quá khứ | Tôi **từng sống** ở Yên Bái. |
+| `would rather / would sooner` | sự ưa thích hơn | Bây giờ tôi **muốn ra** ngoài cho thay đổi không khí **hơn**. |
+| `make / let / have + object` | thể sai khiến | Ông chủ **bắt** người phụ nữ **làm việc** rất vất vả suốt cả ngày. |
+| động từ tri giác + tân ngữ | nhìn/nghe thấy toàn bộ hành động | Chúng tôi nhìn cô bé **đi** qua đường. |
+
+### Examples
+
+- Trung Quốc **sẽ đăng cai** Đại hội Thể thao châu Á lần thứ 16.
+- Tối nay tôi có nhiều việc phải làm. Tôi nghĩ mình **phải thức** khuya.
+- Lúc sáu tháng tuổi bạn **làm** được gì?
+- Hút thuốc có hại cho sức khoẻ của bạn. Bạn nên **bỏ** thuốc đi.
+- Bạn **không nên xin** tiền bố mẹ.
+- Chúng ta **hoãn** trận đấu **cũng được** vì trời đang mưa to.
+- Sớm **cho** tôi **biết tin** nhé.
+
+### Notes & exceptions
+
+- Phủ định của `had better` là `had better not + V`, không bao giờ là *hadn't better*.
+- `help` dùng được cả hai cách: *He helps me (to) learn English.* (Anh ấy giúp tôi học tiếng Anh.)
+- Với `be going to`, `be able to`, `have to`, `ought to` và `used to`, `to` là một phần của cụm nên được giữ lại.
+
+### Contrast with
+
+- [[Infinitives]] — động từ nguyên mẫu đầy đủ có `to`
+- [[Verb Plus Object Plus Infinitive]] — `advise / persuade / tell + tân ngữ + to V`
+- [[Causative Form]] — `have / get something done`

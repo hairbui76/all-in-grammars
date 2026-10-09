@@ -54,4 +54,40 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Những từ đặt trước danh từ để cho biết danh từ đó thuộc về ai.
+
+### The set
+
+| Personal pronoun | Possessive adjective |
+|---|---|
+| I | my |
+| you | your |
+| he | his |
+| she | her |
+| it | its |
+| we | our |
+| you | your |
+| they | their |
+
+### Rules
+
+- Tính từ sở hữu LUÔN LUÔN có danh từ theo sau.
+- Nó không bao giờ thay đổi theo số hay giống của danh từ đứng sau; nó hoà hợp với NGƯỜI SỞ HỮU.
+
+### Examples
+
+- Bố **tôi** là bác sĩ.
+- Đây là cuốn sách **của cô ấy**. / Đây là những cuốn sách **của cô ấy**.
+- Hà Nội nổi tiếng với những thắng cảnh **của mình** và với những chiến thắng lịch sử vẻ vang **của mình**.
+
+### Common mistakes
+
+- Để chỉ sở hữu phải dùng `its`, không có dấu nháy; *its'* không tồn tại, còn `it's` là viết tắt của *it is*.
+- Trước danh từ dùng tính từ sở hữu `her`; `hers` là đại từ sở hữu, không đứng trước danh từ.
+
+### Contrast with
+
+- [[Possessive Pronouns]] — không có danh từ theo sau (`mine`, `yours`, ...)
+- [[Possessive Case With Apostrophe S]] — sự sở hữu được thể hiện ngay trên danh từ

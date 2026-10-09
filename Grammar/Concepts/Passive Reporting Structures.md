@@ -61,4 +61,44 @@ presume · assume · acknowledge · allege
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Các động từ chỉ sự nói năng và suy nghĩ có thể chuyển sang bị động với chủ ngữ là chính người hoặc vật được nói đến, theo sau là động từ nguyên mẫu mà dạng của nó cho biết thời điểm của hành động được thuật lại.
+
+### Form
+
+`People say that + S + V ...` → `S + be said + to-infinitive`
+
+Dạng của động từ nguyên mẫu tương ứng với thì của mệnh đề gốc:
+
+| Original clause | Infinitive used |
+|---|---|
+| hiện tại đơn | `to + V` |
+| hiện tại tiếp diễn | `to be + V-ing` |
+| hiện tại hoàn thành / quá khứ đơn | `to have + PII` |
+| hiện tại hoàn thành tiếp diễn | `to have been + V-ing` |
+
+### Reporting verbs used this way
+
+say · think · believe · report · expect · understand · know · suppose ·
+presume · assume · acknowledge · allege
+
+### Examples
+
+- Người ta nói rằng anh ấy làm việc cho một tổ chức quốc tế. → Anh ấy **được cho là làm việc** cho một tổ chức quốc tế.
+- Người ta nói rằng anh ấy đang du học ở nước ngoài. → Anh ấy **được cho là đang du học** ở nước ngoài.
+- Họ **bị cho là đang làm việc** cho kẻ thù.
+- Người ta nói rằng Phạm Xuân Ẩn từng là một điệp viên hoàn hảo. → Phạm Xuân Ẩn **được cho là từng là** một điệp viên hoàn hảo.
+- Người ta nghĩ rằng Columbus đã khám phá ra châu Mỹ trước những người khác. → Châu Mỹ **được cho là đã được** Columbus **khám phá ra** trước những người khác.
+- Người ta nói rằng anh ấy đã chơi bóng đá từ khi còn nhỏ. → Anh ấy **được cho là đã chơi** bóng đá.
+- Họ nghĩ rằng anh ấy đã làm việc cho một tổ chức quốc tế từ lâu. → Anh ấy **được cho là đã làm việc** ...
+
+### Notes & exceptions
+
+- Cấu trúc thay thế, không có chủ ngữ chỉ người, giữ `It` làm chủ ngữ: *It is said that he works for an international organization.* (người ta nói rằng anh ấy làm việc cho một tổ chức quốc tế).
+- Chủ ngữ của câu bị động là chủ ngữ của mệnh đề `that` ban đầu, chứ không phải tân ngữ của mệnh đề đó.
+
+### Contrast with
+
+- [[Seem And Appear Structures]] — cùng hệ thống các dạng nguyên mẫu nhưng đi với động từ chủ động
+- [[Reported Speech - Statements]] — tường thuật thẳng bằng một mệnh đề `that`

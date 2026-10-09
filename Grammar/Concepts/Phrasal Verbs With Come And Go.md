@@ -77,4 +77,63 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Hai động từ chỉ sự chuyển động tạo nên một nhóm lớn các thành ngữ nói về sự việc xảy ra, xuất hiện, thất bại và tiếp diễn.
+
+### Examples — come
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| come about | xảy ra | Vụ tai nạn đã **xảy ra** như thế nào? |
+| come across | tình cờ gặp hoặc tìm thấy | Tôi **tình cờ thấy** bức ảnh cũ này ở phía trong cùng của ngăn kéo. |
+| come along | nhanh lên; tiến bộ, tiến triển | **Nhanh lên** nào các con, không thì chúng ta sẽ muộn mất. |
+| come apart | rời ra từng mảnh | Cuốn sách cũ **rời ra từng mảnh** trong tay tôi. |
+| come by | kiếm được, có được; ghé qua | Việc làm tốt rất khó **kiếm**. |
+| come down | sụp đổ; giảm xuống | Cuối cùng giá cả cũng đã **giảm xuống**. |
+| come into | thừa kế | Tom **thừa kế** một gia tài khi bố anh ấy qua đời. |
+| come off | thành công; bong ra, rời ra | Cái tay cầm **rời ra** trong tay tôi. |
+| come out | trở nên rõ ràng; được xuất bản | Ý nghĩa của đoạn văn sẽ **lộ rõ** khi bạn đọc tiếp. |
+| come over | ghé thăm | Sao tối nào đó bạn không **ghé qua** nhà chúng tôi chơi? |
+| come round | ghé qua; tỉnh lại | Cô gái bị ngất, nhưng cô ấy đã **tỉnh lại** khi chúng tôi vẩy ít nước lên mặt. |
+| come to | lên tới (số tiền) | Hoá đơn **lên tới** năm mươi bảng. |
+| come up | nảy sinh, xảy ra bất ngờ | Tôi sẽ báo cho bạn biết nếu có chuyện gì **phát sinh**. |
+| come up against | đối mặt với, vấp phải | Chúng tôi đã **vấp phải** một số sự chậm trễ ngoài dự kiến. |
+| come up to | đạt đến tiêu chuẩn của | Vở kịch **đáp ứng được** sự mong đợi của chúng tôi. |
+| come up with | nghĩ ra, đề xuất | Tôi hy vọng bạn có thể **nghĩ ra** một kế hoạch tốt hơn thế này. |
+
+### Examples — go
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| go about | bắt tay vào, xử lý | Tôi muốn may một chiếc váy, nhưng tôi không biết **bắt tay vào** làm thế nào. |
+| go ahead | tiến hành | Bạn có thể **tiến hành** dự án. |
+| go away | rời đi | **Đi đi** và đừng quay lại nữa. |
+| go down with | mắc bệnh, bị ốm vì | Kỳ nghỉ của chúng tôi vẫn ổn cho đến khi Tom **bị** cảm nặng. |
+| go in for | tham gia, ham thích | Cô ấy **ham thích** kịch nghiệp dư. |
+| go off | (chuông báo) reo; (súng) nổ; (thức ăn) bị hỏng, ôi thiu | Đồng hồ báo thức của tôi đã không **reo**. / Đừng uống sữa đó, nó **hỏng** rồi. |
+| go on | tiếp tục | Chúng ta không thể **đi tiếp** được nữa, tuyết rơi đã chắn mất đường rồi. |
+| go out | (đèn, lửa) tắt | Hôm qua đèn **tắt** lúc tôi đang đọc sách. |
+| go out with | hẹn hò với ai | Cô ấy đã **hẹn hò với** anh ấy được hai năm. |
+| go over | xem xét, kiểm tra kỹ lưỡng | Chúng tôi đã **xem xét** ngôi nhà thật kỹ trước khi mua. |
+| go through | xem xét kỹ; trải qua | Cô ấy đã **trải qua** một giai đoạn khó khăn sau vụ tai nạn. |
+| go through with | thực hiện đến cùng bất chấp khó khăn | Anh ấy quyết định **theo** kế hoạch **đến cùng**. |
+| go up | tăng lên | Giá xăng lại **tăng** nữa rồi. |
+| go without | xoay xở mà không có, chịu nhịn | Nếu không có đường thì chúng ta đành **chịu nhịn** vậy. |
+| go back on one's word | thất hứa, nuốt lời | Anh ta đã **nuốt lời** và kể cho mọi người nghe. |
+
+### Notes & exceptions
+
+- `come round` có hai nghĩa rất khác nhau: ghé thăm, và tỉnh lại sau khi ngất.
+- `go off` dùng cho cả chuông báo, súng và thức ăn bị hỏng; chỉ có ngữ cảnh mới giúp phân biệt.
+- `come over` và `come round` có thể dùng thay cho nhau ở nghĩa ghé thăm.
+
+### Common mistakes
+
+- Hỏi một sự việc đã xảy ra như thế nào thì dùng `come about`; `come out` có nghĩa là trở nên rõ ràng hoặc được xuất bản.
+- Thức ăn bị hỏng thì dùng `go off`; `go out` dùng cho đèn, lửa bị tắt.
+
+### Contrast with
+
+- [[Phrasal Verbs With Get]] — có phần trùng nhau ở `get on with` / `come along with`
+- [[Phrasal Verbs With Break Fall And Run]] — các động từ khác chỉ sự thay đổi và thất bại

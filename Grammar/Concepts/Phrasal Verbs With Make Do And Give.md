@@ -69,4 +69,55 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Ba động từ thường ngày mà khi đi với tiểu từ sẽ tạo ra các nghĩa như bịa ra, xoay xở khi không có, và đầu hàng.
+
+### Examples — make
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| make for | đi nhanh về phía | Sau buổi hoà nhạc, đám đông **đổ về phía** cánh cửa gần nhất. |
+| make off with | ăn trộm rồi tẩu thoát cùng | Bọn trộm đã **cuỗm** số trang sức **rồi tẩu thoát**. |
+| make out | nhìn ra hoặc hiểu ra được | Tôi không **hiểu nổi** ý nghĩa của bài thơ này. |
+| make over | chuyển nhượng (tài sản, tài khoản) | Ông ấy đã **sang tên** ngôi nhà cho con gái. |
+| make up | bịa ra; trang điểm; làm lành | Anh ta **bịa ra** một câu chuyện để giải thích việc về nhà muộn như thế. |
+| make up for | bù đắp cho | Không gì có thể **bù đắp cho** những năm tháng anh ấy đã mất. |
+| make up to | nịnh bợ để được lợi | Cô ta lúc nào cũng **nịnh bợ** giám đốc. |
+
+### Examples — do
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| do away with | bãi bỏ, loại bỏ | Họ nên **bãi bỏ** quy định cũ này. |
+| do up | cài, thắt; sửa sang, trang trí lại | Cô ấy **cài** áo khoác rồi đi ra ngoài. |
+| do with | cần, muốn | Tôi đang **muốn có** một tách cà phê. |
+| do without | xoay xở khi không có | Nếu hết đường thì chúng ta đành phải **chịu không có** vậy. |
+
+### Examples — give
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| give away | cho không, tặng; tiết lộ (bí mật) | Ông ấy đã **tặng** hết sách của mình cho thư viện. |
+| give back | trả lại | Làm ơn **trả lại** tôi cái bút. |
+| give in | đầu hàng, nhượng bộ | Sau một hồi tranh cãi dài, cuối cùng anh ấy cũng **nhượng bộ**. |
+| give off | toả ra (mùi, nhiệt) | Những bông hoa **toả ra** một mùi hương ngọt ngào. |
+| give out | phân phát; cạn kiệt | Đồ dự trữ của chúng tôi **cạn kiệt** sau ba ngày. |
+| give up | từ bỏ, thôi không làm nữa | Bác sĩ bảo Jim **bỏ** đồ ngọt để giảm cân. |
+| give way to | nhường, nhường đường cho | Bạn phải **nhường đường cho** xe đi từ bên phải tới. |
+
+### Notes & exceptions
+
+- `make up` là một trong những cụm động từ nhiều nghĩa nhất trong tiếng Anh: bịa ra một câu chuyện, trang điểm, làm lành sau khi cãi nhau, và hợp thành một tổng thể.
+- `do with` (cần) và `do without` (xoay xở khi không có) tạo thành một cặp tự nhiên; `do with` theo nghĩa này thường dùng với `could`.
+- `give in` (đầu hàng) là nội động từ; `give in something` (nộp bài) là một động từ khác, tách được.
+
+### Common mistakes
+
+- Muốn nói "cần, muốn có" phải dùng đủ cụm `could do with`; không được bỏ `with`.
+- Chịu thua trước áp lực là `give in to`; `give up` nghĩa là từ bỏ, không đi với `to` theo nghĩa này.
+
+### Contrast with
+
+- [[Phrasal Verbs With Take And Put]] — `give up` và `take up` trái nghĩa nhau
+- [[Prepositional Phrases With In]] — `make use of`, `make room for`, `make fun of`

@@ -62,4 +62,47 @@ Past form: `was/were going to + V` = an intention that was not carried out.
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`am/is/are going to + V` — một kế hoạch đã được quyết định từ trước, hoặc một dự đoán dựa trên bằng chứng ở hiện tại.
+
+### Form
+
+`(+) S + am/is/are + going to + V(bare)`
+`(-) S + am/is/are + not + going to + V(bare)`
+`(?) Am/Is/Are + S + going to + V(bare) ?`
+
+Dạng quá khứ: `was/were going to + V` = một dự định đã không được thực hiện.
+
+### When to use
+
+- Một **dự định hoặc kế hoạch đã được quyết định trước thời điểm nói**.
+- Một **dự đoán dựa trên bằng chứng nhìn thấy được ở hiện tại**.
+- Dùng `was/were going to` cho những dự định trong quá khứ đã không thành hiện thực.
+
+### Examples
+
+- Chúng tôi **sẽ mua** một căn nhà vào năm tới. (đã quyết định từ trước)
+- Nhìn những đám mây kia kìa — trời **sắp mưa** rồi.
+- Cô ấy **sẽ không nhận** lời đề nghị đó.
+- Tôi **đã định gọi** cho bạn, nhưng lại ngủ quên mất.
+- Bạn **định làm** gì sau khi tốt nghiệp?
+
+### Notes & exceptions
+
+- Với `go` và `come`, người ta chuộng dùng thì [[Present Continuous]] hơn: *I'm going to the cinema* (tôi sẽ đi xem phim) thay vì *I'm going to go to the cinema*.
+- Trong văn nói thân mật, `going to` được nói rút gọn thành `gonna` — tuyệt đối không viết như vậy trong bài thi.
+- Các từ chỉ thời gian tương lai (`tomorrow`, `next week`, `soon`) dùng được với cả `be going to` lẫn [[Future Simple]]; điểm khác nhau nằm ở **thái độ của người nói**, chứ không phải ở từ chỉ thời gian.
+
+### Common mistakes
+
+- Quyết định vừa mới đưa ra ngay lúc nói (quyết định tức thời) thì dùng `will`, không dùng `be going to`.
+- Thiếu `to`: cấu trúc đúng là `be going to + V`.
+- Trong mệnh đề thời gian với `when` không dùng `will`; động từ chia ở thì hiện tại đơn.
+
+### Contrast with
+
+- [[Future Simple]] — quyết định tức thời, lời hứa, dự đoán dựa trên ý kiến chủ quan
+- [[Present Continuous]] — một sự sắp xếp chắc chắn, đã ấn định thời gian và địa điểm
+- [[Present Simple]] — thời gian biểu và lịch trình cố định
+- [[Future Continuous]] — hành động đang diễn ra tại một thời điểm trong tương lai

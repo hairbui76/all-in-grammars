@@ -66,4 +66,45 @@ Past subjunctive:
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`It's time` đi với động từ nguyên mẫu khi chỉ nêu sự việc một cách trung tính, nhưng đi với quá khứ giả định khi người nói cảm thấy việc đó lẽ ra phải làm rồi.
+
+### Form
+
+`high` và `about` thêm sắc thái phê phán: việc đó lẽ ra đã phải xảy ra rồi.
+
+### When to use
+
+- Cấu trúc với động từ nguyên mẫu: chỉ đơn giản nói rằng đã đến lúc
+- Cấu trúc với quá khứ giả định: phàn nàn rằng việc gì đó đã muộn hoặc chưa được làm
+
+### Examples
+
+Động từ nguyên mẫu:
+
+- **Đã đến lúc chúng ta về** nhà.
+- **Đã đến giờ ăn** sáng.
+- **Đã đến lúc họ bắt đầu** bài học.
+
+Quá khứ giả định:
+
+- **Đến lúc chúng ta phải về** nhà rồi.
+- Jack là người nói rất nhiều. Nhưng **đã đến lúc anh ấy phải làm** điều gì đó thay vì chỉ nói suông.
+- Bạn rất ích kỷ. **Đã đến lúc bạn phải nhận ra** rằng bạn không phải là người quan trọng nhất trên đời.
+- Đã 10 giờ rồi mà anh ấy vẫn còn nằm trên giường. **Đến lúc anh ấy phải dậy** rồi.
+- **Đến lúc chúng ta phải đi rồi.**
+- **Lẽ ra chúng ta phải đi từ lâu rồi.**
+
+### Notes & exceptions
+
+- Thì quá khứ ở đây nói về hiện tại; đó là thức giả định, không chỉ thời gian quá khứ.
+- Cấu trúc này không lùi thì trong câu tường thuật.
+- Hai cấu trúc hơi khác nhau: `it is time + infinitive` chỉ nói rằng đã đến đúng lúc, còn `it is time + subject + past subjunctive` hàm ý rằng đã hơi muộn rồi. `high` nhấn mạnh ý này.
+- Sau `It is time + I/he/she/it` không dùng `were`: ✅ *It's time I **was** going* (đến lúc tôi phải đi rồi).
+
+### Contrast with
+
+- [[Would Rather]] — cùng dùng quá khứ giả định, diễn tả sự ưa thích hơn
+- [[Wish and If Only]] — cùng dùng quá khứ giả định, diễn tả mong ước
+- [[Infinitives]] — cấu trúc thay thế không dùng thức giả định

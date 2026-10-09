@@ -68,4 +68,53 @@ They never introduce a clause with a subject and a verb — that is the job of a
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Các giới từ gồm hai hoặc ba từ dùng để nêu nguyên nhân, sự thay thế hoặc ngoại lệ, và luôn được theo sau bởi danh từ hoặc dạng `-ing`.
+
+### Form
+
+`complex preposition + noun / pronoun / V-ing`
+
+Chúng không bao giờ mở đầu một mệnh đề có chủ ngữ và động từ — đó là việc của liên từ như `because`.
+
+### Examples — cause and source
+
+| Phrase | Meaning | Example |
+|---|---|---|
+| according to | theo (lời ai, nguồn nào) | **Theo** lịch trình, tàu khởi hành lúc sáu giờ. |
+| due to | do, bởi vì | Sự chậm trễ là **do** thời tiết xấu. |
+| due for | đến kỳ, đến lượt được nhận điều gì | Năm nay cô ấy **đến kỳ được** thăng chức. |
+| owing to | do, bởi vì | **Do** cuộc đình công, không có thư từ nào được phát. |
+| on account of | vì, do | Trận đấu bị huỷ **vì** trời mưa. |
+| because of | vì, do kết quả của | Chúng tôi ở nhà **vì** cơn bão. |
+| thanks to | nhờ, nhờ có (kết quả tốt đẹp) | **Nhờ** lời khuyên của bạn, tôi đã thi đỗ. |
+
+### Examples — substitution, reference and exception
+
+| Phrase | Meaning | Example |
+|---|---|---|
+| instead of | thay vì, thay cho | Chúng ta hãy đi bộ **thay vì** đi taxi. |
+| in front of | ngay phía trước | Một người đàn ông cao lớn ngồi **phía trước** tôi. |
+| in terms of | xét về mặt, tính theo | **Xét về** doanh số, năm đó rất tuyệt vời. |
+| in charge of | phụ trách, chịu trách nhiệm về | Ai **phụ trách** phòng ban này? |
+| except for | ngoại trừ, không kể | Căn phòng trống trơn **ngoại trừ** một chiếc ghế. |
+| apart from | ngoại trừ; ngoài ra còn | **Ngoại trừ** đoạn kết, tôi thích bộ phim đó. |
+
+### Notes & exceptions
+
+- `because of` + danh từ, còn `because` + mệnh đề: *because of the rain* (vì cơn mưa) / *because it rained* (vì trời mưa) → xem [[Because and Because Of]].
+- Theo truyền thống, `due to` đứng sau động từ `be` (*The delay was due to fog* — sự chậm trễ là do sương mù); `owing to` thì mở đầu cả câu một cách tự do hơn.
+- Động từ đứng sau bất kỳ cụm nào trong số này đều chuyển thành danh động từ: *instead of **going***, *in charge of **running** the office* → xem [[Gerund After Prepositions]].
+- `in spite of` và `despite` cùng thuộc nhóm này nhưng diễn tả sự nhượng bộ chứ không phải nguyên nhân → xem [[Despite and In Spite Of]].
+
+### Common mistakes
+
+- `because of` phải đi với danh từ, không đi với một mệnh đề có chủ ngữ và động từ.
+- Động từ đứng sau `instead of` phải ở dạng `-ing`.
+
+### Contrast with
+
+- [[Despite and In Spite Of]] — sự nhượng bộ chứ không phải nguyên nhân
+- [[Clauses of Reason]] — các mệnh đề tương ứng (`because`, `since`, `as`)
+- [[Prepositional Phrases With In]] — các cụm với `in` đơn giản hơn

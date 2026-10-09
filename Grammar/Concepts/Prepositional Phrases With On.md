@@ -60,4 +60,41 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Một nhóm khép kín các cụm trạng ngữ cố định tạo bởi `on` + danh từ, mỗi cụm được học như một đơn vị.
+
+### Examples
+
+| Phrase | Meaning | Example |
+|---|---|---|
+| on second thoughts | sau khi nghĩ lại | **Nghĩ lại thì** tôi sẽ ở nhà. |
+| on the contrary | trái lại, ngược lại | Anh ấy không lười; **trái lại**, anh ấy làm việc rất chăm chỉ. |
+| on the average | tính trung bình | **Trung bình** cô ấy đọc hai cuốn sách mỗi tháng. |
+| on one's own | một mình, không ai giúp | Cô ấy **tự mình** xây dựng toàn bộ trang web. |
+| on foot | đi bộ | Chỉ có thể **đi bộ** mới đến được ngôi làng đó. |
+| on purpose | cố ý | Tôi chắc là nó **cố ý** làm vỡ. |
+| on time | đúng giờ, đúng thời điểm đã định | Tàu khởi hành **đúng giờ** không sai một phút. |
+| on the whole | nói chung, nhìn chung | **Nhìn chung**, chuyến đi đã thành công. |
+| on fire | đang cháy | Nhà máy cũ **bốc cháy** suốt đêm. |
+| on and off | thỉnh thoảng, không liên tục | Suốt cuối tuần trời **lúc mưa lúc tạnh**. |
+| on the spot | ngay lập tức, ngay tại chỗ | Anh ấy được nhận vào làm **ngay tại chỗ**. |
+| on sale | đang được bán giảm giá; đang được bày bán | Những chiếc áo khoác này **giảm giá** đến hết Chủ nhật. |
+| on duty | đang trong ca làm việc, đang trực | Tối nay y tá nào **trực**? |
+
+### Notes & exceptions
+
+- `on time` (đúng giờ) đối lập với `in time` (kịp lúc) → xem [[Prepositional Phrases With In]].
+- `on one's own` = `by oneself` = một mình → xem [[Prepositional Phrases With At and By]].
+- `on and off` = `from time to time` = `at times` — ba cách nói *occasionally* (thỉnh thoảng).
+- `on sale` (đang giảm giá, hoặc đang có bán trên thị trường) không giống với `for sale` (để bán, có thể mua được).
+
+### Common mistakes
+
+- "Cố ý" là `on purpose`, không dùng giới từ `by`.
+- "Nhìn chung" là `on the whole`, không dùng giới từ `in`.
+
+### Contrast with
+
+- [[Prepositional Phrases With In]] — `on time` so với `in time`
+- [[Prepositional Phrases With At and By]] — `on one's own` so với `by oneself`

@@ -74,4 +74,59 @@ Common prepositions involved: `besides, to, without, at, of, against, like, for,
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Bất kỳ động từ nào đứng sau giới từ đều phải ở dạng danh động từ (`-ing`), không bao giờ ở dạng nguyên mẫu.
+
+### Form
+
+`preposition + V-ing`
+
+Các giới từ thường gặp: `besides, to, without, at, of, against, like, for, in, on, by, with`.
+
+### Examples
+
+- Ngoài **đánh máy** ra bạn còn làm được gì nữa?
+- Cô ấy sợ **sống** một mình ở thành phố lớn.
+- Hãy chạm tay vào ngón chân mà không **gập** đầu gối!
+- Tôi không ham **cờ bạc**. Tôi quá sợ **thua**.
+- Tôi phản đối việc **nói** ra bất cứ điều gì / Tôi tán thành việc không **nói** gì cả.
+- Tôi chán **tranh cãi** rồi.
+- Đây là dụng cụ để **mở** đồ hộp.
+- Sau khi **bơi** tôi thấy lạnh.
+- Hay là cứ **để** nó ở đây rồi lát nữa quay lại **lấy**?
+- Tôi xin lỗi vì đã **để** bạn phải chờ.
+- Chúng tôi gặp khó khăn trong việc **tìm** chỗ đỗ xe.
+- Dù **xuất phát** muộn, anh ấy vẫn đến kịp giờ.
+- **Chờ đợi** cũng chẳng để làm gì.
+- Họ cãi nhau chỉ để mà **cãi**.
+- Tôi không phản đối việc **nghe** lại câu chuyện của bạn.
+- Anh ấy giỏi **lặn**. Cô ấy thích **leo núi**.
+- Anh ta bị phạt vì **say rượu** khi điều khiển ô tô.
+- Tôi chán ngấy việc **chờ đợi** rồi. (khẩu ngữ)
+- Bạn có muốn **đi** chơi không?
+- Cô ấy không tán thành việc **chạy bộ**.
+- Anh ấy đang nghĩ đến chuyện **di cư** ra nước ngoài.
+- Họ trốn thoát bằng cách **tụt** xuống theo một sợi dây thừng.
+- Bạn nên thấy xấu hổ vì đã **cư xử** tệ như vậy.
+- Bạn không hứng thú với việc **kiếm** tiền sao?
+
+### Notes & exceptions
+
+- Nhiều cụm động từ kết thúc bằng một giới từ nên đi với danh động từ: `be for/against`, `care for` (= thích, chăm sóc), `give up`, `keep on` (= tiếp tục), `leave off` (= ngừng), `look forward to`, `put off` (= trì hoãn), `see about` (= lo liệu), `take to`, `go on` (= tiếp tục).
+  - Tôi không thích **đứng** xếp hàng.
+  - Tôi đang mong được **gặp** cô ấy.
+  - Anh ta sinh ra thói **gọi điện** cho chúng tôi vào lúc nửa đêm.
+  - Cuối cùng lũ chó cũng ngừng **sủa**.
+  - Anh ấy hoãn việc **đưa ra** quyết định cho đến khi có thêm thông tin.
+- Lỗi phổ biến nhất là với `to`, vì nó có thể là giới từ hoặc là một phần của động từ nguyên mẫu → xem [[To As Preposition]].
+
+### Common mistakes
+
+- `to` trong `look forward to` là giới từ nên động từ theo sau phải ở dạng `-ing`.
+- Sau giới từ `at` phải dùng danh động từ (`V-ing`), không dùng `to V`.
+
+### Contrast with
+
+- [[To As Preposition]] — khi `to` đòi hỏi dạng `-ing` chứ không phải động từ nguyên mẫu
+- [[Infinitives]] — dạng dùng sau phần lớn các động từ chỉ ý định và kế hoạch

@@ -54,4 +54,32 @@ With `be`, use `were` for all persons after `Would you mind if ...`, not `was`.
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Lời nhờ vả và câu hỏi xin phép lịch sự với `mind`; `would you mind` là dạng dè dặt hơn và sau `if` dùng thức giả định quá khứ.
+
+### Form
+
+Với động từ `be`, sau `Would you mind if ...` dùng `were` cho mọi ngôi, không dùng `was`.
+
+### When to use
+
+- `Do you mind ...?` dùng cho những lời nhờ vả lịch sự thông thường
+- `Would you mind ...?` dùng khi bạn muốn tỏ ra thận trọng hơn hoặc trang trọng hơn
+- `+ V-ing` khi người kia là người thực hiện; `+ if` khi bạn xin phép để tự mình làm việc đó
+
+### Examples
+
+- A: Anh **có phiền ngồi** ở ghế trước của xe taxi **không**? B: Không vấn đề gì.
+- A: Bạn **có phiền nếu tôi chụp** một tấm ảnh **không**? B: Không sao cả.
+- A: Bạn **có phiền nếu tôi ngồi** xuống **không**? B: Xin mời.
+
+### Notes & exceptions
+
+- Vì `mind` có nghĩa là "phản đối, thấy phiền", nên sự đồng ý được diễn đạt bằng câu trả lời **phủ định**: `No, not at all`, `Of course not`, `No problem`.
+- Thì quá khứ sau `Would you mind if ...` là thức giả định: nó nói về hiện tại, không phải về thời gian quá khứ.
+
+### Contrast with
+
+- [[Second Conditional]] — cũng dùng thì quá khứ để nói về điều không có thật ở hiện tại
+- [[Reported Speech - Commands]] — cách tường thuật những lời nhờ vả như vậy (`ask sb to do smth`)

@@ -69,4 +69,49 @@ Examples: `boiled, wanted, broken, spoken, written`.
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Dạng thứ ba của động từ (`V-ed` hoặc dạng bất quy tắc), dùng với nghĩa bị động hoặc nghĩa đã hoàn thành.
+
+### Form
+
+Ví dụ: `boiled, wanted, broken, spoken, written`.
+
+### Main uses
+
+1. **Trong ba thì hoàn thành** (hiện tại hoàn thành, quá khứ hoàn thành, tương lai hoàn thành và các biến thể của chúng)
+2. **Đứng trước danh từ, làm tính từ** mang nghĩa bị động: `V-ed/Irregular Verb + N`
+3. **Trong câu bị động**
+4. **Làm mệnh đề rút gọn**, thay cho chủ ngữ + động từ bị động, giống hệt như hiện tại phân từ thay cho chủ ngữ + động từ chủ động
+
+### Examples
+
+### Các thì hoàn thành
+
+- Anh ấy cảm ơn tôi vì những gì tôi **đã làm** cho anh ấy.
+- Tôi xin lỗi vì những gì tôi **đã làm**.
+- Tính đến cuối năm nay, họ **sẽ làm việc** ở đây được tròn 5 năm.
+
+### Làm tính từ
+
+- nước **đun sôi**, một cái chân **bị gãy**, cơm **rang**, gà **luộc**, sườn cừu **nướng**, xôi **hấp**
+
+### Trong câu bị động
+
+- Tôi thích người ta khen chồng tôi. → Tôi thích chồng tôi **được khen**.
+- Người ta nói rằng ông ấy đã bị xử tử công khai. → Ông ấy **được cho là đã bị xử tử** công khai. / **Người ta nói** rằng ông ấy đã bị xử tử công khai.
+- Họ không tìm thấy hộ chiếu của anh ấy ở đâu cả. → Hộ chiếu của anh ấy **không thể tìm thấy** ở đâu cả.
+- Tôi muốn anh ấy sơn cái cổng màu xanh lá cây. → Tôi muốn cái cổng **được** anh ấy **sơn**.
+- Chúng ta nên làm gì để giúp người nghèo? → Việc gì **nên được** chúng ta **làm** để giúp người nghèo?
+
+### Làm mệnh đề rút gọn
+
+- Người đàn ông **mà đã bị** cảnh sát **bắt** là một tên tội phạm nguy hiểm. → Người đàn ông **bị** cảnh sát **bắt** là một tên tội phạm nguy hiểm.
+- Vì cây cầu **đã bị** những cơn bão liên tiếp **làm suy yếu** nên nó không còn an toàn nữa. → **Bị những cơn bão liên tiếp làm suy yếu**, cây cầu không còn an toàn nữa.
+- **Khi được dùng** ở nước ngoài, thẻ tín dụng rất tiện lợi.
+
+### Contrast with
+
+- [[Present Participle]] — nghĩa chủ động (`boiling water` so với `boiled water`)
+- [[Participles as Adjectives]] — sự đối lập chủ động/bị động được trình bày chi tiết
+- [[Perfect Participle]] — `Having + V3`

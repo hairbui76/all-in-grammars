@@ -44,4 +44,30 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Với các đuôi này, ta đếm ngược ba âm tiết từ cuối từ lên, và âm tiết đó mang trọng âm.
+
+### Rule
+
+`STRESSED + σ + σ` tính từ cuối từ (âm tiết thứ ba từ phải sang)
+
+### The list
+
+| Suffix | Examples with transcription |
+|---|---|
+| **-y** | biology /baɪˈɒlədʒi/, accompany /əˈkʌmpəni/ |
+| **-ce** | independence /ˌɪndɪˈpendəns/, difference /ˈdɪfrəns/ |
+| **-ate** | graduate /ˈɡrædʒueɪt/, concentrate /ˈkɒnsəntreɪt/ |
+| **-ise / -ize** | apologise /əˈpɒlədʒaɪz/ |
+| **-ism / -izm** | tourism /ˈtʊərɪzm/, criticism /ˈkrɪtɪsɪzm/ |
+
+### Notes & exceptions
+
+- Các từ tận cùng bằng **-ary** thì đếm ngược **bốn** âm tiết: dictionary /ˈdɪkʃənəri/, vocabulary /vəˈkæbjʊləri/, secretary /ˈsekrətəri/ — nhưng documentary /ˌdɒkjʊˈmentəri/ là trường hợp bất quy tắc.
+- `obligatory` /əˈblɪɡətəri/ không theo quy tắc `-y` và nhấn trọng âm ở âm tiết thứ hai.
+
+### Contrast with
+
+- [[Suffixes That Shift Stress to the Previous Syllable]] — trọng âm nằm ngay sát đuôi
+- [[Suffixes That Take Stress]] — chính đuôi đó mang trọng âm

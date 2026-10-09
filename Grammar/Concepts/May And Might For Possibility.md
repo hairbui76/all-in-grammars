@@ -59,4 +59,44 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`May` và `might` cho biết điều gì đó có thể đúng; mỗi câu đều có thể viết lại bằng `Perhaps + clause` (`Perhaps` + mệnh đề).
+
+### Form
+
+| Time reference | Structure | Equivalent |
+|---|---|---|
+| hiện tại, đang diễn ra | `S + may / might be + V-ing` | `Perhaps` + mệnh đề ở thì hiện tại tiếp diễn |
+| quá khứ, đã hoàn thành | `S + may / might have + PII` | `Perhaps` + mệnh đề ở thì quá khứ đơn |
+| quá khứ, đang diễn ra | `S + may / might have been + V-ing` | `Perhaps` + mệnh đề ở thì quá khứ tiếp diễn |
+
+### Examples — present
+
+- Anh ấy đang làm gì thế? — Tôi không biết chắc nhưng anh ấy **có thể đang chơi** thể thao ở câu lạc bộ. / Có lẽ anh ấy đang chơi ...
+- Họ **có thể đang trốn** trong rừng. = Có lẽ họ đang trốn trong rừng.
+- Họ **có thể đang mong** nhận được tin của bạn.
+- Họ **có thể đang đợi** ai đó.
+
+### Examples — past
+
+- Một con thủy quái **có thể đã tấn công** con tàu.
+- Chiều nay Lan đi học muộn. Cô ấy **có thể đã ngủ quên**. / Xe đạp của cô ấy **có thể đã bị hỏng** giữa đường.
+- Anh ta **có thể đã lấy trộm** số tiền đó. = Có lẽ anh ta đã lấy trộm số tiền đó.
+- Cô ấy **có thể đã hiểu lầm** bạn.
+- Họ **có thể đã thay đổi** kế hoạch. = Có lẽ họ đã thay đổi kế hoạch.
+
+### Examples — past continuous
+
+- Giờ này hôm qua họ **có thể đang chơi** thể thao. = Có lẽ lúc đó họ đang chơi thể thao.
+- Lúc đó cô ấy đang làm gì? — Tôi không chắc. Nhưng cô ấy **có thể đang nấu** bữa tối.
+
+### Notes & exceptions
+
+- `could have + PII` đồng nghĩa với `may / might have + PII` ở nghĩa này: *They **might / could have taken** this road.* = Perhaps they took this road. (Họ có thể đã đi con đường này. = Có lẽ họ đã đi con đường này.)
+- `could have + PII` còn có một nghĩa thứ hai, khác hẳn (một cơ hội trong quá khứ đã không được tận dụng) → xem [[Could Have Done]].
+
+### Contrast with
+
+- [[Must For Deduction]] — người nói chắc chắn điều đó đúng
+- [[Cannot For Negative Deduction]] — người nói chắc chắn điều đó không đúng

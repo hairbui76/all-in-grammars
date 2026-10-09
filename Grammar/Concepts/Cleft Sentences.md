@@ -65,4 +65,47 @@ Further examples:
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Câu được tách làm hai phần để một thành phần được nhấn mạnh, đặt giữa `It is / was` và `that`.
+
+### Form
+
+Mọi thành phần trừ động từ đều có thể đặt vào vị trí nhấn mạnh: chủ ngữ, tân ngữ, thời gian, nơi chốn, cách thức.
+
+### Examples
+
+Câu gốc: *Shakespeare wrote Hamlet.* (Shakespeare đã viết vở Hamlet.)
+
+- **Chính Shakespeare là người đã viết** vở Hamlet.
+
+Câu gốc: *England won the world cup in 1966.* (Đội Anh vô địch World Cup năm 1966.)
+
+- **Chính đội Anh** đã vô địch World Cup năm 1966. (nhấn mạnh chủ ngữ)
+- **Chính vào năm 1966** đội Anh đã vô địch World Cup. (nhấn mạnh thời gian)
+- **Chính World Cup là giải mà** đội Anh đã vô địch năm 1966. (nhấn mạnh tân ngữ)
+
+Các ví dụ khác:
+
+- **Chính** sự linh hoạt về chức năng của từng từ, sự đồng hoá các từ vay mượn và việc tự nhiên tạo ra từ mới **đã khiến** tiếng Anh trở thành một phương tiện giao tiếp quốc tế hiệu quả.
+- **Chính** từ mới tiếng Anh **gây** cho tôi rất nhiều khó khăn.
+- **Chính** việc anh ấy trở về **đã làm** cô ấy hạnh phúc.
+- **Chính** kết quả thi kém của cậu ấy **đã làm** bố mẹ cậu buồn.
+
+### Notes & exceptions
+
+- Có thể dùng `who` thay cho `that` khi thành phần được nhấn mạnh chỉ người.
+- Thì của `be` theo thì của câu gốc: hiện tại → `It is`, quá khứ → `It was`.
+- `It is/was` luôn ở số ít dù thành phần được nhấn mạnh ở số nhiều, nhưng động từ trong mệnh đề `that` thì hoà hợp với thành phần đó: `It is new English words that **cause** ...`
+- `It was not until ... that ...` là một câu chẻ rất thông dụng, dùng để tránh đảo ngữ — xem [[Inversion with Not Until]].
+
+### Common mistakes
+
+- Sau thành phần được nhấn mạnh chỉ dùng `that`, không dùng `when` rồi lại thêm `that`.
+- Câu chẻ bắt buộc phải có `that` nối phần được nhấn mạnh với phần còn lại của câu.
+
+### Contrast with
+
+- [[Emphatic Structures]] — nhấn mạnh bằng `do / does / did`
+- [[Inversion with Not Until]] — cách diễn đạt tương đương dùng đảo ngữ
+- [[Inversion with Only]] — `It was only when ... that ...` so với `Only when ... did ...`

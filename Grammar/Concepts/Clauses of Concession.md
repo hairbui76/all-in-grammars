@@ -55,4 +55,34 @@ Main clause + although / though / even though + S + V
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Mệnh đề nhượng bộ mở đầu bằng `although`, `though` hoặc `even though` nêu một sự việc lẽ ra sẽ ngăn cản điều ở mệnh đề chính, nhưng thực tế lại không.
+
+### Examples
+
+- **Mặc dù** thời tiết xấu, họ vẫn đi cắm trại. (= Thời tiết xấu **nhưng** họ vẫn đi cắm trại.)
+- **Dù** nghèo, họ vẫn sống hoà thuận. (= Họ nghèo **nhưng** họ sống hoà thuận.)
+- Anh ấy không trả lời được các câu hỏi của tôi **mặc dù** anh ấy thông minh.
+- **Mặc dù** lương thấp, tôi vẫn yêu nghề dạy học của mình.
+
+### Notes & exceptions
+
+- `even though` mạnh và nhấn mạnh hơn `although`; `though` là thân mật nhất.
+- Trong văn nói, `though` thường được đặt ở cuối câu như một trạng từ mang nghĩa "however" (tuy nhiên):
+  - Ngôi nhà không đẹp lắm. **Tuy vậy** tôi thích khu vườn.
+  - Ngày nào tôi cũng gặp anh ấy. **Vậy mà** tôi chưa từng nói chuyện với anh ấy.
+- Các liên từ này mở đầu một mệnh đề (S + V). Trước danh từ hoặc danh động từ, hãy dùng `despite` / `in spite of` → xem [[Despite and In Spite Of]].
+
+### Common mistakes
+
+- Đã dùng `although` thì không dùng thêm `but` trong cùng một câu.
+- `although` phải đi với mệnh đề; trước cụm danh từ dùng `despite`.
+
+### Contrast with
+
+- [[Despite and In Spite Of]] — giới từ, theo sau là danh từ hoặc danh động từ
+- [[Concessive Inversion With As and Though]] — `Rich as he is, ...`
+- [[However and No Matter]] — nhượng bộ với từ để hỏi `wh-`
+- [[Even If and Whether Or Not]] — nhượng bộ về một trường hợp giả định hoặc còn bỏ ngỏ
+- [[Clauses of Reason]] — quan hệ ngược lại, chỉ nguyên nhân thay vì tương phản

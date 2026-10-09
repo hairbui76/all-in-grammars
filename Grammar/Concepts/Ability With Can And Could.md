@@ -49,4 +49,35 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`Can` và `could` diễn tả khả năng, nhưng với một lần làm được việc gì đó cụ thể trong quá khứ, tiếng Anh dùng `was/were able to`, `managed to` hoặc `succeeded in doing` thay cho `could`.
+
+### Form
+
+`S + can / could + V(bare)` — khả năng nói chung
+`S + was / were able to + V` · `S + managed to + V` · `S + succeeded in + V-ing` — một lần thành công cụ thể trong quá khứ
+`S + couldn't + V(bare)` — phủ định, dùng trong mọi tình huống
+
+### Examples — general ability
+
+- Tôi **nói được** tiếng Anh.
+- Lúc sáu tháng tuổi bạn **làm được** gì?
+- Tôi **có thể nằm** sấp.
+- Tôi **biết đi** xe đạp khi lên 8.
+
+### Examples — one specific past occasion
+
+- Ngọn lửa lan nhanh nhưng mọi người **đã thoát được** ra khỏi tòa nhà.
+  (không dùng *could escape*)
+
+### Notes & exceptions
+
+- `could` diễn tả khả năng nói chung trong một giai đoạn ở quá khứ. Trong một tình huống cụ thể, phải thay nó bằng `was / were able to`, `managed to` hoặc `succeeded in doing`.
+- Ở dạng **phủ định**, `couldn't` có thể dùng trong mọi tình huống, dù chung hay cụ thể.
+- `be able to` còn cung cấp những dạng mà `can` không có: *I have **been able to** swim since I was 5.* (Tôi biết bơi từ năm 5 tuổi.) / *Will you **be able to** come tomorrow?* (Ngày mai bạn có đến được không?)
+
+### Contrast with
+
+- [[Could Have Done]] — một khả năng trong quá khứ nhưng đã không được dùng đến
+- [[Expressions Followed By Infinitive]] — `be able to` với tư cách một cụm cố định

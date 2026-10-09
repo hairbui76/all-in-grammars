@@ -115,4 +115,100 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Nhiều động từ đi kèm một giới từ cố định trước tân ngữ; đổi giới từ thì nghĩa sẽ thay đổi hoặc mất hẳn.
+
+### Form
+
+`V + preposition + noun / pronoun / V-ing`
+`V + object + preposition + noun / pronoun / V-ing`
+
+### Verb + preposition
+
+| Combination | Meaning |
+|---|---|
+| succeed **in** doing smth | thành công trong việc làm gì |
+| believe **in** | tin vào giá trị của |
+| belong **to** | thuộc về, là của |
+| care **for** | thích; chăm sóc |
+| depend / rely **on** sb **for** smth | trông cậy, dựa vào ai về việc gì |
+| suffer **from** = put up **with** | chịu đựng |
+| crash **into** | đâm vào, va vào |
+| laugh **at** sb | cười nhạo, chế giễu ai |
+| shout **at** sb | quát, la mắng ai (vì tức giận) |
+| shout **to** sb | gọi to cho ai nghe thấy |
+| wait **for** sb | chờ, đợi ai |
+| wait up **for** sb | thức chờ ai về |
+| pay **for** smth | trả tiền cho cái gì |
+| think **of** smth | nghĩ ra điều gì |
+| think **about** smth | cân nhắc, suy nghĩ về điều gì |
+| dream **of** smth | mơ ước, khao khát điều gì |
+| dream **about** sb | nằm mơ thấy ai |
+| hear **from** sb | nhận được tin của ai |
+| hear **of** sb | biết đến, nghe nói có ai đó |
+| hear **about** smth | được nghe kể về việc gì |
+| happen **to** sb | xảy ra với ai |
+| die **of** smth | chết vì cái gì |
+| die **out** | tuyệt chủng |
+| die **down** | lắng xuống, dịu dần |
+| write **to** sb | viết thư cho ai |
+| look **at** smth | nhìn vào cái gì |
+| look **after** sb | chăm sóc ai |
+| look **for** = search **for** = seek | tìm kiếm |
+| look **into** | điều tra, xem xét |
+| complain **to** sb **about** smth | phàn nàn, khiếu nại với ai về việc gì |
+| apologise **to** sb **for** smth | xin lỗi ai về việc gì |
+| go **off** | (chuông) reo; (bom) nổ |
+
+### Verb + object + preposition
+
+| Combination | Meaning |
+|---|---|
+| accuse sb **of** smth | buộc tội ai đã làm điều sai trái |
+| blame sb **for** smth | đổ lỗi cho ai, quy trách nhiệm cho ai về việc gì |
+| ask sb **for** smth | xin, yêu cầu ai cái gì |
+| ask **after** sb | hỏi thăm sức khoẻ của ai |
+| congratulate sb **on** smth | chúc mừng ai về việc gì |
+| explain smth **to** sb | giải thích điều gì cho ai hiểu |
+| divide smth **into** | chia cái gì thành nhiều phần |
+| invite sb **to** somewhere | mời ai đến đâu |
+| impress sb / make an impression **on** sb | gây ấn tượng mạnh với ai |
+| leave sb **behind** | bỏ lại ai, không đưa ai đi cùng |
+| leave **out** = omit | bỏ sót, không đưa vào |
+| leave **off** | ngừng lại, thôi |
+| leave home **for** work | rời nhà đi làm |
+
+### Fixed verb + noun + preposition phrases
+
+| Phrase | Meaning |
+|---|---|
+| take care **of** | chăm sóc, trông nom |
+| take notice **of** | chú ý, để ý đến |
+| take advantage **of** smth | lợi dụng, tận dụng cái gì |
+| take account **of** smth = take smth **into** account | tính đến, cân nhắc điều gì |
+| make use **of** = use | sử dụng, tận dụng |
+| make fun **of** sb | chế nhạo, trêu chọc ai |
+| make room **for** | dành chỗ, tạo chỗ trống cho |
+| make way **for** | nhường đường cho |
+| make a fuss **over** smth | làm rối lên, cuống lên vì chuyện gì |
+| keep pace **with** | theo kịp, bắt kịp |
+| keep in touch **with** sb | giữ liên lạc với ai |
+| lose touch **with** sb | mất liên lạc với ai |
+| lose control **of** | mất kiểm soát |
+| give way **to** | nhường, nhượng bộ |
+| have a look **at** smth | xem, nhìn qua cái gì |
+
+### Notes & exceptions
+
+- Một số cặp chỉ khác nhau ở giới từ, còn tân ngữ thì giống nhau: `shout at` (quát vì tức giận) khác với `shout to` (gọi to); `think of` (nghĩ ra) khác với `think about` (cân nhắc).
+- Một tổ hợp động từ + giới từ vẫn giữ nghĩa đen thì không giống với cụm động từ mang nghĩa thành ngữ → xem [[Phrasal Verbs]].
+- Động từ đứng sau các giới từ này phải ở dạng `-ing` → xem [[Gerund After Prepositions]].
+
+### Full lists by preposition
+
+- [[Verb Plus To]]
+- [[Verb Plus For]]
+- [[Verb Plus Of]]
+- [[Verb Plus On And In]]
+- [[Verb Plus With And From]]

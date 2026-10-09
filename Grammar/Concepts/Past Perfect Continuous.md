@@ -63,4 +63,48 @@ For `-ing` spelling see [[Spelling Rules for -ing Forms]].
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Một hành động đã diễn ra liên tục trong một khoảng thời gian cho đến một thời điểm trong quá khứ.
+
+### Form
+
+`(+) S + had been + V-ing`
+`(-) S + had not (hadn't) been + V-ing`
+`(?) Had + S + been + V-ing ?`
+
+Về cách viết dạng `-ing`, xem [[Spelling Rules for -ing Forms]].
+
+### When to use
+
+- Để nhấn mạnh hành động đã kéo dài **bao lâu** trước một mốc quá khứ: đi với `for`, `since`, `all day`, `all morning`.
+- Để giải thích **nguyên nhân** của một tình huống hay kết quả trong quá khứ.
+- Cho một hoạt động kéo dài, lặp đi lặp lại hoặc liên tục, đã dừng lại ngay trước mốc quá khứ đó.
+- Là dạng lùi thì của [[Present Perfect Continuous]] và [[Past Continuous]] trong [[Reported Speech]].
+
+### Examples
+
+- Cô ấy **đã đợi** suốt hai tiếng thì xe buýt cuối cùng mới đến.
+- Mặt đất ướt vì trời **đã mưa** suốt đêm.
+- Anh ấy mệt; anh ấy **đã làm việc** từ lúc rạng sáng.
+- Họ **đã sống** ở Đà Nẵng mười năm trước khi chuyển đi.
+- Anh ấy bảo tôi rằng anh ấy **đã học** tiếng Đức được một năm.
+
+### Notes & exceptions
+
+- Không dùng với [[Stative Verbs]] (`know`, `belong`, `own`, `understand`) → thay vào đó dùng [[Past Perfect]].
+  - `know` là động từ chỉ trạng thái nên không chia ở dạng tiếp diễn; phải dùng `had known`.
+- Với `live`, `work`, `study`, `teach`, hai dạng hoàn thành gần như có thể dùng thay cho nhau.
+- Các dạng bị động (`had been being done`) có tồn tại về mặt ngữ pháp nhưng trên thực tế người ta tránh dùng.
+
+### Common mistakes
+
+- Một việc đã làm xong thì dùng quá khứ hoàn thành `had + V3`; không đặt quá khứ phân từ sau `had been` trong câu chủ động.
+- Với một khoảng thời gian (`two hours`) phải dùng `for`, không dùng `since`.
+
+### Contrast with
+
+- [[Past Perfect]] — nhấn mạnh **sự hoàn thành / kết quả** trước mốc quá khứ
+- [[Past Continuous]] — đang diễn ra **tại** một thời điểm trong quá khứ, không có mốc tham chiếu nào trước đó
+- [[Present Perfect Continuous]] — khoảng thời gian kéo dài cho đến **hiện tại**
+- [[Future Perfect Continuous]] — khoảng thời gian kéo dài tính đến một thời điểm trong **tương lai**

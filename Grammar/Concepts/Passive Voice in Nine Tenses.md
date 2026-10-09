@@ -57,4 +57,40 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Câu bị động luôn là `be + quá khứ phân từ`; chỉ có dạng của `be` thay đổi theo từng thì.
+
+### Form
+
+| Tense | Active | Passive |
+|---|---|---|
+| Hiện tại đơn | `S + V(s/es) + O` | `S + am/is/are + P2 + by + Agent` |
+| Hiện tại tiếp diễn | `S + am/is/are + V-ing + O` | `S + am/is/are + being + P2 + by + Agent` |
+| Hiện tại hoàn thành | `S + have/has + P2 + O` | `S + have/has + been + P2 + by + Agent` |
+| Quá khứ đơn | `S + V2 + O` | `S + was/were + P2 + by + Agent` |
+| Quá khứ tiếp diễn | `S + was/were + V-ing + O` | `S + was/were + being + P2 + by + Agent` |
+| Quá khứ hoàn thành | `S + had + P2 + O` | `S + had + been + P2 + by + Agent` |
+| Tương lai gần | `S + am/is/are + going to + V + O` | `S + am/is/are + going to be + P2 + by + Agent` |
+| Tương lai đơn | `S + will/shall + V + O` | `S + will/shall + be + P2 + by + Agent` |
+| Tương lai hoàn thành | `S + will/shall have + P2 + O` | `S + will/shall have been + P2 + by + Agent` |
+
+### Examples
+
+- Họ quét đường mỗi đêm. → Đường phố **được** (họ) **quét** mỗi đêm.
+- Chúng tôi không tưới hoa vào buổi sáng. → Hoa **không được tưới** vào buổi sáng.
+- Họ đang xây một cây cầu bắc qua sông. → Một cây cầu **đang được** họ **xây** bắc qua sông.
+- Hôm nay anh ấy không trang trí căn phòng. → Căn phòng **hiện không được trang trí**.
+- Tên khủng bố đã giữ ba con tin suốt một tuần nay. → Ba con tin **đã bị** tên khủng bố **giữ** suốt một tuần nay.
+- Bọn trộm đã đột nhập vào ngôi nhà. → Ngôi nhà **đã bị** bọn trộm **đột nhập**.
+- Họ đang làm một thí nghiệm vật lý khi tôi ở đó. → Một thí nghiệm vật lý **đang được** họ **làm** khi tôi ở đó.
+- Không ai nói với tôi rằng họ đã cho John xuất viện. → Tôi **không được báo** rằng John **đã được cho xuất viện**.
+- Chúng tôi sẽ cử cậu ấy làm lớp trưởng của lớp mình. → Cậu ấy **sẽ được** chúng tôi **cử làm** lớp trưởng của lớp mình.
+- Họ sẽ lại thay đổi ngày họp. → Ngày họp **sẽ lại bị** họ **thay đổi**.
+- Đến lúc bạn quay lại, họ sẽ hoàn thành xong dự án. → Đến lúc bạn quay lại, dự án **sẽ được hoàn thành xong**.
+
+### Notes & exceptions
+
+- Câu hỏi cũng theo đúng quy tắc này: `What do they call the new hotel?` → `What **is** the hotel **called**?`
+- Cụm động từ (phrasal verb) giữ nguyên tiểu từ của nó ở thể bị động: `break into` → `was broken into`.
+- Các thì hiện tại hoàn thành tiếp diễn, quá khứ hoàn thành tiếp diễn và tương lai tiếp diễn thường không được dùng ở thể bị động.

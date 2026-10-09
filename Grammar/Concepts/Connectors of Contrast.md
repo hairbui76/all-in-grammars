@@ -59,4 +59,45 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Các từ nối thuộc nhóm `however` liên kết hai câu có ý đối lập nhau.
+
+### The group
+
+| Connector | Typical use |
+|---|---|
+| `however` | trung tính, chỉ sự tương phản nói chung |
+| `nevertheless` | tương phản bất chấp sự việc vừa nêu |
+| `yet` | tương phản gây ngạc nhiên |
+| `still` | nhượng bộ — "dù vậy" |
+| `on the contrary` | phủ nhận câu nói trước và nêu điều ngược lại |
+| `on the other hand` | cân nhắc hai mặt khác nhau của cùng một vấn đề |
+| `in contrast` / `by contrast` | đặt hai sự vật cạnh nhau để đối chiếu |
+| `in spite of this` | tương phản với toàn bộ ý đứng trước |
+
+### Examples
+
+- Tom thường hay thô lỗ; **vậy mà** tôi vẫn rất quý cậu ấy.
+- Tôi phát hiện ra mình không mang theo tiền mặt. **Tuy nhiên**, tôi có thẻ tín dụng.
+- Anh ấy đã đối xử tệ với bạn. **Dù vậy**, anh ấy vẫn là anh trai bạn và bạn nên giúp anh ấy.
+- Tôi thấy nó chẳng xấu chút nào; **trái lại**, tôi nghĩ nó khá đẹp.
+- Căn hộ đó không đẹp lắm. **Mặt khác**, nó lại rẻ.
+- Cô ấy thi trượt, nhưng em gái cô ấy thì **ngược lại**, làm bài rất tốt.
+- Mary rất vui. **Tuy nhiên**, Alice lại rất buồn.
+
+### Notes & exceptions
+
+- `on the contrary` đính chính hoặc bác bỏ điều vừa được nói; `on the other hand` không bác bỏ gì cả, chỉ nêu mặt còn lại. Hai cụm này không thể dùng thay cho nhau.
+- `in spite of this` là dạng từ nối câu; `in spite of` + cụm danh từ là giới từ → xem [[Despite and In Spite Of]].
+- Cách chấm câu theo quy tắc chung → xem [[Sentence Connector Punctuation]].
+
+### Common mistakes
+
+- `However` là từ nối câu, không phải liên từ, nên không thể mở đầu một mệnh đề phụ; hãy dùng `although`, hoặc tách thành hai câu rồi đặt `However` ở đầu câu thứ hai.
+
+### Contrast with
+
+- [[Clauses of Concession]] — `although`, `though`, `even though` nằm trong MỘT câu
+- [[Conjunctions vs Sentence Connectors]]
+- [[Connectors of Addition]]

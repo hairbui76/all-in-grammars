@@ -55,4 +55,35 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Trạng từ được phân loại theo câu hỏi mà chúng trả lời — như thế nào, ở đâu, khi nào, bao lâu một lần, đến mức nào — cộng thêm trạng từ nghi vấn, trạng từ quan hệ và trạng từ bổ nghĩa cho cả câu.
+
+### The eight classes
+
+| Class | Answers | Typical members |
+| --- | --- | --- |
+| Trạng từ chỉ cách thức | Như thế nào? | bravely, fast, happily, hard, quickly, well |
+| Trạng từ chỉ nơi chốn | Ở đâu? | by, down, here, there, near, up |
+| Trạng từ chỉ thời gian | Khi nào? | now, soon, still, then, today, yet, yesterday |
+| Trạng từ chỉ tần suất | Bao lâu một lần? | always, never, occasionally, often, twice |
+| Trạng từ nghi vấn | dùng trong câu hỏi | where, when, why |
+| Trạng từ quan hệ | nối các mệnh đề | where, when, why |
+| Trạng từ bổ nghĩa cho cả câu | nhận xét về cả mệnh đề | certainly, definitely, luckily, surely |
+| Trạng từ chỉ mức độ | Đến mức nào? | fairly, quite, rather, hardly, too, very |
+
+### Examples
+
+- Cô ấy đã nhảy thật **đẹp**. (cách thức)
+- Bill đang ở **trên gác**. (nơi chốn)
+- Tôi sẽ đợi đến **ngày mai**. (thời gian)
+- Cô ấy **hiếm khi** đi xem phim vào Chủ nhật. (tần suất)
+- Bạn đã để nó **ở đâu**? (nghi vấn)
+- Tôi nhìn về **nơi** anh ấy chỉ. (quan hệ)
+- **May mắn thay**, không ai bị thương. (bổ nghĩa cho cả câu)
+- Bài thi **khá** khó. (mức độ)
+
+### Notes & exceptions
+
+- Cùng một từ có thể thuộc nhiều hơn một loại: `where` và `when` vừa là trạng từ nghi vấn vừa là trạng từ quan hệ.
+- Trạng từ bổ nghĩa cho cả câu bổ nghĩa cho toàn bộ mệnh đề chứ không phải cho động từ, và thường được ngăn cách bằng dấu phẩy.

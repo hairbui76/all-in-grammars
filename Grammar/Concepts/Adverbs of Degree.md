@@ -64,4 +64,44 @@ Modifying an adjective or another adverb — before the word:
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Trạng từ chỉ mức độ cho biết **nhiều đến đâu** hoặc **ở mức độ nào**, và bổ nghĩa cho động từ, tính từ hoặc một trạng từ khác.
+
+### Form
+
+Các từ thường gặp: `fairly, quite, rather, hardly, too, very, very much, a lot, a bit, a little, extremely, pretty`.
+
+### Examples
+
+Bổ nghĩa cho động từ — đứng ở cuối:
+
+- Chúng tôi không thích cuốn tiểu thuyết này **lắm**.
+- Họ nói chuyện **rất nhiều** trên đường về nhà.
+- Tôi thích nó **lắm**.
+
+Bổ nghĩa cho tính từ hoặc một trạng từ khác — đứng trước từ đó:
+
+- Bài thi **khá** khó.
+- Cánh cửa **rất** cần được sơn một lớp.
+- Anh ấy bị thương **nặng**.
+- Tôi muốn món bít tết chín **kỹ**.
+
+### Notes & exceptions
+
+- Với `very much`, cả cụm đi liền nhau và đứng ở cuối: ✅ *I like it **very much*** — ❌ *I like very much it*, ❌ *I very like it*.
+- `hardly` là trạng từ chỉ mức độ mang nghĩa phủ định (= hầu như không) → xem [[Adverbs With Two Forms]].
+- `pretty` khi là trạng từ chỉ mức độ có nghĩa là "khá / tương đối"; nó không liên quan đến tính từ `pretty` nghĩa là "xinh xắn".
+- `well` và `badly` đóng vai trò trạng từ chỉ mức độ khi đứng **trước** động từ hoặc quá khứ phân từ, nhưng là trạng từ chỉ cách thức khi đứng sau → xem [[Adverbs of Manner]].
+
+### Common mistakes
+
+- `very much` không được chen vào giữa động từ và tân ngữ; cả cụm đứng ở cuối câu.
+- `very` không bổ nghĩa trực tiếp cho động từ; phải dùng `very much` ở cuối câu.
+
+### Contrast with
+
+- [[Adverbs of Manner]] — như thế nào, chứ không phải nhiều đến mức nào
+- [[Adverbs With Two Forms]] — `hardly`, `nearly`, `pretty`
+- [[Too With Infinitive]] — `too` là trạng từ chỉ mức độ quá mức
+- [[Enough With Infinitive]] — chỉ sự vừa đủ thay vì quá mức

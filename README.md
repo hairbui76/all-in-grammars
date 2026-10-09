@@ -9,6 +9,7 @@ Tiến độ học lưu trong `localStorage` của trình duyệt, không cần 
 
 - **Trang chủ** gợi ý bài học tiếp theo, ba lộ trình học (nền tảng, nâng cao, trắc nghiệm), số ngày học liên tiếp và hoạt động 7 ngày qua.
 - **Bài học** chia theo mục (công thức, cách dùng, ví dụ, lưu ý, lỗi thường gặp, phân biệt), có mục lục nhảy nhanh và đổi cỡ chữ.
+- **Song ngữ**: dưới mỗi ý tiếng Anh (cách dùng, ví dụ, ô trong bảng, lỗi thường gặp…) là dòng tiếng Việt tương ứng; nút "Việt" trong bài để ẩn/hiện.
 - **Flashcard** theo chuyên đề: chạm để lật, vuốt trái/phải hoặc bấm nút để đánh dấu thuộc/chưa thuộc.
 - **Quiz** "câu nào đúng ngữ pháp" theo chuyên đề, quiz nhanh 10 câu, và ôn lại các câu từng sai.
 - **Tìm kiếm** theo tên bài, tên tiếng Việt của chuyên đề và toàn bộ nội dung.
@@ -40,6 +41,7 @@ Bài học là các file Markdown (kiểu Obsidian) trong `Grammar/Concepts/`. M
 - Mục `## Form` và `## Examples` thành mặt sau flashcard.
 - Các dòng `- ❌ câu sai → ✅ câu đúng` trong `## Common mistakes` thành thẻ sửa lỗi và câu quiz.
 - `[[Tên bài]]` thành liên kết giữa các bài; mục `## Related` thành các nút "Bài liên quan".
+- Mục `## Ghi chú tiếng Việt` ở cuối mỗi bài là bản tiếng Việt, viết song song từng mục với phần tiếng Anh. Bước build ghép từng dòng tiếng Việt xuống dưới dòng tiếng Anh tương ứng. Quy tắc viết: [content/VIETNAMESE.md](content/VIETNAMESE.md). Kiểm tra bài nào thiếu hoặc lệch cấu trúc: `npm run check:vi`.
 
 `content/units.json` quy định thứ tự chuyên đề, tên tiếng Việt, bài nào thuộc chuyên đề nào và các lộ trình học.
 Bài mới chưa có trong file này sẽ tự vào chuyên đề đầu tiên được liên kết ở mục `## Related`.

@@ -109,4 +109,93 @@ Use when the relative clause is passive.
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Khi đại từ quan hệ làm chủ ngữ của mệnh đề, có thể rút gọn mệnh đề đó thành hiện tại phân từ, quá khứ phân từ hoặc động từ nguyên mẫu có `to`.
+
+### Form
+
+`Antecedent + who/which/that + V ...` được rút gọn thành:
+
+1. `Antecedent + V-ing ...` — nghĩa chủ động
+2. `Antecedent + P2 ...` — nghĩa bị động
+3. `Antecedent + to + V ...` — sau số thứ tự, `the last`, `the only`, so sánh nhất, hoặc khi có ý chỉ mục đích/bổn phận/sự cho phép
+
+Chỉ rút gọn được khi đại từ quan hệ là **chủ ngữ** của mệnh đề quan hệ.
+
+### 1. Present participle (V-ing)
+
+Dùng khi động từ trong mệnh đề quan hệ:
+
+**a. ở một thì tiếp diễn**
+
+- Cô gái **đang đứng** ở cửa là em gái tôi.
+- Có mấy người **đang chèo thuyền** trên sông.
+- Người đàn ông **ngồi** cạnh tôi trên máy bay rất lo lắng vì trước đó ông chưa từng đi máy bay.
+- Hai cậu bé **đang đá** bóng đằng kia là con của ông Brown.
+- Ai sẽ là giáo viên chủ nhiệm của chúng ta? – Người đàn ông **đang nói chuyện** với thầy hiệu trưởng.
+- Con chó **đang nằm** trên sàn rất dữ.
+
+**b. ở một thì đơn diễn tả thói quen hoặc hành động lặp lại**
+
+- Người đàn ông **sống** cạnh nhà chúng tôi là bác sĩ.
+- Có một chuyến tàu **khởi hành** đi Hà Nội lúc 7 giờ mỗi ngày.
+- Học sinh **học** ở trường tôi phải mặc đồng phục.
+- Những người **làm việc** trong nhà máy này được trả lương cao.
+
+**c. là động từ chỉ mong muốn hoặc hy vọng: `wish`, `want`, `hope`, `desire`** (nhưng không dùng với `like`)
+
+- Những người hâm mộ **muốn** xem trận bóng đã đến sớm.
+- Những học sinh **hy vọng** đỗ kỳ thi đại học đã và đang học rất chăm chỉ.
+- Bill, **muốn** gây ấn tượng với Ann, tối thứ Bảy nào cũng đưa cô đi chơi.
+
+**d. là động từ chỉ sự hiểu biết hoặc suy nghĩ: `know`, `understand`, `think`, `believe`**
+
+- Romeo, **tưởng** rằng Juliet đã chết, đã tự vẫn.
+- Jack, **tin** rằng đất nước mình sẽ xảy ra nội chiến, đã trốn sang một nước trung lập.
+- Tom, **trông đợi** sẽ được trả lương vào tuần sau đó, đã gửi đơn kiến nghị lên ban giám đốc.
+
+### 2. To-infinitive
+
+Dùng khi:
+
+**a. trước danh từ được bổ nghĩa có số thứ tự (`the first`, `the second`, `the third` ...), `the last`, `the only`, hoặc đôi khi là so sánh nhất**
+
+- người cuối cùng **rời** con tàu
+- người duy nhất **hiểu**
+- Người đầu tiên **cần gặp** là Tom. = Người đầu tiên **mà chúng ta phải gặp** là Tom.
+- Người đầu tiên **nhìn thấy tôi** là Tom.
+- Cô ấy thích tiệc tùng. Cô ấy luôn là người **đến** đầu tiên và **về** cuối cùng.
+- Đứa bé 5 tuổi là người duy nhất **sống sót** sau vụ tai nạn máy bay.
+- Bộ phim thú vị nhất **nên xem** là "Cuốn theo chiều gió".
+- Yuri Gagarin là người đầu tiên **bay** vào vũ trụ.
+
+**b. có ý chỉ mục đích, bổn phận hoặc sự cho phép**
+
+- Tiếng Anh là một ngôn ngữ quan trọng **mà chúng ta phải nắm vững**. → Tiếng Anh là một ngôn ngữ quan trọng **cần nắm vững**.
+- Hôm nay tôi có hai đống quần áo **phải giặt**.
+- Anh ấy có rất nhiều sách **để đọc**.
+- Chúng cần một khu vườn **để chơi**.
+
+### 3. Past participle (P2)
+
+Dùng khi mệnh đề quan hệ ở thể bị động.
+
+- Tôi thích những bài hát **được sáng tác** trong thời chiến.
+- Người đàn ông **bị** cảnh sát **bắt** là một tên tội phạm nguy hiểm.
+- Người **được** uỷ ban **bổ nhiệm** có nhận công việc đó không?
+- Sự tiến bộ lớp chúng tôi **đạt được** tháng trước khiến bố mẹ chúng tôi ngạc nhiên.
+- Đại hội thể thao **được tổ chức** tại Ấn Độ năm 1951 là kỳ Á vận hội đầu tiên.
+- Người đàn ông **đã bị** cảnh sát **bắt** là một tên tội phạm nguy hiểm.
+
+### Notes & exceptions
+
+- Không thể rút gọn khi đại từ quan hệ làm tân ngữ của mệnh đề.
+- Trong mệnh đề không xác định, dấu phẩy vẫn được giữ sau khi rút gọn: `Romeo, thinking that Juliet was dead, killed himself.`
+- Khi rút gọn bằng `to`-infinitive, giới từ đứng cuối vẫn được giữ lại: `a garden **to play in**`.
+
+### Contrast with
+
+- [[Defining Relative Clauses]] — dạng đầy đủ mà từ đó các cấu trúc này được rút gọn
+- [[Appositives]] — rút gọn thành cụm danh từ chứ không phải thành dạng động từ
+- [[Participle Clauses]] — cùng cơ chế nhưng áp dụng cho mệnh đề trạng ngữ

@@ -70,4 +70,53 @@ The gerund has exactly the same shape as the present participle; only its functi
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Danh động từ là dạng động từ tận cùng bằng `-ing`, vẫn giữ nghĩa của động từ nhưng đóng vai trò như một danh từ trong câu.
+
+### Form
+
+`V + -ing`
+
+Ví dụ về dạng này: working, being, knowing, learning.
+
+Danh động từ có hình thức giống hệt hiện tại phân từ; chỉ có chức năng (giống danh từ) mới giúp phân biệt hai dạng này.
+
+### When to use
+
+- **Làm chủ ngữ**, khi hành động được nhìn nhận theo nghĩa chung
+- **Làm bổ ngữ của `be`**, gọi tên một sở thích, ước mơ, niềm đam mê hay thói quen
+- **Sau giới từ** → xem [[Gerund After Prepositions]]
+- **Sau một số động từ nhất định** → xem [[Verbs Followed By Gerund]]
+
+### Examples
+
+### Danh động từ làm chủ ngữ
+
+- **Đọc** tiếng Pháp dễ hơn **nói**. (= Đọc tiếng Pháp thì dễ hơn là nói.)
+- **Dạy học** là một nghề cao quý.
+- **Hút thuốc** có hại cho sức khoẻ của bạn.
+- **Khiêu vũ** làm anh ấy mệt.
+- **Đi** tàu hoả rẻ hơn **đi** máy bay.
+
+### Danh động từ làm bổ ngữ của `be`
+
+- Tôi phải nói rằng niềm đam mê lớn nhất trong đời tôi là **học tập**.
+- Ước mơ của tôi là **trở thành** một giáo viên giỏi.
+- Sở thích của cô ấy là **vẽ tranh**.
+- Thói quen của mẹ tôi là **thức** khuya và **dậy** sớm.
+
+### Notes & exceptions
+
+- Giống như động từ nguyên mẫu, danh động từ có thể làm chủ ngữ của mệnh đề đứng sau `believe, consider, discover, expect, find, think, wonder`. Sau `find`, có thể lược bỏ `that` và `be`:
+  - Anh ấy thấy rằng **việc đỗ xe** rất khó. → Anh ấy thấy **việc đỗ xe** khó.
+- Sau `find`, dùng danh động từ hay động từ nguyên mẫu sẽ làm nghĩa thay đổi:
+  - Anh ấy thấy **việc đỗ xe** khó. (một nhận định chung, mang tính thường xuyên)
+  - Anh ấy thấy khó **đỗ xe**. (một lần cụ thể)
+- Danh động từ được dùng trong các biển cấm ngắn gọn: `No smoking.` (Cấm hút thuốc.) `No waiting.` (Cấm dừng đỗ.) `No fishing.` (Cấm câu cá.)
+- Danh động từ được dùng trong tục ngữ: **Seeing** is **believing**. (Trăm nghe không bằng một thấy.)
+
+### Contrast with
+
+- [[Infinitives]] — `to + V`, thường dùng cho một lần cụ thể hoặc để chỉ mục đích
+- [[Participles]] — cùng hình thức `-ing` nhưng có chức năng như tính từ/trạng từ

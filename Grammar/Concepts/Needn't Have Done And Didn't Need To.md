@@ -56,4 +56,41 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`Needn't have done` nghĩa là việc đó đã được làm dù không cần thiết; `didn't need to do` nghĩa là việc đó không cần thiết nên đã không làm.
+
+### Form
+
+`S + needn't have + PII` — đã làm, nhưng việc đó không cần thiết (lúc ấy người làm không biết)
+`S + didn't need to + V` — không cần thiết nên đã không làm
+`S + needn't + V` — hiện tại: bây giờ không cần phải làm
+
+### Examples — needn't have + PII
+
+- Lẽ ra bạn **không cần mang** cuốn sách đó đến đây.
+- Lẽ ra bạn **không cần phải vội**. Giờ thì chúng ta đến quá sớm rồi.
+- Lẽ ra cô ấy **không cần gọi** nhiều đồ ăn đến thế.
+- Lẽ ra bạn **không cần đến** ga sớm như vậy vì mãi đến 7 giờ tàu mới chạy.
+- Lẽ ra họ **không cần mua** thêm xe hơi.
+- Bạn đâu cần phải nhọc công đến thế. → Lẽ ra bạn **không cần phải nhọc công** đến thế.
+
+### Examples — didn't need to + V
+
+- Rốt cuộc họ không cần thiết phải kêu cứu. → Rốt cuộc họ **không cần phải kêu** cứu.
+- Tôi **không cần phải dậy** sớm nên đã nằm trên giường đến tận 10 giờ.
+
+### Examples — present needn't
+
+- Cô ấy **không cần lo** chuyện tiền bạc, phải không? = Cô ấy không cần phải lo chuyện tiền bạc, phải không?
+- Bố bạn chẳng bao giờ cần nhắc bạn chuyện học hành, phải không? = Ông ấy chẳng bao giờ cần phải nhắc bạn chuyện học hành, phải không?
+
+### Notes & exceptions
+
+- `need` là động từ bán khuyết thiếu: khi là động từ khuyết thiếu, nó đi với động từ nguyên mẫu không `to` và dùng chính `need` trong câu hỏi đuôi; khi là động từ thường, nó đi với `to + V` và dùng `do / does / did`.
+- Nếu trên thực tế việc đó đã được làm dù không cần thiết thì chỉ có `needn't have + PII` là đúng.
+
+### Contrast with
+
+- [[Should Have Done]] — việc cần thiết nhưng đã **không** được làm
+- [[Must For Deduction]] — `must` chỉ sự bắt buộc, còn `needn't` là không có sự bắt buộc đó

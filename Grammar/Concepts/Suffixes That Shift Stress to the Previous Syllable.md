@@ -50,4 +50,37 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Bản thân các đuôi này không mang trọng âm, nhưng chúng buộc trọng âm chính phải rơi vào âm tiết đứng ngay trước chúng.
+
+### Rule
+
+`... + STRESSED syllable + suffix` → trọng âm rơi vào âm tiết đứng ngay trước hậu tố
+
+### The list
+
+| Suffix | Examples with transcription |
+|---|---|
+| **-ion** | population /ˌpɒpjʊˈleɪʃn/ |
+| **-ic** | economic /ˌiːkəˈnɒmɪk/ |
+| **-ial** | industrial /ɪnˈdʌstriəl/ |
+| **-ive** | expensive /ɪkˈspensɪv/ |
+| **-ible** | responsible /rɪˈspɒnsɪbl/ |
+| **-ity** | ability /əˈbɪləti/ |
+| **-graphy** | photography /fəˈtɒɡrəfi/ |
+| **-ious / -eous** | industrious /ɪnˈdʌstriəs/, advantageous /ˌædvənˈteɪdʒəs/ |
+| **-ish** | selfish /ˈselfɪʃ/ |
+| **-ian** | politician /ˌpɒlɪˈtɪʃn/ |
+
+### Notes & exceptions
+
+- Quy tắc vẫn đúng khi có thêm một đuôi trung tính ở phía sau: `historical` /hɪˈstɒrɪkl/ — `-al` là đuôi trung tính nên `-ic` quyết định trọng âm.
+- `internationally` /ˌɪntəˈnæʃnəli/ — `-ly` và `-al` là đuôi trung tính nên `-ion` quyết định trọng âm.
+- Các trường hợp bất quy tắc: politics /ˈpɒlətɪks/, lunatic /ˈluːnətɪk/, rhetoric /ˈretərɪk/, television /ˈtelɪvɪʒn/, primitive /ˈprɪmɪtɪv/ → xem [[Word Stress Exceptions]].
+
+### Contrast with
+
+- [[Suffixes That Take Stress]] — chính đuôi đó mang trọng âm
+- [[Suffixes That Shift Stress Three Syllables Back]] — trọng âm lùi về phía trước xa hơn
+- [[Suffixes That Do Not Affect Stress]] — đuôi không làm thay đổi gì

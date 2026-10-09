@@ -52,4 +52,30 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Nhấn mạnh một hành động đã diễn ra được bao lâu từ quá khứ cho đến hiện tại.
+
+### When to use
+
+- Hành động bắt đầu trong quá khứ, kéo dài liên tục đến hiện tại và có thể sẽ còn tiếp diễn
+- Hành động chỉ vừa mới dừng lại, và người nói có thể chỉ ra dấu hiệu còn nhìn thấy được
+- Một thói quen hoặc hành động lặp đi lặp lại kéo dài từ quá khứ đến hiện tại
+
+### Examples
+
+- Trời đang mưa. Trời **đã mưa** suốt từ lúc tôi thức dậy.
+- Mắt cô ấy đỏ hoe. Cô ấy **vừa khóc**.
+- Anh ấy **đã chơi** đàn piano từ khi cô ấy lên năm.
+
+### Notes & exceptions
+
+- Câu hỏi về khoảng thời gian bắt đầu bằng `How long ...?`: *How long **have** you **been teaching**?* (Bạn đã dạy học được bao lâu rồi?)
+- Các động từ chỉ trạng thái (`be, know, like, belong, have (= possess), need, remember`) không dùng ở thì này; thay vào đó hãy dùng [[Present Perfect]].
+- `always` không dùng với thì này: *I **have always loved** you* (anh vẫn luôn yêu em), không nói *have always been loving*.
+
+### Contrast with
+
+- [[Present Perfect vs Present Perfect Continuous]]
+- [[Present Continuous]] — không gắn với một điểm bắt đầu trong quá khứ
+- [[Past Perfect Continuous]] — cùng thể này nhưng tính đến một thời điểm trong quá khứ

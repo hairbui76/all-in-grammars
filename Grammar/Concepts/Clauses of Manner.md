@@ -66,4 +66,45 @@ With `as if` / `as though`:
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Mệnh đề chỉ cách thức cho biết một việc được làm **như thế nào** và được nối với mệnh đề chính bằng `as`, `how`, `as if` hoặc `as though`.
+
+### Examples
+
+Với `as` (= theo cách mà):
+
+- Chúng ta nên làm **như** thầy cô bảo.
+- Peter rời khỏi ngôi nhà **theo đúng cách** anh đã vào.
+- Cứ để nó **như** vậy.
+- Chúng ta nên làm bài tập **như** đã được dặn.
+
+Với `how`:
+
+- Người phụ nữ kể cho tôi nghe tên trộm đã chạy tới và giật túi xách của bà **như thế nào**.
+
+Với `as if` / `as though`:
+
+- Trời trông **như thể** sắp mưa.
+- Cô ấy trông **như thể** sắp khóc.
+
+### Notes & exceptions
+
+- Mệnh đề mở đầu bằng `as` có thể **đảo ngữ**, nhất là trong văn phong trang trọng hoặc văn chương:
+  - Ông ấy theo đạo Công giáo, **cũng như** phần lớn bạn bè của ông.
+  - Ông ấy tin, **cũng như** cả gia đình ông, rằng nhà vua là chúa tể tối cao của họ.
+- Thì quá khứ sau `as if` / `as though` báo hiệu một sự so sánh không có thật:
+  - Anh ta nhìn tôi **như thể tôi** bị điên.
+  - Trông bạn **như thể vừa gặp** ma.
+  - Xem trình bày đầy đủ ở [[As If and As Though]].
+
+### Common mistakes
+
+- Trước một mệnh đề chỉ cách thức dùng `as`; `like` + mệnh đề là cách nói thân mật.
+- Sau `as if`, khi so sánh không có thật, dạng trang trọng là `were`, không dùng `was`.
+
+### Contrast with
+
+- [[As If and As Though]] — trình bày chi tiết cách dùng so sánh không có thật
+- [[Adverbs of Manner]] — một trạng từ đơn thay vì cả mệnh đề
+- [[Clauses of Place]] — chỉ nơi chốn (ở đâu), không phải cách thức (như thế nào)

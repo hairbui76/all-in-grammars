@@ -61,4 +61,46 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Một nhóm cụm cố định nói về khả năng, sự hữu ích và giá trị luôn được theo sau bởi dạng `-ing`.
+
+### Form
+
+| Expression | Meaning |
+|---|---|
+| `can't help / can't resist + V-ing` | không thể không làm, không nhịn được |
+| `can't bear / can't stand + V-ing` | không thể chịu được việc gì |
+| `It's no use / no good + V-ing` | làm việc gì cũng vô ích |
+| `There's no point in + V-ing` | làm việc gì cũng chẳng để làm gì |
+| `There's no harm in + V-ing` | làm việc gì cũng chẳng hại gì |
+| `It's a waste of time + V-ing` | làm việc gì là phí thời gian |
+| `It's (not) worth + V-ing` | (không) đáng làm việc gì |
+
+### Examples
+
+- Mẹ tôi không chịu nổi việc **thấy** tôi ở nhà cả ngày.
+- Anh ấy kể cho tôi nghe một câu chuyện vui. Tôi không nhịn được **cười**.
+- **Tranh cãi** cũng vô ích thôi.
+- Bạn chẳng làm gì được trước tình hình này đâu, nên **lo lắng** về nó cũng vô ích.
+- **Chờ** thêm nữa cũng chẳng để làm gì, nên chúng tôi đi.
+- **Mua** những thứ mình không cần là phí thời gian.
+- Theo tôi, **hút** một hai điếu thuốc mỗi ngày cũng chẳng hại gì.
+- Ở đây có thứ gì đáng **mua** không?
+- Tôi sống cách đây chỉ một quãng đi bộ ngắn nên không đáng **đi** taxi.
+
+### Notes & exceptions
+
+- Với `worth`, thứ được đánh giá trở thành chủ ngữ: *A film is worth **seeing**.* (Một bộ phim đáng xem.) / *A book is worth **reading**.* (Một cuốn sách đáng đọc.)
+  - Bộ phim thế nào? Có đáng **xem** không?
+  - Tôi không nghĩ những cuốn sách này đáng **đọc**.
+- `It's no use`, `there's no point in`, `it's no good` cũng cho phép đặt tính từ sở hữu/tân ngữ trước danh động từ → xem [[Possessive With Gerund]].
+
+### Common mistakes
+
+- Sau `It's no use` phải dùng danh động từ (`V-ing`), không dùng `to V`.
+- Sau `worth` phải dùng danh động từ (`V-ing`), không dùng `to V`.
+
+### Contrast with
+
+- [[Verbs Followed By Gerund]] — các động từ đơn lẻ chứ không phải cụm cố định

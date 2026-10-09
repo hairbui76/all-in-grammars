@@ -49,4 +49,35 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Tám đại từ đứng đầu mệnh đề và làm chủ ngữ của mệnh đề đó.
+
+### The set
+
+| Person | Singular | Plural |
+|---|---|---|
+| Ngôi thứ nhất (người nói) | I | we |
+| Ngôi thứ hai (người nghe) | you | you |
+| Ngôi thứ ba (người hoặc vật được nói đến) | he, she, it | they |
+
+### When to use
+
+- Làm chủ ngữ của động từ — chúng thường đứng ở đầu mệnh đề.
+
+### Examples
+
+- **Chúng tôi** đều đang học tiếng Anh.
+- **Họ** sống ở Hà Nội.
+- **Anh ấy** nói tiếng Anh trôi chảy.
+
+### Notes & exceptions
+
+- Tiếng Anh có ba ngôi nhưng chỉ có tám dạng đại từ nhân xưng, vì `you` dùng cho cả số ít lẫn số nhiều.
+- Sau `be`, trong tiếng Anh chuẩn mực/trang trọng người ta dùng dạng chủ ngữ (`It is I`), nhưng trong lời nói thì dạng tân ngữ mới là thông thường (`It's me`) — xem [[Object Pronouns]].
+
+### Contrast with
+
+- [[Object Pronouns]] — cũng tám đại từ đó ở vị trí tân ngữ
+- [[Possessive Adjectives]] — dùng trước danh từ
+- [[Possessive Pronouns]] — dùng khi không có danh từ theo sau

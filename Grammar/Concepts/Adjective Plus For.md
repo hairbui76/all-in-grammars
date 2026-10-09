@@ -79,4 +79,61 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`For` đi sau các tính từ nói về mục đích, sự phù hợp, hoặc người được lợi hay chịu thiệt.
+
+### Suitability and purpose
+
+| Combination | Meaning | Example |
+|---|---|---|
+| available **for** sth | sẵn có để dùng cho | Hội trường **có sẵn để** tổ chức các cuộc họp. |
+| convenient **for** | thuận tiện cho | Thứ Hai có **tiện cho** bạn không? |
+| fit **for** | đủ tốt để, thích hợp cho | Nước này không **dùng để** uống **được**. |
+| suitable **for** | phù hợp với | Bộ phim không **phù hợp với** trẻ em. |
+| perfect **for** | hoàn hảo, lý tưởng cho | Chỗ này **lý tưởng cho** một buổi dã ngoại. |
+| qualified **for** | đủ trình độ chuyên môn cho | Cô ấy **đủ trình độ cho** vị trí đó. |
+| ready **for** sth | sẵn sàng cho việc gì | Bạn đã **sẵn sàng cho** kỳ thi chưa? |
+| prepared **for** | được chuẩn bị sẵn cho | Chúng tôi đã không **chuẩn bị tinh thần cho** tin đó. |
+| necessary **for** | cần thiết cho | Giấc ngủ **cần thiết cho** việc hồi phục. |
+| helpful / useful **for** | có ích cho | Bản đồ rất **hữu ích cho** người đi bộ đường dài. |
+
+### Effect on a person
+
+| Combination | Meaning | Example |
+|---|---|---|
+| good **for** | có lợi cho | Trái cây **tốt cho** bạn. |
+| bad **for** | có hại cho | Căng thẳng **có hại cho** tim. |
+| dangerous **for** | nguy hiểm, không an toàn cho | Con đường này **nguy hiểm cho** người đi xe đạp. |
+| difficult **for** | khó đối với | Môn toán **khó đối với** cậu ấy. |
+| late **for** | đến muộn so với giờ của | Tôi đã **muộn** giờ học. |
+| anxious **for** | lo lắng về, nóng lòng mong | Bà ấy **nóng lòng mong** tin tức về con trai. |
+
+### Cause and responsibility
+
+| Combination | Meaning | Example |
+|---|---|---|
+| famous **for** | nổi tiếng vì | Paris **nổi tiếng với** các viện bảo tàng. |
+| well-known **for** | được nhiều người biết đến vì | Ông ấy **nổi tiếng vì** lòng hào phóng. |
+| greedy **for** | tham lam, ham muốn quá nhiều | Công ty đó **hám** lợi nhuận. |
+| grateful **for** sth | biết ơn vì điều gì | Tôi **biết ơn vì** sự giúp đỡ của bạn. |
+| sorry **for** | hối tiếc về, thương hại | Tôi **xin lỗi về** những gì mình đã nói. |
+| responsible **for** sth | phụ trách, chịu trách nhiệm về việc gì | Anh ấy **chịu trách nhiệm về** ngân sách. |
+| liable **for** sth | chịu trách nhiệm pháp lý về việc gì | Người lái xe phải **chịu trách nhiệm về** thiệt hại. |
+
+### Notes & exceptions
+
+- `anxious for` và `anxious about` đều dùng được: `anxious about` là lo về một mối nguy, `anxious for` là nóng lòng mong một kết quả.
+- `good for` = có lợi cho, nhưng `good at` = giỏi về → xem [[Adjectives With Two Prepositions]].
+- `responsible for` nêu công việc; `responsible to` nêu người mà mình phải chịu trách nhiệm trước họ.
+
+### Common mistakes
+
+- Nổi tiếng vì điều gì dùng `famous for`, không dùng `of`.
+- Thương hại, thấy tiếc cho ai dùng `sorry for`, không dùng `about` trước người.
+
+### Contrast with
+
+- [[Adjective Plus To]] — người chịu tác động
+- [[Adjective Plus At]] — khả năng và phản ứng
+- [[Adjective Plus About]] — chủ đề của một cảm xúc

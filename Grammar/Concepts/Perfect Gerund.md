@@ -49,4 +49,30 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`having + quá khứ phân từ` thay cho danh động từ thường khi hành động của danh động từ đã xảy ra và hoàn tất trước hành động của động từ chính.
+
+### When to use
+
+- Để nói rõ rằng hành động của danh động từ xảy ra trước động từ chính.
+- Đặc biệt hay gặp sau `deny` và sau các động từ chỉ sự buộc tội và thú nhận.
+
+### Examples
+
+- Anh ta bị buộc tội **bỏ** tàu. *hoặc* Anh ta bị buộc tội **đã bỏ** tàu.
+- Cô ấy thú nhận việc **sửa** / **đã sửa** tài liệu.
+- Anh ta chối việc **đã ăn trộm** chiếc xe nhưng thừa nhận **đã mượn** nó.
+- Anh ta chối là mình **đã có mặt** ở đó.
+
+### Notes & exceptions
+
+- Trong hầu hết ngữ cảnh, người ta chuộng dùng danh động từ thường hơn; danh động từ hoàn thành chủ yếu được dùng khi sự chênh lệch về thời gian là quan trọng hoặc sau `deny`.
+- Dạng bị động tương ứng là `having been + PII` → xem [[Passive Gerund]].
+  - Chiếc két sắt không có dấu hiệu nào cho thấy **đã bị đụng đến**.
+
+### Contrast with
+
+- [[Gerunds]] — dạng `-ing` thường, trung tính về thời gian
+- [[Perfect Participle]] — `having + PII` dùng như trạng ngữ, không phải như danh từ
+- [[Perfect Infinitive]] — `to have + PII`, dạng tương ứng của động từ nguyên mẫu

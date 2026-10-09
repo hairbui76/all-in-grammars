@@ -50,4 +50,36 @@ Verbs concerned: `see` · `notice` · `hear` · `listen to` · `watch`
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Các động từ chỉ tri giác đi với động từ nguyên mẫu không `to` hoặc dạng `-ing` ở thể chủ động; ở thể bị động, động từ nguyên mẫu không `to` chuyển thành `to + infinitive`, còn dạng `-ing` giữ nguyên.
+
+### Form
+
+Các động từ liên quan: `see` · `notice` · `hear` · `listen to` · `watch`
+
+| Active | Passive |
+|---|---|
+| `see/notice/hear/listen to/watch + sb + do smth` | `be seen/noticed/heard/listened to/watched + to do smth` |
+| `see/notice/hear/listen to/watch + sb + doing smth` | `be seen/noticed/heard/listened to/watched + doing smth` |
+
+### When to use
+
+- Động từ nguyên mẫu không `to` (→ nguyên mẫu có `to` ở thể bị động) dùng cho hành động trọn vẹn được chứng kiến từ đầu đến cuối.
+- Dạng `-ing` dùng cho hành động đang diễn ra tại thời điểm tri giác.
+
+### Examples
+
+- Có người thấy anh ta **nhặt** một hòn đá và **ném** vào cảnh sát chống bạo động. → Anh ta bị nhìn thấy **đã nhặt** một hòn đá và **ném** vào cảnh sát chống bạo động.
+- Họ thấy cậu ấy **đang đi** cùng bạn trước khi cậu ấy bị lạc. → Cậu ấy được nhìn thấy **đang đi** cùng bạn trước khi bị lạc.
+- Họ thấy anh ta **lên** xe và **lái** đi. → Anh ta bị nhìn thấy **đã lên** xe và **lái** đi.
+- Chúng tôi để ý thấy hắn **đang đột nhập** vào ngôi nhà. → Hắn bị phát hiện **đang đột nhập** vào ngôi nhà.
+
+### Common mistakes
+
+- Ở thể bị động, động từ nguyên mẫu theo sau `be seen` phải có `to`.
+
+### Contrast with
+
+- [[Passive of Make Help and Let]] — cùng quy tắc thêm `to` với `make` và `help`
+- [[Bare Infinitive]] — cấu trúc ở thể chủ động

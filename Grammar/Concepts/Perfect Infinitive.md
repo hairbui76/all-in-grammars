@@ -70,4 +70,54 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`to have + quá khứ phân từ` đặt hành động của động từ nguyên mẫu xảy ra trước hành động của động từ chính.
+
+### Form
+
+`(to) have + PII` — to have done (đã làm), to have made (đã làm ra)
+
+### Uses
+
+| After | Meaning |
+|---|---|
+| `will / shall` | thì tương lai hoàn thành |
+| `was / were to` | một kế hoạch trong quá khứ đã không được thực hiện |
+| `must` | sự chắc chắn về quá khứ |
+| `may / might` | khả năng có thể đã xảy ra trong quá khứ |
+| `can't / couldn't` | chắc chắn việc đó đã không xảy ra |
+| `should / had better / ought to` | việc đáng lẽ nên làm trong quá khứ nhưng đã không làm |
+| `needn't` | việc đã làm trong quá khứ nhưng không cần thiết |
+| `could` | khả năng trong quá khứ đã không được dùng đến |
+| `would like / would rather / would sooner` | một mong ước không có thật về quá khứ |
+| `be said / thought to` | câu bị động tường thuật về một sự việc trong quá khứ |
+| `seem, appear, pretend, happen` | hành động có vẻ đã xảy ra trước đó |
+| `hope, promise, determine, arrange, expect` | một hành động sẽ hoàn tất trước một thời điểm trong tương lai |
+
+### Examples
+
+- Đến cuối năm nay, tôi **sẽ dạy xong** 12 khoá học.
+- Đừng gọi điện cho tôi lúc 4 giờ sáng mai. Lúc đó tôi **vẫn chưa dậy** đâu.
+- Theo dự định thì hôm nay ngôi nhà **phải xong** rồi. (nhưng vẫn chưa xong)
+- Chiếc xe **lẽ ra đã phải được sửa** rồi.
+- Các bài làm **lẽ ra đã phải được trả** lại cho chúng tôi.
+- Cô ấy giả vờ **đã để dành được** nhiều tiền. = Cô ấy giả vờ rằng mình đã để dành được nhiều tiền.
+- Tôi tình cờ **đã gặp** anh ấy. = Tình cờ là tôi đã gặp anh ấy.
+- Họ có vẻ **đã sống** ở thành phố này lâu rồi.
+- Dường như không ai **đoán** đúng đáp án. = Có vẻ như không ai đoán đúng đáp án.
+- Bạn có vẻ / lúc đó có vẻ **đã tăng** cân.
+- Tôi hy vọng đến cuối năm nay **sẽ để dành đủ** tiền để mua một chiếc ô tô.
+- Em hứa đến buổi sau **sẽ học thuộc hết** các từ mới.
+- Phạm Xuân Ẩn **được cho là từng là** một điệp viên hoàn hảo.
+- Người ta cho rằng châu Mỹ **đã được** Columbus **phát hiện** trước những người khác.
+
+### Notes & exceptions
+
+- `was / were to have + PII` luôn hàm ý rằng kế hoạch đã không thành: *The road was to have been upgraded* (Con đường lẽ ra đã được nâng cấp) có nghĩa là nó đã không được nâng cấp.
+- Dạng nguyên mẫu hoàn thành bị động là `to have been + PII`.
+
+### Contrast with
+
+- [[Continuous Infinitive]] — hành động đang diễn ra tại thời điểm được nói đến
+- [[Perfect Continuous Infinitive]] — hành động xảy ra trước đó được nhìn như đang tiếp diễn

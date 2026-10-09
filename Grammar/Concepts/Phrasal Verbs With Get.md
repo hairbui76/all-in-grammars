@@ -61,4 +61,47 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`Get` tạo nên một trong những nhóm cụm động từ lớn nhất trong tiếng Anh, bao gồm các nghĩa về sự di chuyển, sự hồi phục, các mối quan hệ và sự tiến bộ.
+
+### Examples
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| get by | xoay xở, sống qua ngày | Chúng tôi không thể **xoay xở** nổi với mức thu nhập ít ỏi như vậy. |
+| get down | làm ai chán nản | Tình cảnh khó khăn này đang **làm** tôi **chán nản**. |
+| get down to | bắt tay vào làm việc gì một cách nghiêm túc | Đã đến lúc **bắt tay vào** công việc. |
+| get in | đến nơi; trúng cử | Tàu **đến** muộn mười phút. |
+| get into | vào, lên (ô tô) | Cô ấy **lên** taxi rồi đi mất. |
+| get off | xuống xe buýt, tàu hoặc máy bay | Xin lỗi, tôi phải **xuống** ở điểm dừng tới. |
+| get on | lên xe buýt, tàu hoặc máy bay | Người đàn ông đó có **lên xe** ở điểm dừng vừa rồi không? |
+| get on with | có quan hệ tốt với, hoà thuận với | Cô ấy có **hoà thuận với** dì của mình không? |
+| get out of | trốn tránh (một nhiệm vụ) | Anh ấy lúc nào cũng tìm cách **trốn** việc rửa bát. |
+| get over | hồi phục sau | Anh ấy mất một tháng để **hồi phục sau** ca phẫu thuật. |
+| get through | làm xong, hoàn thành | Tôi đã **làm xong** hết công việc trước bữa trưa. |
+| get through to | liên lạc được với | Tôi gọi suốt một tiếng đồng hồ mà không **liên lạc được với** anh ấy. |
+| get up | ra khỏi giường, thức dậy | Bố tôi quen **dậy** sớm vào buổi sáng. |
+| get ahead | tiến bộ, vượt lên trên người khác | Cô ấy làm việc chăm chỉ vì muốn **tiến thân**. |
+| get away with | thoát khỏi sự trừng phạt vì | Thật đáng kinh ngạc là mẹ cậu ấy để cậu ấy làm đủ thứ mà **không bị phạt**. |
+| get back | trở về | Chúng tôi **trở về** từ Tây Ban Nha hôm Chủ nhật tuần trước. |
+| get at | ám chỉ, ngụ ý | Tôi không hiểu bạn đang **ám chỉ** điều gì. |
+| get across | làm cho người khác hiểu điều gì | Cô giáo đã **truyền đạt** ý của mình một cách rõ ràng. |
+| get on someone's nerves | làm ai bực mình | Tiếng ồn đó đang **làm** tôi **phát bực**. |
+| get round to | có thời gian để làm | Tôi chưa bao giờ **có thời gian** trả lời thư của cô ấy. |
+
+### Notes & exceptions
+
+- `get on with` và `get along with` có thể dùng thay cho nhau ở nghĩa có quan hệ tốt với ai.
+- `get on` / `get off` dùng với phương tiện giao thông công cộng (xe buýt, tàu, máy bay); với ô tô hoặc taxi, tiếng Anh dùng `get into` / `get out of`.
+- `get down to` và `get round to` kết thúc bằng giới từ `to`, nên động từ theo sau là danh động từ: *get down to **working***.
+
+### Common mistakes
+
+- Với taxi hoặc ô tô phải dùng `get into`; `get on` chỉ dùng với phương tiện giao thông công cộng.
+- `to` trong `get down to` là giới từ nên động từ theo sau phải ở dạng `-ing`.
+
+### Contrast with
+
+- [[Phrasal Verbs With Take And Put]] — một nhóm cụm động từ thông dụng khác
+- [[Three Part Phrasal Verbs]] — `get on with`, `get away with`, `get down to` cũng thuộc nhóm này

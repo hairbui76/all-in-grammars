@@ -121,4 +121,102 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Nhiều tính từ đi với một giới từ cố định đứng trước bổ ngữ của chúng, và việc chọn giới từ nào là do từ vựng quy định — phải học thuộc.
+
+### Feelings and attitude
+
+| Combination | Meaning |
+|---|---|
+| be kind / nice / good **to** sb | đối xử tốt với ai |
+| be good **for** sb | có lợi, tốt cho ai |
+| be good **at** smth | giỏi về việc gì |
+| be good **with** (one's hands) | khéo (tay) |
+| be quick **at** smth | nhanh nhạy về việc gì |
+| be skilful **at** smth | khéo léo, thành thạo về việc gì |
+| be serious **about** smth | nghiêm túc về việc gì |
+| be angry **with** sb **about** smth | giận ai về chuyện gì |
+| be sad / happy **about** smth | buồn / vui về việc gì |
+| be upset **about** smth | buồn bực, phiền lòng về việc gì |
+| be sorry **for / about** smth | hối tiếc, lấy làm tiếc về việc gì |
+| be pleased **with** smth | hài lòng với điều gì |
+| be interested **in** smth | quan tâm, hứng thú với điều gì |
+| be keen **on** doing smth | say mê, rất thích làm gì |
+| be fond **of** smth | thích điều gì |
+| be tired **of** doing smth | chán làm việc gì |
+| be tired **from** doing smth | mệt lả về thể chất vì làm việc gì |
+| be surprised **at** smth | ngạc nhiên về điều gì |
+| be confused **about** smth | bối rối, nhầm lẫn về điều gì |
+| be indifferent **to** smth | thờ ơ, không quan tâm đến điều gì |
+| be suspicious **of** smth | nghi ngờ, không tin điều gì |
+| be confident **of** smth | tin chắc vào điều gì |
+| be ashamed **of** doing smth | xấu hổ vì đã làm việc gì |
+| be ashamed **to do** smth | xấu hổ khi phải làm việc gì |
+
+### Fear
+
+- be afraid **of** smth — sợ điều gì
+- be frightened **of** smth — hoảng sợ trước điều gì
+- be scared **of** smth — sợ hãi điều gì
+- be terrified **of** smth — khiếp sợ điều gì
+
+### Relations and comparison
+
+| Combination | Meaning |
+|---|---|
+| be different **from** | khác với |
+| be similar **to** smth | giống, tương tự với cái gì |
+| be popular **with** sb | được ai yêu thích |
+| be friendly **with** sb | thân thiết với ai |
+| be / get acquainted **with** sb | quen biết, làm quen với ai |
+| be / get married **to** sb | kết hôn với ai |
+| be engaged **to** sb | đính hôn với ai |
+| be dependent **on** sb **for** smth | phụ thuộc, trông cậy vào ai về điều gì |
+| be independent **of** sb | không phụ thuộc vào ai |
+| be far **from** | cách xa |
+| contrary **to** + N | trái với, ngược với |
+
+### States and circumstances
+
+| Combination | Meaning |
+|---|---|
+| be late **for** work / school | đến muộn giờ làm / giờ học |
+| be present **at** | có mặt, tham dự |
+| be absent **from** | vắng mặt, không tham dự |
+| be crowded **with** / packed **with** | đông nghịt, chật kín người |
+| be full **of** | đầy, chứa nhiều |
+| be rich **in** | giàu, có nhiều |
+| be short **of** money | thiếu, không có đủ tiền |
+| be successful **in** smth | thành công trong việc gì |
+| be famous **for** smth | nổi tiếng vì điều gì |
+| be responsible **to** sb **for** smth | chịu trách nhiệm trước ai về việc gì |
+| be capable **of** doing smth | có khả năng làm gì |
+| be available **for** sb | sẵn có cho ai sử dụng |
+| be aware / unaware **of** smth | biết / không biết điều gì |
+| be important **to** sb | quan trọng đối với ai |
+| be harmful **to** | có hại cho |
+| be perfect **for** smth | hoàn toàn phù hợp với việc gì |
+| be favourable **for** smth | thuận lợi cho việc gì |
+| be open **to** sb | mở cửa cho ai, ai đó có thể tiếp cận |
+| be grateful / obliged / indebted **to** sb **for** smth | biết ơn ai về điều gì |
+| be / get used **to** smth / doing smth | quen với điều gì / việc làm gì do đã thành nếp |
+| be accustomed **to** smth / doing smth | quen, có thói quen với điều gì / việc làm gì |
+| be in the habit **of** doing smth | có thói quen làm gì |
+
+### Notes & exceptions
+
+- `be used to + V-ing` (quen với việc gì) không giống với `used to + V` (một thói quen trong quá khứ) → xem [[Used To And Would For Past Habits]].
+- `be tired of` = chán, còn `be tired from` = kiệt sức về thể chất.
+- Sau giới từ, động từ luôn ở dạng `-ing` → xem [[Gerund After Prepositions]].
+
+### Full lists by preposition
+
+- [[Adjective Plus Of]]
+- [[Adjective Plus To]]
+- [[Adjective Plus For]]
+- [[Adjective Plus At]]
+- [[Adjective Plus With]]
+- [[Adjective Plus About]]
+- [[Adjective Plus In From And On]]
+- [[Adjectives With Two Prepositions]]

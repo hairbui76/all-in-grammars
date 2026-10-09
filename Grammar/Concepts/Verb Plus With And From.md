@@ -72,4 +72,58 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`With` đi sau các động từ chỉ sự đồng hành, sự tán thành và sự cung cấp; `from` đi sau các động từ chỉ nguồn gốc, sự tách rời và sự ngăn cản.
+
+### Verb + with
+
+`V + with + noun` · `V + object + with + noun`
+
+| Combination | Meaning | Example |
+|---|---|---|
+| agree **with** sb (on sth) | đồng ý, cùng quan điểm với ai | Tôi **đồng ý với** bạn về điểm này. |
+| comply **with** | tuân thủ, làm theo | Mọi lái xe phải **tuân thủ** luật lệ. |
+| provide sb **with** sth | cung cấp cho ai thứ họ cần | Khách sạn **cung cấp** khăn tắm **cho** khách. |
+| supply sb **with** sth | cung ứng cho ai thứ họ cần | Họ **cung ứng** phụ tùng thay thế **cho** chúng tôi. |
+| fight **with** sb (for sth) | đấu tranh, tranh đấu với ai | Anh ấy **tranh đấu với** đối thủ để giành danh hiệu. |
+| keep pace **with** | theo kịp, bắt kịp | Tiền lương đã không **theo kịp** giá cả. |
+| lose touch **with** sb | mất liên lạc với ai | Tôi đã **mất liên lạc với** các bạn học cũ. |
+| get on **with** = get along **with** sb | hoà thuận, có quan hệ tốt với ai | Cô ấy **hoà thuận với** tất cả mọi người. |
+| put up **with** | chịu đựng | Tôi không thể **chịu đựng** tiếng ồn này. |
+| do away **with** | bãi bỏ, loại bỏ | Họ đã **bãi bỏ** những quy định cũ. |
+| do **with** | liên quan đến | Chuyện đó chẳng **liên quan** gì **đến** bạn. |
+| do **without** | xoay xở khi không có | Chúng ta sẽ phải **xoay xở mà không có** ô tô. |
+| make off **with** | lấy rồi bỏ chạy, cuỗm đi | Bọn trộm **cuỗm mất** cái két sắt. |
+
+### Verb + from
+
+`V + from + noun` · `V + object + from + V-ing`
+
+| Combination | Meaning | Example |
+|---|---|---|
+| come **from** | đến từ, có nguồn gốc từ | Cô ấy **đến từ** Ireland. |
+| descend **from** | là hậu duệ của, xuất thân từ | Anh ấy **xuất thân từ** một gia đình làm nông. |
+| differ **from** | khác với | Mẫu này **khác với** mẫu trước. |
+| escape **from** | trốn thoát khỏi | Hai tù nhân đã **trốn khỏi** nhà tù. |
+| hear **from** sb | nhận được tin từ ai | Hôm qua tôi **nhận được tin của** chị gái. |
+| infer **from** | suy ra từ | Chúng ta có thể **suy ra** điều gì **từ** những con số này? |
+| prevent sb **from** V-ing | ngăn cản ai làm gì | Cơn mưa **ngăn** chúng tôi rời đi. |
+| isolate sb / sth **from** | cách ly, tách biệt khỏi | Bệnh nhân được **cách ly khỏi** những người khác. |
+
+### Notes & exceptions
+
+- `provide / supply` có hai cấu trúc: `provide sb **with** sth` = `provide sth **for** sb` → xem [[Verb Plus For]].
+- `agree **with** sb` (đồng ý với ai) nhưng `agree **to** a proposal` (đồng ý với một đề xuất) và `agree **on** a plan` (thống nhất về một kế hoạch).
+- Sau `from` trong `prevent sb from`, động từ phải ở dạng `-ing` → xem [[Gerund After Prepositions]].
+- `put up with` và `get on with` là các cụm động từ ba thành phần → xem [[Three Part Phrasal Verbs]].
+
+### Common mistakes
+
+- Ngăn cản ai làm gì là `prevent sb from` + `V-ing`, không dùng động từ nguyên mẫu có `to`.
+- "Khác với" là `differ from`, không dùng giới từ `with`.
+
+### Contrast with
+
+- [[Verb Plus On And In]] — sự trông cậy và sự tham gia
+- [[Verb Plus Of]] — nguyên nhân và nội dung

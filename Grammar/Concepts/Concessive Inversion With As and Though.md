@@ -60,4 +60,38 @@ Verb + as + S + will / would / may / might, + Main clause
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Đưa tính từ, trạng từ hoặc động từ lên đầu mệnh đề, trước `as` hoặc `though`, sẽ tạo ra ý nhượng bộ có tính nhấn mạnh.
+
+### Examples
+
+### Đưa tính từ hoặc trạng từ lên đầu
+
+- **Dù giàu có**, ông ta chẳng bao giờ giúp đỡ ai.
+- **Dù lái xe cẩn thận**, anh ấy vẫn hay gặp tai nạn.
+- **Dù rất khâm phục** những thành tựu của ông ta, tôi vẫn nghĩ ông ta là kẻ ngốc.
+- **Dù đang mệt**, tôi vẫn cố gắng làm việc.
+
+### Đưa động từ lên đầu, đi với động từ khuyết thiếu
+
+- **Dù làm lụng thế nào đi nữa**, anh ấy vẫn không nuôi nổi gia đình.
+- **Dù đã làm lụng đến mấy**, anh ấy vẫn không đủ trang trải cuộc sống.
+- **Dù đã học hành đến mấy**, cô ấy vẫn không thi đỗ.
+
+### Notes & exceptions
+
+- Cấu trúc này mang tính nhấn mạnh và khá văn chương; cách nói thông thường tương đương là `Although he is rich, ...`.
+- `as` và `though` có thể thay thế cho nhau trong cấu trúc với tính từ: *Rich as/though he is, ...*.
+- Cấu trúc với động từ bắt buộc phải có `will / would / may / might` và diễn tả sự nỗ lực bền bỉ nhưng không thành công.
+- Trong cấu trúc này, cụm tính từ có tính chất như danh từ được đưa lên đầu thì không dùng mạo từ.
+
+### Common mistakes
+
+- Đã đưa tính từ lên trước `as` để diễn tả ý nhượng bộ thì không dùng thêm `although` ở đầu câu.
+
+### Contrast with
+
+- [[Clauses of Concession]] — cấu trúc thông thường với `although`
+- [[However and No Matter]] — `However rich he is, ...`
+- [[Despite and In Spite Of]] — giới từ + danh từ

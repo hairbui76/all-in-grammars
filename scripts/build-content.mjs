@@ -2,10 +2,18 @@
 //   src/generated/index.json       units + light per-note metadata (always loaded)
 //   src/generated/units/<id>.json  lessons split into typed sections + flashcards, one chunk per unit
 //   src/generated/search.json      plain text of every lesson, loaded on first search
+//
+// Each note may end with "## Ghi chú tiếng Việt": a Vietnamese mirror of its sections, one
+// "### <English section title>" part per section. The mirror is woven into the lesson item by item
+// (see weave below).
+//
+//   node scripts/build-content.mjs                    build
+//   node scripts/build-content.mjs --check [notes…]   report Vietnamese mirrors that are missing or do not line up
 import { readFile, readdir, mkdir, writeFile, rm } from 'node:fs/promises'
 import { fileURLToPath } from 'node:url'
 import path from 'node:path'
 import { marked } from 'marked'
+import { parse as parseHtml } from 'node-html-parser'
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const conceptsDir = path.join(root, 'Grammar', 'Concepts')
@@ -116,7 +124,9 @@ function splitSections(body) {
   return sections
 }
 
-function flashcard(sections) {
+const topBullets = (md) => (md || '').split('\n').filter((l) => l.startsWith('- ')).map((l) => l.slice(2))
+
+function flashcard(sections, vi) {
   let form = (sections['Form'] || sections['Rule'] || sections['Rules'] || '').trim()
   if (form.length > 700) {
     // keep whole blocks only, so tables and code fences are never cut in half
@@ -128,9 +138,10 @@ function flashcard(sections) {
     form = kept
   }
   const exKey = Object.keys(sections).find((k) => k.startsWith('Examples'))
-  const examples = exKey
-    ? sections[exKey].split('\n').filter((l) => l.startsWith('- ')).slice(0, 3).map((l) => renderInline(l.slice(2)))
-    : []
+  const en = topBullets(sections[exKey])
+  const viEx = topBullets(vi[exKey])
+  // translations are attached only when they line up one to one with the examples
+  const examples = en.slice(0, 3).map((line, i) => renderInline(line) + (viEx.length === en.length ? viSpan(renderInline(viEx[i])) : ''))
   return { f: form ? render(form) : '', e: examples }
 }
 
@@ -219,15 +230,197 @@ function linkBullets(md) {
   return items
 }
 
-function renderContrast(md) {
+/** Link cards for "Contrast with". Returns null when the section is not a plain list of links. */
+function renderContrast(md, viMd, problems) {
   const items = linkBullets(md)
-  if (!items) return render(md)
+  if (!items) return null
+  // the Vietnamese description is matched to its card by the note it links to
+  const viItems = viMd ? linkBullets(viMd) : []
+  if (viMd && !viItems) problems.push('Contrast with: every Vietnamese line must be "- [[Note]] — mô tả"')
+  const viDesc = new Map((viItems || []).map((x) => [x.t, x.d]))
   const cards = items.map(({ t, d }) => {
     const to = linkTarget(t)
-    const inner = `<b>${escHtml(t)}</b>${d ? `<span>${renderInline(d)}</span>` : ''}`
+    const vi = viDesc.get(t)
+    if (viMd && viItems && d && !vi) problems.push(`Contrast with: no Vietnamese description for [[${t}]]`)
+    const inner = `<b>${escHtml(t)}</b>${d ? `<span>${renderInline(d)}</span>` : ''}${vi ? viSpan(renderInline(vi)) : ''}`
     return to ? `<a class="vs-i" href="${escAttr(to)}">${inner}</a>` : `<div class="vs-i">${inner}</div>`
   })
   return `<div class="vs">${cards.join('')}</div>`
+}
+
+// ---------- Vietnamese mirror ----------
+const VI_HEADING = 'Ghi chú tiếng Việt'
+const viSpan = (html) => `<span class="vi">${html}</span>`
+const sameText = (a, b) => a.replace(/\s+/g, ' ').trim().toLowerCase() === b.replace(/\s+/g, ' ').trim().toLowerCase()
+const elements = (node) => node.childNodes.filter((n) => n.nodeType === 1)
+const isList = (el) => el.tagName === 'UL' || el.tagName === 'OL'
+
+/** Splits the Vietnamese part into {section title: markdown}; `keys` are the titles it may mirror. */
+function parseVi(md, keys, problems) {
+  const parts = {}
+  let name = null
+  let stray = ''
+  for (const line of md.split('\n')) {
+    const h = line.match(/^### (.+)$/)
+    if (h && keys.includes(h[1].trim())) {
+      name = h[1].trim()
+      parts[name] = ''
+    } else if (name) parts[name] += line + '\n'
+    else stray += line
+  }
+  if (stray.trim()) problems.push(`text before the first "### <section>" heading: "${stray.trim().slice(0, 40)}"`)
+  return parts
+}
+
+function blockKind(el) {
+  if (isList(el)) return 'list'
+  if (el.tagName === 'DIV') return ['tw', 'callout', 'fix', 'ct', 'vs'].find((c) => el.classList.contains(c)) || 'div'
+  return el.tagName.toLowerCase()
+}
+
+/** True for blocks the mirror may leave out because they hold nothing to translate. */
+function codeOnly(el) {
+  if (el.tagName === 'PRE') return true
+  if (el.tagName !== 'P' || !el.querySelector('code')) return false
+  // a paragraph of formulas: no words outside the code spans, only separators such as "·" or "="
+  const outside = el.childNodes.filter((n) => n.tagName !== 'CODE').map((n) => n.text).join('')
+  return !/\p{L}/u.test(outside)
+}
+
+/**
+ * Pairs English blocks with Vietnamese ones in order; code-only English blocks may have no partner.
+ * Returns null when the two do not line up.
+ */
+function alignBlocks(E, V) {
+  const dead = new Set()
+  const from = (i, j) => {
+    if (i === E.length) return j === V.length ? [] : null
+    const key = i * (V.length + 1) + j
+    if (dead.has(key)) return null
+    if (j < V.length && blockKind(E[i]) === blockKind(V[j])) {
+      const rest = from(i + 1, j + 1)
+      if (rest) return [[E[i], V[j]], ...rest]
+    }
+    // the mirror left this formula out
+    const rest = codeOnly(E[i]) ? from(i + 1, j) : null
+    if (!rest) dead.add(key)
+    return rest
+  }
+  return from(0, 0)
+}
+
+const shape = (els) => els.map(blockKind).join(', ') || 'nothing'
+
+/** Inline content of a list item: everything but its nested lists, with paragraph wrappers removed. */
+function ownHtml(li) {
+  return li.childNodes
+    .filter((n) => !(n.nodeType === 1 && isList(n)))
+    .map((n) => (n.nodeType === 1 && n.tagName === 'P' ? `${n.innerHTML} ` : n.toString()))
+    .join('')
+    .trim()
+}
+const ownText = (li) => parseHtml(ownHtml(li)).text
+
+function weaveList(e, v, problems, where) {
+  const eItems = elements(e).filter((x) => x.tagName === 'LI')
+  const vItems = elements(v).filter((x) => x.tagName === 'LI')
+  if (eItems.length !== vItems.length) {
+    problems.push(`${where}: a list has ${eItems.length} items in English but ${vItems.length} in Vietnamese`)
+    v.classList.add('vi')
+    e.insertAdjacentHTML('afterend', v.toString())
+    return
+  }
+  eItems.forEach((eLi, i) => {
+    const vLi = vItems[i]
+    const eNested = elements(eLi).filter(isList)
+    const vNested = elements(vLi).filter(isList)
+    const own = ownHtml(vLi)
+    if (own && !sameText(ownText(vLi), ownText(eLi))) {
+      if (eNested[0]) eNested[0].insertAdjacentHTML('beforebegin', viSpan(own))
+      else eLi.insertAdjacentHTML('beforeend', viSpan(own))
+    }
+    if (eNested.length === vNested.length) eNested.forEach((n, k) => weaveList(n, vNested[k], problems, where))
+    else problems.push(`${where}: item ${i + 1} has ${eNested.length} nested lists in English but ${vNested.length} in Vietnamese`)
+  })
+}
+
+function weaveTable(e, v, problems, where) {
+  const rows = (t) => t.querySelectorAll('tbody tr').map((tr) => elements(tr))
+  const eRows = rows(e)
+  const vRows = rows(v)
+  if (eRows.length !== vRows.length || eRows.some((r, i) => r.length !== vRows[i].length)) {
+    problems.push(`${where}: a table is ${eRows.length}×${eRows[0]?.length ?? 0} in English but ${vRows.length}×${vRows[0]?.length ?? 0} in Vietnamese`)
+    v.classList.add('vi')
+    e.insertAdjacentHTML('afterend', v.toString())
+    return
+  }
+  eRows.forEach((cells, r) =>
+    cells.forEach((eTd, c) => {
+      const vTd = vRows[r][c]
+      // cells that were copied unchanged (the word itself, a formula) get no second line
+      if (!vTd.text.trim() || sameText(vTd.text, eTd.text)) return
+      const [eWrap] = elements(eTd)
+      const [vWrap] = elements(vTd)
+      eWrap.insertAdjacentHTML('beforeend', viSpan(vWrap.innerHTML))
+    }),
+  )
+}
+
+function weaveBlocks(E, V, problems, where) {
+  const pairs = alignBlocks(E, V)
+  if (!pairs) return false
+  for (const [e, v] of pairs) {
+    const kind = blockKind(e)
+    if (kind === 'list') weaveList(e, v, problems, where)
+    else if (kind === 'tw') weaveTable(e, v, problems, where)
+    else if (kind === 'callout' || kind === 'blockquote') {
+      if (!weaveBlocks(elements(e), elements(v), problems, where)) {
+        problems.push(`${where}: a callout holds [${shape(elements(e))}] in English but [${shape(elements(v))}] in Vietnamese`)
+        e.insertAdjacentHTML('beforeend', `<div class="vi">${v.innerHTML}</div>`)
+      }
+    } else if (sameText(e.text, v.text)) continue
+    else if (kind === 'p') e.insertAdjacentHTML('afterend', `<p class="vi">${v.innerHTML}</p>`)
+    else if (kind === 'pre') e.insertAdjacentHTML('afterend', `<pre class="vi">${v.innerHTML}</pre>`)
+    else e.insertAdjacentHTML('beforeend', viSpan(v.innerHTML))
+  }
+  return true
+}
+
+/**
+ * Weaves the Vietnamese mirror of a section into its English HTML: each paragraph, list item, table cell
+ * and correction card gets its translation right underneath. When the two do not line up, the Vietnamese
+ * text is appended as one block instead and the mismatch is reported.
+ */
+function weave(kind, enHtml, viMd, problems, where) {
+  if (!viMd || !viMd.trim()) return enHtml
+  const viHtml = render(viMd)
+  const en = parseHtml(enHtml)
+  const vi = parseHtml(viHtml)
+  const E = elements(en)
+  const V = elements(vi)
+  const fallback = (why) => {
+    problems.push(`${where}: ${why}`)
+    return `${enHtml}<div class="vi vi-block">${viHtml}</div>`
+  }
+
+  if (kind === 'fix' && E.some((el) => blockKind(el) === 'fix')) {
+    // one Vietnamese bullet (why it is wrong) per English bullet, whether that became a card or stayed a bullet
+    const items = (els) => els.flatMap((el) => (isList(el) ? elements(el) : codeOnly(el) ? [] : [el]))
+    const eItems = items(E)
+    const vItems = items(V)
+    if (eItems.length !== vItems.length) return fallback(`${eItems.length} items in English but ${vItems.length} in Vietnamese`)
+    eItems.forEach((e, i) => {
+      const v = vItems[i]
+      const html = v.tagName === 'LI' ? ownHtml(v) : v.innerHTML
+      if (blockKind(e) === 'fix') e.insertAdjacentHTML('beforeend', `<p class="fix-vi vi">${html}</p>`)
+      else if (e.tagName === 'LI') e.insertAdjacentHTML('beforeend', viSpan(html))
+      else e.insertAdjacentHTML('afterend', `<p class="vi">${html}</p>`)
+    })
+    return en.toString()
+  }
+
+  if (!weaveBlocks(E, V, problems, where)) return fallback(`blocks are [${shape(E)}] in English but [${shape(V)}] in Vietnamese`)
+  return en.toString()
 }
 
 // ---------- read the vault ----------
@@ -272,18 +465,33 @@ linkTarget = (target) => {
 const index = { meta: { book: config.book, total: 0, quiz: 0 }, paths: config.paths || [], units: [], notes: {} }
 const chunks = new Map(config.units.map((u) => [u.id, {}]))
 const search = {}
+/** note title → what is missing or misaligned in its Vietnamese mirror */
+const report = new Map()
+/** A section made only of code blocks and formulas has nothing to translate. */
+const needsVi = (text) => elements(parseHtml(render(text.trim()))).some((el) => !codeOnly(el))
 
 for (const u of config.units) {
   index.units.push({ id: u.id, t: u.title, vn: u.vn, g: u.group, desc: u.desc, n: u.notes })
   for (const title of u.notes) {
     const { fm, body } = raw.get(title)
-    let md = body.replace(/^# .+\n/m, '').replace(/<!--[\s\S]*?-->/g, '')
-    // the Vietnamese section is a placeholder in most notes; drop it while it is empty
-    md = md.replace(/\n## Ghi chú tiếng Việt\s*$/, '\n')
+    const [md, viMd = ''] = body
+      .replace(/^# .+\n/m, '')
+      .replace(/<!--[\s\S]*?-->/g, '')
+      .split(new RegExp(`^## ${VI_HEADING}\\s*$`, 'm'))
 
     const abstract = (md.match(/^> \[!abstract\][^\n]*\n((?:>.*\n?)+)/m)?.[1] || '').replace(/^> ?/gm, '').trim()
     const sections = splitSections(md)
     const q = quizPairs(sections)
+
+    const problems = []
+    const vi = parseVi(viMd, ['In one line', ...Object.keys(sections)], problems)
+    if (!Object.keys(vi).length) problems.push(viMd.trim() ? 'the Vietnamese part has no "### <English section title>" headings' : 'no Vietnamese part yet')
+    else {
+      const missing = Object.entries(sections).filter(([name, text]) => sectionMeta(name).k !== 'rel' && !vi[name]?.trim() && needsVi(text))
+      if (missing.length) problems.push(`sections without Vietnamese: ${missing.map(([name]) => name).join(', ')}`)
+      if (abstract && !vi['In one line']?.trim()) problems.push('no "### In one line"')
+    }
+    report.set(title, problems)
 
     // whatever sits between the one-line summary and the first heading
     const intro = md.split(/^## /m)[0].replace(/^> \[!abstract\][^\n]*\n(?:>.*\n?)+/m, '').trim()
@@ -301,19 +509,37 @@ for (const u of config.units) {
           continue
         }
       }
-      const html = meta.k === 'fix' ? renderMistakes(body) : meta.k === 'vs' ? renderContrast(body) : render(body)
+      const cards = meta.k === 'vs' ? renderContrast(body, vi[name], problems) : null
+      const html = cards ?? weave(meta.k, meta.k === 'fix' ? renderMistakes(body) : render(body), vi[name], problems, name)
       secs.push({ ...titleHtml(meta), h: html })
     }
     const lead = renderInline(abstract)
+    const leadVi = vi['In one line']?.trim() ? renderInline(vi['In one line'].trim()) : ''
     const introHtml = intro ? render(intro) : ''
 
     index.notes[title] = { u: u.id, ab: plain(abstract), al: Array.isArray(fm.aliases) ? fm.aliases : [], q }
-    chunks.get(u.id)[title] = { lead, intro: introHtml, secs, rel, src: fm.source || '', fc: flashcard(sections) }
-    const text = [lead, introHtml, ...secs.map((x) => `${x.en} ${x.h}`)].join(' ')
+    chunks.get(u.id)[title] = { lead, leadVi, intro: introHtml, secs, rel, src: fm.source || '', fc: flashcard(sections, vi) }
+    const text = [lead, leadVi, introHtml, ...secs.map((x) => `${x.en} ${x.h}`)].join(' ')
     search[title] = unescHtml(text.replace(/<[^>]+>/g, ' ')).replace(/\s+/g, ' ').trim()
     index.meta.total++
     index.meta.quiz += q.length
   }
+}
+
+const untranslated = [...report.values()].filter((p) => p.includes('no Vietnamese part yet')).length
+const misaligned = [...report].filter(([, p]) => p.length && !p.includes('no Vietnamese part yet'))
+
+const checkAt = process.argv.indexOf('--check')
+if (checkAt > -1) {
+  // arguments are note titles or paths to notes; none means every note
+  const wanted = process.argv.slice(checkAt + 1).map((a) => path.basename(a).replace(/\.md$/, ''))
+  const unknown = wanted.filter((t) => !report.has(t))
+  for (const t of unknown) console.log(`? ${t}: no such note`)
+  const shown = [...report].filter(([t]) => !wanted.length || wanted.includes(t))
+  const bad = shown.filter(([, p]) => p.length)
+  for (const [t, p] of bad) console.log(`✗ ${t}\n${p.map((x) => `    ${x}`).join('\n')}`)
+  console.log(`${shown.length - bad.length}/${shown.length} notes have a complete, aligned Vietnamese part`)
+  process.exit(bad.length || unknown.length ? 1 : 0)
 }
 
 await rm(outDir, { recursive: true, force: true })
@@ -323,3 +549,7 @@ await writeFile(path.join(outDir, 'search.json'), JSON.stringify(search))
 for (const [id, chunk] of chunks) await writeFile(path.join(outDir, 'units', `${id}.json`), JSON.stringify(chunk))
 
 console.log(`content: ${index.meta.total} notes, ${index.units.length} units, ${index.meta.quiz} quiz pairs`)
+console.log(
+  `vietnamese: ${index.meta.total - untranslated}/${index.meta.total} notes` +
+    (misaligned.length ? `, ${misaligned.length} with gaps (run "npm run content -- --check" for details)` : ''),
+)

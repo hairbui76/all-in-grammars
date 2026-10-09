@@ -70,4 +70,54 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`many` và `much` diễn tả số lượng lớn, chủ yếu trong câu phủ định và câu hỏi, còn `a lot of` và `lots of` được ưa dùng trong câu khẳng định.
+
+### Form
+
+| Expression | Goes with | Typical sentence type |
+|---|---|---|
+| `many` | danh từ đếm được số nhiều | phủ định, nghi vấn |
+| `much` | danh từ không đếm được | phủ định, nghi vấn |
+| `a lot of` / `lots of` | danh từ số nhiều hoặc không đếm được | khẳng định |
+| `a large number of` | danh từ đếm được số nhiều | khẳng định |
+| `a great deal of` | danh từ không đếm được | khẳng định |
+
+### Examples
+
+### Câu phủ định và nghi vấn
+
+- Dọc con phố này không có **nhiều cửa hàng**.
+- Có **nhiều người** dự cuộc họp không?
+- Trong chai không còn **nhiều nước**.
+- Tờ báo có **nhiều thông tin** không?
+
+### Câu khẳng định với `a lot of` / `lots of`
+
+- Anh ấy có **rất nhiều bạn** ở đây.
+- Cần **rất nhiều thời gian** để học một ngoại ngữ.
+
+### Câu khẳng định với `a large number of` / `a great deal of`
+
+- Anh ấy có **rất nhiều** sách tiếng Anh.
+- Họ đã đầu tư **rất nhiều** tiền vào giáo dục.
+
+### Notes & exceptions
+
+- `many` và `much` VẪN được dùng trong câu khẳng định sau `too`, `so`, `as` và `very`, và ở đó `a lot of` không thể thay thế chúng:
+  - Món súp của tôi có **quá nhiều** muối. (không nói ~~too a lot of~~)
+  - Chúng tôi có **nhiều** bài tập phải làm **đến thế**. (không nói ~~so a lot of~~)
+  - Tôi không có **nhiều** kiên nhẫn **như** tôi tưởng. (không nói ~~as a lot of~~)
+  - Cảm ơn bạn **rất nhiều** vì món quà dễ thương.
+- Sau `a lot of` / `lots of`, động từ hoà hợp với danh từ theo sau: *A lot of time **is** needed* (cần rất nhiều thời gian) / *A lot of people **are** waiting* (rất nhiều người đang chờ).
+
+### Common mistakes
+
+- Trong câu khẳng định thông thường, `many` nghe không tự nhiên; nên dùng `a lot of` / `lots of`.
+- Sau `too` phải dùng `much` / `many`, không dùng `a lot of`.
+
+### Contrast with
+
+- [[Few A Few Little and A Little]] — số lượng nhỏ
+- [[All Most Some and Half]] — tỉ lệ chứ không phải số lượng

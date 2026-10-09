@@ -48,4 +48,34 @@ Here `which` = "the fact that ...".
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`which` đứng sau dấu phẩy có thể thay cho toàn bộ ý của mệnh đề đứng trước chứ không phải một danh từ riêng lẻ — và `that` không bao giờ làm được điều này.
+
+### Form
+
+`Clause, which + comment`
+
+Ở đây `which` = "the fact that ..." (việc ...).
+
+### When to use
+
+- Để gắn một lời bình luận hoặc phản ứng vào một câu phát biểu hoàn chỉnh đã nêu.
+- Dấu phẩy là bắt buộc; mệnh đề này luôn là mệnh đề không xác định.
+
+### Examples
+
+- Jim đã thi đỗ bằng lái xe. Điều này làm mọi người ngạc nhiên. → Jim đã thi đỗ bằng lái xe, **điều này làm mọi người ngạc nhiên**. (`which` = việc Jim thi đỗ bằng lái xe)
+- Sheila không đến dự tiệc được, **thật đáng tiếc**.
+- Thời tiết rất đẹp, **điều mà chúng tôi không ngờ tới**.
+- Tôi đã trả hết tiền trước khi nhận hàng. Tôi thật ngốc. → Tôi đã trả hết tiền trước khi nhận hàng, **việc đó thật là ngốc**.
+
+### Common mistakes
+
+- `that` không thể thay cho cả mệnh đề đứng trước; phải dùng `which`.
+- Thiếu dấu phẩy thì câu đổi nghĩa, thành mệnh đề xác định nói về bài thi.
+
+### Contrast with
+
+- [[Non-Defining Relative Clauses]] — `which` thay cho một danh từ cụ thể
+- [[Connective Relative Clauses]] — `which`/`whom` sau từ chỉ số lượng như `all of`, `most of`

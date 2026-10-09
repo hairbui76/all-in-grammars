@@ -58,4 +58,44 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Các giới từ này mô tả đường di chuyển của người hoặc vật, chứ không phải một vị trí cố định.
+
+### The list
+
+| Preposition | Movement |
+|---|---|
+| `out of` | từ trong ra ngoài |
+| `into` | từ ngoài vào trong |
+| `up` | từ điểm thấp lên điểm cao hơn |
+| `down` | từ điểm cao xuống điểm thấp hơn |
+| `along` | dọc theo chiều dài của vật gì |
+| `across` | từ bên này sang bên kia |
+| `through` | đi vào rồi ra ở phía bên kia |
+| `off` | rời khỏi một bề mặt |
+| `over` | vượt phía trên sang bên kia |
+| `on to` | lên trên một bề mặt |
+
+### Examples
+
+- Người đàn ông đi **ra khỏi** khách sạn.
+- Đàn voi chạy trở **vào** rừng.
+- Người lính cứu hoả trèo **lên** thang và cứu cậu bé.
+- Người đàn ông đi nhanh **xuống** đồi.
+- Có nhiều ngôi nhà **dọc theo** con đường dẫn vào làng.
+- Cậu bé chạy **băng qua** đường.
+- Chúng tôi đi **xuyên qua** một khu rừng để đến ngôi nhà nhỏ.
+- Người đàn ông nhảy **xuống khỏi** bức tường.
+- Bọn con trai trèo **qua** tường vào vườn cây ăn quả.
+- Tên trộm trèo **lên** mái nhà.
+
+### Notes & exceptions
+
+- `across` là di chuyển trên một bề mặt phẳng, rộng mở; `through` là di chuyển bên trong một thứ có không gian ba chiều (khu rừng, đường hầm, đám đông).
+- Nhiều từ trong số này cũng là tiểu từ trạng từ trong [[Phrasal Verbs]] (*climb up, jump off, go through*).
+
+### Contrast with
+
+- [[Prepositions Of Place]] — vị trí tĩnh chứ không phải đường di chuyển
+- [[Prepositions Of Time]] — chỉ thời gian (khi nào) chứ không phải nơi chốn (ở đâu)

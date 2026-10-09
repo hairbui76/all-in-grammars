@@ -59,4 +59,36 @@ both of / either of / neither of + object pronoun / the / these / those / posses
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Ba từ hạn định này chỉ dùng cho hai người hoặc hai vật: `both` = cả hai, `either` = cái này hoặc cái kia, `neither` = không cái này mà cũng không cái kia.
+
+### Examples
+
+- Tôi hỏi hai người đường đến nhà ga nhưng **cả hai đều không** biết.
+- **Cả bố lẫn mẹ anh ấy** đều là người châu Âu.
+- Hãy đến vào thứ Ba hoặc thứ Tư. **Ngày nào** cũng được.
+- **Cả hai chúng tôi** đều mệt.
+- **Cả hai cuốn sách đều không** hay.
+- **Cả bố lẫn mẹ cô ấy** đều là người London.
+- **Cả hai chúng tôi** đều thích chơi cầu lông.
+
+### Notes & exceptions
+
+- Sau `both`, `of` có thể có hoặc không khi đứng trước từ hạn định + danh từ: *Both (of) her parents ...*
+- Trước đại từ thì bắt buộc phải có `of`: ❌ ~~Both us~~ → ✅ **Both of us**.
+- Sau `neither of`, động từ có thể ở số ít (trang trọng) hoặc số nhiều (thân mật): *Neither of the books **is/are** interesting.*
+- `both` đi với động từ số nhiều; `either` và `neither` đi với danh từ số ít thì dùng động từ số ít.
+- Với ba người/vật trở lên, hãy dùng `all`, `any` và `none`.
+
+### Common mistakes
+
+- Trước đại từ bắt buộc phải có `of`: `both of us`.
+- Sau `neither of`, động từ số nhiều chỉ dùng trong lối nói thân mật; dạng chuẩn là động từ số ít.
+- `neither` chỉ dùng cho hai người/vật; với ba trở lên phải dùng `none of`.
+
+### Contrast with
+
+- [[Every and Each]] — `each` cũng nói đến từng thành viên, nhưng trong một nhóm có số lượng bất kỳ
+- [[No and None]] — `none` là từ tương ứng dùng cho ba người/vật trở lên
+- [[All Most Some and Half]] — các từ hạn định dùng cho nhóm lớn hơn

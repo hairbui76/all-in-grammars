@@ -62,4 +62,39 @@ Use `Having + V3` instead of a plain `V-ing` when you want to show that:
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`Having + quá khứ phân từ` thay cho hiện tại phân từ khi hành động thứ nhất rõ ràng đã kết thúc trước khi hành động thứ hai bắt đầu.
+
+### When to use
+
+Dùng `Having + V3` thay cho `V-ing` thông thường khi muốn cho thấy rằng:
+
+- hành động thứ nhất đã **hoàn thành** trước khi hành động thứ hai bắt đầu
+- có một **khoảng thời gian dài** giữa hai hành động
+- tình huống thứ nhất đã kéo dài **một thời gian dài** trước sự việc thứ hai
+
+### Examples
+
+- **Đọc xong** hướng dẫn sử dụng, anh ấy uống hai viên thuốc.
+- **Đã ăn** một bữa sáng thịnh soạn nên anh ấy không ăn gì vào bữa trưa.
+- **Đã thất bại** hai lần nên cô ấy không muốn thử lại nữa.
+- **Đã xem** bộ phim đó nhiều lần rồi nên cô ấy không muốn đi xem phim với tôi.
+- **Đã tự làm** chủ suốt một thời gian dài nên anh ấy thấy khó chấp nhận mệnh lệnh của người khác.
+- **Đã sống** ở Thái Nguyên từ lúc sinh ra nên tôi không muốn chuyển đi nơi nào khác.
+
+### Notes & exceptions
+
+- Chủ ngữ của phân từ và chủ ngữ của mệnh đề chính thông thường là cùng một người.
+- Khi hai hành động nối tiếp ngay nhau thì chỉ cần dùng hiện tại phân từ đơn: `Opening the drawer, he took out a gun.` (mở ngăn kéo ra, anh ta lấy ra một khẩu súng).
+
+### Common mistakes
+
+- Chủ ngữ của mệnh đề chính phải là người thực hiện hành động của phân từ (`he`), không thể là `two tablets`.
+- Phân từ hoàn thành phải bắt đầu bằng `Having`, không dùng `Have`.
+
+### Contrast with
+
+- [[Present Participle]] — các hành động xảy ra đồng thời hoặc nối tiếp ngay nhau
+- [[Participle Clauses Replacing Main Clauses]] — trường hợp ưu tiên dùng dạng `-ing` đơn
+- [[Past Perfect]] — dạng tương đương có động từ chia thì

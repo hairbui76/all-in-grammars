@@ -58,4 +58,34 @@ for fear that + S + will/would + V   (clause version of the same idea)
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Mục đích cũng có thể được diễn đạt bằng các cụm giới từ `with a view to`, `in the hope of` và `for fear of`, tất cả đều được theo sau bởi danh động từ.
+
+### Examples
+
+- Ông ấy bán một trong những ngôi nhà của mình **với ý định mua** một chiếc ô tô.
+- Tôi đang tiết kiệm tiền **nhằm mua** một chiếc xe máy mới.
+- Anh ấy luyện tiếng Anh mỗi ngày **nhằm nói** được trôi chảy.
+- Chúng tôi đang cố gắng hết sức học tập **với hy vọng đỗ** kỳ thi tuyển sinh đại học.
+- Tôi đi thật khẽ **vì sợ đánh thức** em bé.
+- Tôi đi thật khẽ **vì sợ rằng** mình sẽ đánh thức em bé.
+- Anh ta không bao giờ ra ngoài vào ban ngày **vì sợ bị** nhận ra.
+- Anh ta không bao giờ ra ngoài vào ban ngày **vì sợ rằng** mình sẽ bị nhận ra.
+
+### Notes & exceptions
+
+- `to` trong `with a view to` là giới từ, nên theo sau là danh động từ chứ không bao giờ là động từ nguyên mẫu không `to` → xem [[To As Preposition]].
+- `for fear of` đi với danh động từ bị động khi chủ ngữ là đối tượng chịu tác động của hành động: *for fear of **being recognized*** (vì sợ bị nhận ra).
+- `for fear that + clause` tương đương với cấu trúc trang trọng `lest + S + should + V`.
+
+### Common mistakes
+
+- `to` trong `with a view to` là giới từ nên động từ theo sau phải ở dạng `-ing`.
+- Sau giới từ `of` trong `in the hope of`, động từ phải ở dạng `-ing`.
+
+### Contrast with
+
+- [[Infinitive of Purpose]] — cách diễn đạt mục đích thông thường, trung tính
+- [[Clauses of Purpose]] — một mệnh đề đầy đủ với `so that`
+- [[In Case and Lest]] — đề phòng một rắc rối có thể xảy ra

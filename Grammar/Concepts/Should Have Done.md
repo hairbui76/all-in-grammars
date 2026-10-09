@@ -57,4 +57,42 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`Should / ought to / had better + have + quá khứ phân từ` dùng để chê trách chuyện trong quá khứ: việc đúng thì đã không làm, hoặc việc sai thì lại làm.
+
+### Form
+
+`S + should / had better + have + PII` — đáng lẽ nên làm nhưng đã không làm
+`S + shouldn't + have + PII` — đã làm nhưng đáng lẽ không nên làm
+`S + ought to + have + PII` — cùng nghĩa với `should have + PII`
+`S + should + have been + V-ing` — đáng lẽ việc đó phải đang diễn ra vào lúc ấy nhưng lại không
+
+### Examples — positive criticism
+
+- Lẽ ra bạn **nên xin phép** bố mẹ trước khi đi chơi tối qua.
+- Lẽ ra bạn **nên nói** cho cô ấy biết sự thật.
+- Lẽ ra anh ấy **nên đi khám** mắt từ lâu rồi.
+- Lẽ ra thầy/cô **nên bắt** chúng em nói tiếng Anh trong giờ học.
+- Sếp giận tôi vì tôi chưa làm xong việc. Lẽ ra tôi **phải làm** việc đó từ tuần trước.
+
+### Examples — negative criticism
+
+- Lẽ ra họ **không nên trốn** học.
+- Lẽ ra họ **không nên lấy** xe máy của tôi đi mà không xin phép tôi.
+- Lẽ ra thầy/cô **không nên bắt** chúng em học thuộc lòng quá nhiều từ một lúc.
+
+### Examples — continuous form
+
+- Khi tôi đến, cậu ấy đang xem ti vi. Lẽ ra cậu ấy **không nên ngồi xem** ti vi. Lẽ ra cậu ấy **phải đang làm** bài tập về nhà.
+
+### Notes & exceptions
+
+- `ought to have + PII` hoàn toàn tương đương với `should have + PII`.
+- Dạng tương ứng ở hiện tại là `should be + V-ing`, nói về việc đáng lẽ phải đang diễn ra lúc này: *He **should be wearing** a warm coat.* (Lẽ ra ông ấy phải đang mặc áo khoác ấm.)
+
+### Contrast with
+
+- [[Should And Had Better]] — lời khuyên về hiện tại và tương lai
+- [[Needn't Have Done And Didn't Need To]] — một việc không cần thiết đã làm trong quá khứ, chứ không phải một việc đã bỏ không làm
+- [[Could Have Done]] — một khả năng trong quá khứ đã không được tận dụng, không hàm ý trách móc

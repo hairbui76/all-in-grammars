@@ -57,4 +57,44 @@ Names the thing that replaces the rejected option. It can stand at the beginning
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`Alternatively`, `otherwise` và `instead` đều đưa ra một phương án thứ hai, nhưng mỗi từ trả lời một câu hỏi khác nhau: một lựa chọn khác, hậu quả xấu nếu không chọn, hoặc thứ thay thế thực sự được chọn.
+
+### Alternatively — "or else you could ..."
+
+Giới thiệu một lựa chọn khác có thể có.
+
+- Nếu hàng bị lỗi, chúng tôi có thể đổi hàng khác. **Hoặc** chúng tôi có thể hoàn tiền cho quý khách.
+- Mình đi tàu hoả đi. **Hoặc là** mình có thể đi ô tô.
+
+### Otherwise — "if not, then ..."
+
+Nêu điều sẽ xảy ra nếu việc ở câu thứ nhất không được thực hiện. Dấu phẩy sau `otherwise` thường được lược bỏ.
+
+- Bạn phải nhấn nút. **Nếu không** máy sẽ không chạy.
+- Chúng ta phải chạy thôi, **nếu không** sẽ bị trễ mất.
+- Tom sẽ phải học chăm hơn. **Nếu không** cậu ấy sẽ trượt.
+
+### Instead — "in place of that"
+
+Nêu thứ thay thế cho phương án đã bị loại bỏ. Từ này có thể đứng ở đầu hoặc cuối mệnh đề.
+
+- Cô ấy không đi Hy Lạp. **Thay vào đó**, cô ấy đi Mỹ.
+- Chúng tôi hết cà phê rồi. Bạn dùng trà **thay thế** nhé?
+- Máy đánh chữ không còn được dùng nữa. **Thay vào đó**, phần lớn việc soạn thảo được thực hiện trên máy xử lý văn bản.
+
+### Notes & exceptions
+
+- `otherwise` hàm ý một điều kiện và thường có thể viết lại bằng `if ... not` → xem [[Implied Conditionals]].
+- `instead of` + danh từ / V-ing là giới từ, không phải từ nối câu: *She went to America **instead of** Greece.* (Cô ấy đi Mỹ thay vì đi Hy Lạp.)
+
+### Common mistakes
+
+- Để nêu hậu quả xấu nếu không làm việc vừa nói phải dùng `otherwise`; `instead` chỉ nêu thứ thay thế.
+
+### Contrast with
+
+- [[Connectors of Contrast]]
+- [[Conditional Conjunctions]] — `unless`, `provided that` làm cùng nhiệm vụ đó trong phạm vi một câu
+- [[Unless]]

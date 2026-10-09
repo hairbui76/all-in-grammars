@@ -66,4 +66,47 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Nhóm động từ đi với giới từ cố định `for`, thường thêm ý *một thứ được mong muốn, được yêu cầu hoặc phải giải thích, chịu trách nhiệm*.
+
+### Examples
+
+| Combination | Meaning | Example |
+|---|---|---|
+| account for | giải thích; chiếm (một tỉ lệ) | Bạn **giải thích** thế nào **về** số tiền bị thiếu? |
+| allow for | tính trước đến, trừ hao | Hãy **tính đến** chuyện kẹt xe nặng vào tối thứ Sáu. |
+| answer for | chịu trách nhiệm về | Một ngày nào đó bạn sẽ phải **chịu trách nhiệm về** những gì mình đã làm. |
+| ask for | xin, yêu cầu | Anh ấy **xin** một cốc nước. |
+| care for | thích; chăm sóc | Bạn có **muốn dùng** một tách trà không? / Cô ấy **chăm sóc** người mẹ già của mình. |
+| call for | đòi hỏi; đến đón, đến lấy | Tình hình **đòi hỏi** phải hành động ngay lập tức. |
+| count on someone for something | trông cậy vào ai để có được cái gì | Bạn cứ **trông vào** tôi, tôi sẽ chở bạn về nhà. |
+| cry for something | khóc đòi, kêu gào đòi cái gì | Em bé đang **khóc đòi** mẹ. |
+| cry for the moon | đòi hỏi điều không thể có được | Lúc này mà muốn tăng lương thì đúng là **đòi hái sao trên trời**. |
+| die for | thèm, muốn cái gì đến chết đi được | Tôi đang **thèm** một ly nước lạnh **chết đi được**. |
+| fill in for someone | làm thay việc của ai khi họ vắng mặt | Thứ Hai bạn **làm thay** tôi được không? |
+| go for | cố gắng giành lấy | Cô ấy đang **quyết giành** giải cao nhất. |
+| go in for | tham gia; ham thích | Anh ấy **ham thích** chạy đường dài. |
+| look for | tìm kiếm | Tôi **tìm** chìa khoá suốt cả buổi sáng nay. |
+| look out for | để ý quan sát để phát hiện ra | Hãy **để ý** một chiếc xe tải nhỏ màu xanh đỗ ngoài ngân hàng. |
+| make up for | bù đắp cho | Không gì có thể **bù đắp cho** những năm tháng chúng ta đã mất. |
+| pay for | trả tiền để đổi lấy | Ai sẽ **trả tiền cho** phần thiệt hại này? |
+| send for | nhắn, cho người gọi ai đến | Họ **cho mời** bác sĩ đến ngay. |
+| jump for joy | vui sướng tột độ | Cô ấy **nhảy cẫng lên vì vui sướng** khi có kết quả. |
+
+### Notes & exceptions
+
+- `care for` có hai nghĩa rất khác nhau: *thích / muốn* (thường dùng trong lời mời và câu hỏi) và *chăm sóc*.
+- `look for` = tìm kiếm; `look out for` = để mắt quan sát để nhận ra điều gì → xem [[Phrasal Verbs With Look]].
+- `go in for` = `take part in` (tham gia); `go for` = cố gắng giành được hoặc đạt được → xem [[Phrasal Verbs With Come And Go]].
+- Động từ đứng sau `for` phải là danh động từ: *account for **losing** the money* (giải thích về việc làm mất tiền) → xem [[Gerund After Prepositions]].
+
+### Common mistakes
+
+- `ask` cần giới từ `for` trước thứ được xin, không nối thẳng với tân ngữ đó.
+- Với nghĩa "tìm kiếm" phải dùng `look for`; thiếu `for` thì câu sai.
+
+### Contrast with
+
+- [[Verbs Followed By To]] — nhóm động từ tương ứng đi với `to`
+- [[Verb Preposition Combinations]] — danh sách rộng hơn gồm các cặp động từ + giới từ

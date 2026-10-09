@@ -44,4 +44,26 @@ Three sentences say the same thing and are freely rewritten into one another:
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Sau `This is the first/second/third ... time`, động từ theo sau chia ở thì hiện tại hoàn thành.
+
+### Examples
+
+- Đây là lần đầu tiên tôi **đi** máy bay.
+- Đây là lần thứ hai bạn **làm vỡ** bát rồi. Hôm qua bạn đã làm vỡ một cái.
+- Đây là lần thứ năm tôi **học** tiếng Anh ở đây.
+- Đây là lần đầu tiên tôi **ăn** loại thức ăn này.
+
+### Notes & exceptions
+
+Ba câu sau diễn đạt cùng một ý và có thể viết lại thành nhau một cách tự do:
+
+1. Đây là lần đầu tiên tôi **mặc** chiếc áo sơ mi này.
+2. Trước đây tôi **chưa bao giờ mặc** chiếc áo sơ mi này.
+3. Tôi **đang mặc** chiếc áo sơ mi này lần đầu tiên.
+
+### Contrast with
+
+- [[Present Perfect]] — thì bắt buộc phải dùng trong mệnh đề thứ hai
+- [[Present Continuous]] — dùng trong cách viết lại thứ ba ở trên

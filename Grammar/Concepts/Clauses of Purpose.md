@@ -68,4 +68,49 @@ Past reference → `could / would / might`.
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`so that` / `in order that` mở đầu một mệnh đề chỉ mục đích đầy đủ, dùng khi người được hưởng lợi từ mục đích đó khác với chủ ngữ của mệnh đề chính.
+
+### Form
+
+Nói về hiện tại hoặc tương lai → `can / will / may`.
+Nói về quá khứ → `could / would / might`.
+
+### When to use
+
+- Khi người thực hiện hành động chỉ mục đích khác với chủ ngữ của mệnh đề chính.
+- Khi cần nhắc lại chủ ngữ ban đầu cho rõ nghĩa.
+
+### Examples
+
+- Tàu thuỷ mang theo xuồng cứu sinh **để** thuỷ thủ đoàn **có thể thoát thân** nếu tàu chìm.
+- Con dao này có cán bằng bần **để** nó **sẽ nổi** nếu bị rơi khỏi tàu xuống nước.
+- Người ta làm tờ 10 đô la có kích thước khác tờ 5 đô la **để** người mù **có thể phân biệt** được chúng.
+- Họ viết các thông báo bằng nhiều thứ tiếng **để** du khách nước ngoài **có thể hiểu** được.
+- Tôi đang nhóm lửa **để** ngôi nhà **sẽ** ấm áp khi họ trở về.
+- Tôi đã đưa cho anh ấy một chiếc chìa khoá **để** anh ấy **có thể vào** nhà bất cứ khi nào anh ấy muốn.
+- Tôi ghim mẩu giấy nhắn lên gối của anh ấy **để** anh ấy chắc chắn **sẽ** nhìn thấy.
+- Cứ mỗi ki-lô-mét lại có một điểm đặt điện thoại **để** những tài xế bị hỏng xe **có thể** gọi cứu trợ.
+- Tôi sẽ xuất phát sớm **để** **không bị** kẹt xe.
+- Cô ấy làm việc chăm chỉ **để** mọi thứ **sẽ** sẵn sàng trước 6 giờ.
+- David đã ký giấy tờ **để** anh ấy **có thể làm việc** tại công ty xây dựng.
+- Chùm tia laser phải rất mạnh **để** nó **có thể khoan** xuyên qua những chiếc xương mỏng manh nhất.
+- Âm thanh được truyền từ màng nhĩ đến các dây thần kinh của tai **để** chúng ta **có thể nghe** được.
+
+### Notes & exceptions
+
+- Mệnh đề chỉ mục đích thường phải có động từ khuyết thiếu; nếu chỉ dùng thì hiện tại hoặc quá khứ không kèm động từ khuyết thiếu thì câu nghe giống mệnh đề chỉ kết quả hơn.
+- Mục đích phủ định được diễn đạt bằng `so that + S + won't/wouldn't + V`: *I'm going to make an early start **so that I won't get** stuck in the traffic* (tôi sẽ xuất phát sớm để không bị kẹt xe).
+- `in order that` trang trọng hơn `so that`.
+
+### Common mistakes
+
+- Mệnh đề sau `so that` cần có động từ khuyết thiếu (`can`), không dùng thì hiện tại đơn một mình.
+- `so that` phải đi với mệnh đề (S + V), không đi với `to + V`; muốn dùng động từ nguyên mẫu thì dùng `in order to`.
+
+### Contrast with
+
+- [[Infinitive of Purpose]] — dùng khi chủ ngữ và người thực hiện mục đích là một
+- [[In Case and Lest]] — chỉ sự đề phòng chứ không phải mục đích nhắm tới
+- [[Clauses of Result]] — `so ... that` diễn tả hệ quả, không phải ý định

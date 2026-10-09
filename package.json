@@ -9,10 +9,12 @@
     "dev": "vite",
     "prebuild": "npm run content",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "check:vi": "node scripts/build-content.mjs --check"
   },
   "devDependencies": {
     "marked": "^18.0.14",
+    "node-html-parser": "^9.0.4",
     "vite": "^8.3.2"
   },
   "dependencies": {

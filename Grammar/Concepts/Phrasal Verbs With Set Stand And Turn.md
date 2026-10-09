@@ -70,4 +70,56 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`Set` diễn tả việc bắt đầu và thành lập, `stand` diễn tả vị trí và sự đại diện, còn `turn` diễn tả sự thay đổi, sự từ chối và việc điều khiển máy móc.
+
+### Examples — set
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| set about | bắt đầu, bắt tay vào | Cô ấy **bắt tay vào** dọn bếp. |
+| set in | bắt đầu (nói về thời tiết hoặc một tình trạng khó chịu) | Năm nay mùa đông **đến** sớm. |
+| set off / set out | khởi hành, lên đường | Anh ấy **lên đường** đi làm cách đây một tiếng. |
+| set out | trình bày, nêu ra (ý kiến) | Ông ấy **trình bày** quan điểm của mình trong một lá thư dài. |
+| set someone back | làm ai chậm trễ hoặc cản trở ai | Cuộc đình công đã **làm** dự án **chậm lại** hai tháng. |
+| set up | thành lập, lập nên | Chúng ta cần rất nhiều tiền để **thành lập** một ngôi trường cho trẻ em năng khiếu. |
+
+### Examples — stand
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| stand by | ủng hộ, đứng về phía ai | Chúng tôi sẽ luôn **ở bên** bạn dù có khó khăn. |
+| stand for | tượng trưng cho, là chữ viết tắt của | Hai chữ cái UN **là viết tắt của** United Nations. |
+| stand in for | tạm thời thay thế ai | Cô ấy **làm thay** giám đốc trong lúc ông ấy ốm. |
+| stand out | nổi bật | Tôi không thích **nổi bật** giữa đám đông. |
+| stand up for | bênh vực, bảo vệ | Bạn phải **đấu tranh bảo vệ** quyền lợi của mình. |
+
+### Examples — turn
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| turn away | không cho vào | Họ bị **đuổi về** ngay từ cửa. |
+| turn down | từ chối; vặn nhỏ âm lượng | Tại sao cô ấy bị **từ chối** khi xin công việc đó? |
+| turn into | trở thành, biến thành | Jane đang **trở thành** một nhạc công điêu luyện. |
+| turn off | tắt | Vui lòng **tắt** hết đèn khi bạn ra khỏi phòng. |
+| turn on | bật | Làm ơn **bật** đèn giúp tôi, trời đang tối dần. |
+| turn out | hoá ra là, rốt cuộc là | Lần thử đầu tiên của tôi **hoá ra** khá ổn. |
+| turn in | đi ngủ | Tôi thường **đi ngủ** trước nửa đêm. |
+| turn up | xuất hiện, đến; vặn to âm lượng | Daisy mời năm mươi người đến dự tiệc, nhưng chỉ có hai mươi người **đến**. |
+
+### Notes & exceptions
+
+- `turn down` không rõ nghĩa nếu thiếu ngữ cảnh: nó có thể là *từ chối một lời đề nghị* hoặc *vặn nhỏ âm thanh*. `turn up` cũng vậy.
+- `set off` và `set out` dùng thay cho nhau được khi nói về việc bắt đầu một chuyến đi, nhưng chỉ `set out` mới có nghĩa là *nêu ra hoặc trình bày ý kiến*.
+- `stand for` trong câu phủ định còn có nghĩa là *chịu đựng*: *I won't **stand for** such rudeness.* (Tôi sẽ không chịu đựng sự thô lỗ như vậy.)
+
+### Common mistakes
+
+- Tân ngữ là đại từ phải đứng giữa động từ và tiểu từ: `turn it off`.
+- Từ chối một lời mời làm việc là `turn down`; `turn into` nghĩa là trở thành, biến thành.
+
+### Contrast with
+
+- [[Phrasal Verbs With Take And Put]] — `take up` / `put up` có phần trùng nghĩa với `set up`
+- [[Separable Phrasal Verbs]] — phần lớn các cụm với `turn` theo mẫu này

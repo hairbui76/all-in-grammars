@@ -43,4 +43,30 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`All in all` và `in short` khép lại một đoạn văn bằng cách gói gọn mọi điều vừa nói vào một câu kết luận cuối cùng.
+
+### The group
+
+| Connector | Note |
+|---|---|
+| `all in all` | cân nhắc mọi mặt rồi đưa ra nhận định chung |
+| `in short` | nói lại cùng nội dung đó một cách ngắn gọn hơn nhiều |
+| `in brief` / `to sum up` | cùng chức năng, trang trọng hơn |
+
+### Examples
+
+- Ông ấy là một người chồng tử tế, rộng rãi với bạn bè và chu đáo với mọi người. **Nhìn chung**, ông ấy là một người tốt.
+- Ông ấy là một người chồng tử tế, rộng rãi với bạn bè và chu đáo với mọi người. **Tóm lại**, ông ấy là một người tốt.
+
+### Notes & exceptions
+
+- Từ nối tóm tắt phải đứng sau ít nhất hai ý — nó không thể tóm tắt chỉ một câu.
+- Mệnh đề tóm tắt thường không đưa thêm thông tin mới; nếu có thông tin mới, hãy dùng [[Connectors of Addition]].
+- Dấu câu theo quy tắc chung → xem [[Sentence Connector Punctuation]].
+
+### Contrast with
+
+- [[Connectors of Explanation and Example]] — nói lại hoặc minh hoạ một ý, chứ không khép lại cả đoạn
+- [[Connectors of Result]] — nêu kết quả, không phải tóm tắt

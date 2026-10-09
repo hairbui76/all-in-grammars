@@ -44,4 +44,29 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Năm trạng từ — `never, just, already, yet, ever` — mỗi từ gắn cho thì hiện tại hoàn thành một ý nghĩa riêng.
+
+### The set
+
+| Adverb | Meaning | Position |
+|---|---|---|
+| never | hành động chưa từng xảy ra vào bất kỳ lúc nào tính đến hiện tại | trước quá khứ phân từ |
+| just | hành động vừa mới xảy ra cách đây rất ít lâu | trước quá khứ phân từ |
+| already | hành động đã xảy ra rồi, có thể sớm hơn dự kiến | trước quá khứ phân từ |
+| yet | trong câu phủ định và câu hỏi: tính đến bây giờ | cuối mệnh đề |
+| ever | vào bất kỳ lúc nào tính đến hiện tại: dùng trong câu hỏi và sau so sánh nhất | trước quá khứ phân từ |
+
+### Examples
+
+- Tôi **chưa bao giờ** đến nước Anh. — **Chưa bao giờ** ở đất nước này lại có nhiều người thất nghiệp đến thế.
+- Máy bay **vừa mới** cất cánh. — Đừng nói với ai điều tôi **vừa** nói nhé.
+- Tôi **đã** sửa xe **rồi**. — "Nhớ gửi thư giúp tôi nhé." "Tôi gửi **rồi**."
+- Chúng tôi **vẫn chưa** tốt nghiệp đại học. — Bạn ăn tối **chưa**?
+- Bạn đã **bao giờ** sống xa nhà chưa? — Đây là bộ phim hay nhất tôi **từng** xem.
+
+### Notes & exceptions
+
+- `already` dùng trong câu khẳng định, còn `yet` dùng trong câu phủ định và câu hỏi.
+- `never` tự nó đã làm cho mệnh đề mang nghĩa phủ định, nên không thêm từ phủ định thứ hai.

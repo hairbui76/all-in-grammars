@@ -58,4 +58,44 @@ Time words:
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Một nhóm từ thông dụng giữ nguyên hình thức dù bổ nghĩa cho danh từ (tính từ) hay cho động từ (trạng từ) — không thêm `-ly`.
+
+### The list
+
+`back`, `deep*`, `direct*`, `early`, `enough`, `fast`, `hard*`, `high*`, `ill`, `just`, `kindly`, `late`, `left`, `little`, `long`, `low`, `much / more / most*`, `near*`, `pretty*`, `right*`, `still`, `straight`, `well`, `wrong`
+
+Ngoài ra còn có các từ chỉ thời gian `daily`, `weekly`, `monthly`.
+
+(* = những từ này còn có một dạng `-ly` mang nghĩa **khác** → xem [[Adverbs With Two Forms]].)
+
+### Examples
+
+| Used as an adjective | Used as an adverb |
+| --- | --- |
+| cửa **sau** | Sớm **quay lại** nhé. |
+| tuyến đường **thẳng** nhất | Một số số máy bạn có thể gọi **trực tiếp**. |
+| một chuyến tàu **nhanh** | Tàu chạy **nhanh**. |
+| Công việc đó **vất vả**. | Họ làm việc **chăm chỉ**. (= hăng hái, hết sức) |
+| Trông bạn **ốm / khoẻ**. | một con đường làm **ẩu** |
+| câu trả lời **đúng** | Rẽ **phải** ở đây. |
+| một đường **thẳng** | Cô ấy đi **thẳng** về nhà. |
+| Đây là đường **sai** rồi. | Anh ta dẫn chúng tôi đi **sai** đường. |
+
+Các từ chỉ thời gian:
+
+- Tom đã **muộn**. (tính từ) — Tom đến **muộn**. (trạng từ)
+- Đó là một tờ báo ra **hằng tuần**. (tính từ) — Chúng tôi mua nó **hằng tuần**. (trạng từ)
+
+### Common mistakes
+
+- `fast` vừa là tính từ vừa là trạng từ; không có dạng *fastly*.
+- Trạng từ của `hard` vẫn là `hard`; `hardly` có nghĩa là "hầu như không".
+
+### Contrast with
+
+- [[Adverbs With Two Forms]] — `hard/hardly`, `late/lately`, `high/highly`
+- [[Adjectives Ending in -ly]] — những từ đuôi `-ly` chỉ là tính từ
+- [[Good and Well]] — cặp tính từ / trạng từ bất quy tắc
+- [[Forming Adverbs With -ly]] — quy tắc thông thường mà các từ này không theo

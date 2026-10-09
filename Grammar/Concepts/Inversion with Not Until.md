@@ -59,4 +59,38 @@ Not until/till + then/later/adverb of time + Auxiliary + S + V(bare)
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Đưa `not until / not till + cụm chỉ thời gian` lên đầu câu thì mệnh đề chính đảo ngữ, mang nghĩa "mãi đến lúc đó việc ấy mới xảy ra".
+
+### Examples
+
+- Cậu ấy không nói được cho đến khi lên 8 tuổi.
+  → **Mãi đến khi lên tám tuổi cậu ấy mới nói được.**
+  → Phải đến khi lên 8 tuổi cậu ấy mới nói được. (cách viết thay thế bằng câu chẻ)
+- Tôi không biết mình đã làm mất chìa khoá cho đến khi về đến nhà.
+  → **Mãi đến khi về đến nhà tôi mới biết** mình đã làm mất chìa khoá.
+- Anh ấy không trở về nước cho đến tháng Sáu vừa rồi.
+  → **Mãi đến tháng Sáu vừa rồi anh ấy mới trở về** nước.
+- Tiếng ồn bên nhà hàng xóm không dứt cho đến nửa đêm.
+  → **Mãi đến nửa đêm tiếng ồn bên nhà hàng xóm mới dứt.**
+
+### Notes & exceptions
+
+- Mệnh đề sau `not until` giữ trật tự từ bình thường; chỉ mệnh đề **chính** mới đảo ngữ.
+- Có hai cách viết lại cùng một ý:
+  - `It was not until + thời gian/mệnh đề + **that** + trật tự từ bình thường` (không đảo ngữ)
+  - `Not until + thời gian/mệnh đề + **trợ động từ + chủ ngữ + động từ**` (đảo ngữ)
+- Từ phủ định trong câu gốc biến mất ở mệnh đề đảo ngữ — ý phủ định đã do `not until` đảm nhận.
+
+### Common mistakes
+
+- Mệnh đề chính sau `Not until ...` phải đảo ngữ: mượn `did` đặt trước chủ ngữ.
+- `not until` đã mang ý phủ định nên mệnh đề đảo ngữ không dùng thêm `didn't`.
+- Cấu trúc `It was not until ...` đi với `that` và trật tự từ bình thường, không đảo ngữ.
+
+### Contrast with
+
+- [[Inversion with Only]] — `Only when ...` diễn đạt cùng ý đó
+- [[Cleft Sentences]] — `It was not until ... that ...`
+- [[Inversion with No Sooner and Hardly]]

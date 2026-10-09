@@ -59,4 +59,37 @@ smell / see / hear / notice / watch / listen to / feel + sb + V(bare) (complete 
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Sau `see, hear, watch, notice, feel, smell, listen to`, hiện tại phân từ cho thấy một phần của hành động đang diễn ra, còn động từ nguyên mẫu không `to` cho thấy toàn bộ hành động từ đầu đến cuối.
+
+### Examples with `V-ing` — part of an action
+
+- Ngày nào tôi cũng **thấy anh ấy đi ngang qua** nhà tôi.
+- Tôi bỗng **cảm thấy một con côn trùng đang bò** lên chân mình.
+- Anh ấy **ngửi thấy có gì đó đang cháy** và **nhìn thấy khói đang bốc lên**.
+- Bạn có **nghe thấy đồng hồ đang điểm chuông** không?
+
+### Examples with the bare infinitive — the whole action
+
+- Tôi **thấy anh ta bước vào** phòng, đi đến bàn, mở ngăn kéo, lấy ra một tài liệu, chụp ảnh nó rồi đặt lại chỗ cũ.
+- Bạn đã bao giờ **nghe Michael Jackson hát** bài "Heal the World" chưa?
+- Anh ấy **nghe đồng hồ điểm** 6 giờ và biết rằng đã đến lúc mình phải đi.
+- Tôi **thấy anh ta lên** xe và lái đi.
+
+### Notes & exceptions
+
+- Sau các động từ này ở thể chủ động, động từ nguyên mẫu được dùng **không có `to`**.
+- Một số câu dùng được cả hai dạng, nghĩa chỉ khác nhau đôi chút: `Did you hear the clock striking/strike?`
+- Ở thể bị động, `to` xuất hiện trở lại: *He was seen **to enter** the building* (người ta thấy anh ta đi vào toà nhà).
+
+### Common mistakes
+
+- Sau `see` ở thể chủ động dùng động từ nguyên mẫu không `to`, không dùng `to + V`.
+- Sau `feel` không dùng `to + V`; hành động đang diễn ra thì dùng `V-ing`.
+
+### Contrast with
+
+- [[Bare Infinitive]] — toàn bộ các động từ đi với động từ nguyên mẫu không `to`
+- [[Present Participle]]
+- [[Verb Patterns with V-ing]] — `catch/find/leave sb doing`

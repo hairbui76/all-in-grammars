@@ -244,6 +244,9 @@
 .fc-ex li {
   margin: 0.4em 0;
 }
+.fc-lead .vi {
+  margin-top: 0.35em;
+}
 .fc-ex strong {
   font-weight: 600;
   color: var(--accent-ink);

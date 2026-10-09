@@ -41,4 +41,27 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`have been to` = đã đến đó và đã trở về; `have gone to` = đã đi đến đó và hiện vẫn chưa về.
+
+### Form
+
+`S + have/has been to + place` · `S + have/has gone to + place`
+
+### Examples
+
+- Bố tôi **đã từng đến** nhiều nước trên thế giới. (giờ ông đã về nhà)
+- Tôi chưa bao giờ **đến** nước Anh.
+- Anh ấy không có ở đây. Anh ấy **đi** ngân hàng **rồi**. (anh ấy vẫn đang ở đó)
+- Lan **đã đi** Thành phố Hồ Chí Minh và đến tháng sau mới về.
+
+### Notes & exceptions
+
+- Vì `have gone to` có nghĩa là người đó vẫn đang vắng mặt, nên cấu trúc này thường không dùng với `I` hay `we` ở thì hiện tại hoàn thành.
+- `have been in` (chứ không phải `to`) diễn tả ai đó đã ở một nơi được bao lâu: *He has been in Ha Noi for 3 years* (anh ấy đã ở Hà Nội được 3 năm).
+
+### Contrast with
+
+- [[Present Perfect]] — thì mà cả hai cấu trúc này đều thuộc về
+- [[Past Simple]] — dùng khi thời điểm của chuyến đi được nêu rõ

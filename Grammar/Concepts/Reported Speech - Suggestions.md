@@ -79,4 +79,48 @@ Reported:
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Câu đề xuất một hành động được tường thuật bằng `suggest` (có bốn cấu trúc) hoặc bằng `advise`, không bao giờ dùng `suggest + to-infinitive`.
+
+### Form
+
+Các dạng trực tiếp dùng để đưa ra lời đề nghị:
+
+Tường thuật bằng:
+
+### When to use
+
+- Dùng `suggest` khi người nói đề xuất một việc cùng làm hoặc một việc chung chung
+- Dùng `advise sb to do smth` khi lời đề xuất hướng tới một người, như một lời khuyên
+
+### Examples
+
+Các dạng đề nghị trực tiếp:
+
+- **Chúng ta hãy** ra ngoài cho đổi không khí đi. / Tối nay **chúng ta** đi ăn ngoài **đi**.
+- **Chúng ta** nghỉ giải lao một chút **nhé**? / **Chúng ta** làm tiệc nướng **nhé**?
+- Tối nay đi nghe hoà nhạc **thì sao**?
+- Đi bằng tàu hoả **thì sao**? / Mời gia đình Brown đến dự tiệc **thì sao**?
+- **Sao bạn không** nhờ Jack giúp? / **Sao không** nhờ Jack giúp?
+
+Tường thuật:
+
+- "Chiều nay chúng ta đi bơi nhé?" anh ấy nói → Anh ấy **đề nghị chúng tôi đi** bơi chiều hôm đó.
+- "Chúng ta dừng bài học ở đây rồi học nốt sau nhé," thầy giáo nói → Thầy giáo **đề nghị chúng tôi dừng** bài học ở đó rồi học nốt sau.
+- "Sao bạn không cởi áo khoác ra?" anh ấy nói → Anh ấy **khuyên tôi cởi** áo khoác ra.
+
+### Notes & exceptions
+
+- Sau `suggest` không bao giờ dùng tân ngữ + to-infinitive: ❌ *He suggested me to go.*
+- Sau `suggest that` có thể lược bỏ `should`, chỉ còn lại động từ nguyên mẫu không `to` (dạng giả định gọi là *mandative subjunctive*).
+- `Why don't you ...?` và `You'd better ...` thường được tường thuật bằng `advise`, vì chúng nói với một người cụ thể.
+
+### Common mistakes
+
+- `suggest` không đi với tân ngữ + to-infinitive; phải dùng `suggest (that) + S + should + V`.
+
+### Contrast with
+
+- [[Reported Speech - Commands]] — nhóm dùng to-infinitive
+- [[Reported Speech - Exclamations]] — tường thuật cảm xúc chứ không phải lời đề xuất

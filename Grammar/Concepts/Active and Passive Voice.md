@@ -53,4 +53,36 @@ The general passive rule is always `to be + past participle`, with `be` carrying
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Câu chủ động đặt người thực hiện hành động ở vị trí chủ ngữ; câu bị động đặt đối tượng chịu tác động của hành động vào vị trí đó và không bắt buộc phải nêu người thực hiện.
+
+### Form
+
+- Chủ động: `S (doer) + V + Object`
+- Bị động: `S (receiver) + be + P2 (past participle) + (by + Agent)`
+
+Quy tắc chung của câu bị động luôn là `to be + past participle`, trong đó `be` mang thì của động từ trong câu chủ động ban đầu.
+
+### How to convert an active sentence
+
+1. Xác định thì của động từ trong câu chủ động — `be` trong câu bị động phải chia ở đúng thì đó.
+2. Đưa tân ngữ của câu chủ động lên vị trí chủ ngữ.
+3. Đặt chủ ngữ của câu chủ động sau `by` (hoặc lược bỏ nếu không rõ là ai hay không quan trọng).
+4. Nếu động từ có hai tân ngữ thì có thể viết được hai câu bị động; thông thường tân ngữ chỉ người được chọn làm chủ ngữ của câu bị động.
+
+### When to use
+
+- Chủ động: khi người thực hiện hành động đã được biết và có liên quan đến điều muốn nói.
+- Bị động: khi không rõ người thực hiện hành động, hoặc khi người nói muốn nhấn mạnh đối tượng chịu tác động của hành động hơn là người thực hiện.
+
+### Examples
+
+- Ông tôi **đã mua** ngôi nhà này cách đây 20 năm. → Ngôi nhà này **được** ông tôi **mua** cách đây 20 năm.
+- Newton **đã phát minh ra** thuyết vạn vật hấp dẫn. → Thuyết vạn vật hấp dẫn **được** Newton **phát minh ra**.
+- Thầy John **dạy** chúng tôi tiếng Anh. → Chúng tôi **được** thầy John **dạy** tiếng Anh.
+
+### Notes & exceptions
+
+- `by + agent` thường được lược bỏ khi tác nhân là `they`, `people`, `someone`, hoặc khi tác nhân đã quá rõ ràng.
+- Chỉ ngoại động từ (động từ có tân ngữ) mới chuyển được sang bị động.

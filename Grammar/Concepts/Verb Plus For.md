@@ -78,4 +78,64 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`For` đi sau các động từ chỉ sự mong muốn, tìm kiếm, trả tiền và đổ lỗi, và nêu lý do hoặc người được hưởng lợi.
+
+### Form
+
+`V + for + noun / V-ing`
+`V + object + for + noun`
+
+### Verb + for
+
+| Combination | Meaning | Example |
+|---|---|---|
+| apply **for** sth | nộp đơn xin | Cô ấy **nộp đơn xin** học bổng. |
+| ask **for** | yêu cầu, xin | Anh ấy **xin** thêm thời gian. |
+| arrange **for** | thu xếp, sắp đặt để | Tôi đã **thu xếp** để một chiếc taxi đến đón chúng tôi. |
+| beg **for** sth | van xin, nài xin | Con chó **xin** ăn. |
+| hope **for** | hy vọng có được | Chúng tôi đang **hy vọng** thời tiết sẽ đẹp hơn. |
+| long **for** | mong mỏi, khao khát | Cô ấy **mong ngóng** kỳ nghỉ. |
+| look **for** | tìm kiếm | Tôi đang **tìm** chìa khoá. |
+| wait **for** | chờ, đợi ai hoặc điều gì đến | Đừng **đợi** tôi. |
+| pay **for** sth | trả tiền cho cái gì | Anh ấy **trả tiền** vé. |
+| stand **for** | là viết tắt của, tượng trưng cho | UN **là viết tắt của** United Nations (Liên Hợp Quốc). |
+| work **for** sb | làm việc cho ai | Cô ấy **làm việc cho** một ngân hàng. |
+| care **for** | chăm sóc; thích | Ai **chăm sóc** khu vườn? |
+
+### Verb + object + for
+
+| Combination | Meaning | Example |
+|---|---|---|
+| blame sb **for** sth | đổ lỗi cho ai về việc gì | Đừng **đổ lỗi cho** tôi **về** sai sót đó. |
+| punish sb **for** sth | phạt ai vì việc gì | Cậu ấy bị **phạt vì** gian lận. |
+| fine sb **for** sth | phạt tiền ai vì việc gì | Cô ấy bị **phạt tiền vì** chạy quá tốc độ. |
+| borrow sth **for** sb | mượn cái gì hộ ai | Tôi **mượn** một cây bút **cho** cô ấy. |
+| provide sth **for** sb | cung cấp cái gì cho ai | Nhà trường **cung cấp** bữa trưa **cho** học sinh. |
+| supply sth **for** sb | cung ứng cái gì cho ai | Họ **cung ứng** vật liệu **cho** thợ xây. |
+| fight **with** sb **for** sth | đấu tranh với ai để giành cái gì | Họ **đấu tranh với** hội đồng địa phương **để giành** kinh phí. |
+
+### Fixed verb + noun + for
+
+| Phrase | Meaning | Example |
+|---|---|---|
+| make room **for** | dọn chỗ, nhường chỗ cho | Xin hãy **nhường chỗ cho** chiếc xe đẩy. |
+| make allowance **for** | tính đến, châm chước cho | Hãy **châm chước cho** sự thiếu kinh nghiệm của cậu ấy. |
+
+### Notes & exceptions
+
+- `provide / supply` dùng được với `sth **for** sb` hoặc `sb **with** sth` → xem [[Verb Plus With And From]].
+- `apply for` một công việc, nhưng `apply to` một người hoặc một tổ chức → xem [[Verb Plus To]].
+- `pay for sth` nhưng `pay sb`: giới từ biến mất khi đứng trước người.
+- Động từ đứng sau `for` ở dạng `-ing`: `apologize **for** being late` → xem [[Gerund After Prepositions]].
+
+### Common mistakes
+
+- `wait` cần giới từ `for` trước người hoặc vật được chờ.
+- Đổ lỗi cho ai về việc gì là `blame sb for sth`, không dùng `about`.
+
+### Contrast with
+
+- [[Verb Plus To]] — hướng tới một người
+- [[Verb Plus Of]] — nguyên nhân và nội dung

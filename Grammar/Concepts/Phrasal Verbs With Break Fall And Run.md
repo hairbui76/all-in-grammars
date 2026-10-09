@@ -76,4 +76,62 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Ba động từ gốc kết hợp với tiểu từ để diễn tả sự hỏng hóc, thất bại, sụp đổ và những cuộc gặp gỡ tình cờ.
+
+### Examples — break
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| break down | ngừng hoạt động, hỏng (xe cộ, máy móc) | Xe của chúng tôi **bị hỏng** bên lề đường cao tốc. |
+| break down | suy sụp tinh thần, oà khóc | Người phụ nữ **suy sụp** khi cảnh sát báo tin con trai bà đã chết. |
+| break something down | chia thành các phần nhỏ hơn | Thầy giáo của chúng tôi **chia** bài tập lớn cuối khoá thành ba phần riêng biệt. |
+| break in | đột nhập vào một toà nhà | Đêm qua có kẻ **đột nhập** và lấy trộm dàn âm thanh của chúng tôi. |
+| break in | ngắt lời, cắt ngang | Đài truyền hình **cắt ngang** chương trình để đưa tin. |
+| break into something | phá cửa xông vào | Lính cứu hoả phải **phá cửa vào** phòng để cứu bọn trẻ. |
+| break off | chấm dứt (một mối quan hệ); ngừng nói | Họ đã **huỷ** hôn ước. |
+| break out | bùng nổ đột ngột (hoả hoạn, chiến tranh); trốn thoát | Một đám cháy đã **bùng lên** trong bệnh viện đêm qua. |
+| break out in something | bị nổi một chứng bệnh ngoài da | Tôi **bị nổi** mẩn sau chuyến đi cắm trại của chúng tôi. |
+| break up | chia tay, chấm dứt một mối quan hệ | Tôi và bạn trai đã **chia tay** trước khi tôi chuyển đến Mỹ. |
+| break up | (trường học) đóng cửa nghỉ lễ | Khi nào trường bạn **nghỉ**? |
+
+### Examples — fall
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| fall behind | không theo kịp, tụt lại phía sau | Anh ấy **chậm trễ** trong việc thanh toán các khoản tiền. |
+| fall for | phải lòng, mê; bị lừa bởi | Cả gia đình **mê** ngay ngôi nhà mới từ lúc nhìn thấy nó. |
+| fall in with | đồng ý với; tình cờ gặp | Cô ấy **tán thành** kế hoạch của chúng tôi ngay lập tức. |
+| fall off | giảm đi | Số người tham dự đã **giảm** kể từ Giáng sinh. |
+| fall out | cãi nhau | Jim và Mary cứ vài tuần lại **cãi nhau** một lần, nhưng những trận cãi vã của họ không bao giờ kéo dài. |
+| fall through | không thành, đổ bể | Kế hoạch **đổ bể** khi hoá ra nó quá tốn kém. |
+| fall back on | trông vào như phương án cuối cùng | Nếu mất việc, tôi có thể **trông vào** khoản tiết kiệm của mình. |
+
+### Examples — run
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| run across / run into | tình cờ gặp | Hôm qua lúc đi mua sắm, tôi **tình cờ gặp** một người bạn cũ. |
+| run after | đuổi theo | Con chó **đuổi theo** người đưa thư. |
+| run away from | trốn khỏi, bỏ đi khỏi | Anh ấy **bỏ** nhà **đi** năm mười sáu tuổi. |
+| run back | chạy quay lại | Cô ấy **chạy quay lại** để lấy ô. |
+| run down | cắt giảm, thu hẹp; chê bai | Nhà máy đang bị **thu hẹp dần** hoạt động. |
+| run out of | hết, không còn | Tôi **hết** cà phê rồi, bạn uống trà nhé? |
+| run over | cán, đâm ngã bằng xe | Đứa trẻ bị một chiếc xe tải **cán**. |
+
+### Notes & exceptions
+
+- `break down` có một nghĩa ngoại động từ tách được (*break a project down*) và hai nghĩa nội động từ (nói về máy móc, nói về người).
+- `fall through` (kế hoạch thất bại) dễ bị nhầm với `fall out` (người ta cãi nhau) và `fall off` (số lượng giảm đi).
+- `run out` đứng một mình có nghĩa là *bị dùng hết* (*the petrol ran out*), nhưng khi có tân ngữ thì cần thêm `of` (*we ran out of petrol*).
+
+### Common mistakes
+
+- Khi có tân ngữ theo sau, `run out` phải có giới từ `of`.
+- Kế hoạch không thành thì dùng `fall through`; `fall out` có nghĩa là cãi nhau.
+
+### Contrast with
+
+- [[Phrasal Verbs With Come And Go]] — các động từ khác chỉ sự chuyển động và sự việc xảy ra
+- [[Three Part Phrasal Verbs]] — `run out of`, `fall back on`, `fall in with`

@@ -57,4 +57,34 @@ S + V + (object) + MANNER + PLACE + TIME
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Khi nhiều trạng ngữ cùng đứng cuối mệnh đề, chúng theo trật tự **cách thức – nơi chốn – thời gian**, và không trạng từ nào được chen giữa động từ và tân ngữ của nó.
+
+### Examples
+
+- Cô ấy hát **rất hay** (cách thức) **ở buổi hoà nhạc** (nơi chốn) **tối qua** (thời gian).
+  [không nói: ~~last night at the concert~~]
+- Anh ấy làm việc **ở xưởng sửa xe** (nơi chốn) **vào các ngày thứ Ba** (thời gian).
+  [không nói: ~~on Tuesdays in the garage~~]
+- Chúng ta **đi ngủ** (nơi chốn) **sớm** (thời gian) thôi.
+  [không nói: ~~early to bed~~]
+
+### Notes & exceptions
+
+- Không bao giờ đặt trạng từ giữa động từ và tân ngữ của nó:
+  - Họ nói tiếng Anh **rất giỏi**. [không nói: ~~speak very well English~~]
+  - Bạn làm việc của mình **bây giờ** được không? [không nói: ~~do now your work~~]
+- Trạng từ chỉ tần suất là ngoại lệ — chúng đứng trước động từ chính chứ không đứng cuối câu → xem [[Adverbs of Frequency]].
+- Trạng từ chỉ cách thức có thể chuyển lên trước động từ khi tân ngữ dài → xem [[Adverbs of Manner]].
+- Trạng từ chỉ thời gian cũng có thể được đưa lên đầu câu để nhấn mạnh: *Yesterday I had my car serviced* (hôm qua tôi đem xe đi bảo dưỡng).
+
+### Common mistakes
+
+- Sai trật tự: phải theo thứ tự cách thức (`very well`) – nơi chốn (`at the concert`) – thời gian (`last night`).
+- Không đặt `very much` giữa động từ `like` và tân ngữ `this song`; nó phải đứng sau tân ngữ.
+
+### Contrast with
+
+- [[Order of Adjectives]] — quy tắc trật tự tương ứng dành cho tính từ
+- [[Adverbs of Frequency]] — đứng giữa câu, không đứng cuối câu

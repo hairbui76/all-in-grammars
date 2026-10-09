@@ -58,4 +58,37 @@ Regular verbs add `-ed` (see [[Spelling Rules for -ED Forms]]); irregular verbs 
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Diễn tả một hành động đã kết thúc tại một thời điểm xác định trong quá khứ, không quan tâm đến kết quả ở hiện tại.
+
+### Form
+
+Động từ có quy tắc thêm `-ed` (xem [[Spelling Rules for -ED Forms]]); động từ bất quy tắc phải học thuộc lòng.
+
+### When to use
+
+- Hành động đã xảy ra và kết thúc trong quá khứ, không còn kết quả kéo dài đến hiện tại
+- Chuỗi hành động xảy ra nối tiếp nhau trong quá khứ
+- Các sự kiện lịch sử
+- Hành động xen vào giữa một hành động khác đang diễn ra trong quá khứ
+
+### Examples
+
+- Hồi nhỏ, tôi **sống** ở một ngôi làng nhỏ.
+- Bảy năm trước, bạn 17 tuổi còn tôi 20 tuổi.
+- Sáng nay tôi **dậy** lúc 5 giờ. Tôi **tập** thể dục 15 phút. Tôi **đánh** răng và **rửa** mặt.
+- Chủ tịch Hồ Chí Minh **đọc** bản Tuyên ngôn Độc lập tại Quảng trường Ba Đình ngày 2 tháng 9 năm 1945.
+- Họ đang đá bóng thì trời **mưa**.
+
+### Notes & exceptions
+
+- Thì này đi với các trạng từ chỉ thời gian đã kết thúc: *yesterday* (hôm qua), *the day before yesterday* (hôm kia), *last week / month / year* (tuần / tháng / năm trước), *in 1975* (năm 1975), *20 years ago* (20 năm trước), *once upon a time* (ngày xửa ngày xưa), *when I was a child* (khi tôi còn nhỏ).
+- Người nói chỉ nghĩ về quá khứ, không quan tâm hiện tại ra sao: *I **lost** my key* (tôi đã làm mất chìa khoá) / *I **lived** in Thai Nguyen for 10 years* (tôi đã sống ở Thái Nguyên 10 năm, giờ không còn ở đó nữa).
+- Các động từ chỉ sự thay đổi tức thời (*start, begin, buy, become, escape, die, marry*) không dùng với `since`/`for` ở thì hoàn thành; hãy dùng quá khứ đơn: *I **bought** this car two months ago* (tôi mua chiếc xe này hai tháng trước), không nói *I have bought this car for two months*.
+
+### Contrast with
+
+- [[Present Perfect]] — không có thời điểm quá khứ xác định, kết quả vẫn còn liên quan đến hiện tại
+- [[Past Continuous]] — hành động đang diễn ra tại một thời điểm trong quá khứ
+- [[Past Perfect]] — hành động xảy ra trước một hành động khác trong quá khứ

@@ -67,4 +67,52 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Một nhóm động từ thông dụng thường được theo sau bởi dạng `-ing`, hoặc trực tiếp hoặc sau một tân ngữ.
+
+### Patterns
+
+| Pattern | Verbs | Example |
+|---|---|---|
+| `have + obj + V-ing` | have | Anh ấy bắt tôi **bơi** suốt một tuần. |
+| `catch / find / leave + sb + V-ing` | catch, find, leave | Tôi bắt gặp cô ấy đang **hái** táo. |
+| `spend + money/time + V-ing / on + N` | spend | Anh ấy dành cả buổi chiều để **sửa** xe. |
+| `waste + money/time + V-ing / on + N` | waste | Đừng phí tiền **mua** những thứ bạn không cần. |
+| `be busy + V-ing / with + N` | be busy | Cô ấy đang bận **làm** việc nhà. |
+| `go / come + V-ing` | go, come | Tối thứ Bảy nào họ cũng đến **khiêu vũ**. |
+
+### Examples
+
+- Anh ấy bắt tôi **bơi** suốt một tuần.
+- Tôi sẽ không để cho nó **lau** xe đạp trong bếp đâu.
+- Nếu cô ấy bắt gặp bạn đang **đọc** nhật ký của cô ấy, cô ấy sẽ nổi giận lắm đấy.
+- Tôi bắt gặp cô ấy đang **hái** táo trong vườn cây ăn quả.
+- Tôi thấy anh ấy đang **câu cá** ở sông.
+- Tôi để mặc họ **nói chuyện** với nhau rất lâu.
+- Cô ấy đang bận **làm** việc nhà.
+- Phụ nữ tiêu rất nhiều tiền **vào mỹ phẩm**.
+- Đừng phí tiền **mua** những thứ bạn không cần.
+- Anh ấy phí cả buổi chiều để **sửa** xe.
+- Tối thứ Bảy nào họ cũng đến **khiêu vũ**.
+- Bạn có hay **đi mua sắm** không?
+- Hồi nhỏ tôi thường **đi bơi**.
+
+### Notes & exceptions
+
+- `go / come + V-ing` chủ yếu dùng với các hoạt động thể chất: `go shopping, skiing, sightseeing, sailing, camping, fishing, hunting, picnicking, swimming`.
+- `spend / waste` đi với `+ V-ing` hoặc `+ on + danh từ`:
+  - `Spend + a sum of money / a period of time + V-ing` hoặc `+ on + N`
+  - `Be busy with + N` hoặc `Be busy + V-ing`
+
+### Common mistakes
+
+- Sau `be busy` dùng `V-ing`, không dùng `to V`.
+- Sau `spend + thời gian` dùng `V-ing`, không dùng `to V`.
+- Nói về hoạt động thể chất, giải trí thì dùng `go + V-ing`, không dùng `go to + V`.
+
+### Contrast with
+
+- [[Verbs of Perception with V-ing and Bare Infinitive]] — `see/hear sb doing` khác với `do`
+- [[Gerunds]] — `-ing` đóng vai trò danh từ
+- [[Causative Form]] — `have + obj + V3` khác với `have + obj + V-ing`

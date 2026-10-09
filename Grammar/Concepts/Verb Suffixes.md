@@ -44,4 +44,29 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Đuôi `-en` được thêm vào một số tính từ để tạo động từ mang nghĩa *làm cho / trở nên ... hơn*.
+
+### Form
+
+`adjective + -en` → động từ mang nghĩa *làm cho (thêm) + tính từ*
+
+| Adjective | Verb | Adjective | Verb |
+|---|---|---|---|
+| tight | tighten | less | lessen |
+| weak | weaken | sharp | sharpen |
+| light | lighten | wide | widen |
+
+### Examples
+
+- Con vít đó bị lỏng. Hãy **siết chặt** nó bằng tua vít.
+- Bạn có thể **giảm bớt** nguy cơ bị trộm bằng cách khoá xe đạp lại.
+- Bạn có dao không? Tôi muốn **gọt** bút chì.
+- Con đường này rất hẹp nhưng họ đang lên kế hoạch **mở rộng** nó.
+
+### Notes & exceptions
+
+- Tiền tố `en-` làm cùng việc đó nhưng đứng ở đầu từ: `danger → endanger`, `rich → enrich` → xem [[Prefixes]].
+- `-ise / -ize` cũng tạo động từ (`apology → apologise`, `modern → modernise`) và chuyển trọng âm về âm tiết thứ ba tính từ cuối lên → xem [[Suffixes That Shift Stress Three Syllables Back]].
+- `-en` không ảnh hưởng đến trọng âm: `ˈtighten`, `ˈwiden`.

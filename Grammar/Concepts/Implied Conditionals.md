@@ -60,4 +60,38 @@ Regret used as an implied conditional:
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Ý nghĩa điều kiện có thể được diễn đạt mà không cần mệnh đề `if`, bằng `otherwise`, bằng câu mệnh lệnh + `or`, hoặc bằng `What a pity ...`.
+
+### When to use
+
+- Lời cảnh báo và đe doạ trong văn nói, khi câu mệnh lệnh ngắn gọn hơn mệnh đề `if`
+- Các câu nối tiếp khi điều kiện đã được nêu trước đó, nên `otherwise` quy chiếu ngược lại điều kiện ấy
+
+### Examples
+
+Câu mệnh lệnh + `or`:
+
+- **Đi đi, nếu không** tôi sẽ gọi cảnh sát. → Nếu anh **không đi**, tôi sẽ gọi cảnh sát.
+- **Cẩn thận kẻo** bị đứt tay đấy. → Nếu bạn **không cẩn thận**, bạn sẽ bị đứt tay.
+
+`Otherwise`:
+
+- Tôi không giàu. **Nếu không thì** tôi đã giúp đỡ người nghèo. (= Nếu tôi giàu, tôi sẽ giúp đỡ người nghèo.)
+- Anh ấy đến ga quá muộn. **Nếu không thì** anh ấy đã bắt kịp chuyến tàu.
+
+Lời tiếc nuối dùng như một câu điều kiện ẩn:
+
+- **Tiếc là** bạn đã không xem trận đấu. Bạn **hẳn đã thích** nó.
+
+### Notes & exceptions
+
+- `Otherwise` đi với dạng động từ khuyết thiếu của loại câu điều kiện được ngầm hiểu: `would + V` cho điều không có thật ở hiện tại, `would have + V3` cho điều không có thật trong quá khứ.
+- Cấu trúc câu mệnh lệnh + `or` luôn được chuyển thành mệnh đề `if` **phủ định**.
+
+### Contrast with
+
+- [[Unless]] — điều kiện phủ định được nói rõ
+- [[But For and Without]] — điều kiện được rút gọn thành một cụm danh từ
+- [[First Conditional]] — dạng có mệnh đề `if` tường minh

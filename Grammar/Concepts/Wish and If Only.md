@@ -82,4 +82,59 @@ Past regrets:
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`wish` và `if only` diễn tả mong muốn về một điều không có thật, dùng dạng quá khứ cho điều ước ở hiện tại và quá khứ hoàn thành cho sự tiếc nuối về quá khứ.
+
+### Form
+
+`If only` thay cho `wish` với cùng các cấu trúc, mang sắc thái mạnh hơn và giàu cảm xúc hơn.
+
+### When to use
+
+- A: tình hình hiện tại trái ngược với điều bạn muốn
+- B: bạn bực mình và muốn một hành động thay đổi hoặc bắt đầu; chủ ngữ của `wish` không thể đồng thời là chủ ngữ của `would`
+- C: bạn tiếc về điều đã xảy ra hoặc đã không xảy ra trong quá khứ
+
+### Examples
+
+Điều ước ở hiện tại:
+
+- **Ước gì** tôi **biết** địa chỉ của anh ấy. (= Tôi tiếc là tôi không biết địa chỉ của anh ấy.)
+- **Giá mà** bạn **biết lái** xe hơi.
+- **Ước gì** anh ấy **đi** cùng chúng ta.
+- Cô ấy **ước** ở London trời **không mưa** nhiều.
+- **Giá mà** bây giờ bạn **ở** đây.
+
+Điều ước với `would`:
+
+- Radio đã bật từ 6 giờ đến giờ. **Ước gì** có ai đó **tắt** nó đi.
+- **Ước gì** anh ấy **viết thư** thường xuyên hơn.
+- **Ước gì** giá cả **giảm** xuống.
+- **Ước gì** họ **ngừng** chế tạo bom.
+
+Tiếc nuối về quá khứ:
+
+- **Ước gì** tôi **đã mua** ngôi nhà đó. (= Tôi tiếc vì đã không mua ngôi nhà đó.)
+- Anh ấy **ước** mình **đã không cưới** cô ấy.
+- **Ước gì** tôi **được sinh ra** trong giàu sang.
+- Bạn có ước mình **đã học** tiếng Anh thay vì tiếng Nga không?
+
+### Notes & exceptions
+
+- `were` được dùng cho mọi ngôi: *I wish I **were** rich and famous* (ước gì tôi giàu có và nổi tiếng).
+- Không thể nói `I wish I would ...`, vì `would` đòi hỏi chủ ngữ khác với chủ ngữ của `wish`.
+- `wish + would` mong muốn một **hành động** thay đổi, chứ không phải một tình huống.
+- `wish + would` chỉ dùng với những hành động mà chủ ngữ **có thể kiểm soát**, và thường thể hiện sự quan tâm đến việc người đó sẵn lòng hay không sẵn lòng: *I wish he **would wear** a coat* (= tôi tiếc là anh ấy không chịu mặc áo khoác).
+- `I wish you would ...` có thể dùng làm lời yêu cầu, nhưng thường mang ý trách móc: *I wish you would help me* (ước gì bạn giúp tôi) thường hàm ý "Lẽ ra bạn phải ngỏ ý giúp tôi rồi"; *I wish you would stop interrupting* (ước gì bạn thôi ngắt lời) thể hiện sự bực bội. Khi dùng để đáp lại một lời đề nghị giúp đỡ thì nó không mang cảm xúc đó: *Shall I help you check the accounts? ~ I **wish you would**.* (Tôi giúp bạn kiểm tra sổ sách nhé? ~ Được thế thì tốt quá.)
+- `if only` có thể thay cho `wish + would` theo cách tương tự, nhưng không dùng trong lời yêu cầu; nó giàu kịch tính hơn: *If only he **would join** our party!* (Giá mà anh ấy chịu tham gia cùng chúng ta!)
+- `wished` có thể thay cho `wish` mà không làm đổi dạng giả định: *I **wished** I hadn't spent so much money* (tôi đã ước giá mà mình không tiêu nhiều tiền như thế).
+- Các cách nói tương đương: `I'm sorry (that) ...`, `What a pity ...`, `It is a pity ...`.
+- Sau động từ tường thuật ở quá khứ, `wish` không lùi thì: *"I wish I knew the answer," she said → She said that she **wished** she **knew** the answer* ("Ước gì tôi biết câu trả lời," cô ấy nói → Cô ấy nói rằng cô ấy ước mình biết câu trả lời).
+
+### Contrast with
+
+- [[Second Conditional]] — cũng dùng dạng quá khứ để nói điều không có thật ở hiện tại
+- [[Third Conditional]] — cũng dùng quá khứ hoàn thành cho điều không có thật trong quá khứ
+- [[As If and As Though]] — điều không có thật sau một sự so sánh
+- [[Would Rather]] — diễn tả sự ưa thích hơn, chứ không phải mong ước

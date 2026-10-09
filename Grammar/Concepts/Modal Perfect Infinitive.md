@@ -58,4 +58,35 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Động từ khuyết thiếu theo sau là `have + past participle` dùng để nói về quá khứ: suy luận, khả năng không thành hiện thực, lời phê bình hoặc sự tiếc nuối.
+
+### Overview table
+
+| Structure | Meaning | Equivalent |
+|---|---|---|
+| `must have + PII` | tôi chắc chắn việc đó đã xảy ra | `I'm sure` + mệnh đề ở thì quá khứ đơn |
+| `may / might / could have + PII` | có lẽ việc đó đã xảy ra | `Perhaps` + mệnh đề ở thì quá khứ đơn |
+| `can't / couldn't have + PII` | tôi chắc chắn việc đó đã không xảy ra | `I'm sure` + mệnh đề phủ định ở thì quá khứ |
+| `should / ought to have + PII` | việc đó nên làm nhưng đã không được làm | phê bình, tiếc nuối |
+| `shouldn't have + PII` | việc đó đã được làm nhưng là sai | phê bình |
+| `needn't have + PII` | việc đó đã được làm nhưng không cần thiết | |
+| `could have + PII` | việc đó đã có thể làm nhưng đã không được làm | cơ hội bị bỏ lỡ |
+| `would like / would rather have + PII` | một mong ước không có thật về quá khứ | `wish + had + PII` |
+
+### Examples
+
+- Tôi làm mất chìa khóa rồi. Tôi **chắc hẳn đã đánh rơi** nó ở đâu đó trong phòng này.
+- Một con thủy quái **có thể đã tấn công** con tàu.
+- Mặt đất khô ráo. Đêm qua trời **không thể nào đã mưa** được.
+- Bạn **lẽ ra nên nói** sự thật với cô ấy.
+- Bạn **lẽ ra không cần phải vội**. Giờ thì chúng ta đến quá sớm rồi.
+- Tôi có thời gian rảnh nhưng lại đi ngủ sớm. Tôi **đã có thể làm xong** hết bài tập về nhà.
+- Tôi **ước gì mình đã được sinh ra** trong giàu có.
+- Tôi **có thể đã có được** một công việc tốt hơn nếu tôi học hành đủ chăm chỉ.
+
+### Notes & exceptions
+
+- Dạng tiếp diễn là `modal + have been + V-ing` → xem [[Perfect Continuous Infinitive]].
+- `would / could / might have + PII` cũng là mệnh đề chính của [[Third Conditional]].

@@ -60,4 +60,40 @@ The connector does not have to stand first. It can also sit in the middle or at 
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Từ nối câu nối hai mệnh đề ĐỘC LẬP, nên hai mệnh đề đó phải được ngăn cách bằng dấu chấm phẩy hoặc dấu chấm — không bao giờ chỉ bằng một dấu phẩy.
+
+### Form
+
+Từ nối thuộc về mệnh đề THỨ HAI và thường có dấu phẩy theo sau.
+
+### Examples
+
+- Mary muốn có nó**;** ***tuy vậy***, Stephen vẫn đem nó cho đi.
+- Mary muốn có nó**.** ***Tuy vậy***, Stephen vẫn đem nó cho đi.
+- Tôi nghĩ chuyến bay sẽ bị hoãn**;** ***vì vậy***, tôi đã mua một cuốn sách để đọc.
+- Tôi nghĩ chuyến bay sẽ bị hoãn**.** ***Vì vậy***, tôi đã mua một cuốn sách để đọc.
+
+### Position of the connector
+
+Từ nối không nhất thiết phải đứng đầu. Nó cũng có thể nằm ở giữa hoặc ở cuối mệnh đề của nó, và được tách ra bằng dấu phẩy.
+
+- Mary thì vui. **Tuy nhiên**, Alice lại rất buồn.
+- Mary thì vui. Alice, **tuy nhiên**, lại rất buồn.
+- Mary thì vui. Alice lại rất buồn, **tuy nhiên**.
+
+### Notes & exceptions
+
+- Sau `otherwise` thường lược bỏ dấu phẩy: *You have to press the button. **Otherwise** the machine won't work.* (Bạn phải bấm nút. Nếu không thì máy sẽ không chạy.)
+- `Instead` có thể đứng ở đầu hoặc ở tận cuối mệnh đề của nó → xem [[Connectors of Alternative]].
+- Các từ nối ngắn như `so`, `thus`, `yet` thường xuất hiện mà không có dấu phẩy theo sau.
+
+### Common mistakes
+
+- Hai mệnh đề độc lập chỉ được nối bằng một dấu phẩy (lỗi *comma splice*): `nevertheless` là từ nối câu chứ không phải liên từ.
+- Câu đúng: dấu chấm phẩy đứng trước `nevertheless` và dấu phẩy đứng sau nó.
+
+### Contrast with
+
+- [[Conjunctions vs Sentence Connectors]] — vì sao từ nối câu không thể dùng như `although` hay `but`

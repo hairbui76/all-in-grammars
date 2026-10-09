@@ -44,4 +44,29 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Trong danh từ ghép, trọng âm chính rơi vào thành phần thứ nhất, bất kể hai thành phần đó thuộc loại từ gì.
+
+### Rule
+
+`COMPOUND NOUN` → nhấn trọng âm vào từ **thứ nhất**
+
+### Patterns
+
+| Pattern | Stress | Examples |
+|---|---|---|
+| Noun + Noun | danh từ thứ nhất | **bir**thday /ˈbɜːθdeɪ/, **air**port /ˈeəpɔːt/, **gate**way /ˈɡeɪtweɪ/, **boy**friend /ˈbɔɪfrend/, **green**house /ˈɡriːnhaʊs/, **sea**food /ˈsiːfuːd/, **tooth**paste /ˈtuːθpeɪst/ |
+| Adjective + Noun | tính từ | **black**board /ˈblækbɔːd/, **green**grocer /ˈɡriːnˌɡrəʊsə/, **grand**parents /ˈɡrænˌpeərənts/ |
+| Gerund + Noun | danh động từ | **wash**ing machine /ˈwɒʃɪŋməˌʃiːn/, **wait**ing room /ˈweɪtɪŋrʊm/ |
+| Noun + Gerund | danh từ | **hand**writing /ˈhændˌraɪtɪŋ/, **day**dreaming /ˈdeɪdriːmɪŋ/ |
+| Noun + Verb + -er | danh từ | **goal**keeper /ˈɡəʊlkiːpə/, **hol**idaymaker /ˈhɒlɪdeɪˌmeɪkə/ |
+
+### Notes & exceptions
+
+- `greenhouse` /ˈɡriːnhaʊs/ (nhà kính) khác với cụm từ tự do `green house` (ngôi nhà sơn màu xanh lá), vốn nhấn trọng âm vào `house`.
+- Quy tắc này ngược với động từ ghép và phần lớn tính từ ghép → xem [[Stress in Compound Verbs and Adjectives]].
+
+### Contrast with
+
+- [[Stress in Compound Verbs and Adjectives]] — trọng âm rơi vào thành phần thứ hai

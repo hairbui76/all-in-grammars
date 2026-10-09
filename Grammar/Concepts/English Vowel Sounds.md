@@ -45,4 +45,29 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Tiếng Anh có 20 nguyên âm; mười hai âm trong đó là nguyên âm đơn, được ghi bằng một ký hiệu IPA.
+
+### The single vowels
+
+| Symbol | Length / quality | Example words |
+|---|---|---|
+| `/ɪ/` | i ngắn | l**i**ve, **i**t, s**i**t, th**i**s, **i**s |
+| `/iː/` | i dài | l**ea**ve, s**ea**t, m**ea**t, sp**ea**k |
+| `/ɒ/` | o ngắn | n**o**t, p**o**t, h**o**t, **o**n |
+| `/ɔː/` | o dài | g**o**ne, d**au**ghter, fl**oo**r, d**oo**r |
+| `/æ/` | âm nằm giữa a và e | **a**t, m**a**n, m**a**p, h**a**t, m**a**d |
+| `/ɑː/` | a dài | st**a**r, c**a**r, f**a**r |
+| `/e/` | e | r**e**d, b**e**d, m**e**n, thr**ea**ten, inst**ea**d |
+| `/ʌ/` | ngắn, nguyên âm giữa | m**u**st, b**u**t, h**u**t, bl**oo**d, c**u**t |
+| `/ɜː/` | dài, nguyên âm giữa | s**ir**, b**ir**d, l**ear**n |
+| `/ə/` | âm schwa, không mang trọng âm | **a**, **a**bout, **a**round, **a**fraid, **a**live |
+| `/ʊ/` | u ngắn | l**oo**k, g**oo**d, p**u**t, b**oo**k, c**oo**k |
+| `/uː/` | u dài | m**oo**n, f**oo**d, r**oo**m, s**oo**n, n**oo**n, t**oo** |
+
+### Notes & exceptions
+
+- Con số 20 nguyên âm bao gồm cả các nguyên âm đôi — xem [[English Diphthongs and Triphthongs]].
+- `/ə/` chỉ xuất hiện ở âm tiết không mang trọng âm, nên nó do trọng âm quyết định chứ không phải do cách viết — xem [[Word Stress]].
+- Cùng một chữ cái có thể biểu thị nhiều âm trong số này; bảng đối chiếu giữa cách viết và cách đọc nằm ở [[Vowel Letters and Their Sounds]].

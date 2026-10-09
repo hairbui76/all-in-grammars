@@ -66,4 +66,49 @@ Adjectives used in this pattern:
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Sau `It is essential/important/vital/necessary that ...`, động từ trong mệnh đề `that` giữ ở dạng **nguyên mẫu không `to`**.
+
+### Form
+
+`It + be + adjective of urgency + that + S + V(bare)`
+`It + be + adjective + that + S + should + V(bare)` (biến thể Anh-Anh)
+
+Các tính từ dùng trong cấu trúc này:
+
+### When to use
+
+- Để diễn tả **sự cần thiết, sự cấp bách hoặc một lời khuyến nghị** trong tiếng Anh trang trọng hoặc văn viết.
+- Cấu trúc này cố định: động từ **không thêm `-s`**, **không có `to`** và **không** chia theo thì.
+- Dạng phủ định là `that + S + not + V(bare)`.
+- Dạng bị động là `that + S + be + V3`.
+
+### Examples
+
+- Điều thiết yếu là mọi thí sinh phải **đến** đúng giờ.
+- Điều tối quan trọng là anh ấy phải **được** thông báo ngay lập tức.
+- Cô ấy nhất thiết **không được lỡ** hạn chót.
+- Các giấy tờ nhất thiết phải **được ký** trong hôm nay.
+- Điều quan trọng khi ấy là tin đó phải **được giữ** bí mật.
+- Sinh viên **nên đăng ký** sớm. (biến thể Anh-Anh)
+
+### Notes & exceptions
+
+- Dạng nguyên mẫu không đổi ngay cả khi mệnh đề chính ở quá khứ: *It **was** essential that he **go**.* (Khi ấy anh ấy nhất thiết phải đi.)
+- Một số tính từ trong nhóm này cũng có thể diễn đạt lại bằng động từ nguyên mẫu: *It is essential **for every candidate to arrive** on time* (mọi thí sinh nhất thiết phải đến đúng giờ) → xem [[It Is Adjective For Somebody To Do]].
+- Thức giả định này cũng xuất hiện sau các động từ chỉ sự yêu cầu và đề nghị (`demand, suggest, insist, request, propose, recommend`) → xem [[Subjunctive in That Clauses]].
+- **Không** nhầm với `It is + adjective of judgement + of somebody to do` → xem [[It Is Adjective Of Somebody To Do]].
+
+### Common mistakes
+
+- Động từ trong mệnh đề `that` không thêm `-s` dù chủ ngữ là ngôi thứ ba số ít; phải dùng dạng nguyên mẫu `arrive`.
+- Dạng bị động trong mệnh đề `that` là `be + V3`, không dùng `is`.
+- Dạng phủ định là `not + V(bare)`, không dùng trợ động từ `doesn't`.
+
+### Contrast with
+
+- [[Subjunctive with Impersonal Expressions]] — cùng cấu trúc này, mô tả từ góc độ thức giả định
+- [[Subjunctive with Should]] — cách nói thay thế với `should + V`
+- [[Present Subjunctive]] — thức giả định dạng nguyên mẫu nói chung
+- [[Anticipatory It As Object]] — cấu trúc tương ứng ở vị trí tân ngữ (`consider it essential that ...`)

@@ -81,4 +81,60 @@ The same idea can be expressed with `so ... that` and `such ... that`:
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`Too` là trạng từ chỉ mức độ đứng trước tính từ hoặc một trạng từ khác; khi có động từ nguyên mẫu theo sau, nó mang nghĩa "quá … đến mức không thể".
+
+### The infinitive refers to the subject of the sentence
+
+- Cô ấy **còn quá trẻ để kết hôn**.
+- Cô ấy **quá mệt nên không thể tiếp tục làm việc**.
+- Tôi **quá yếu nên không nhấc nổi** hòn đá.
+- Tôi **quá thấp nên không chạm tới** trần nhà.
+- Anh ấy **quá nghèo nên không mua nổi** dù chỉ một chiếc xe đạp cũ.
+- Anh ấy chạy **quá chậm nên không thể về** đích đầu tiên.
+- Anh ấy hát **quá dở nên không thể trở thành** ca sĩ.
+
+### The infinitive refers to the object of a verb
+
+Ở đây tân ngữ không được nhắc lại sau động từ nguyên mẫu.
+
+- Tách trà **quá nóng nên (tôi) không uống được**.
+- Trần nhà **quá cao nên tôi không chạm tới được**.
+- Bài tập **quá khó nên cô ấy không làm được**.
+- Bạn đang nói **quá nhỏ nên tôi không nghe được**.
+- Chiếc va li **quá nặng nên cô ấy không xách nổi**.
+
+### The infinitive refers to the object of a preposition
+
+Giới từ vẫn đứng ở cuối câu.
+
+- Cỏ **quá ướt nên (chúng ta) không ngồi lên được**.
+- Bạn đang đi **quá nhanh nên tôi không theo kịp**.
+- Con hổ **quá nguy hiểm nên không thể chơi đùa cùng**.
+- Ánh sáng quá mờ **nên không đọc sách được**.
+
+### With a noun: too + adj + a/an + N
+
+- Ông ấy là **một doanh nhân quá sắc sảo nên không thể bị lừa**.
+- Đó là **một cơ hội quá tuyệt vời nên chúng ta không thể bỏ lỡ**.
+- Đó là **một nhà hàng quá bẩn nên tôi không thể vào ăn**.
+
+### Related transformations
+
+Có thể diễn đạt cùng ý đó bằng `so ... that` và `such ... that`:
+
+- Chiếc bánh này **quá cứng nên tôi không ăn được**.
+- Chiếc bánh này **cứng đến nỗi** tôi không ăn được.
+- Đây là **một chiếc bánh cứng đến nỗi** tôi không ăn được.
+- Đó là **một chiếc bánh quá cứng nên tôi không ăn được**.
+- Đó là **một chiếc bánh cứng đến mức** tôi không ăn được.
+- **Chiếc bánh cứng tới mức** tôi không ăn được.
+- **Độ cứng của chiếc bánh lớn đến nỗi** tôi không ăn được.
+- Độ cứng của chiếc bánh **lớn đến mức** tôi không ăn được.
+
+### Contrast with
+
+- [[Enough With Infinitive]] — cấu trúc mang nghĩa khẳng định tương ứng, "đủ … để"
+- [[So As To Structure]] — `so + adj + as to V`
+- [[Clauses of Result]] — các cách diễn đạt với `so/such ... that`

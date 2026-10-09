@@ -60,4 +60,44 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Một nhóm nhỏ động từ đi được với cả `to + V` lẫn `V-ing`, nhưng hai dạng này mang nghĩa khác nhau.
+
+### The contrasts
+
+| Verb | `+ to + V` | `+ V-ing` |
+|---|---|---|
+| remember | nhớ ra việc cần làm rồi làm (hành động xảy ra sau khi nhớ) | nhớ lại một việc đã làm |
+| forget | quên không làm một việc cần làm (hành động chưa hề được thực hiện) | không nhớ ra một việc đã làm |
+| stop | dừng một việc để làm việc khác | thôi hẳn chính việc đó |
+| try | cố gắng làm một việc khó | làm thử một việc để xem kết quả ra sao |
+| regret | lấy làm tiếc về điều sắp nói ra | hối tiếc về một việc đã làm |
+| mean | định làm việc gì | bao hàm, kéo theo như một hệ quả |
+| go on | chuyển sang một chủ đề hoặc hoạt động khác | tiếp tục cùng hoạt động đó |
+| like | làm việc gì vì cho rằng việc đó đúng hoặc nên làm | thích thú khi làm việc đó |
+
+### Examples
+
+- **Nhớ đóng** cửa sổ trước khi về nhà nhé. (nhiệm vụ trước, hành động sau)
+- Bạn có **nhớ khoá** cửa không?
+- Tôi **nhớ** rõ là **đã để** nó cạnh cửa sổ, vậy mà giờ nó biến mất rồi. (nhớ lại quá khứ)
+- **Đừng quên gửi** lá thư này nhé. (nhiệm vụ) / Tôi **quên là đã gửi** nó rồi nên lại gửi thêm lần nữa. (không nhớ ra)
+- Chúng tôi **dừng lại để chào** ông ấy. (chúng tôi dừng lại nhằm chào ông ấy)
+- Ông ấy không bao giờ **ngừng làm việc** cho đến phút cuối đời. (ông ấy chưa bao giờ thôi làm việc)
+- Chúng tôi **cố dập** đám cháy nhưng không thành. Chúng tôi phải gọi đội cứu hoả. (đã nỗ lực)
+- Jane cần ít tiền. Cô ấy **thử hỏi** Harry nhưng anh ấy không giúp được. (làm thử)
+- Tôi **rất tiếc phải báo** với bạn rằng đơn xin việc của bạn đã bị từ chối. (tiếc khi phải thông báo lúc này)
+- Giờ cô ấy hối hận vì **đã kể** tin đó ra. (hối tiếc về quá khứ)
+- Tôi **đã định gọi** cho bạn nhưng lại quên mất. (có ý định)
+- Chúng ta không thể **tiếp tục sống** như thế này được. (tiếp tục cùng một việc)
+
+### Common mistakes
+
+- Khi dặn ai làm một việc (việc chưa làm), phải dùng `remember + to V`; `remember + V-ing` là nhớ lại việc đã làm.
+- `stop + to V` là dừng lại để làm việc khác; muốn nói thôi hẳn một việc thì dùng `stop + V-ing`.
+
+### Contrast with
+
+- [[Verbs Followed By Infinitive]] — các động từ chỉ đi với `to + V`
+- [[Verbs Followed By Gerund]] — các động từ chỉ đi với `V-ing`

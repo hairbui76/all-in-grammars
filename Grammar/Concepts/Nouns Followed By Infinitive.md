@@ -47,4 +47,28 @@ eagerness · effort · failure · offer · plan · promise · refusal · request
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Một nhóm danh từ trừu tượng — phần lớn là danh từ tạo từ các động từ chỉ ý định, nỗ lực và sự sẵn lòng — nhận động từ nguyên mẫu có `to` làm bổ ngữ.
+
+### The list
+
+ability (khả năng) · ambition (tham vọng) · anxiety (sự nóng lòng) · attempt (sự cố gắng, lần thử) · decision (quyết định) · demand (yêu cầu, đòi hỏi) · desire (mong muốn, khát khao) · determination (sự quyết tâm) ·
+eagerness (sự háo hức) · effort (nỗ lực) · failure (việc không làm được) · offer (lời đề nghị) · plan (kế hoạch) · promise (lời hứa) · refusal (sự từ chối) · request (lời thỉnh cầu) · scheme (kế hoạch, mưu đồ) · willingness (sự sẵn lòng) · wish (mong ước)
+
+### Examples
+
+- **Khả năng hoà hợp** với mọi người là thế mạnh lớn nhất của anh ấy.
+- Anh ấy đã **cố gắng / nỗ lực xoay xở cho đủ sống**.
+- **Việc không tuân thủ** quy định có thể dẫn đến bị loại.
+- **Lời đề nghị / lời hứa / kế hoạch xây dựng lại** thị trấn của họ đã không được coi trọng.
+- Tôi rất cảm kích trước **sự sẵn lòng giúp đỡ** của bạn.
+
+### Notes & exceptions
+
+- Nhiều danh từ trong số này tương ứng với một động từ cũng đi với động từ nguyên mẫu (`decide → decision`, `refuse → refusal`, `attempt → attempt`) → xem [[Verbs Followed By Infinitive]].
+- Đừng nhầm với mẫu danh từ + giới từ + danh động từ (`the difficulty of doing`, `no chance of winning`).
+
+### Contrast with
+
+- [[Gerunds]] — các danh từ theo sau bởi `preposition + V-ing`

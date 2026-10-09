@@ -72,4 +72,49 @@ At no time / On no account / Under no circumstances ... + Auxiliary + S + V(bare
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Khi đưa một cụm danh từ hoặc cụm giới từ có chứa `no` lên đầu câu, mệnh đề chính bắt buộc phải theo trật tự từ của câu hỏi.
+
+### Common fronted phrases
+
+| Phrase | Meaning |
+|---|---|
+| `At no time` | không bao giờ, không lúc nào |
+| `On no condition` | tuyệt đối không |
+| `On no account` | không vì bất cứ lý do gì |
+| `Under / In no circumstances` | trong bất kỳ hoàn cảnh nào cũng không |
+| `For no reason` | không vì lý do nào cả |
+| `In no way` | không hề, không đời nào |
+| `No longer` | không còn nữa |
+
+### Examples
+
+- Từ nay trở đi **tôi sẽ không cho** bạn **vay đồng nào** nữa. (= Not any money shall I lend you from now on.)
+- **Anh ấy sẽ không dành chút thời gian nào** để đọc những cuốn sách này.
+- **Cô ấy không rơi một giọt nước mắt nào** khi câu chuyện kết thúc bi thảm.
+- **Chưa lúc nào anh ấy biết** cô ấy xuất thân từ một gia đình giàu có.
+- **Tôi không còn làm việc** cho họ nữa. (= I no longer work for them.)
+- **Trong bất kỳ hoàn cảnh nào hành khách cũng không được phép** tự mở cửa.
+- **Dù vì bất cứ lý do gì bạn cũng không được chạm** vào công tắc.
+- **Tuyệt đối chúng tôi sẽ không chấp nhận** đề nghị của họ.
+- **Không vì lý do gì mà bạn được gian lận** trong kỳ thi.
+
+### Notes & exceptions
+
+- Các phép biến đổi này viết lại một câu phủ định thông thường:
+  - Kết quả cuộc bầu cử chưa bao giờ bị nghi ngờ. → **Chưa lúc nào** kết quả cuộc bầu cử bị nghi ngờ.
+  - Bạn không nên gọi cảnh sát trong bất kỳ hoàn cảnh nào. → **Trong bất kỳ hoàn cảnh nào** bạn **cũng không nên** gọi cảnh sát.
+  - Anh ấy chưa bao giờ nghi ngờ vợ mình là gián điệp. → **Chưa lúc nào** anh ấy nghi ngờ vợ mình là gián điệp.
+- `Not any` trong câu gốc trở thành `no` khi được đưa lên đầu câu: `I am not interested in politics any longer` → **No longer am I** interested in politics. (Tôi không còn quan tâm đến chính trị nữa.)
+
+### Common mistakes
+
+- Sau `Under no circumstances` đứng đầu câu phải đảo trợ động từ `should` lên trước chủ ngữ.
+- Sau `At no time` đứng đầu câu phải mượn trợ động từ `did` đặt trước chủ ngữ, động từ chính về dạng nguyên mẫu.
+
+### Contrast with
+
+- [[Inversion with Negative Adverbs]] — các trạng từ phủ định chỉ gồm một từ (`never`, `seldom`)
+- [[Inversion with Not Until]] — đưa mệnh đề thời gian phủ định lên đầu câu
+- [[Inversion with Only]] — đưa lên đầu câu một yếu tố mang nghĩa giới hạn

@@ -66,4 +66,51 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`will + bare infinitive` (`will` + động từ nguyên mẫu không `to`) — một quyết định, dự đoán, lời hứa hoặc lời đề nghị về tương lai.
+
+### Form
+
+`(+) S + will + V(bare)`
+`(-) S + will not (won't) + V(bare)`
+`(?) Will + S + V(bare) ?`
+
+`shall` có thể dùng với `I/we`, chủ yếu trong tiếng Anh trang trọng và trong lời đề nghị giúp đỡ / lời gợi ý (`Shall I help you?`).
+
+### When to use
+
+- Một **quyết định tức thời** đưa ra ngay tại thời điểm nói.
+- Một **dự đoán** hay ý kiến về tương lai, đặc biệt sau `think`, `believe`, `expect`, `be sure`, `probably`, `perhaps`.
+- **Lời hứa, lời đề nghị giúp đỡ, lời yêu cầu, lời đe dọa, lời từ chối** (`won't` = không chịu làm).
+- Trong mệnh đề chính của [[First Conditional]] và mệnh đề chính đi cùng mệnh đề thời gian → xem [[Clauses of Time]].
+
+### Examples
+
+- Điện thoại đang reo kìa — để tôi **nghe** cho.
+- Tôi nghĩ tối nay trời **sẽ mưa**.
+- Tôi **sẽ giúp** bạn làm bài tập về nhà, tôi hứa đấy.
+- Bạn **mở** giúp tôi cửa sổ được không?
+- Nếu bạn học chăm chỉ, bạn **sẽ đỗ** kỳ thi.
+
+### Notes & exceptions
+
+- **Tuyệt đối không dùng `will` trong mệnh đề thời gian hay mệnh đề `if`**: sau `when`, `as soon as`, `until`, `before`, `after`, `if`, hãy dùng thì hiện tại.
+  - Tôi sẽ gọi cho bạn khi tôi **đến nơi**. (dùng `arrive`, không dùng *will arrive*)
+- Các từ chỉ thời gian: `tomorrow`, `next week`, `soon`, `in 2030`, `one day`, `in the future`.
+- Bị động: `will be + V3` → xem [[Passive Voice in Nine Tenses]].
+- Trong [[Reported Speech]], `will` đổi thành `would` → xem [[Backshift of Tenses]].
+
+### Common mistakes
+
+- Sau `will` là động từ nguyên mẫu không `to`.
+- Trong mệnh đề thời gian với `when` không dùng `will`; động từ chia ở thì hiện tại đơn.
+- Dự đoán dựa trên bằng chứng ở hiện tại (những đám mây) thì dùng `be going to`, không dùng `will`.
+
+### Contrast with
+
+- [[Be Going To]] — một kế hoạch đã quyết định từ trước, hoặc một dự đoán dựa trên bằng chứng ở hiện tại
+- [[Present Continuous]] — một sự sắp xếp cá nhân đã chắc chắn (*I'm meeting Sam at six.* = Tôi sẽ gặp Sam lúc sáu giờ.)
+- [[Present Simple]] — thời gian biểu và lịch trình (*The train leaves at 7.* = Tàu khởi hành lúc 7 giờ.)
+- [[Future Continuous]] — đang diễn ra tại một thời điểm trong tương lai
+- [[Future Perfect]] — hoàn thành trước một thời điểm trong tương lai

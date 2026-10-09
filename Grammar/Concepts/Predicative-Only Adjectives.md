@@ -77,4 +77,56 @@ Also predicative-only, without `a-`: `ill` (sick), `well` (healthy), `content` (
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Một nhóm tính từ có số lượng hạn chế — phần lớn bắt đầu bằng `a-` — chỉ có thể đứng sau động từ nối và không bao giờ đứng trước danh từ.
+
+### The list
+
+| Adjective | Meaning |
+| --- | --- |
+| ablaze | bốc cháy |
+| asleep | đang ngủ |
+| afraid | sợ hãi |
+| alike | giống nhau |
+| alight | đang cháy |
+| awake | thức, không ngủ |
+| alone | một mình |
+| aware | nhận thức được, biết |
+| alive | còn sống |
+| afloat | nổi trên mặt nước |
+| ashamed | xấu hổ |
+| awash | ngập nước |
+
+Cũng chỉ dùng làm vị ngữ dù không có `a-`: `ill` (ốm), `well` (khoẻ), `content` (hài lòng), `lit` (được thắp sáng), `exempt` (được miễn), `unable` (không thể).
+
+### Examples
+
+- Cô bé thấy **sợ** khi ở một mình. [không nói: an ~~afraid girl~~]
+- Có ai còn **sống** sau vụ tai nạn không? [không nói: ~~alive people~~]
+- Một điếu thuốc đã làm đám cỏ khô **bốc cháy**.
+- Hai anh em trông **giống nhau**.
+- Chỉ trong chốc lát, gần hết ngôi nhà đã **chìm trong lửa**.
+- Anh ấy thấy **xấu hổ** mỗi khi mắc lỗi do bất cẩn.
+- Cậu bé đang **thức** hay đang **ngủ**?
+- Con thuyền mắc cạn trên bãi cát nhưng chẳng mấy chốc chúng tôi đã làm nó **nổi** trở lại.
+- Tom đang cảm thấy khá **hài lòng**.
+- Cây nến đã được **thắp sáng**.
+- Cậu bé không được **khoẻ**. Trông cậu ấy có vẻ **ốm**.
+
+### Notes & exceptions
+
+- Để diễn đạt cùng ý đó trước danh từ, hãy dùng một từ khác: `a healthy man` (không nói ~~a well man~~), `sick people` (không nói ~~ill people~~).
+- `contented` và `lighted` là dạng đứng trước danh từ tương ứng với `content` và `lit`, và có thể dùng ở mọi vị trí: *a contented smile* (một nụ cười mãn nguyện), *a lighted candle* (một cây nến đang cháy).
+- `alive` khi đứng trước danh từ thì đổi thành `living`: `living people`.
+
+### Common mistakes
+
+- `afraid` chỉ đứng sau động từ nối; trước danh từ phải dùng `frightened`.
+- `well` với nghĩa "khoẻ" không đứng trước danh từ; trước danh từ dùng `healthy`.
+- `ill` không đứng trước danh từ; trước danh từ dùng `sick`.
+
+### Contrast with
+
+- [[Position of Adjectives]] — lựa chọn thông thường giữa vị trí trước danh từ và sau động từ nối
+- [[Order of Adjectives]] — chỉ áp dụng cho tính từ đứng trước danh từ

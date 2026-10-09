@@ -52,4 +52,38 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`make`, `help` và `let` đi với động từ nguyên mẫu không `to` ở thể chủ động, nhưng ở thể bị động thì phải dùng `to + infinitive` (hoặc diễn đạt lại bằng `be allowed to`).
+
+### Form
+
+| Active | Passive |
+|---|---|
+| `make sb do smth` | `be made to do smth` |
+| `help sb (to) do smth` | `be helped to do smth` |
+| `let sb do smth` | `be let do smth` / thường dùng hơn là `be allowed to do smth` |
+| `let sb do smth` (chủ ngữ = tân ngữ) | `let oneself be done` |
+
+### When to use
+
+- Dùng `be allowed to` thay cho `be let` bất cứ khi nào chủ ngữ của câu bị động khác với tân ngữ của câu chủ động — `be let` nghe gượng gạo trong hầu hết các ngữ cảnh.
+- Dùng `let oneself be + P2` khi chủ ngữ và tân ngữ của câu chủ động cùng chỉ một người.
+
+### Examples
+
+- Giáo viên đang bắt chúng tôi **học** chăm chỉ. → Chúng tôi đang bị giáo viên bắt **phải học** chăm chỉ.
+- Anh ấy đã giúp tôi **sửa** máy giặt. → Tôi đã được anh ấy giúp **sửa** máy giặt.
+- Bố mẹ không cho anh ấy mua xe máy. → Anh ấy **không được** bố mẹ **cho phép mua** xe máy.
+- Anh ta đã để cô ấy lừa mình. → Anh ta **đã để cho mình bị** cô ấy **lừa**.
+
+### Common mistakes
+
+- Ở thể bị động, sau `be made` phải dùng động từ nguyên mẫu có `to`.
+- Ở thể bị động của `let` không dùng `be let to`; hãy dùng `be allowed to`.
+
+### Contrast with
+
+- [[Passive of Perception Verbs]] — `see/hear/watch` cũng thêm `to` ở thể bị động
+- [[Causative Form]] — `have/get something done`
+- [[Bare Infinitive]] — cấu trúc mà các động từ này dùng ở thể chủ động

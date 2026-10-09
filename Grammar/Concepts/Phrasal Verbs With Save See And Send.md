@@ -58,4 +58,43 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Các động từ bắt đầu bằng chữ S dùng để nói về việc để dành tiền, lo liệu một việc gì, tiễn biệt và gọi người đến.
+
+### Examples — save and see
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| save up | để dành tiền cho một mục đích | Họ đang **để dành tiền** mua nhà. |
+| see about = see to | giải quyết, lo liệu | Mai tôi sẽ **lo** chuyện vé. |
+| see somebody off | đi cùng để tiễn ai ở nhà ga hoặc sân bay | Chúng tôi **tiễn** cô ấy ở sân bay. |
+| see through somebody | nhìn thấu bản chất thật của ai | Tôi **nhìn thấu** anh ta ngay lập tức. |
+| see over = go over | xem xét, đi xem một vòng (ngôi nhà, toà nhà) | Chúng tôi **đi xem kỹ** căn hộ trước khi ký. |
+
+### Examples — send and ring
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| send for | nhắn, cho gọi ai đến | Họ lập tức **gọi** xe cứu thương. |
+| send somebody to | đưa vào (bệnh viện, nhà tù) | Cậu bé được **đưa vào** bệnh viện vì gãy tay. |
+| send back | gửi trả cái gì về nơi nó được gửi đến | Món ăn nguội ngắt nên chúng tôi **trả lại**. |
+| ring back | gọi điện lại sau | Giờ tôi đang bận, tôi **gọi lại** cho bạn sau được không? |
+| ring off | cúp máy, kết thúc cuộc gọi | Anh ta **cúp máy** mà không chào tạm biệt. |
+
+### Notes & exceptions
+
+- `see to` và `see about` đều có nghĩa là *lo liệu, giải quyết*, nhưng `see to it that ...` thì mở đầu cho cả một mệnh đề: *See to it that the door is locked* (hãy lo sao cho cửa được khoá).
+- `see somebody off` (tiễn ai) khác với `see through somebody` (hiểu rõ động cơ thật của ai) và `see something through` (làm việc gì đến cùng dù khó khăn).
+- `ring off` là tiếng Anh-Anh; tiếng Anh-Mỹ hay dùng `hang up` hơn → xem [[Phrasal Verbs - Telephoning and Communication]].
+- `send back`, `see off` và `ring back` là cụm tách được và phải tách ra khi tân ngữ là đại từ: *see **her** off*.
+
+### Common mistakes
+
+- Cho gọi ai đến phải dùng `send for`, không dùng `send to`.
+- Tân ngữ là đại từ phải đứng giữa động từ và tiểu từ: `ring you back`.
+
+### Contrast with
+
+- [[Phrasal Verbs With Set Stand And Turn]] — các nhóm động từ khác bắt đầu bằng chữ S
+- [[Phrasal Verbs - Telephoning and Communication]] — `ring back`, `ring off`, `hang up`

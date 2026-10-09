@@ -55,4 +55,36 @@ No auxiliary is added: the main verb itself moves in front of the subject.
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Khi câu mở đầu bằng một trạng ngữ chỉ nơi chốn hoặc phương hướng, nội động từ có thể được đưa lên trước chủ ngữ — một biện pháp tu từ của văn viết trang trọng và văn chương.
+
+### Form
+
+Không thêm trợ động từ: chính động từ chính được đưa lên trước chủ ngữ.
+
+### Examples
+
+- David bắt đầu mở ba gói quà. Bên trong gói thứ nhất **là một cuốn từ điển** của chú cậu tặng.
+- Phía trên lò sưởi **là một bức chân dung Lenin**.
+- Trên chiếc ghế bành **là mẹ anh ấy đang ngồi**.
+- Bước vào phòng **là một người đàn ông cầm súng**.
+
+### Notes & exceptions
+
+- Động từ thường là `be`, hoặc một động từ chỉ vị trí hay chuyển động: `climb, come, fly, go, hang, lie, run, sit, stand`.
+- Động từ thường ở thì **quá khứ đơn**.
+- Khác với đảo ngữ sau trạng từ phủ định, mẫu này **không** dùng `do / does / did`; động từ chính được đặt ngay trước chủ ngữ.
+- Không dùng được mẫu này khi chủ ngữ là **đại từ**:
+  - Chủ ngữ là đại từ `she` nên không đảo: động từ `sat` phải đứng sau chủ ngữ (Bà ấy ngồi trên chiếc ghế bành).
+- Thường gặp trong văn phong trang trọng hoặc văn chương, nhất là trong lối kể chuyện miêu tả.
+
+### Common mistakes
+
+- Loại đảo ngữ này không dùng trợ động từ `did`; động từ chính `hung` đứng ngay trước chủ ngữ.
+- Chủ ngữ là đại từ (`he`) thì không đảo ngữ; giữ trật tự chủ ngữ + động từ.
+
+### Contrast with
+
+- [[Inversion with Negative Adverbs]] — dùng trợ động từ, trật tự như câu hỏi
+- [[Inversion in Comparisons]] — kiểu đảo ngữ tu từ còn lại, cũng không dùng được với đại từ

@@ -87,4 +87,71 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Tính từ ngắn thêm `-er / -est`; tính từ dài dùng `more / most`; một số ít có dạng bất quy tắc.
+
+### Form
+
+| Type | Comparative | Superlative |
+|---|---|---|
+| 1 âm tiết | `tall → taller` | `the tallest` |
+| 1 âm tiết, dạng phụ âm – nguyên âm – phụ âm (CVC) | `big → bigger` | `the biggest` |
+| 2 âm tiết tận cùng bằng `-y` | `happy → happier` | `the happiest` |
+| các từ khác có từ 2 âm tiết trở lên | `modern → more modern` | `the most modern` |
+| trạng từ tận cùng bằng `-ly` | `quickly → more quickly` | `the most quickly` |
+
+`S + V + adj-er / more + adj + than + N`
+`S + V + the + adj-est / the most + adj + (in/of ...)`
+
+**So sánh bằng:** `as + adj/adv + as` · phủ định: `not as/so + adj + as`
+
+### Dạng bất quy tắc
+
+| Adjective/Adverb | Comparative | Superlative |
+|---|---|---|
+| good / well | better | the best |
+| bad / badly | worse | the worst |
+| much, many | more | the most |
+| little | less | the least |
+| far | farther / further | the farthest / the furthest |
+| old | older / elder | the oldest / the eldest |
+
+### When to use
+
+- **So sánh hơn + than** dùng cho hai đối tượng; **so sánh nhất + the** dùng cho từ ba đối tượng trở lên.
+- Dùng `in` trước một nơi chốn hoặc một nhóm, `of` trước danh từ số nhiều hoặc một khoảng thời gian: *the tallest **in** the class* (cao nhất lớp), *the best **of** the three* (giỏi nhất trong ba người).
+- **So sánh luỹ tiến** (càng ngày càng…) diễn tả sự thay đổi dần dần: `adj-er and adj-er` / `more and more + adj`.
+- **So sánh đồng tiến** (càng… càng…) diễn tả sự thay đổi tương ứng với nhau: `The + comparative ..., the + comparative ...`.
+- **So sánh bội số** (gấp bao nhiêu lần): `twice / three times / half as + adj + as`.
+
+### Examples
+
+- Bài thi này **khó hơn** bài lần trước.
+- Cô ấy là học sinh **giỏi nhất** trường.
+- Anh ấy không **cao bằng** anh trai mình.
+- Thời tiết đang **càng ngày càng nóng**.
+- Bạn **càng** làm việc chăm chỉ thì **càng** đạt được nhiều thành quả.
+- Căn hộ của tôi **rộng gấp đôi** căn hộ của bạn.
+
+### Notes & exceptions
+
+- Không bao giờ dùng cả hai dấu hiệu so sánh cùng lúc: ❌ *more taller*, ❌ *the most biggest*.
+- `elder / eldest` chỉ đứng trước danh từ và chỉ dùng cho các thành viên trong gia đình.
+- `farther` = xa hơn về khoảng cách thực tế; `further` = thêm nữa (*further information* – thông tin thêm).
+- Sau `than`, dùng đại từ chủ ngữ là cách nói trang trọng (*than I am*), dùng đại từ tân ngữ là cách nói thân mật (*than me*).
+- `less / the least` là dạng so sánh theo chiều kém hơn: *less expensive than* (ít đắt hơn), *the least expensive* (ít đắt nhất).
+- So sánh nhất thường đi kèm [[Present Perfect]]: *the best film I **have ever seen*** (bộ phim hay nhất tôi từng xem).
+
+### Common mistakes
+
+- Không dùng `more` cùng với đuôi `-er`; `tall` là tính từ ngắn nên chỉ cần `taller`.
+- `tall` là tính từ một âm tiết nên so sánh nhất là `the tallest`, không dùng `the most`.
+- So sánh bằng ở dạng phủ định dùng `not so ... as`, không dùng `than`.
+
+### Contrast with
+
+- [[Inversion in Comparisons]] — mệnh đề so sánh có đảo ngữ, dùng trong văn phong trang trọng
+- [[So and Such]] — chỉ mức độ, không phải so sánh
+- [[Too With Infinitive]] — chỉ sự quá mức (*too difficult to solve* – quá khó nên không giải được)
+- [[Enough With Infinitive]] — chỉ sự vừa đủ (*good enough to pass* – đủ giỏi để thi đỗ)

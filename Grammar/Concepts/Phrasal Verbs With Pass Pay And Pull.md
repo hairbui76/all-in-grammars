@@ -66,4 +66,51 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Các động từ bắt đầu bằng chữ P mà tiểu từ diễn tả việc truyền lại, trả hết nợ và kéo đổ hay kéo sang một bên.
+
+### Examples — pass
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| pass away | qua đời (cách nói lịch sự) | Ông của cô ấy đã **qua đời** thanh thản. |
+| pass by | đi ngang qua | Trên đường về nhà, chúng tôi **đi ngang qua** ngôi trường cũ. |
+| pass on to = hand down to | truyền lại cho người khác hoặc cho thế hệ sau | Câu chuyện được **truyền lại cho** từng thế hệ mới. |
+| pass out | ngất, bất tỉnh | Anh ấy **ngất đi** vì nóng. |
+
+### Examples — pay and point
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| pay somebody back | trả lại tiền đã nợ; trả thù | Cuối tháng tôi sẽ **trả lại tiền** cho bạn. |
+| pay up | trả hết số tiền còn nợ | Cuối cùng công ty cũng **trả hết nợ** sau khi có lệnh của toà án. |
+| point out | chỉ ra, làm cho chú ý đến | Cô ấy **chỉ ra** lỗi sai trong phép tính của tôi. |
+
+### Examples — pull
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| pull back | rút lui, lùi lại | Đội quân **rút lui** về bên kia biên giới. |
+| pull down = knock down | phá dỡ | Rạp chiếu phim cũ đã bị **phá dỡ** năm ngoái. |
+| pull in to | (tàu hoả) vào ga | Chuyến tàu tốc hành **tiến vào** sân ga số bốn. |
+| pull something out | lấy, nhổ cái gì ra | Nha sĩ đã **nhổ** chiếc răng **ra**. |
+| pull over | (xe cộ) tấp vào lề đường | Cảnh sát buộc anh ta phải **tấp vào lề**. |
+
+### Notes & exceptions
+
+- `pass away` = qua đời; `pass out` = ngất. Hai cụm trông giống nhau nhưng không liên quan gì đến nhau.
+- `pay back` có nghĩa đen (tiền bạc) và nghĩa bóng (trả thù): *I'll pay him back for that remark* (tôi sẽ trả đũa anh ta vì câu nói đó).
+- `pull down` và `knock down` đều có nghĩa là *phá dỡ*, nhưng chỉ `knock down` mới còn có nghĩa là *đâm xe vào ai*.
+- `pay somebody back` và `pull something out` là cụm tách được; khi tân ngữ là đại từ thì bắt buộc phải tách: *pay **him** back*.
+
+### Common mistakes
+
+- Muốn nói "qua đời" phải dùng `pass away`; `pass out` chỉ có nghĩa là ngất đi.
+- Tân ngữ là đại từ phải đứng giữa động từ và tiểu từ: `pay you back`.
+
+### Contrast with
+
+- [[Phrasal Verbs With Take And Put]] — nhóm lớn còn lại bắt đầu bằng chữ P
+- [[Phrasal Verbs - Money and Shopping]] — `pay back` trong ngữ cảnh tài chính
+- [[Phrasal Verbs - Health and Life Events]] — `pass away`, `pass out`

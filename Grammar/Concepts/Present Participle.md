@@ -60,4 +60,41 @@ Spelling details are collected in [[Spelling Rules for -ing Forms]].
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Dạng `-ing` của động từ, dùng với nghĩa chủ động: là một phần của các thì tiếp diễn, làm tính từ, hoặc làm thành phần chính của mệnh đề phân từ.
+
+### Form
+
+Ví dụ về dạng này: `feeling, writing, lying, getting, forgetting, picnicking`.
+Các quy tắc chính tả chi tiết được tập hợp ở [[Spelling Rules for -ing Forms]].
+
+### Main uses
+
+1. **Trong tất cả các thì tiếp diễn** (hiện tại, quá khứ, tương lai và các dạng hoàn thành tiếp diễn của chúng)
+2. **Đứng trước danh từ, làm tính từ** mang nghĩa chủ động
+3. **Sau `have + tân ngữ`** trong cấu trúc kiểu sai khiến `have + obj + V-ing`
+4. **Sau các động từ chỉ tri giác** — xem [[Verbs of Perception with V-ing and Bare Infinitive]]
+5. **Sau một số động từ và cụm từ nhất định** — xem [[Verb Patterns with V-ing]]
+6. **Làm mệnh đề rút gọn**, thay cho chủ ngữ + động từ chủ động — xem [[Participle Clauses]] và [[Reduced Relative Clauses]]
+
+### Examples
+
+- Họ **đã sống** ở đó được 5 năm thì cuộc Nội chiến nổ ra.
+- Vào đi! Chúng tôi **đã đợi** bạn lâu lắm rồi.
+- Tính đến cuối năm sau, tôi **sẽ dạy** tiếng Anh được tròn 12 năm.
+- một đứa trẻ **đang ngủ**, một con chó **đang nằm**, nước **đang nhỏ giọt**, một cô gái **đang cười**, một ngôi nhà **nổi**
+- Anh ấy khiến tôi phải **bơi** suốt một tuần.
+- Tôi sẽ không để nó **lau chùi** xe đạp trong bếp đâu.
+
+### Notes & exceptions
+
+- Các phân từ tường thuật như `adding that`, `warning sb that`, `reminding sb that`, `pointing out that` có thể mở đầu một mệnh đề gián tiếp:
+  - "Xin anh đừng mạo hiểm," bạn gái anh ấy nói. "Em không thể sống thiếu anh." → Cô ấy van xin anh đừng mạo hiểm, **nói thêm rằng** cô không thể sống thiếu anh.
+  - "Bạn nên lên đường sớm. Đường sá sẽ đông lắm," cô ấy nói. → Cô ấy khuyên tôi lên đường sớm, **cảnh báo tôi** rằng đường sá sẽ đông.
+
+### Contrast with
+
+- [[Past Participle]] — nghĩa bị động (`boiled water` so với `boiling water`)
+- [[Perfect Participle]] — `Having + V3`, dùng cho hành động đã hoàn thành trước đó
+- [[Gerunds]] — cùng dạng `-ing` nhưng đóng vai trò như một danh từ

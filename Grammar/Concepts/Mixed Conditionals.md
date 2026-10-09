@@ -60,4 +60,40 @@ Type 3 if-clause + type 2 main clause:
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Điều kiện và kết quả thuộc hai thời điểm khác nhau, nên hai mệnh đề được lấy từ hai loại câu điều kiện khác nhau.
+
+### Form
+
+Có hai cách kết hợp:
+
+Nói cách khác, mệnh đề `if` của loại này được ghép với mệnh đề chính của loại kia.
+
+### When to use
+
+- Dùng cấu trúc (1) khi một sự thật lâu dài ở hiện tại giải thích cho một việc đã không xảy ra trong quá khứ.
+- Dùng cấu trúc (2) khi một việc đã không xảy ra trong quá khứ giải thích cho một trạng thái ở hiện tại.
+
+### Examples
+
+Mệnh đề `if` loại 2 + mệnh đề chính loại 3:
+
+- Nếu tôi **là** bạn, tôi **đã không** thô lỗ với anh ấy như thế.
+- Nếu anh ấy **không yêu** vợ thì anh ấy **đã không cưới** cô ấy.
+
+Mệnh đề `if` loại 3 + mệnh đề chính loại 2:
+
+- Nếu tối qua tôi **không thức** khuya thì bây giờ tôi **đã không buồn ngủ**.
+- Nếu bạn **nghe theo** lời khuyên của tôi thì bây giờ mọi chuyện **đã khác**.
+- Nếu hồi đi học tôi **học** chăm chỉ thì bây giờ tôi **đã không phải làm** lao công.
+
+### Notes & exceptions
+
+- Các từ chỉ thời gian (`last night`, `now`, `today`) là dấu hiệu rõ nhất cho thấy cần dùng cấu trúc hỗn hợp.
+- Mệnh đề chính của cấu trúc (2) có thể dùng `would`, `could` hoặc `might` tuỳ theo nghĩa.
+
+### Contrast with
+
+- [[Second Conditional]] — cả hai mệnh đề đều không có thật ở hiện tại/tương lai
+- [[Third Conditional]] — cả hai mệnh đề đều không có thật trong quá khứ

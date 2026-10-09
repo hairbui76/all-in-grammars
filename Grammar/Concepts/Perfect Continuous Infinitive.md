@@ -61,4 +61,45 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`to have been + V-ing` nói về một hành động đang diễn ra tại, hoặc kéo dài đến, một thời điểm trước đó.
+
+### Form
+
+`(to) have been + V-ing` — to have been doing (đã và đang làm), to have been making (đã và đang làm ra)
+
+### Uses
+
+| After | Formula | Equivalent |
+|---|---|---|
+| `will / shall` | `will have been V-ing` | thì tương lai hoàn thành tiếp diễn |
+| `must` | `S + must have been V-ing` | `I'm sure + past continuous clause` |
+| `can't / couldn't` | `S + can't have been V-ing` | `I'm sure + negative past continuous clause` |
+| `may / might` | `S + may/might have been V-ing` | `Perhaps + past continuous clause` |
+| `should` | `S + should have been V-ing` | đáng lẽ việc đó phải đang diễn ra nhưng lại không |
+| `be said / thought to` | câu bị động tường thuật | `People say that he has been ...` |
+| `seem, appear, pretend, happen` | hành động có vẻ đã kéo dài lâu | `It seems that she has been ...` |
+| `hope, promise, determine, expect, arrange` | khoảng thời gian kéo dài đến một thời điểm trong tương lai | |
+
+### Examples
+
+- Đến cuối năm nay, tôi **đã dạy học được** 12 năm.
+- Đến giờ này năm sau, họ **đã làm việc** ở nhà máy này được 5 năm.
+- Nhà bên cạnh lúc đó ồn ào lắm. Hàng xóm của tôi **chắc hẳn khi ấy đang mở** tiệc. = Tôi chắc chắn lúc đó hàng xóm của tôi đang mở tiệc.
+- Khi tôi về thì căn nhà yên ắng. Mọi người **chắc hẳn lúc đó đang ngủ**.
+- Jack đâm thẳng vào tường. Anh ấy **chắc chắn đã không nhìn** đường khi đi.
+- Bọn trẻ **không thể nào đang học** ở trường lúc 10 giờ tối hôm qua được.
+- Giờ này hôm qua họ **có thể đang chơi** thể thao. = Có lẽ lúc đó họ đang chơi thể thao.
+- Khi tôi đến, cậu ấy đang xem ti vi. Lẽ ra cậu ấy **không nên ngồi xem** ti vi. Lẽ ra cậu ấy **phải đang làm** bài tập về nhà.
+- Người ta nói rằng anh ấy chơi bóng đá từ khi còn nhỏ. → Anh ấy **được cho là đã chơi** bóng đá từ nhỏ đến giờ.
+- Anh ấy **được cho là đã làm việc** cho một tổ chức quốc tế từ lâu.
+- Cô ấy có vẻ **đã đợi** bạn lâu lắm rồi.
+- Tôi tình cờ **đã đứng** ở đó được vài phút thì đám cháy bùng lên.
+- Cô ấy giả vờ **đã học** tiếng Anh từ lâu. Thực ra cô ấy mới bắt đầu học.
+- Tôi hy vọng mình **sẽ dạy** tiếng Anh được thật lâu trước khi nghỉ hưu.
+
+### Contrast with
+
+- [[Perfect Infinitive]] — một hành động đã hoàn tất trước đó
+- [[Continuous Infinitive]] — một hành động đang diễn ra lúc này

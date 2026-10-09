@@ -60,4 +60,38 @@ Indirect: S + said (that) + clause
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Câu trần thuật được tường thuật bằng `say/tell (that) + clause`, giữ nguyên ý nghĩa nhưng đổi từ ngữ theo góc nhìn của người tường thuật.
+
+### Form
+
+Có thể lược bỏ `that`. `say` không đi với tân ngữ chỉ người; `tell` thì bắt buộc phải có.
+
+### When to use
+
+- Để thuật lại điều ai đó đã nói, thay vì trích nguyên văn
+- Câu trực tiếp giữ nguyên lời nói gốc trong dấu ngoặc kép; câu gián tiếp thì không
+
+### Examples
+
+- Mary nói: "Tôi chưa bao giờ đến Paris." → Mary **nói rằng cô ấy chưa bao giờ đến** Paris.
+- "Hôm nay chúng tôi học bài 5," Tom nói. → Tom **nói rằng họ đang học** bài 5 **hôm đó**.
+- "Tôi đang tìm việc," Jane nói. → Jane **nói rằng cô ấy đang tìm** việc.
+- "Đây là lần đầu tiên tôi ăn món này," anh ấy nói. → Anh ấy **nói rằng đây là** lần đầu tiên **anh ấy ăn** món này.
+
+### Notes & exceptions
+
+- **Động từ tường thuật ở thì hiện tại** (`says`, `is saying`, `will say`): thì của động từ trong lời được thuật lại không đổi; chỉ điều chỉnh đại từ và các từ quy chiếu khác.
+- **Động từ tường thuật ở thì quá khứ** (`said`, `told`): động từ trong lời được thuật lại thường phải lùi thì → xem [[Backshift of Tenses]].
+- **Không lùi thì với chân lý luôn đúng**, quy luật tự nhiên và thói quen không thay đổi:
+  - "Hai cộng hai bằng bốn," anh ấy nói → Anh ấy nói hai cộng hai **bằng** bốn.
+  - "Mặt trời mọc ở hướng đông," thầy giáo nói → Thầy giáo nói rằng mặt trời **mọc** ở hướng đông.
+  - "Thành phố Hồ Chí Minh lớn hơn Hà Nội," bố tôi nói → Bố tôi nói rằng Thành phố Hồ Chí Minh lớn hơn Hà Nội.
+  - "Bữa sáng tôi luôn ăn bánh mì và trứng," anh ấy nói → Peter nói rằng bữa sáng anh ấy luôn **ăn** bánh mì và trứng.
+
+### Contrast with
+
+- [[Reported Speech - Questions]] — trật tự từ của câu trần thuật, thêm `if/whether` hoặc từ để hỏi
+- [[Reported Speech - Commands]] — cấu trúc `verb + object + to-infinitive`
+- [[Reported Speech - Exclamations]] — tường thuật bằng `exclaim`, `thank`, `wish`, v.v.

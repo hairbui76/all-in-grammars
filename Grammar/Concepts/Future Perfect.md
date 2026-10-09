@@ -63,4 +63,47 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`will have + V3` — một hành động sẽ hoàn thành xong trước một thời điểm nhất định trong tương lai.
+
+### Form
+
+`(+) S + will have + V3/V-ed`
+`(-) S + will not (won't) have + V3/V-ed`
+`(?) Will + S + have + V3/V-ed ?`
+
+### When to use
+
+- Hành động **hoàn thành trước một thời điểm trong tương lai**, thường đi với `by`, `by the time`, `before`, `by then`.
+- Hành động hoàn thành **trước một hành động khác trong tương lai** (động từ thứ hai chia ở [[Present Simple]]).
+- Để nêu **tổng số đạt được** tính đến một thời điểm trong tương lai: *By June I will have worked here for ten years* (đến tháng Sáu, tôi sẽ làm việc ở đây được mười năm).
+
+### Examples
+
+- Vào thời điểm này tháng sau, tôi **sẽ hoàn thành xong** luận văn.
+- Lúc bạn đến đó thì cô ấy **đã đi rồi**.
+- Bạn **sẽ hoàn thành xong** bản báo cáo trước thứ Sáu chứ?
+- Đến năm 2030, công ty **sẽ mở được** năm mươi chi nhánh.
+- Trước thứ Hai, chúng tôi **sẽ chưa nhận được** kết quả.
+
+### Notes & exceptions
+
+- Các dấu hiệu thường gặp: `by + future time` (`by` + mốc thời gian tương lai), `by the time + present tense clause` (`by the time` + mệnh đề ở thì hiện tại), `before`, `by then`.
+- `by` = không muộn hơn; `until` = kéo dài cho đến hết mốc đó — không được dùng lẫn lộn → xem [[Until and By]].
+  - Việc sẽ xong không muộn hơn thứ Sáu thì dùng `by`, không dùng `until`.
+- Bị động: `will have been + V3` → xem [[Passive Voice in Nine Tenses]].
+- `must have + V3` trông tương tự nhưng diễn tả suy luận về quá khứ → xem [[Must For Deduction]] và [[Modal Perfect Infinitive]].
+
+### Common mistakes
+
+- Sau `by the time` không dùng `will`; động từ chia ở thì hiện tại đơn.
+- Sau `will have` phải là quá khứ phân từ (`gone`), không phải dạng quá khứ đơn (`went`).
+
+### Contrast with
+
+- [[Future Simple]] — hành động chỉ đơn giản xảy ra tại một thời điểm trong tương lai
+- [[Future Continuous]] — đang diễn ra **tại** thời điểm tương lai đó, chứ chưa hoàn thành trước đó
+- [[Future Perfect Continuous]] — nhấn mạnh **khoảng thời gian kéo dài** tính đến thời điểm tương lai đó
+- [[Past Perfect]] — cùng logic "trước một mốc thời gian" nhưng đặt trong quá khứ
+- [[Present Perfect]] — hoàn thành trước **hiện tại**

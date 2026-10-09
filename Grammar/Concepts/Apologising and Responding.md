@@ -72,4 +72,57 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Nói lời xin lỗi, và trấn an người vừa xin lỗi mình.
+
+### Useful patterns
+
+### Xin lỗi
+
+| Register | Expression | Following form |
+|---|---|---|
+| Trung tính | `I'm sorry (that) ...` | mệnh đề |
+| Trung tính | `I'm sorry for + V-ing` | `-ing` |
+| Nói giảm khi báo tin không vui | `I'm afraid ...` | mệnh đề |
+| Nói giảm khi từ chối | `I'm sorry I can't.` · `I'm afraid not.` | — |
+| Trang trọng | `I do apologise for ...` | danh từ / `-ing` |
+
+### Đáp lại lời xin lỗi
+
+| Register | Expression |
+|---|---|
+| Trung tính | `That's all right.` · `Never mind.` |
+| Trấn an | `Don't worry. I'm all right.` · `No problem.` |
+| Trang trọng | `Please don't apologise.` |
+
+### Gây chú ý hoặc ngắt lời
+
+| Expression | Use |
+|---|---|
+| `Excuse me.` | trước khi bắt chuyện với người lạ, hỏi một câu hoặc xin phép rời đi |
+| `Sorry?` (rising tone) | bạn nghe không rõ và muốn người kia nhắc lại |
+
+### When to use
+
+- `Excuse me` nói **trước** khi có thể làm phiền (chặn hỏi ai đó trên đường); `Sorry` nói **sau** khi đã làm phiền.
+- `I'm afraid` không phải là lời xin lỗi thật sự — đó là cách nói giảm gắn vào một thông tin không vui hoặc một lời từ chối.
+- Khi không biết câu trả lời, người ta xin lỗi chứ không chỉ nói là không biết: `I'm sorry, I don't know.`
+
+### Examples
+
+- "**Xin lỗi anh.** Tôi là hàng xóm mới của anh. Tôi vừa mới dọn đến." — "Ồ, rất vui được gặp anh."
+- "Cho tôi nói chuyện với Ann được không?" — "**Xin lỗi anh. Ann không có ở đây.**"
+- "Xem xong buổi diễn bạn ghé qua được không?" — "**Tiếc quá, mình không ghé được.**"
+- "Để tôi lái xe đưa bạn về." — "**Đừng lo. Tôi không sao đâu.**"
+
+### Common mistakes
+
+- Chỉ nói trống không `No` ở chỗ lẽ ra phải dùng `I'm afraid not`.
+- Sau giới từ `for` động từ phải ở dạng `-ing`, không dùng động từ nguyên mẫu.
+
+### Contrast with
+
+- [[Thanking and Complimenting]] — cặp lời cảm ơn / lời đáp tương ứng
+- [[Accepting and Declining]] — `I'm sorry` dùng làm cách nói giảm khi từ chối
+- [[Expressing Sympathy]] — lấy làm tiếc *cho ai đó*, không phải xin lỗi *về việc mình đã làm*

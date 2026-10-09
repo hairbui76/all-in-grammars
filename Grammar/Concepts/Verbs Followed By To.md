@@ -70,4 +70,55 @@ Here `to` is a preposition, not part of an infinitive, so any verb after it take
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Các động từ đi với giới từ cố định `to`, thêm ý *nơi đến, người nhận hoặc một chuẩn mực*.
+
+### Form
+
+`V (+ object) + to + noun / pronoun / V-ing`
+
+Ở đây `to` là giới từ, không phải một phần của động từ nguyên mẫu, nên động từ đứng sau nó phải ở dạng `-ing`.
+
+### Examples
+
+| Combination | Meaning | Example |
+|---|---|---|
+| advance to | tiến về phía | Đoàn quân **tiến đến** bờ sông. |
+| answer to | khớp với, đúng với | Tên trộm **khớp với** mô tả trên tờ thông báo. |
+| attend to | giải quyết; chăm sóc | Một y tá **chăm sóc** người đàn ông bị thương. |
+| belong to | thuộc về, là của | Chiếc túi này **là của** chị tôi. |
+| come to | lên tới (một tổng số) | Hoá đơn **lên tới** chín mươi bảng. |
+| come down to | rốt cuộc là vấn đề, về bản chất là | Rốt cuộc mọi chuyện **đều quy về** tiền bạc. |
+| consign to | giao cho, phó mặc cho | Những lá thư **bị ném vào** lửa. |
+| get down to | bắt tay vào làm nghiêm túc | Đã đến lúc chúng ta **bắt tay vào** ôn bài. |
+| get through to someone | liên lạc được với ai | Cả buổi sáng tôi không **gọi được cho** văn phòng. |
+| put someone through to | nối máy cho ai gặp | Tôi sẽ **nối máy** cho anh **gặp** giám đốc. |
+| give way to | nhường, nhượng bộ; bị thay thế bởi | Cơn giận dần **nhường chỗ cho** lòng thương hại. |
+| hand down to = pass on to | truyền lại cho thế hệ sau | Những công thức nấu ăn này do bà tôi **truyền lại cho** chúng tôi. |
+| live up to | đạt đúng mức được kỳ vọng | Bộ phim không **hay được như** các bài phê bình đã khen. |
+| look up to | kính trọng, ngưỡng mộ | Các cầu thủ trẻ **ngưỡng mộ** đội trưởng. |
+| look forward to | háo hức mong chờ | Tôi rất **mong** được gặp bạn. |
+| make one's way to | đi đến, tìm đường đến | Họ **đi về phía** lối ra. |
+| owe something to somebody | có được điều gì là nhờ ai | Tôi **có được** thành công **là nhờ** bố mẹ. |
+| put something down to | cho rằng điều gì là do | Tôi **cho rằng** sự thô lỗ của anh ấy **là do** mệt mỏi. |
+| see to | lo liệu, đảm nhận | Tôi sẽ **lo** chuyện vé. |
+| send someone to | đưa ai vào (bệnh viện, nhà tù) | Anh ấy được **đưa vào** bệnh viện để làm xét nghiệm. |
+
+### Notes & exceptions
+
+- Vì `to` ở đây là giới từ nên động từ theo sau là danh động từ: *look forward to **seeing** you* (mong được gặp bạn), *get down to **working*** (bắt tay vào làm việc) → xem [[To As Preposition]].
+- `come to` = lên tới một khoản tiền; `come down to` = quy về điểm cốt lõi.
+- `owe something to somebody` có thể đổi trật tự và bỏ giới từ: *I owe my parents my success* (tôi có được thành công là nhờ bố mẹ).
+- `hand down`, `pass on` và `hand over` đều chỉ việc chuyển giao một thứ gì đó, nhưng `hand over` là trao lại quyền hành ngay lập tức.
+
+### Common mistakes
+
+- `to` trong `look forward to` là giới từ nên động từ theo sau phải ở dạng `-ing`, không dùng động từ nguyên mẫu.
+- `belong` đi với giới từ `to` để chỉ sự sở hữu, không dùng `with`.
+
+### Contrast with
+
+- [[Verbs Followed By For]] — nhóm động từ tương ứng đi với `for`
+- [[To As Preposition]] — lý do vì sao theo sau là danh động từ
+- [[Verb Preposition Combinations]] — danh sách rộng hơn

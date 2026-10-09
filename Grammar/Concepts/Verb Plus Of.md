@@ -76,4 +76,62 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`Of` đi sau các động từ chỉ thành phần cấu tạo, nguyên nhân và nội dung suy nghĩ, và là giới từ trong một nhóm lớn các cụm cố định `verb + noun + of`.
+
+### Form
+
+`V + of + noun / V-ing`
+`V + object + of + noun`
+`V + noun + of + noun` (các cụm cố định)
+
+### Verb + of
+
+| Combination | Meaning | Example |
+|---|---|---|
+| consist **of** | gồm có, bao gồm | Khoá học **gồm** mười bài. |
+| die **of** (a disease) | chết vì (một căn bệnh) | Ông ấy **chết vì** viêm phổi. |
+| dream **of** | mơ ước, tưởng tượng | Cô ấy **mơ ước** được sống ở nước ngoài. |
+| think **of** sb | nghĩ đến ai | Tôi thường **nghĩ đến** bà tôi. |
+| hear **of** sb / sth | nghe nói đến, biết là có ai / cái gì | Tôi chưa bao giờ **nghe nói đến** ban nhạc đó. |
+| approve **of** sth | tán thành, cho là tốt | Bố mẹ cô ấy **tán thành** cuộc hôn nhân. |
+| disapprove **of** sth | không tán thành, cho là sai | Ông ấy **không tán thành** chuyện cờ bạc. |
+
+### Verb + object + of
+
+| Combination | Meaning | Example |
+|---|---|---|
+| accuse sb **of** sth | buộc tội ai về việc gì | Họ **buộc tội** anh ta ăn cắp. |
+
+### Fixed verb + noun + of
+
+| Phrase | Meaning | Example |
+|---|---|---|
+| take care **of** | chăm sóc, trông nom | Ai sẽ **chăm sóc** con mèo? |
+| take notice **of** | chú ý đến, để ý đến | Không ai **để ý đến** lời cảnh báo. |
+| take account **of** | tính đến, cân nhắc | Chúng ta phải **tính đến** chi phí. |
+| take advantage **of** | tận dụng, lợi dụng | Anh ấy đã **tận dụng** lời đề nghị đó. |
+| make use **of** | sử dụng, tận dụng | Cô ấy **tận dụng** từng phút. |
+| make fun **of** sb | chế giễu ai | Đừng **chế giễu** giọng nói của cậu ấy. |
+| catch sight **of** | thoáng thấy | Tôi **thoáng thấy** cô ấy trong đám đông. |
+| lose sight **of** | không còn nhìn thấy nữa | Chúng tôi **không còn nhìn thấy** con thuyền nữa. |
+| lose track **of** | không còn theo dõi được | Tôi **quên mất** thời gian. |
+| make a fuss **over** sth | làm ầm ĩ không cần thiết về việc gì | Cô ấy **làm ầm lên vì** một vết xước nhỏ xíu. |
+
+### Notes & exceptions
+
+- `think **of**` = nghĩ đến hoặc nghĩ ra; `think **about**` = cân nhắc kỹ; `think **to oneself**` = thầm nghĩ.
+- `hear **of**` = biết là có ai đó; `hear **about**` = được kể cho nghe tin tức; `hear **from**` = nhận được tin nhắn, thư từ → xem [[Verb Plus With And From]].
+- `take account of sth` có thể đổi trật tự thành `take sth into account`; tương tự có `take sth into consideration`.
+- Động từ đứng sau `of` ở dạng `-ing`: `accused of stealing` → xem [[Gerund After Prepositions]].
+
+### Common mistakes
+
+- "Gồm có" là `consist of`, không dùng giới từ `in`.
+- Buộc tội ai về việc gì là `accuse sb of sth`, không dùng `for`.
+
+### Contrast with
+
+- [[Verb Plus For]] — lý do và người được hưởng lợi
+- [[Verb Plus To]] — hướng tới một người

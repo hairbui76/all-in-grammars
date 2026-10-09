@@ -51,4 +51,36 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Mệnh đề quan hệ có thể được rút gọn thành động từ nguyên mẫu có `to` sau số thứ tự, `only`, so sánh nhất, và khi mệnh đề diễn tả sự bắt buộc hay bổn phận.
+
+### Form
+
+`N + first / second / last / next / only / superlative + to + V`
+
+`N + to + V` (khi mệnh đề diễn tả một bổn phận hoặc một việc phải làm)
+
+### Case a — after ordinals, `only` and superlatives
+
+- Cô ấy là người cuối cùng **rời** hội nghị.
+- Anh ấy luôn là người **đến** cuối cùng.
+- Anh ấy là người duy nhất **sống sót** sau vụ tai nạn máy bay.
+- Bộ phim hay nhất **nên xem** là "Titanic".
+- Anh ấy thích tiệc tùng. Anh ấy luôn là người **đến** đầu tiên và **về** cuối cùng.
+
+### Case b — when the clause expresses duty or obligation
+
+- Hôm nay tôi có rất nhiều bài tập **phải làm**.
+- Tiếng Anh là một ngôn ngữ quan trọng **cần nắm vững**.
+- Cô ấy có hai đống quần áo bẩn **phải giặt**.
+
+### Notes & exceptions
+
+- Động từ nguyên mẫu thay cho toàn bộ mệnh đề quan hệ, kể cả đại từ quan hệ.
+- Chỉ rút gọn được khi đại từ quan hệ làm chủ ngữ của mệnh đề (trường hợp a) hoặc khi mệnh đề mang nghĩa tình thái chỉ sự cần thiết (trường hợp b).
+
+### Contrast with
+
+- [[Reduced Relative Clauses]] — rút gọn bằng hiện tại phân từ hoặc quá khứ phân từ
+- [[Defining Relative Clauses]] — dạng đầy đủ chưa rút gọn

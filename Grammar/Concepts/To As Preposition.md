@@ -52,4 +52,37 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`to` có khi là một phần của động từ nguyên mẫu (`to + V`), có khi là một giới từ thực sự; khi là giới từ, theo sau nó phải là danh động từ, danh từ hoặc đại từ.
+
+### Form
+
+- `to` là một phần của động từ nguyên mẫu: `to + V(bare)`
+- `to` là giới từ: `to + V-ing / noun / pronoun`
+
+### When to use
+
+**1. `to` là một phần của động từ nguyên mẫu** khi đứng sau các trợ động từ `be, have, ought, used` và sau `going` (`be going to`). Ở đây `to` thường được để lại đứng một mình để tránh lặp lại động từ, nhất là sau `hate, hope, intend, would like/love, mean, plan, try, want`.
+
+- Bạn có mua pho mát không? ~ Không, tôi đã định mua (một ít) nhưng cửa hàng đóng cửa mất rồi.
+- Tối nay bạn có muốn đi xem phim với tôi không? ~ Tôi muốn chứ / Tôi rất muốn.
+- Anh ấy hát hay hơn trước đây.
+- Bạn cho mèo ăn chưa? ~ Chưa, nhưng tôi sắp cho ăn đây.
+
+**2. `to` là giới từ** trong các cụm cố định như `look forward to`, `take to`, `be accustomed to`, `be/get used to`, `object to`, `confess to`. Khi đó theo sau nó là danh động từ, danh từ hoặc đại từ.
+
+- Tôi đang mong chờ kỳ nghỉ của mình / cuối tuần tới / điều đó.
+- Tôi đang mong được **gặp** bạn.
+- Tôi đã quen với cái nóng / với công việc nặng nhọc.
+- Tôi đã quen với việc **đứng** xếp hàng / với việc đó.
+
+### Common mistakes
+
+- `to` trong `be used to` là giới từ nên động từ theo sau phải ở dạng `-ing`.
+- `to` trong `look forward to` là giới từ nên động từ theo sau phải ở dạng `-ing`.
+
+### Contrast with
+
+- [[Gerund After Prepositions]] — quy tắc chung mà trường hợp này là một trường hợp riêng
+- [[Infinitives]] — `to + V` với một động từ đầy đủ theo sau

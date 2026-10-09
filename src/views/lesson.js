@@ -73,10 +73,11 @@ export async function lesson({ arg: title }) {
   const html =
     `<div class="lesson-wrap"><article class="lesson"><header class="lhead">` +
     `<div class="lmeta"><a href="${href('u', u.id)}">${esc(u.t)}</a><span>Bài ${i + 1}/${u.n.length}</span>` +
-    `<button class="aa" data-act="fs" aria-label="Đổi cỡ chữ">A<b>A</b></button></div>` +
+    `<span class="ltools"><button class="aa${S.vi ? ' on' : ''}" data-act="vi" aria-pressed="${S.vi}" aria-label="Hiện hoặc ẩn phần tiếng Việt">Việt</button>` +
+    `<button class="aa" data-act="fs" aria-label="Đổi cỡ chữ">A<b>A</b></button></span></div>` +
     `<h1>${esc(title)}</h1>` +
     (n.al.length ? `<p class="aliases">${esc(n.al.join(' · '))}</p>` : '') +
-    (body.lead ? `<p class="lead">${body.lead}</p>` : '') +
+    (body.lead ? `<p class="lead">${body.lead}${body.leadVi ? `<span class="vi">${body.leadVi}</span>` : ''}</p>` : '') +
     `</header>` +
     (toc.length > 1 ? `<nav class="toc-chips" aria-label="Mục trong bài">${tocLinks}</nav>` : '') +
     (body.intro ? `<div class="prose">${body.intro}</div>` : '') +

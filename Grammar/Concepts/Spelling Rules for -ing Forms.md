@@ -37,4 +37,22 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Có sáu quy tắc chính tả chi phối cách thêm `-ing` vào động từ.
+
+### Rules
+
+| Rule | Condition | Examples |
+|---|---|---|
+| 1 | Hai nguyên âm + một phụ âm; hai phụ âm; `e` có phát âm; tận cùng bằng `y` → chỉ cần thêm `-ing` | read → read**ing**, work → work**ing**, see → see**ing**, fly → fly**ing** |
+| 2 | `e` câm đứng sau một phụ âm → bỏ `e` rồi thêm `-ing` | write → writ**ing**, live → liv**ing**, type → typ**ing**, smoke → smok**ing** |
+| 3 | Động từ tận cùng bằng `-ie` → đổi `ie` thành `y` rồi thêm `-ing` | lie → l**ying**, die → d**ying**, tie → t**ying** |
+| 4 | Động từ một âm tiết, một nguyên âm + một phụ âm → gấp đôi phụ âm cuối | get → ge**tting**, run → ru**nning**, sit → si**tting**, fit → fi**tting**, swim → swi**mming**, plan → pla**nning** |
+| 5 | Động từ hai âm tiết, một nguyên âm + một phụ âm → gấp đôi phụ âm cuối | begin → begi**nning**, forget → forge**tting**, permit → permi**tting** |
+| 6 | Động từ tận cùng bằng `-c` → thêm `k` rồi mới thêm `-ing` | picnic → picnic**king**, mimic → mimic**king**, traffic → traffic**king** |
+
+### Notes & exceptions
+
+- Quy tắc 3 có là để tránh cách viết `*lieing`; kết quả là `lying`, `dying`, `tying`.
+- Quy tắc 4 và 5 chỉ áp dụng khi động từ tận cùng bằng đúng một nguyên âm + một phụ âm; `read` (hai nguyên âm) và `work` (hai phụ âm) không gấp đôi phụ âm.

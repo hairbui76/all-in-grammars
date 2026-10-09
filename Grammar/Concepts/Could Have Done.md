@@ -47,4 +47,32 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`Could have + past participle` có hai nghĩa: "có lẽ điều đó đã xảy ra" và "điều đó đã có thể xảy ra nhưng lại không xảy ra".
+
+### Meaning a — past possibility (= may / might have + PII)
+
+`S + could have + PII` = `Perhaps` + mệnh đề ở thì quá khứ đơn
+
+- Họ **có thể đã đi** con đường này. = Có lẽ họ đã đi con đường này.
+
+### Meaning b — an opportunity that was not used
+
+`S + could have + PII` — khả năng hoặc cơ hội đã có, nhưng việc đó đã không được thực hiện.
+
+- Sao bạn không nói với tôi là bạn đang thiếu tiền? Tôi **đã có thể cho** bạn **vay** một ít.
+- Bạn đã không cần phải nấu món này. Chúng ta **đã có thể ăn** nó ngay bây giờ.
+- Tôi có thời gian rảnh nhưng lại đi ngủ sớm. Tôi **đã có thể làm xong** hết bài tập về nhà.
+
+### Notes & exceptions
+
+- `would / could / might have + PII` là mệnh đề chính của [[Third Conditional]]:
+  - Có lẽ tôi không có được công việc tốt hơn vì tôi đã không học hành đủ chăm chỉ. → Tôi **có thể đã có được** một công việc tốt hơn nếu tôi học hành đủ chăm chỉ.
+- Nghĩa b thường hàm ý trách móc hoặc tiếc nuối, gần với `should have + PII` nhưng không khẳng định rằng hành động đó là một bổn phận.
+
+### Contrast with
+
+- [[May And Might For Possibility]] — chỉ có nghĩa a
+- [[Should Have Done]] — nêu một nghĩa vụ trong quá khứ, chứ không chỉ là một cơ hội
+- [[Ability With Can And Could]] — `could` chỉ khả năng đã thực sự được dùng đến

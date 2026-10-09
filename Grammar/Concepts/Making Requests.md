@@ -56,4 +56,40 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Nhờ người khác làm một việc gì đó cho mình, và những cách đáp cố định để nhận lời hoặc từ chối.
+
+### Useful patterns
+
+| Register | Request | Typical response |
+|---|---|---|
+| Trung tính | `Can you ...?` / `Could you ...?` | `Sure, I'll do it now.` |
+| Lịch sự | `Could you do me a favour?` | `Of course. What is it?` |
+| Lịch sự | `Would you mind + V-ing ...?` | `Not at all.` / `Sure, I'll do it now.` |
+| Rất dè dặt | `I wonder if you could do something for me.` | `It depends on what it is.` |
+| Phần thêm vào để nói giảm | `..., if you don't mind.` | — |
+| Từ chối | — | `I'm sorry I can't.` / `I'm afraid not.` |
+
+### When to use
+
+- `Could` và `would` tạo khoảng cách hơn nên lịch sự hơn `can` và `will`.
+- `I wonder if you could ...` là cách mở lời dè dặt nhất; nó để người kia được tự do hỏi xem việc nhờ là gì trước khi nhận lời.
+- Người ta thường nhận lời nhờ bằng một câu ngắn tỏ ý sẵn lòng (`Sure`, `Of course`, `No problem`), chứ không nói trống không `Yes`.
+
+### Examples
+
+- "**Chị giúp tôi một việc được không?**" — "Vâng. Ở đây có áo sơ mi không ạ?"
+- "**Không biết bạn có thể giúp mình một việc được không.**" — "**Còn tuỳ đó là việc gì.**"
+- "**Bạn gửi giúp** mấy bông hoa đó cho ông Brown **được không**?" — "**Được chứ, tôi làm ngay đây.**"
+
+### Common mistakes
+
+- Câu đó là lời đáp cho một *lời đề nghị giúp đỡ*, không phải cho một lời nhờ vả.
+- Trả lời `Would you mind ...?` bằng `Yes` khi ý mình là đồng ý — `mind` có nghĩa là *thấy phiền, phản đối*, nên lời đồng ý phải ở dạng phủ định.
+
+### Contrast with
+
+- [[Offers and Invitations]] — bạn đề nghị làm một việc gì đó cho người kia
+- [[Asking For and Giving Permission]] — bạn xin phép để tự mình làm một việc
+- [[Suggestions and Advice]] — bạn đề xuất một việc cho cả hai cùng làm

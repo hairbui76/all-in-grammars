@@ -73,4 +73,53 @@ Predicative:
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Tính từ hoặc đứng trước danh từ mà nó miêu tả (làm định ngữ), hoặc đứng sau một động từ nối (làm vị ngữ); một vài vị trí khác dành riêng cho các trường hợp đặc biệt.
+
+### Form
+
+Các động từ nối đi với tính từ làm vị ngữ: `be, become, seem, look, sound, feel, get, appear, stay, taste, smell`.
+
+### When to use
+
+- **Làm định ngữ (attributive)** — tính từ bổ nghĩa trực tiếp cho danh từ và đứng trước danh từ.
+- **Làm vị ngữ (predicative)** — tính từ miêu tả chủ ngữ thông qua một động từ nối. Ở đây `look` và `sound` có nghĩa là "có vẻ / dường như", còn `get` có nghĩa là "trở nên".
+- Phần lớn tính từ dùng được ở cả hai vị trí.
+
+### Examples
+
+Làm định ngữ:
+
+- Đó là một ngôi nhà **đẹp**.
+- Đây là một căn phòng **rộng**.
+- Cậu ấy là một cậu bé **thông minh**.
+- Đó là một căn phòng **nóng**.
+
+Làm vị ngữ:
+
+- Căn phòng này **đẹp**.
+- Món ăn trông **ngon**.
+- Trời đang **tối** dần.
+- Cậu bé ấy **thông minh**.
+- Căn phòng này **nóng**.
+
+### Notes & exceptions
+
+- Sau các đại từ bất định `something, anything, nothing, everything, someone`, tính từ đứng **sau** đại từ:
+  - Tôi không có **điều gì thú vị** để kể cho bạn.
+  - **Một điều tuyệt vời** đã đến với tôi kể từ lần cuối chúng ta gặp nhau.
+  - Cô ấy đã mua **mọi thứ cần thiết** cho chuyến đi.
+  - Tôi đã gặp **một người khó hiểu** ở bữa tiệc của Tom.
+  - Hôm nay **chẳng có gì mới** với tôi cả.
+- Một số tính từ tận cùng bằng `-ible` hoặc `-able` có thể đứng sau danh từ:
+  - Đó là **giải pháp khả thi** duy nhất.
+  - Có còn **vé** không?
+  - Tôi muốn nói chuyện với **người chịu trách nhiệm**.
+- Có một nhóm tính từ chỉ dùng được làm vị ngữ → xem [[Predicative-Only Adjectives]].
+
+### Contrast with
+
+- [[Predicative-Only Adjectives]] — không thể đứng trước danh từ
+- [[Order of Adjectives]] — trật tự khi nhiều tính từ đứng liền nhau
+- [[Participles as Adjectives]] — dạng `-ed` / `-ing` dùng làm định ngữ trước danh từ

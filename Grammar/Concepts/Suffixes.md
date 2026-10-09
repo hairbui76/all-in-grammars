@@ -47,4 +47,30 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Hậu tố được thêm vào sau từ gốc để tạo thành từ mới, và thường quyết định từ loại của từ mới đó.
+
+### Form
+
+`root word + suffix` → từ mới, thường thuộc một từ loại khác
+
+### The four families
+
+| Family | Typical suffixes | Example |
+|---|---|---|
+| Tạo danh từ | -y, -cy, -ty, -ity, -al, -ion, -sion, -tion, -ation, -dom, -sis, -ence, -ance, -ure, -ship, -ness, -age, -ment, -ery | difficult → difficulty |
+| Tạo tính từ | -able, -ous, -y, -ful, -ern, -ly, -al, -ish, -like, -ive, -ic, -ical, -less | change → changeable |
+| Tạo động từ | -en, -ise/-ize | tight → tighten |
+| Chỉ người / vật | -er, -or, -ess, -ist, -ant, -ee, -ar, -ian, -ent, -ive, -aire, -al | teach → teacher |
+
+### How to choose the right suffix
+
+1. Xác định chỗ trống cần **từ loại** nào (danh từ, động từ, tính từ, trạng từ).
+2. Chọn hậu tố mà từ gốc đó thường đi cùng — việc chọn này tuỳ từng từ chứ không tự do: *difficult → difficulty* nhưng *clear → clarity*.
+3. Kiểm tra xem chính tả có thay đổi ở chỗ nối không: `refuse → refusal`, `divide → division`, `admire → admiration`.
+
+### Notes & exceptions
+
+- Thêm hậu tố thường làm thay đổi trọng âm → xem [[Suffixes That Take Stress]], [[Suffixes That Shift Stress to the Previous Syllable]] và [[Suffixes That Do Not Affect Stress]].
+- Cùng một đuôi có thể thuộc hai nhóm: `-ive` là đuôi tính từ trong *attractive* nhưng là danh từ chỉ người trong *detective*.

@@ -64,4 +64,49 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Một số tính từ đi với các giới từ khác nhau thì mang nghĩa khác nhau, và một vài tính từ đi với hai giới từ cùng lúc — một cho người, một cho sự việc.
+
+### Same adjective, different preposition, different meaning
+
+| Pattern | Meaning | Example |
+|---|---|---|
+| be tired **of** sth | chán điều gì | Tôi **chán** phải làm mãi một công việc ngày này qua ngày khác. |
+| be tired **from** sth | mệt lả về thể chất vì điều gì | Tôi **mệt vì** đi bộ lâu. |
+| be good / bad **for** sb | có lợi / có hại cho ai | Tập thể dục **tốt cho** bạn. |
+| be good / bad **at** sth | giỏi / kém về việc gì | Cô ấy vẽ **giỏi**. |
+| be kind / nice **to** sb | đối xử tốt với ai | Cậu ấy **tử tế với** bạn học sinh mới. |
+| be angry **at** sth / **with** sb | bực vì một việc / giận một người | Tôi **bực vì** sự chậm trễ chứ không **giận** bạn. |
+| be confident **of** sth / **in** sb | tin chắc vào một kết quả / tin tưởng một người | Chúng tôi **tin chắc vào** thành công và **tin tưởng vào** đội của mình. |
+
+### Two prepositions in one pattern
+
+| Pattern | Meaning | Example |
+|---|---|---|
+| be grateful **to** sb **for** sth | biết ơn ai vì điều gì | Tôi **biết ơn** bạn **vì** đã giúp đỡ. |
+| be responsible **to** sb **for** sth | chịu trách nhiệm trước ai về một nhiệm vụ | Ông ấy **chịu trách nhiệm trước** hội đồng quản trị **về** ngân sách. |
+
+### It is + adjective + of / for + somebody
+
+| Pattern | Meaning | Example |
+|---|---|---|
+| It's kind / nice **of** sb (to do sth) | nhận xét về tính cách của người đó | Bạn **thật tốt** khi nói vậy. |
+| It's difficult / easy **for** sb (to do sth) | nhận xét về việc cần làm, không phải về con người | Quyết định là việc **khó đối với** tôi. |
+
+### Notes & exceptions
+
+- Sau giới từ, động từ tiếng Anh ở dạng `-ing`, không bao giờ ở dạng nguyên mẫu → xem [[Gerund After Prepositions]].
+- Sự phân biệt `of` / `for` ở trên cũng chính là sự phân biệt được dùng trong [[It Is Adjective Of Somebody To Do]] và [[It Is Adjective For Somebody To Do]].
+
+### Common mistakes
+
+- Mệt về thể chất (đau chân vì đi bộ xa) phải dùng `tired from`; `tired of` nghĩa là chán.
+- Khi nhận xét tính cách của người thực hiện hành động, dùng `kind of` sb, không dùng `for`.
+
+### Contrast with
+
+- [[Adjective Plus Of]]
+- [[Adjective Plus To]]
+- [[Adjective Plus For]]
+- [[Adjective Plus At]]

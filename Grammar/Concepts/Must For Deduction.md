@@ -73,4 +73,58 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`Must` diễn tả một kết luận logic mà người nói chắc chắn, đồng thời cũng diễn tả một nghĩa vụ do người nói tự đặt ra cho mình.
+
+### Form
+
+| Time reference | Structure | Equivalent |
+|---|---|---|
+| hiện tại, một trạng thái | `S + must + V` | `I'm sure` + mệnh đề ở thì hiện tại đơn |
+| hiện tại, đang diễn ra | `S + must be + V-ing` | `I'm sure` + mệnh đề ở thì hiện tại tiếp diễn |
+| quá khứ, đã hoàn thành | `S + must have + PII` | `I'm sure` + mệnh đề ở thì quá khứ đơn |
+| quá khứ, đang diễn ra | `S + must have been + V-ing` | `I'm sure` + mệnh đề ở thì quá khứ tiếp diễn |
+
+### Obligation use
+
+`Must` còn nêu một bổn phận mà chính người nói tự cảm thấy, chứ không phải do bên ngoài áp đặt.
+
+- Tối nay tôi có rất nhiều việc phải làm. Tôi nghĩ mình **phải thức** khuya.
+- Muộn quá rồi. Tôi **phải đi** bây giờ.
+
+### Examples — present deduction
+
+- Cô ấy đã không ăn gì suốt hai ngày. Bây giờ cô ấy **chắc hẳn đang** đói.
+- Tôi ngửi thấy mùi gì đó đang cháy. **Chắc hẳn có** một đám cháy gần đây.
+- Anh ấy sống ở Anh từ khi còn nhỏ. Anh ấy **chắc hẳn nói** tiếng Anh rất giỏi.
+- Cô ấy **chắc hẳn có** rất nhiều tiền trong ngân hàng. = Tôi chắc chắn cô ấy có rất nhiều tiền trong ngân hàng.
+
+### Examples — present continuous deduction
+
+- Ngôi nhà yên ắng. Mọi người **chắc hẳn đang ngủ**. = Tôi chắc chắn mọi người đang ngủ.
+- Nhà bên cạnh ồn ào quá. Hàng xóm của tôi **chắc hẳn đang mở** tiệc.
+- Bọn khủng bố **chắc hẳn đang ẩn náu** trên núi.
+- Bây giờ bố tôi **chắc hẳn đang xem** tivi ở nhà.
+
+### Examples — past deduction
+
+- Liverpool đã thắng trận đấu. Họ **chắc hẳn đã chơi** rất hay. = Tôi chắc chắn họ đã chơi rất hay.
+- Tôi làm mất chìa khóa rồi. Tôi **chắc hẳn đã đánh rơi** nó ở đâu đó trong phòng này.
+- Người Ai Cập cổ đại **chắc hẳn đã mất** nhiều năm để xây dựng các kim tự tháp của họ.
+- Anh ấy **chắc hẳn đã để quên** cuốn sách thư viện trên xe buýt.
+- Nhân dân Việt Nam đã đánh thắng đế quốc Mỹ. Các nhà lãnh đạo Việt Nam **chắc hẳn đã** rất tài trí.
+
+### Examples — past continuous deduction
+
+- Nhà bên cạnh lúc đó rất ồn ào. Hàng xóm của tôi **chắc hẳn đang mở** tiệc.
+- Giờ này hôm qua bố tôi **chắc hẳn đang làm việc** ở văn phòng.
+
+### Notes & exceptions
+
+- Dạng phủ định của `must` chỉ suy luận **không phải** là `mustn't` mà là `can't` → xem [[Cannot For Negative Deduction]].
+
+### Contrast with
+
+- [[Cannot For Negative Deduction]] — chắc chắn rằng điều gì đó không phải như vậy
+- [[May And Might For Possibility]] — một kết luận yếu hơn, không chắc chắn

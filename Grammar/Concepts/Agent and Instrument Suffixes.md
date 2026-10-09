@@ -68,4 +68,53 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Một nhóm hậu tố biến động từ hoặc danh từ thành từ chỉ **người** thực hiện hành động, còn một nhóm khác biến nó thành từ chỉ **vật** thực hiện hành động.
+
+### Nouns for people
+
+`verb / noun + -er, -or, -ess, -ist, -ant, -ee, -ar, -ian` → người
+
+| Root | Person | Root | Person |
+|---|---|---|---|
+| teach | teacher | act | actor |
+| wait | waitress | science | scientist |
+| account | accountant | train | trainee |
+| beg | beggar | library | librarian |
+
+- Chúng tôi rất vui khi có một **giáo viên** tiếng Anh mới.
+- Bộ phim do một **diễn viên** nổi tiếng đóng.
+- **Các nhà khoa học** đã cống hiến cả đời mình cho nhân loại.
+- Cô ấy muốn trở thành **kế toán** sau khi ra trường.
+- Daisy đã làm **nữ phục vụ bàn** trong kỳ nghỉ hè.
+
+### Less common person endings: -ent, -ive, -aire, -al
+
+| Root | Person |
+|---|---|
+| study | student |
+| detect | detective |
+| million | millionaire |
+| crime | criminal |
+
+- Mary là một **học sinh** rất giỏi.
+- Cảnh sát đã cố gắng truy tìm **tên tội phạm**.
+
+### Nouns for things and machines
+
+`verb + -er / -or` → dụng cụ, máy móc thực hiện hành động đó
+
+| Root | Instrument | Root | Instrument |
+|---|---|---|---|
+| cook | cooker | calculate | calculator |
+| wipe | wiper | record | recorder |
+
+- Hôm qua bố tôi mua một chiếc **bếp** mới.
+- Tom luôn mang **máy tính bỏ túi** đến trường.
+
+### Notes & exceptions
+
+- Cùng một hậu tố dùng cho cả người lẫn máy móc, nên phải dựa vào ngữ cảnh: `cooker` là một thiết bị (cái bếp) còn `cook` là người (đầu bếp); `recorder` có thể là một cái máy hoặc một người ghi chép sổ sách.
+- `-ee` chỉ người **nhận** hành động, còn `-er / -or` chỉ người **thực hiện** hành động: employer (người sử dụng lao động) và employee (người lao động), interviewer (người phỏng vấn) và interviewee (người được phỏng vấn), trainer (người huấn luyện) và trainee (người được đào tạo).
+- `-er`, `-or`, `-ist` và `-ant` không làm thay đổi trọng âm, nhưng `-ee`, `-eer` và `-ian` có ảnh hưởng đến trọng âm → xem [[Suffixes That Take Stress]].

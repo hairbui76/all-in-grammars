@@ -55,4 +55,37 @@ Variants of the second half: `but ... also`, `but ... as well`, `but ... too`.
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Khi `not only` mở đầu câu, mệnh đề thứ nhất đảo ngữ; mệnh đề thứ hai giữ trật tự từ bình thường và thêm `but ... also / as well`.
+
+### Form
+
+Các biến thể của vế sau: `but ... also`, `but ... as well`, `but ... too`.
+
+### Examples
+
+- Anh ấy không chỉ giỏi tiếng Anh mà còn vẽ rất đẹp.
+  → **Không những anh ấy** giỏi tiếng Anh **mà** anh ấy còn vẽ rất đẹp.
+- **Không những anh ấy hát** hay **mà** anh ấy **còn** chơi nhạc cụ rất điêu luyện.
+- **Không những anh ấy hát** hay **mà** anh ấy **cũng** chơi nhạc cụ rất điêu luyện **nữa**.
+- **Không những anh ấy tiêu** hết tiền của mình **mà** anh ấy **còn** vay thêm của bạn bè.
+- **Không những bệnh nhân từ chối** uống thuốc **mà** ông ta **còn** đánh bác sĩ.
+- Họ không chỉ đến mà còn ở lại ăn tối. → **Không những họ đến mà** họ **còn** ở lại ăn tối.
+
+### Notes & exceptions
+
+- Chỉ mệnh đề thứ nhất đảo ngữ. Mệnh đề sau `but` dùng trật tự chủ ngữ + động từ bình thường.
+- `also` đứng ở vị trí giữa câu quen thuộc của nó (sau trợ động từ hoặc trước động từ chính); `as well` và `too` đứng cuối câu.
+- Nếu không đưa `not only` lên đầu câu thì không cần đảo ngữ: `He is not only good at English but he can also draw.`
+
+### Common mistakes
+
+- Sau `Not only` đứng đầu câu, trợ động từ `did` phải đứng trước chủ ngữ.
+- Mệnh đề sau `but` giữ trật tự bình thường: `also` đứng sau chủ ngữ, không đứng ngay sau `but`.
+
+### Contrast with
+
+- [[Inversion with Neither Nor and So]] — nối thêm một mệnh đề thứ hai mang ý bổ sung
+- [[Inversion with Negative Adverbs]]
+- [[Sentence Connectors]] — liên từ tương quan dùng để nối, không đảo ngữ

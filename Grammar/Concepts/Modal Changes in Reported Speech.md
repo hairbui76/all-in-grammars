@@ -55,4 +55,41 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Chỉ một số ít động từ khuyết thiếu thay đổi khi lời nói được tường thuật lại; những từ vốn đã ở dạng quá khứ, và những từ diễn tả lời khuyên hay giả định, thì giữ nguyên.
+
+### Form
+
+| Direct speech | Reported speech |
+|---|---|
+| will | would |
+| shall | should / would |
+| can | could |
+| may | might |
+| must (nghĩa vụ) | had to |
+| needn't | didn't have to |
+| could, might, ought to, used to, should, shouldn't | giữ nguyên |
+
+### When to use
+
+- Chỉ áp dụng các thay đổi này khi động từ tường thuật ở thì quá khứ
+- `must`, `can`, `may` và `will` lùi thì; các từ còn lại vốn đã đủ xa hiện tại nên giữ nguyên
+
+### Examples
+
+- Bố cậu ấy nói với cậu ấy: "Con **phải** học chăm hơn." → Bố cậu ấy bảo cậu ấy rằng cậu ấy **phải** học chăm hơn.
+- Jane nói: "Bạn **không cần** tưới hoa vì đêm qua trời mưa rồi." → Jane nói rằng anh ấy **không cần** tưới hoa vì hôm trước trời đã mưa.
+- Bác sĩ nói với Tom: "Cháu **nên** nằm nghỉ trên giường." → Bác sĩ bảo Tom rằng cậu ấy **nên** nằm nghỉ trên giường.
+- "Tôi **sẽ** ở Paris vào thứ Hai," cô ấy nói → Cô ấy nói rằng cô ấy **sẽ** ở Paris vào thứ Hai.
+
+### Notes & exceptions
+
+- `must` diễn tả suy luận hoặc một quy tắc cố định thì không đổi: *He said the room **must** be empty.* (Anh ấy nói rằng căn phòng chắc hẳn đang trống.)
+- `should` và `shouldn't` dùng để khuyên, cùng với `ought to`, `used to`, `could`, `might`, không bao giờ đổi dạng.
+- `You'd better ...` thường không được tường thuật bằng một động từ khuyết thiếu mà bằng `advise (sb) (not) to do` → xem [[Reported Speech - Commands]].
+
+### Contrast with
+
+- [[Backshift of Tenses]] — quy tắc tương ứng dành cho động từ thường
+- [[Past Subjunctive in Reported Speech]] — các dạng không bao giờ lùi thì

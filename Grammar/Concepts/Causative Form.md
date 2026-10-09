@@ -67,4 +67,53 @@ Unpleasant event:
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`have/get + tân ngữ + quá khứ phân từ` diễn tả việc bạn sắp xếp để người khác làm việc gì đó cho mình, hoặc việc có chuyện gì đó (thường là không hay) xảy ra với thứ thuộc về bạn.
+
+### Form
+
+- Thể sai khiến bị động: `S + have/get + something + P2 + (by sb)`
+- Thể sai khiến chủ động: `S + have + sb + do smth` / `S + get + sb + to do smth`
+
+`have` và `get` thay đổi theo thì và thể; còn quá khứ phân từ thì không bao giờ thay đổi.
+
+### When to use
+
+**1. Để nói rằng bạn đã sắp xếp cho người khác làm công việc đó chứ không tự mình làm.**
+
+**2. Để nói rằng có chuyện không hay xảy ra với thứ bạn sở hữu** (người sở hữu trở thành chủ ngữ thay cho vật được sở hữu).
+
+### Examples
+
+Hành động được sắp xếp cho người khác làm:
+
+- Jill đã sửa mái nhà. (= cô ấy tự sửa) / Jill **đã thuê người sửa mái nhà**. (= cô ấy sắp xếp cho người khác làm việc đó)
+- Tôi đã cắt tóc. (= tự cắt) / Tôi **đã đi cắt tóc**. (= người khác cắt cho tôi)
+- Tôi ghét chụp ảnh. / Tôi ghét **bị người khác chụp ảnh**.
+- Ann tự may chiếc váy đó hay cô ấy **thuê người may**?
+- Bao lâu bạn **đi làm tóc** một lần?
+- Tôi làm mất chìa khoá rồi. Tôi sẽ phải **đi đánh một chiếc chìa khác**.
+- Sao bạn lại mang xe ra ga-ra? Để **cho người ta bảo dưỡng**.
+- Hiện giờ tôi đang **thuê người xây một ngôi nhà**.
+- Tháng tới tôi sẽ **cho lắp điện thoại** trong nhà.
+- Họ đang **cho đào một cái ao** trong vườn.
+- Bạn nên **đi kiểm tra mắt** (ở chỗ bác sĩ nhãn khoa). = Bạn nên để bác sĩ nhãn khoa **kiểm tra** mắt cho bạn. / Bạn nên nhờ bác sĩ nhãn khoa **kiểm tra** mắt cho bạn.
+
+Sự việc không hay:
+
+- Mũi của George bị gãy trong một trận ẩu đả. → George **bị gãy mũi** trong một trận ẩu đả.
+- Hộ chiếu của Jack bị đánh cắp cách đây vài tuần. → Jack **bị mất cắp hộ chiếu** cách đây vài tuần.
+- Cơn bão đã thổi bay mái của ngôi nhà. → Ngôi nhà **bị** cơn bão **thổi bay mái**.
+- Tháng này họ **đã bị trộm đột nhập vào nhà** hai lần.
+- Ông Brown **bị** gió **thổi bay mũ**.
+
+### Notes & exceptions
+
+- Chú ý trật tự từ: tân ngữ đứng **trước** quá khứ phân từ — `have the roof repaired`, không bao giờ nói `have repaired the roof`.
+- Với `have sb do`, động từ theo sau là động từ nguyên mẫu không `to`; với `get sb to do`, động từ theo sau có `to`.
+
+### Contrast with
+
+- [[Passive Voice in Nine Tenses]] — câu bị động thông thường, trong đó chính sự vật làm chủ ngữ
+- [[Passive of Make Help and Let]] — các cách khác để diễn tả ý sai khiến

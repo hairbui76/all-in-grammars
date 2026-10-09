@@ -49,4 +49,26 @@ weight-lifting · surf-riding · coal-mining · bird-watching · lorry-driving �
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Danh động từ kết hợp với danh từ theo cả hai trật tự để tạo thành danh từ ghép, và trật tự đó làm thay đổi mối quan hệ giữa hai thành phần.
+
+### Examples
+
+### Danh động từ + Danh từ
+
+a swimming pool (bể bơi) · writing paper (giấy viết) · wrapping paper (giấy gói) · cooking oil (dầu ăn) · cooking apple (táo dùng để nấu ăn) · building materials (vật liệu xây dựng) · fishing rod (cần câu) · looking glass (gương soi) · teaching plan (kế hoạch giảng dạy) · teaching method (phương pháp giảng dạy) · fighting cock (gà chọi) · reading lamp (đèn đọc sách) · washing machine (máy giặt) · sewing machine (máy khâu) · ploughing machine (máy cày) · walking stick (gậy chống) · diving board (ván nhảy cầu)
+
+### Danh từ + Danh động từ
+
+weight-lifting (cử tạ) · surf-riding (lướt sóng) · coal-mining (khai thác than) · bird-watching (ngắm chim) · lorry-driving (lái xe tải) · fruit picking (hái trái cây) · wheat producing (sản xuất lúa mì) · fund-raising (gây quỹ)
+
+### Notes & exceptions
+
+- Trong danh từ ghép dạng `Gerund + Noun`, trọng âm thường rơi vào danh động từ: a **SWIM**ming pool.
+- Danh từ ghép dạng `Noun + Gerund` thường được viết với dấu gạch nối (`weight-lifting`), dù cách viết không thống nhất.
+- Các danh từ ghép này hoạt động như danh từ thông thường: có thể chuyển sang số nhiều và đi với mạo từ.
+
+### Contrast with
+
+- [[Participles]] — `a swimming man` là phân từ miêu tả người đàn ông, không phải danh từ ghép

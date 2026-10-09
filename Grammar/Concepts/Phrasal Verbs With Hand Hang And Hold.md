@@ -66,4 +66,51 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Ba động từ bắt đầu bằng chữ H tạo nên các thành ngữ nói về việc đưa đồ vật cho người khác, chờ đợi và kìm giữ điều gì lại.
+
+### Examples — hand
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| hand down to = pass on to | truyền lại cho thế hệ sau | Trang trại được **truyền lại cho** người con trai cả của ông ấy. |
+| hand in | nộp, giao cho người có thẩm quyền | Tất cả các bài luận phải được **nộp** vào thứ Sáu. |
+| hand back | trả lại | Cô giáo **trả lại** bài kiểm tra cho chúng tôi. |
+| hand over | chuyển giao quyền lực hoặc quyền sở hữu | Vị bộ trưởng sắp mãn nhiệm đã **bàn giao** cho người kế nhiệm. |
+| hand out = give out | phân phát | Các tình nguyện viên **phát** tờ rơi ở nhà ga. |
+
+### Examples — hang
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| hang around / hang round | la cà, quanh quẩn chờ đợi mà không làm gì | Đừng **la cà** bên ngoài cổng trường. |
+| hang on = hold on | đợi một lát (nhất là khi nói chuyện điện thoại) | **Đợi một chút** — để tôi xem cô ấy có nhà không. |
+| hang up | kết thúc cuộc gọi, cúp máy | Cô ấy **cúp máy** trước khi tôi kịp giải thích. |
+| hang out | phơi quần áo ngoài trời; dành thời gian ở đâu đó | Tôi đã **phơi** quần áo **ra ngoài** trước khi trời mưa. |
+
+### Examples — hold
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| hold on | đợi | **Đợi** một giây, tôi sắp xong rồi. |
+| hold off = put off | trì hoãn, hoãn lại | Họ **hoãn** quyết định đến thứ Hai. |
+| hold back | kìm lại, kiềm chế | Cô ấy gần như không **kìm** nổi nước mắt. |
+| hold up | làm chậm trễ, cản trở; cướp | Chúng tôi bị **kẹt lại** một tiếng đồng hồ vì công trình sửa đường. |
+
+### Notes & exceptions
+
+- `hang on` và `hold on` có thể dùng thay cho nhau khi mang nghĩa *đợi*, nhưng chỉ có `hang up` mới có nghĩa là kết thúc cuộc gọi.
+- `hang` là động từ bất quy tắc trong các thành ngữ này (*hang – hung – hung*); dạng có quy tắc *hanged* chỉ dùng với nghĩa xử treo cổ.
+- `hold up` với nghĩa *cướp* thường ở dạng bị động hoặc có dạng danh từ: *a hold-up*.
+- `hand in`, `hand out` và `hand back` là các cụm tách được: *hand **it** in* → xem [[Separable Phrasal Verbs]].
+
+### Common mistakes
+
+- Quá khứ của `hang up` là `hung up`; dạng `hanged` chỉ dùng với nghĩa xử treo cổ.
+- `hold on` với nghĩa đợi máy là nội động từ, không có tân ngữ `the line` theo sau.
+
+### Contrast with
+
+- [[Phrasal Verbs - Telephoning and Communication]] — cũng những động từ này khi dùng trong giao tiếp qua điện thoại
+- [[Phrasal Verbs With Take And Put]] — `put off` so với `hold off`

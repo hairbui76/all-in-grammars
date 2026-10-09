@@ -59,4 +59,44 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Một nhóm từ nối có thể thay cho `if` và thêm một sắc thái nghĩa: giả định, giới hạn, đề phòng hoặc nhượng bộ.
+
+### Form
+
+| Connector | Meaning | Followed by |
+|---|---|---|
+| `suppose / supposing (that)` | giả sử, hãy thử hình dung | mệnh đề |
+| `in case` | phòng khi (để đề phòng, trước khi việc xảy ra) | mệnh đề |
+| `in case of` | trong trường hợp có (sau khi việc xảy ra) | danh từ |
+| `even if` | ngay cả khi, cho dù | mệnh đề |
+| `as long as / so long as` | miễn là, chỉ với điều kiện duy nhất là | mệnh đề |
+| `provided (that) / providing (that)` | với điều kiện là, miễn là | mệnh đề |
+| `on condition (that)` | với điều kiện là | mệnh đề |
+
+### When to use
+
+- `provided that / as long as / on condition that` đặt ra một yêu cầu chặt chẽ — mạnh hơn và hạn chế hơn so với `if` thông thường.
+- `in case` nêu một việc đề phòng được làm **trước khi** sự việc xảy ra, dù nó có xảy ra hay không; `in case of + noun` nói đến việc cần làm **khi** sự việc thật sự xảy ra.
+- `even if` thừa nhận rằng kết quả vẫn đúng bất kể điều kiện ra sao.
+- `suppose / supposing` mở ra một giả thuyết, thường dùng trong câu hỏi.
+
+### Examples
+
+- **Giả sử** tin đó là thật, bạn sẽ làm gì?
+- Tôi sẽ thay đổi quyết định **với điều kiện là** bạn chấp nhận đề nghị của tôi.
+- **Phòng khi** tôi quên, hãy nhắc tôi về lời hứa của mình nhé.
+- Tôi sẽ cho bạn mượn xe **miễn là** bạn đổ đầy xăng.
+- **Miễn là / Với điều kiện là** bạn đổ đầy xăng, tôi sẽ cho bạn mượn xe.
+
+### Notes & exceptions
+
+- Các từ nối này thường giữ nguyên cách phối hợp thì của loại câu điều kiện mà chúng thay thế.
+- `in case` không giống `if`: *Take an umbrella in case it rains* (hãy mang ô phòng khi trời mưa — đề phòng) khác với *Take an umbrella if it rains* (nếu trời mưa thì hãy mang ô — điều kiện).
+
+### Contrast with
+
+- [[Unless]] — điều kiện phủ định
+- [[Clauses of Concession]] — `even if` có phần trùng với nghĩa nhượng bộ
+- [[Implied Conditionals]] — điều kiện được diễn đạt mà không cần liên từ nào

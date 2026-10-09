@@ -62,4 +62,40 @@ It is/was + adjective + that + S + should + V(bare)
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Sau `It is / was + adjective`, mệnh đề `that` có `should` (hoặc thức giả định dạng nguyên mẫu) thay cho cấu trúc `for + object + to`-infinitive.
+
+### Two groups of adjectives
+
+### 1. Tính từ chỉ sự cần thiết và điều nên làm
+
+`advisable, better, desirable, essential, imperative, important, natural, necessary`; ngoài ra còn có `fair (= just), just, right` (thường có `only` đứng trước) và `reasonable`.
+
+- Mọi người **nên có** một tấm bản đồ.
+- Tốt hơn là để anh ấy nghe chuyện đó từ bạn. / Tốt hơn là **anh ấy nên nghe** chuyện đó từ bạn.
+- Anh ấy nhất thiết phải chuẩn bị sẵn sàng cho việc này. / Điều thiết yếu là **anh ấy phải được chuẩn bị** cho việc này.
+- **Cô ấy được hưởng** một phần cũng là lẽ phải thôi.
+- Có thể lược bỏ `should` trước `be`: It is essential **that he be prepared** (điều thiết yếu là anh ấy phải sẵn sàng).
+
+### 2. Tính từ chỉ sự ngạc nhiên và nhận xét, đánh giá
+
+`absurd, amazing, annoying, ludicrous, odd, ridiculous, strange, surprising` và các tính từ tương tự. Ở đây `that ... should` là cách nói thay thế cho `that` + thì hiện tại hoặc quá khứ.
+
+- Thật nực cười khi **chúng ta lại thiếu** nước ở một đất nước lúc nào cũng mưa. (= that we are)
+- Thật đáng kinh ngạc khi **cô ấy lại không nói** gì về vụ án mạng. (= that she said)
+
+### Notes & exceptions
+
+- Với nhóm 2, dùng **động từ nguyên mẫu hoàn thành** (`should have + V3`) khi nói về sự việc trong quá khứ.
+- Cách nói với `for + object + to`-infinitive ít trang trọng hơn: *It is essential **for him to be** prepared* (anh ấy nhất thiết phải sẵn sàng).
+
+### Common mistakes
+
+- Sau `It is essential that` không dùng thì hiện tại `is`; động từ phải là `should be` hoặc `be`.
+- Sau `should` không dùng dạng quá khứ `said`; nói về việc đã xảy ra phải dùng `should have + V3`.
+
+### Contrast with
+
+- [[Subjunctive in That Clauses]] — sau các động từ như `suggest`, `demand`, `insist`
+- [[Present Subjunctive]] — dạng nguyên mẫu không `to` còn lại khi lược bỏ `should`

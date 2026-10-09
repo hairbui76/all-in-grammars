@@ -46,4 +46,32 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`need to do` mang nghĩa chủ động, còn `need doing` và `need to be done` đều mang nghĩa bị động — nhưng chỉ `need to be done` mới dùng được với người.
+
+### Form
+
+- `S + need + to + V` — chủ động: chủ ngữ phải thực hiện hành động.
+- `S + need + V-ing` = `S + need + to be + P2` — bị động: chủ ngữ phải chịu tác động của hành động.
+
+### When to use
+
+- Dùng `need doing` thoải mái với **vật**; nó có thể thay thế cho `need to be done`.
+- Với **người**, chỉ dùng `need to be done`. `Need + V-ing` không dùng cho người.
+
+### Examples
+
+- Bạn **cần làm việc** chăm chỉ hơn. (chủ động — chính bạn là người làm việc)
+- Chiếc xe này **cần được bảo dưỡng**. / Chiếc xe này **cần bảo dưỡng**.
+- Tôi cần giặt chiếc áo sơ mi của mình vì nó **cần giặt** / **cần được giặt**.
+- Người già **cần được** người trẻ **chăm sóc**.
+
+### Common mistakes
+
+- Chủ ngữ chỉ người (`the old`) không dùng với `need + V-ing`; phải dùng `need to be + P2`.
+
+### Contrast with
+
+- [[Passive Gerund]] — `being + P2`, dạng `-ing` bị động thông thường
+- [[Passive Infinitive]] — `to be + P2`

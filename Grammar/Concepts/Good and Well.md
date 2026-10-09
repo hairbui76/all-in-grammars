@@ -69,4 +69,49 @@ There is no adverb ~~goodly~~.
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`good` là tính từ, `well` là trạng từ bất quy tắc của nó — nhưng `well` cũng là một tính từ có nghĩa là "khoẻ mạnh".
+
+### Form
+
+Không có trạng từ ~~goodly~~.
+
+### Examples
+
+`good` là tính từ:
+
+- Anh ấy là một người thợ **giỏi**.
+- Món ăn trông **ngon**.
+
+`well` là trạng từ của `good`:
+
+- Anh ấy làm việc **tốt**. [không nói: ~~He works goodly~~]
+- Cô ấy nói tiếng Nhật **giỏi**.
+- Cậu ấy đọc **tốt**.
+- Họ nói tiếng Anh **giỏi**.
+
+`well` là tính từ có nghĩa là "khoẻ mạnh":
+
+- Bạn có khoẻ không? — Rất **khoẻ**, cảm ơn bạn.
+- Cậu bé không được **khoẻ**. Trông cậu ấy có vẻ **ốm**.
+
+### Notes & exceptions
+
+- `well` với nghĩa "khoẻ mạnh" chỉ dùng làm vị ngữ (đứng sau động từ nối); trước danh từ phải nói *a healthy man*, không nói ~~a well man~~ → xem [[Predicative-Only Adjectives]].
+- `well` và `badly` còn được dùng làm trạng từ chỉ mức độ; khi đó chúng đứng **trước** động từ hoặc quá khứ phân từ:
+  - Cánh cửa **rất** cần được sơn một lớp.
+  - Anh ấy bị thương **nặng**.
+  - Tôi muốn món bít tết chín **kỹ**.
+- Khi là trạng từ chỉ cách thức, chúng đi sau động từ bị động hoặc sau tân ngữ: *He paid her **badly*** (anh ta trả lương cho cô ấy thấp) / *She was **badly** paid* (cô ấy bị trả lương thấp) / *The trip was **well** organised* (chuyến đi được tổ chức tốt).
+
+### Common mistakes
+
+- Bổ nghĩa cho động từ `speaks` phải dùng trạng từ `well`, không dùng tính từ `good`.
+- Không có trạng từ `goodly`; trạng từ của `good` là `well`.
+
+### Contrast with
+
+- [[Adjectives and Adverbs With the Same Form]] — những từ không cần thêm `-ly`
+- [[Forming Adverbs With -ly]] — quy tắc thông thường mà `good` không tuân theo
+- [[Adverbs of Manner]] — vị trí của `well` và `badly`

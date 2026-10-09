@@ -62,4 +62,47 @@ Verbs that take this pattern: `find, think, consider, believe, feel, make, take,
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Khi tân ngữ thật của động từ là một động từ nguyên mẫu hoặc một mệnh đề, `it` đứng vào vị trí tân ngữ còn tân ngữ thật được chuyển xuống cuối câu.
+
+### Form
+
+`S + V + it + adjective/noun + to + V ...`
+`S + V + it + adjective/noun + that + clause`
+
+Các động từ dùng được với cấu trúc này: `find, think, consider, believe, feel, make, take, owe, leave, deem, judge`.
+
+### When to use
+
+- Để tránh việc một cụm động từ nguyên mẫu hoặc mệnh đề `that` dài, nặng nề đứng ngay sau động từ.
+- Là cách dùng chuẩn sau `find`, `think`, `consider`, `make` + tính từ chỉ sự đánh giá.
+- Dùng với `make it + adj + for sb + to V` để nêu điều mà một tình huống gây ra.
+
+### Examples
+
+- Tôi **thấy khó tập trung** trong căn phòng này.
+- Chúng tôi **cho rằng điều thiết yếu là** mọi thành viên **phải dự** cuộc họp.
+- Tiếng ồn **khiến không thể nào ngủ được**.
+- Cô ấy **cho rằng tranh cãi** với anh ta **là phí thời gian**.
+- **Nhờ có bố mẹ mà** tôi đã thành công.
+- Cơn mưa **khiến chúng tôi khó nhìn thấy** đường.
+
+### Notes & exceptions
+
+- `it` là bắt buộc — không thể lược bỏ: ❌ *I find difficult to concentrate.*
+- `take it for granted that ...` và `leave it to sb to do sth` là những cụm cố định thuộc loại này.
+- Sau `consider / think it essential / vital / necessary that`, mệnh đề `that` thường dùng thức giả định với động từ ở dạng nguyên mẫu → xem [[It Is Essential That Clause]] và [[Subjunctive in That Clauses]].
+- Cấu trúc tương ứng ở vị trí chủ ngữ là `It + be + adj + to V` → xem [[Infinitive As Subject]].
+
+### Common mistakes
+
+- Thiếu `it` làm tân ngữ giả sau `think`, trước tính từ `important`.
+- Sau `made` phải có `it` làm tân ngữ giả, trước tính từ `impossible`.
+
+### Contrast with
+
+- [[Find It Adjective To Do Something]] — dạng cụ thể thông dụng nhất của cấu trúc này
+- [[It Is Adjective For Somebody To Do]] — `it` làm **chủ ngữ** giả
+- [[Infinitive As Subject]] — động từ nguyên mẫu được giữ ở vị trí chủ ngữ
+- [[Cleft Sentences]] — một cách dùng khác của `it`, để nhấn mạnh

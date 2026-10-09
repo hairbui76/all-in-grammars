@@ -62,4 +62,42 @@ The first clause is normally **past perfect** (`had + V3`) and the second clause
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Đưa `no sooner` hoặc `hardly / barely / scarcely` lên đầu câu để nói rằng một sự việc xảy ra ngay sau một sự việc khác, và mệnh đề thứ nhất bắt buộc phải đảo ngữ.
+
+### Form
+
+Mệnh đề thứ nhất thường ở thì **quá khứ hoàn thành** (`had + V3`), còn mệnh đề thứ hai ở thì **quá khứ đơn**.
+
+### When to use
+
+- Để diễn tả ý "ngay khi ... thì ..." một cách nhấn mạnh
+- Trong lối kể chuyện trang trọng hoặc văn chương
+
+### Examples
+
+- **Tôi vừa về đến** nhà **thì** điện thoại reo.
+- **Tôi vừa mới về đến** nhà **thì** điện thoại reo.
+- **Anh ấy vừa đi dạo về thì** bắt tay ngay vào viết thư.
+- **Tôi vừa giải quyết xong** một vấn đề **thì** lại gặp ngay vấn đề khác.
+- **Cô ấy vừa mới bắt đầu** nói **thì** mọi người đã ngắt lời.
+- **Bọn trộm vừa chạm** vào két sắt **thì** hơi cay được xả ra.
+
+### Notes & exceptions
+
+- Phải ghép đúng liên từ: `no sooner ... **than**`, còn `hardly / barely / scarcely ... **when/before**`.
+- Cũng có dạng không đảo ngữ nhưng kém nhấn mạnh hơn: `I had no sooner arrived home than the phone rang.`
+- Đừng nhầm `hardly` này (= vừa mới, chỉ vừa kịp) với `hardly ever` (= hầu như không bao giờ), vốn thuộc về [[Inversion with Negative Adverbs]].
+
+### Common mistakes
+
+- `No sooner` đứng đầu câu thì phải đảo `had` lên trước chủ ngữ.
+- `No sooner` đi với `than`, không đi với `when`.
+- `Hardly` đi với `when` (hoặc `before`), không đi với `than`.
+
+### Contrast with
+
+- [[Inversion with Negative Adverbs]] — `hardly ever` = hầu như không bao giờ
+- [[Inversion with Not Until]]
+- [[Clauses of Time]] — cách nói thông thường với `as soon as`

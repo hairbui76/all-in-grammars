@@ -64,4 +64,41 @@ pronoun + each
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Cả hai đều đi với danh từ số ít và động từ số ít, nhưng `every` nhìn cả nhóm như một tổng thể còn `each` nhìn từng thành viên một.
+
+### When to use
+
+- `every` hàm ý "tất cả cùng nhau"; dùng khi nhóm được xem là một tập hợp trọn vẹn.
+- `each` hàm ý "từng cái một"; dùng khi các thành viên được xét riêng rẽ.
+- Chỉ `each` mới có thể đứng một mình không cần danh từ, và chỉ `each` mới kết hợp được với `of`.
+
+### Examples
+
+- **Phòng nào cũng có** một con số. (= tất cả các phòng trong nhà)
+- Tôi đi dạo **mỗi ngày**. (tất cả các ngày, theo thói quen)
+- **Từng ngày** dường như trôi qua rất chậm. (từng ngày một)
+- Có sáu căn hộ. **Mỗi căn** có lối vào riêng.
+- **Mỗi căn trong** sáu căn hộ đó **đều có** lối vào riêng.
+- Họ cho **mỗi người chúng tôi** một cuốn sách tiếng Anh.
+- **Mỗi người chúng ta** đều có thể có bàn làm việc riêng.
+
+### Notes & exceptions
+
+- `every` không thể đứng một mình và không thể đi với `of`:
+  - Đứng một mình, không có danh từ theo sau, thì phải dùng `each` chứ không dùng `every`.
+  - Trước `of` phải dùng `each` chứ không dùng `every`.
+- `each` có thể đứng sau đại từ hoặc sau chủ ngữ: *They gave us **each** a book.* (Họ cho mỗi người chúng tôi một cuốn sách.)
+- Trước đại từ phải có `of`: ❌ Each us → ✅ **Each of us**.
+- Động từ sau `each of + plural noun` vẫn ở số ít: *Each of the flats **has** ...*
+
+### Common mistakes
+
+- Sau `every` là danh từ số ít, không thêm `-s`.
+- Sau `each of` + danh từ số nhiều, động từ vẫn chia ở số ít.
+
+### Contrast with
+
+- [[Both Either and Neither]] — dùng cho đúng hai người/vật
+- [[All Most Some and Half]] — `all` đi với danh từ số nhiều và động từ số nhiều

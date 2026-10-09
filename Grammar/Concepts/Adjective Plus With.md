@@ -70,4 +70,52 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`With` đi sau các tính từ diễn tả cảm xúc hướng vào một **người**, hoặc diễn tả quan hệ đồng hành, chứa đựng và giống nhau.
+
+### Feelings towards a person
+
+| Combination | Meaning | Example |
+|---|---|---|
+| angry **with** sb | tức giận với ai | Cô ấy **giận** em trai mình. |
+| annoyed **with** sb | bực mình với ai | Anh ấy **bực mình với** tôi. |
+| furious **with** sb | vô cùng tức giận với ai | Họ **giận dữ với** người lái xe. |
+| disappointed **with** sb | thất vọng về ai | Tôi **thất vọng về** anh ấy. |
+| delighted **with** | rất vui mừng, hài lòng về | Chúng tôi **rất vui mừng với** kết quả. |
+| pleased **with** | hài lòng về | Cô ấy **hài lòng với** điểm số của mình. |
+| satisfied **with** | thoả mãn, bằng lòng với | Anh ấy **hài lòng với** lời đề nghị. |
+| bored **with** | chán | Tôi **chán** trò chơi này rồi. |
+| fed up **with** | chán ngấy | Họ **chán ngấy** những lần trì hoãn. |
+| friendly **with** sb | thân thiết với ai | Anh ấy **thân thiết với** hàng xóm. |
+| popular **with** sb | được ai yêu thích | Thầy giáo ấy **được** học sinh **yêu mến**. |
+
+### Company, contents and likeness
+
+| Combination | Meaning | Example |
+|---|---|---|
+| acquainted **with** sb | quen biết sơ với ai | Tôi **có quen biết** bố cô ấy. |
+| familiar **with** | hiểu biết, quen thuộc với | Bạn có **quen dùng** phần mềm này không? |
+| busy **with** | bận rộn với | Cô ấy đang **bận với** luận văn. |
+| crowded **with** | đông nghịt, đầy người hoặc vật | Con phố **đông nghịt** người mua sắm. |
+| concerned **with** | liên quan đến, bàn về | Bản báo cáo **bàn về** vấn đề an toàn. |
+| contrasted **with** | đối lập với, được đem ra so với | Sự điềm tĩnh của anh ấy **đối lập với** sự hoảng loạn của cô ấy. |
+| compared **with** | so với | Giá cả thấp **so với** năm ngoái. |
+| identical **with** sth | giống hệt cái gì | Bản sao **giống hệt** bản gốc. |
+
+### Notes & exceptions
+
+- Dùng `with` cho người và `at / about` cho sự việc: `angry **with** John` nhưng `angry **at** the delay` → xem [[Adjective Plus At]].
+- `familiar with` = bạn biết rõ điều đó; `familiar to` = điều đó được ai biết đến → xem [[Adjective Plus To]].
+- `concerned with` = liên quan đến một chủ đề; `concerned about` = lo lắng → xem [[Adjective Plus About]].
+- `identical with` và `identical to` đều đúng.
+
+### Common mistakes
+
+- Tức giận với một người dùng `angry with`, không dùng `to`.
+- Sau `bored` dùng giới từ `with`, không dùng `of`.
+
+### Contrast with
+
+- [[Adjective Plus About]] — chủ đề của một cảm xúc
+- [[Adjective Plus To]] — hướng tới một người

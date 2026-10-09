@@ -63,4 +63,44 @@ A common memory aid for the middle columns: **O**pinion, **S**ize, **A**ge, **S*
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Khi nhiều tính từ cùng bổ nghĩa cho một danh từ, chúng theo một trật tự cố định và thường không nối với nhau bằng `and`.
+
+### Form
+
+Mẹo ghi nhớ thường dùng cho các cột ở giữa: **O**pinion (ý kiến), **S**ize (kích cỡ), **A**ge (tuổi), **S**hape (hình dạng), **C**olour (màu sắc), **O**rigin (nguồn gốc), **M**aterial (chất liệu), **P**urpose (mục đích).
+
+### When to use
+
+- Khi có từ hai tính từ trở lên đứng trước cùng một danh từ: xếp chúng theo trật tự trên và bỏ `and`.
+
+### Examples
+
+- Anh ấy có một chiếc ô tô **nhỏ màu trắng**. (kích cỡ + màu sắc)
+- Cô ấy có một chiếc áo khoác **len đắt tiền**. (giá trị + chất liệu)
+- Đó là một chiếc túi xách **da nhỏ, bóng, màu đen**. (kích cỡ + giá trị + màu sắc + chất liệu)
+- bể **bơi** hình tròn khổng lồ của họ
+- chiếc bát **đựng salad bằng gỗ** kiểu Thuỵ Điển của tôi
+- chiếc bàn **viết** kiểu Victoria xinh xắn của Jane
+- ngôi nhà nhỏ **ở miền quê** quét vôi trắng duyên dáng của anh ấy
+- một bức **tranh** trường phái ấn tượng thế kỷ mười chín vô giá
+
+### Notes & exceptions
+
+- `and` **được** dùng khi hai hay nhiều tính từ cùng miêu tả một đặc điểm — cùng nói về màu sắc, cùng nói về chất liệu, cùng một phẩm chất:
+  - Đó là một chiếc xe thể thao **màu vàng và đen**.
+  - Đó là một nhà máy **bằng bê tông và kính**.
+- Có thể dùng dấu phẩy để ngăn cách nhiều tính từ thuộc cùng một loại; không dùng dấu phẩy giữa tính từ cuối cùng và danh từ.
+- Từ cuối cùng đứng trước danh từ thường chính là một danh từ làm chức năng phân loại (`swimming pool`, `salad bowl`, `garden seat`) — nó luôn đứng sát danh từ chính nhất.
+
+### Common mistakes
+
+- Tính từ chỉ kích cỡ (`small`) phải đứng trước tính từ chỉ màu sắc (`white`).
+- Hai tính từ thuộc hai loại khác nhau (kích cỡ và màu sắc) không nối với nhau bằng `and`.
+
+### Contrast with
+
+- [[Position of Adjectives]] — tính từ đứng trước danh từ so với tính từ đứng sau động từ nối
+- [[Compound Adjectives]] — hai từ nối bằng dấu gạch nối thành một tính từ duy nhất
+- [[Order of Adverbs]] — quy tắc trật tự tương ứng dành cho trạng từ

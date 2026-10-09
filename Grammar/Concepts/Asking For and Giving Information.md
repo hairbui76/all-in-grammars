@@ -57,4 +57,42 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Hỏi về giá cả, giờ giấc, công dụng và các thông tin thực tế — và trả lời cho khớp với từ để hỏi đã được dùng.
+
+### Useful patterns
+
+| Asking about | Question | Typical answer |
+|---|---|---|
+| Giá cả / chi phí | `What does it cost to get to ...?` · `How much is it?` | `It depends on how you go.` |
+| Giờ mở cửa | `How late will the bank be open?` | `It will be open until 6 pm.` |
+| Công dụng | `What does this thing do?` | `It peels potatoes.` |
+| Số lượng / thói quen | `Do you smoke?` | `Yes, about ten cigarettes a day.` |
+| Nghề nghiệp | `What do you do for a living?` | `I work in a bank.` |
+| Dự đoán | `Will the maths teacher give us a test this week?` | `No, he probably won't.` |
+| Hỏi thông tin | `Hi, I'd like some information about ...` | `Sure, could I have your name and address?` |
+| Đặt lịch hẹn | `Can I have an appointment with Dr Adams?` | `Yes, of course. When would suit you?` |
+
+### When to use
+
+- Trả lời cho khớp với từ để hỏi: `What ... cost?` → một số tiền hoặc `It depends ...`; `How late ...?` → một giờ cụ thể; `What does it do?` → một công dụng.
+- `It depends on ...` là câu trả lời chuẩn khi không có một thông tin duy nhất để đưa ra.
+- Khi hỏi thông tin qua điện thoại hoặc tại quầy, hãy mở đầu bằng `I'd like some information about ...`, rồi chuẩn bị tinh thần sẽ được hỏi lại thông tin cá nhân.
+
+### Examples
+
+- "**Cái này dùng để làm gì?**" — "**Nó dùng để gọt vỏ khoai tây.**"
+- "**Ngân hàng mở cửa đến mấy giờ?**" — "**Ngân hàng mở cửa đến 6 giờ chiều.**"
+- "Đi đến Manchester hết bao nhiêu tiền?" — "**Còn tuỳ bạn đi bằng cách nào.**"
+- "Xin chào, tôi muốn hỏi một số thông tin về các buổi học lái xe." — "**Vâng, anh cho tôi xin tên và địa chỉ được không ạ?**"
+
+### Common mistakes
+
+- Câu trả lời nói về *ở đâu* trong khi câu hỏi là về *khi nào*.
+- Câu trả lời là một ý kiến, không phải công dụng của đồ vật.
+
+### Contrast with
+
+- [[Asking For and Giving Opinions]] — hỏi một nhận định chứ không phải một thông tin thực tế
+- [[Asking For and Giving Directions]] — hỏi đường đi chứ không phải một thông tin thực tế

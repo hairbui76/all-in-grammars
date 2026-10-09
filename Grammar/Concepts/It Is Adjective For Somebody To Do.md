@@ -88,4 +88,64 @@ V-ing ... + be + adjective  ⇔  It + be + adjective + to-infinitive
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`It` đứng thay cho chủ ngữ là động từ nguyên mẫu có `to`; `for + somebody` nêu người có liên quan, còn tính từ đánh giá **hành động** chứ không phải con người.
+
+### Form
+
+`It` là chủ ngữ giả; chủ ngữ thật là cụm động từ nguyên mẫu có `to` ở cuối câu.
+
+### Adjective groups
+
+| Meaning | Adjectives |
+| --- | --- |
+| tính khả thi | possible, impossible, easy, not easy, hard, difficult |
+| tần suất / tập quán | usual, not usual, normal, rare, customary, a common practice, the custom, the rule |
+| tầm quan trọng / sự cần thiết | important, vital, necessary, advisable, fitting, essential |
+
+### Examples
+
+Tính khả thi:
+
+- **Một người chưa có kinh nghiệm không dễ kiếm** được việc làm tốt.
+- **Đàn ông khó mà làm tròn** bổn phận việc nhà.
+- **Giáo viên không thể đánh giá** sự tiến bộ của học sinh nếu không có thi cử.
+
+Tần suất và tập quán:
+
+- **Theo lệ thì đàn ông và phụ nữ ngồi** riêng.
+- **Anh ấy không hay đi** làm **muộn**. Anh ấy luôn đúng giờ.
+- **Theo lệ thường, người trẻ giúp đỡ** cha mẹ già.
+
+Tầm quan trọng và sự cần thiết:
+
+- **Bạn cần luyện** tiếng Anh mỗi ngày.
+- **Điều quan trọng là cha mẹ phải ngăn** con cái hít heroin.
+- **Cả vợ lẫn chồng nên dành** thời gian cho con cái.
+
+### Extraposing a gerund subject
+
+Chủ ngữ là danh động từ có thể được viết lại với `it` làm chủ ngữ giả:
+
+- Việc học tiếng Anh rất dễ. ⇔ **Thật dễ để học** tiếng Anh.
+- Việc thông thạo một ngoại ngữ là cần thiết. ⇔ **Cần phải thông thạo** một ngoại ngữ.
+- Việc bơi qua vùng biển động đó là không thể. ⇔ **Không thể nào bơi** qua vùng biển động đó.
+- Việc báo tin cho cô ấy lúc này là thiếu khôn ngoan. ⇔ **Thật thiếu khôn ngoan khi báo** tin cho cô ấy lúc này.
+
+### Notes & exceptions
+
+- Dùng `for` khi tính từ đánh giá hành động hoặc mức độ khó của hành động; dùng `of` khi tính từ đánh giá tính cách của con người → xem [[It Is Adjective Of Somebody To Do]].
+- Với các tính từ chỉ sự cần thiết, mệnh đề `that` với `should` (hoặc thức giả định với động từ nguyên mẫu không `to`) là cách nói trang trọng thay thế → xem [[It Is Essential That Clause]].
+- Phần `for + noun` được lược bỏ khi người được nói đến là chung chung hoặc đã rõ.
+
+### Common mistakes
+
+- Trước người thực hiện hành động phải có `for`: `for you to practise`.
+- Câu thiếu chủ ngữ; phải có `It` làm chủ ngữ giả.
+
+### Contrast with
+
+- [[It Is Adjective Of Somebody To Do]] — `of` dùng cho phẩm chất của con người
+- [[Adjective Plus To-Infinitive]] — tân ngữ được đưa lên đầu câu thay cho `it`
+- [[Infinitive As Subject]] — động từ nguyên mẫu được giữ nguyên ở vị trí chủ ngữ

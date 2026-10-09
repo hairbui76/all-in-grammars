@@ -64,4 +64,42 @@ V-ed / Irregular + Noun → the noun RECEIVES the action
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Hiện tại phân từ đứng trước danh từ mang nghĩa chủ động; quá khứ phân từ đứng trước danh từ mang nghĩa bị động.
+
+### Examples
+
+### Hiện tại phân từ — nghĩa chủ động
+
+- một đứa trẻ **đang ngủ** (đứa trẻ ấy đang ngủ)
+- một con chó **đang nằm**
+- nước **đang nhỏ giọt**
+- một cô gái **đang cười**
+- một cô gái **đang nói chuyện**
+- một ngôi nhà **nổi**
+
+### Quá khứ phân từ — nghĩa bị động
+
+- nước **đun sôi** (nước đã được đun sôi)
+- một cái chân **bị gãy**
+- cơm **rang**
+- gà **luộc**
+- sườn cừu **nướng**
+- xôi **hấp**
+
+### Notes & exceptions
+
+- Cùng một động từ cho ra hai tính từ khác nhau: `boiling water` (nước đang sôi) khác với `boiled water` (nước đã được đun sôi).
+- Các cụm phân từ dài hơn thì thường đứng **sau** danh từ: `the dog **lying on the floor**` (con chó đang nằm trên sàn), `the man **arrested by the police**` (người đàn ông bị cảnh sát bắt) — xem [[Reduced Relative Clauses]].
+
+### Common mistakes
+
+- Khi muốn nói quả trứng đã được luộc chín (nghĩa bị động) thì dùng quá khứ phân từ `boiled`, không dùng `boiling`.
+- Đứa trẻ đang ngủ mang nghĩa chủ động nên dùng hiện tại phân từ `sleeping`; `sleeped` là dạng sai.
+
+### Contrast with
+
+- [[Present Participle]]
+- [[Past Participle]]
+- [[Reduced Relative Clauses]] — cũng sự đối lập này nhưng ở các cụm bổ nghĩa đứng sau danh từ

@@ -72,4 +72,57 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Các cụm với `at` chủ yếu diễn tả một trạng thái hoặc một mức độ; các cụm với `by` chủ yếu diễn tả phương tiện, cách thức hoặc sự tình cờ.
+
+### Examples — at
+
+| Phrase | Meaning | Example |
+|---|---|---|
+| at times | thỉnh thoảng, đôi khi | **Đôi khi** anh ta có thể rất thô lỗ. |
+| at hand | ở gần, trong tầm tay | Hãy để một cuốn từ điển **trong tầm tay** khi bạn đọc. |
+| at heart | về bản chất, tận sâu trong lòng | Ông ấy có vẻ nghiêm khắc nhưng **thực chất** rất tốt bụng. |
+| at once | ngay lập tức | Lại đây **ngay lập tức**! |
+| at length | một cách chi tiết; cuối cùng | Cô ấy kể lại vụ tai nạn **rất chi tiết**. |
+| at a profit | có lãi trong một vụ mua bán | Họ bán căn hộ **có lãi**. |
+| at a moment's notice | gần như không được báo trước | Một bác sĩ giỏi phải sẵn sàng lên đường **ngay khi được gọi**. |
+| at present | hiện nay, vào lúc này | **Hiện nay** anh ấy đang làm việc ở Nhật Bản. |
+| at all costs | bằng mọi giá | Chúng ta phải hoàn thành bản báo cáo **bằng mọi giá**. |
+| at war | đang có chiến tranh | Hai nước **có chiến tranh** với nhau suốt một thập kỷ. |
+| at a pinch | nếu thật sự cần thiết | **Nếu thật cần thiết**, chiếc xe này chở được năm người. |
+| at ease | thoải mái, thư thái | Tôi không bao giờ thấy **thoải mái** khi ở cạnh anh ta. |
+| at rest | không chuyển động; thoải mái | Động cơ im lặng khi máy **không hoạt động**. |
+| at least | ít nhất, không dưới | Nó sẽ tốn **ít nhất** năm mươi bảng. |
+| at most | nhiều nhất, không quá | Cô ấy **nhiều nhất** là hai mươi tuổi. |
+
+### Examples — by
+
+| Phrase | Meaning | Example |
+|---|---|---|
+| by sight | nhận ra mặt ai nhưng không quen biết | Tôi chỉ **biết mặt** anh ta thôi. |
+| by chance | tình cờ, không định trước | Tôi gặp lại thầy giáo cũ hoàn toàn **tình cờ**. |
+| by mistake | do nhầm lẫn, không cố ý | Tôi cầm **nhầm** chiếc ô của bạn. |
+| by heart | thuộc lòng | Cô ấy học **thuộc lòng** cả bài thơ. |
+| by oneself | một mình, không ai giúp | Đứa bé **tự mình** băng qua đường. |
+| by all means | chắc chắn rồi, tất nhiên | **Cứ tự nhiên**, bạn lấy xe mà đi. |
+| by degrees | dần dần, từng chút một | Cơn đau **dần dần** dịu đi. |
+| by land | bằng đường bộ, không phải đường biển hay đường hàng không | Họ đến Thổ Nhĩ Kỳ **bằng đường bộ**. |
+| by no means | hoàn toàn không, chắc chắn không | Kết quả **hoàn toàn chưa** chắc chắn. |
+
+### Notes & exceptions
+
+- `at least` / `at most` đặt ra giới hạn dưới và giới hạn trên, và luôn đứng trước con số.
+- `by chance` = `by accident` = tình cờ; còn `by mistake` nhấn mạnh rằng đã chọn nhầm thứ.
+- `by no means` là một trạng ngữ phủ định: khi đứng đầu câu, nó bắt buộc phải đảo ngữ → xem [[Inversion with Negative Phrases]].
+- `by + means of transport` (phương tiện đi lại) không dùng mạo từ: *by land* (bằng đường bộ), *by sea* (bằng đường biển), *by air* (bằng đường hàng không), *by bus* (bằng xe buýt) → xem [[Prepositions Of Movement]].
+
+### Common mistakes
+
+- `by heart` là cụm cố định, không chen tính từ sở hữu `my` vào giữa.
+- "Tình cờ" là `by chance`, không dùng giới từ `at`.
+
+### Contrast with
+
+- [[Prepositional Phrases With On]] — `by oneself` so với `on one's own`
+- [[Prepositional Phrases With In]] — `at last` so với `in the end`

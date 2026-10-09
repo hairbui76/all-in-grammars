@@ -70,4 +70,56 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Một số tính từ cho ra **hai** trạng từ — một dạng nguyên mang nghĩa đen và một dạng `-ly` mang nghĩa hoàn toàn khác, thường là nghĩa bóng.
+
+### The pairs
+
+| Adjective | Adverb (same form) | Adverb in `-ly` |
+| --- | --- | --- |
+| hard | hard = chăm chỉ, hết sức | **hardly** = hầu như không |
+| late | late = muộn, không đúng giờ | **lately** = gần đây |
+| high | high = ở trên cao | **highly** = rất, hết sức; với sự đánh giá cao |
+| near | near = gần, ở gần | **nearly** = gần như, suýt |
+| deep | deep = sâu xuống dưới | **deeply** = sâu sắc, vô cùng |
+| direct | direct = thẳng, không dừng lại | **directly** = ngay lập tức / (đối với *indirectly*) trực tiếp |
+| pretty | — | **prettily** = một cách xinh xắn (`pretty` đứng riêng = khá, tương đối) |
+| right | right = đúng, thẳng | **rightly** = chính đáng, đúng đắn (dùng với quá khứ phân từ) |
+| just | just = chỉ, đúng | **justly** = công bằng, một cách chính đáng |
+| most | most = ở mức độ cao nhất | **mostly** = chủ yếu, phần lớn |
+
+### Examples
+
+- Tôi **hầu như chẳng** còn bộ quần áo sạch nào. (= gần như không còn)
+- Họ làm việc **chăm chỉ** suốt cả ngày. (= hết sức mình)
+- **Gần đây** tôi không đi xem phim. (= dạo này)
+- **Gần đây** bạn có gặp anh ấy không?
+- Anh ấy bị xúc phạm **sâu sắc**.
+- Anh ấy sẽ đến **ngay**. (= ngay lập tức)
+- Các quy định mới sẽ ảnh hưởng **trực tiếp / gián tiếp** đến chúng ta.
+- Họ đánh giá anh ấy **rất cao**.
+- Ông ta là một viên chức được trả lương **rất cao**.
+- Tôi **sắp** sẵn sàng rồi.
+- Mấy cô con gái nhỏ của cô ấy lúc nào cũng ăn mặc **xinh xắn**.
+- Bài thi **khá** khó. (= tương đối, khá)
+- Anh ta đã bị trừng phạt **một cách đích đáng / công bằng**.
+- Tôi đã được thông báo **đúng / chính xác**.
+
+### Notes & exceptions
+
+- `hardly`, `scarcely` và `barely` mang nghĩa phủ định: câu có các từ này không dùng thêm một từ phủ định thứ hai.
+- `rightly` và `justly` thường được dùng với quá khứ phân từ: *rightly punished*, *rightly informed*.
+- `pretty` khi là trạng từ chỉ mức độ có nghĩa là "khá / tương đối", không liên quan gì đến tính từ `pretty` (= xinh xắn).
+
+### Common mistakes
+
+- `hardly` nghĩa là "hầu như không"; muốn nói làm việc nhiều, chăm chỉ thì phải dùng `hard`.
+- `late` nghĩa là "muộn"; muốn nói "gần đây" thì phải dùng `lately`.
+- `hardly` đã mang nghĩa phủ định nên không dùng cùng `don't`.
+
+### Contrast with
+
+- [[Adjectives and Adverbs With the Same Form]] — các dạng nguyên, không thêm `-ly`
+- [[Forming Adverbs With -ly]] — cách thành lập trạng từ theo quy tắc
+- [[Inversion with No Sooner and Hardly]] — `hardly` được đưa lên đầu trong mệnh đề đảo ngữ

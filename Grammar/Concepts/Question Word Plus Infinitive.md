@@ -53,4 +53,39 @@ see (= understand) · show + obj · think · understand · want to know · wonde
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Từ để hỏi cộng với động từ nguyên mẫu có `to` tạo thành một mệnh đề danh từ rút gọn sau một số động từ nhất định.
+
+### Form
+
+`V + how / what / when / where / which / who + (N) + to + V`
+
+Cũng có thể dùng `whether`; `why` không được dùng trong cấu trúc này.
+
+### Verbs used with this structure
+
+ask (hỏi) · decide (quyết định) · discover (khám phá ra) · find out (tìm ra) · forget (quên) · know (biết) · learn (học) · remember (nhớ) ·
+see (= understand, hiểu) · show + tân ngữ (chỉ cho ai) · think (nghĩ) · understand (hiểu) · want to know (muốn biết) · wonder (tự hỏi)
+
+### Examples
+
+- Tôi không biết **phải nói gì**.
+- Bạn đã quyết định **đi đâu** nghỉ chưa?
+- Anh ấy đã tìm ra **cách mở** két sắt.
+- Tôi đã tìm ra **chỗ mua** hoa quả giá rẻ.
+- Tôi không biết **phải bấm nút nào**.
+- Tôi chưa quyết định **khi nào mua** nhà ở thành phố TN.
+- Làm ơn chỉ cho tôi **cách làm** việc này.
+- Người đàn ông hỏi tôi **đường đến** sân bay.
+
+### Notes & exceptions
+
+- Cấu trúc này là một mệnh đề danh từ rút gọn: *I don't know what to say* = *I don't know what I should say* (tôi không biết mình nên nói gì).
+- Với `show`, `tell` và `teach`, thường có một tân ngữ đứng trước từ để hỏi: *I showed **him** how to use the camera.* (Tôi chỉ cho anh ấy cách dùng máy ảnh.)
+- Sau từ để hỏi có thể có một danh từ: *which **button** to press* (bấm nút nào), *what **time** to leave* (đi lúc mấy giờ).
+
+### Contrast with
+
+- [[Noun Clauses]] — dạng mệnh đề đầy đủ, có chủ ngữ và động từ chia theo thì
+- [[Reported Speech - Questions]] — câu hỏi gián tiếp với một mệnh đề đầy đủ

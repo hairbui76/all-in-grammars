@@ -55,4 +55,41 @@ Used when the speaker introduces a more accurate detail, or disagrees mildly and
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`In fact`, `indeed`, `actually` và `as a matter of fact` dùng để nhấn mạnh thêm, đính chính hoặc nhẹ nhàng phản bác điều vừa được nói.
+
+### In fact — two uses
+
+**1. Nhấn mạnh thêm ý vừa nêu.**
+
+- Tôi không thích anh ta. **Thật ra**, tôi không thể chịu nổi anh ta.
+
+**2. Nêu một điều trái với ý đứng trước** (thường sau `but`).
+
+- Mọi người nghĩ tôi không thích anh ấy, nhưng **thật ra** anh ấy là một người bạn tốt.
+- Bạn gọi anh ấy là Pete. **Thật ra**, tên anh ấy là Peter.
+
+### Indeed — strengthening
+
+`Indeed` cũng tăng thêm sức nặng cho một ý đã được nêu ra.
+
+- Kết quả của chúng ta năm nay rất khả quan. **Quả thật**, đó là kết quả tốt nhất mà chúng ta đạt được trong nhiều năm qua.
+
+### Actually / As a matter of fact
+
+Dùng khi người nói đưa ra một chi tiết chính xác hơn, hoặc phản đối một cách nhẹ nhàng, lịch sự.
+
+- Tôi sẽ ở nhờ nhà một người quen ở Paris. **Thật ra** / **Nói đúng ra**, anh ấy là anh họ tôi.
+- A: Tôi không thích cô ca sĩ đó lắm. B: **Thật ra**, tôi thấy cô ấy hát rất tuyệt.
+
+### Notes & exceptions
+
+- `Actually` trong tiếng Anh KHÔNG có nghĩa là "hiện nay" — nó có nghĩa là "thật ra, trên thực tế".
+- `As a matter of fact` làm lời đính chính nhẹ nhàng hơn và thường dùng khi phản đối một cách lịch sự.
+- Cách chấm câu theo quy tắc chung → xem [[Sentence Connector Punctuation]].
+
+### Contrast with
+
+- [[Connectors of Contrast]] — `however` nêu ý đối lập; `in fact` đính chính hoặc nhấn mạnh thêm
+- [[Connectors of Addition]] — thêm một ý riêng biệt chứ không củng cố cùng một ý

@@ -68,4 +68,54 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Quy tắc dễ nhớ: dùng `do` khi thực hiện một hành động, nhiệm vụ hay công việc; dùng `make` khi làm ra hoặc tạo ra một kết quả.
+
+### The rule of thumb
+
+| Choose | When the meaning is | Test question |
+|---|---|---|
+| `do` | thực hiện một hành động, hoạt động, nhiệm vụ, bổn phận hay công việc | *Hoạt động nào đang được thực hiện?* |
+| `make` | xây dựng, sáng tạo, sản xuất hoặc làm cho một thứ gì đó xuất hiện | *Thứ gì mới được tạo ra?* |
+
+`do` = quá trình · `make` = sản phẩm.
+
+### Quick decision guide
+
+- Việc nhà và bổn phận → `do`: `do the washing up`, `do the ironing`, `do your homework`, `do your duty`.
+- Hoạt động chung chung hoặc không nói rõ, nhất là khi đi với `something / nothing / anything / everything` → `do`: `I'm not **doing anything** today.`
+- Đồ ăn, thức uống và đồ vật cụ thể → `make`: `make a cup of tea`, `make a dress`, `make breakfast`.
+- Hành động lời nói và hành động trí óc tạo ra một điều gì đó → `make`: `make a speech`, `make a decision`, `make a promise`, `make a suggestion`, `make a remark`.
+- Những tác động, kết quả được tạo ra → `make`: `make a noise`, `make a mess`, `make a difference`, `make a profit`.
+
+### Confusable pairs
+
+| `do` | `make` |
+|---|---|
+| `do business` (tiến hành việc kinh doanh) | `make money / make a profit` (làm ra tiền, lợi nhuận) |
+| `do your best` | `make an effort` |
+| `do harm` | `make trouble` |
+| `do research` | `make an enquiry` |
+| `do a favour` | `make a promise` |
+| `do your hair` | `make your bed` |
+
+### Examples
+
+- Mọi học sinh đều phải **làm** tròn bổn phận của mình, còn thầy hiệu trưởng sẽ **phát biểu** tại buổi họp.
+- Anh ấy đang **phạm** một sai lầm lớn khi **làm** ăn với một công ty lớn như vậy.
+- Ở đây chẳng có gì **để làm** cả. Chúng ta **tìm đường** ra ngoài thôi.
+- Chúng ta còn nhiều việc phải **làm**, nên đã đến lúc **bắt đầu** rồi.
+
+### Common mistakes
+
+- Đưa ra quyết định là tạo ra một kết quả nên dùng `make a decision`, không dùng `do`.
+- Bài tập về nhà là một nhiệm vụ phải thực hiện nên dùng `do your homework`, không dùng `make`.
+- Gọi điện thoại là cụm cố định với `make`: `make a phone call`, không dùng `do`.
+- Rửa bát là việc nhà nên dùng `do the washing up`, không dùng `make`.
+
+### Contrast with
+
+- [[Expressions With Do]] — danh sách đầy đủ các cụm từ đi với `do`
+- [[Expressions With Make]] — danh sách đầy đủ các cụm từ đi với `make`
+- [[Phrasal Verbs With Make Do And Give]] — `make up`, `do away with` và các động từ đi kèm tiểu từ tương tự

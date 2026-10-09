@@ -68,4 +68,48 @@ Wh- questions:
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Câu hỏi tường thuật không còn trật tự từ của câu hỏi và không còn dấu chấm hỏi; cách đổi thì, đại từ và từ chỉ thời gian giống như với câu trần thuật.
+
+### Form
+
+Chủ ngữ đứng **trước** động từ, và không dùng trợ động từ `do/does/did`.
+
+### When to use
+
+- Dùng `if` hoặc `whether` khi câu hỏi gốc không có từ để hỏi
+- Dùng lại từ để hỏi của câu gốc (`what`, `where`, `how long`, `who`, `which` ...) khi câu gốc có từ để hỏi
+
+### Examples
+
+Câu hỏi Yes/No:
+
+- "Tối qua bạn có đi chơi không?" anh ấy hỏi → Anh ấy hỏi tôi tối hôm trước **tôi có đi** chơi **không**.
+- "Có ai ở đó không?" Mary hỏi → Mary hỏi **có ai** ở đó **không**.
+- "Bạn có biết Bill không?" anh ấy nói → Anh ấy hỏi **tôi có biết** Bill **không**.
+- "Lúc này bạn có đang làm gì không?" cô ấy hỏi → Cô ấy hỏi lúc đó **tôi có đang làm** gì **không**.
+
+Câu hỏi Wh-:
+
+- "Bạn nghĩ nó sẽ tốn bao nhiêu tiền?" cô ấy nói → Cô ấy hỏi **tôi nghĩ** nó sẽ tốn **bao nhiêu** tiền.
+- "Đi xe khách đến Edinburgh mất bao lâu?" Ann hỏi → Ann hỏi tôi đi xe khách đến Edinburgh **mất bao lâu**.
+
+### Notes & exceptions
+
+- `if` và `whether` thường thay thế được cho nhau, và `if` được dùng nhiều hơn.
+- Nên dùng `whether` khi nhấn mạnh một sự lựa chọn thực sự: *"Do you want to go by air or sea?" the travel agent asked → The travel agent asked **whether** I wanted to go by air or by sea* (nhân viên du lịch hỏi tôi muốn đi bằng đường hàng không hay đường biển).
+- `whether ... or not` là cấu trúc cố định cho nghĩa "có ... hay không": *He asked **whether or not** I wanted to insure my luggage.* / *He asked **whether** I wanted to insure my luggage **or not**.* (Anh ấy hỏi tôi có muốn mua bảo hiểm cho hành lý hay không.)
+- Sau `wonder` và `want to know` có thể dùng `whether + to-infinitive`: *"Shall I wait for them or go now?" he wondered → He wondered **whether to wait** for them or go on* (anh ấy tự hỏi nên đợi họ hay đi tiếp).
+- Dùng `whether`, không dùng `if`, khi câu hỏi tường thuật có chứa mệnh đề điều kiện, để tránh hai chữ `if`: *"If you get the job, will you move to York?" Bill asked → Bill asked **whether** I would move to York **if** I got the job* (Bill hỏi tôi có chuyển đến York không nếu tôi nhận được việc).
+- Động từ tường thuật có thể là `ask`, `want to know`, `wonder`, `inquire`.
+
+### Common mistakes
+
+- Trong câu hỏi tường thuật, chủ ngữ đứng trước động từ và không dùng trợ động từ `did`.
+- Sau `if` không đảo trợ động từ lên trước chủ ngữ; dùng trật tự từ của câu trần thuật và lùi thì động từ.
+
+### Contrast with
+
+- [[Reported Speech - Statements]] — không cần `if/whether` hay từ để hỏi
+- [[Reported Speech - Commands]] — cấu trúc `verb + object + to-infinitive`

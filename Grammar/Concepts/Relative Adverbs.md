@@ -77,4 +77,63 @@ Pattern: `The reason (why) + clause + is/was + that + clause` or `+ to + V`
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`where`, `when` và `why` mở đầu mệnh đề quan hệ, thay cho trạng ngữ chỉ nơi chốn, thời gian hoặc lý do.
+
+### Form
+
+| Relative adverb | Replaces | Equivalent |
+|---|---|---|
+| `where` | trạng ngữ chỉ nơi chốn | `in which` / `at which` |
+| `when` | trạng ngữ chỉ thời gian | `in which` / `on which` / `at which` |
+| `why` | lý do, đứng sau `the reason` | `for which` |
+
+Trạng từ quan hệ luôn có một mệnh đề đầy đủ theo sau; nó không bao giờ làm chủ ngữ của mệnh đề.
+
+### Examples
+
+`where`:
+
+- Tôi yêu Việt Nam. Tôi sinh ra và lớn lên ở Việt Nam/ở đó. → Tôi yêu Việt Nam, **nơi tôi sinh ra và lớn lên**.
+- Bạn có nhớ nơi **các bạn gặp nhau lần đầu** không?
+- Anh ấy đến Hollywood, **nơi anh làm một bộ phim**.
+- Năm 1919 ông ra mặt trận Ý, **nơi ông bị thương nặng**.
+- Đây là ngôi trường **nơi tôi từng học**.
+- Nơi sinh là nơi **bạn được sinh ra**.
+- Rạp chiếu phim là nơi **người ta chiếu phim**.
+- Nghĩa trang là nơi **chôn cất người đã khuất**.
+- Phòng thí nghiệm là căn phòng **nơi người ta làm thí nghiệm**.
+
+`when`:
+
+- 1975 là năm **tôi ra đời**.
+- Đó là thời **chúng tôi sống hạnh phúc**.
+- Tôi phải tìm một lúc **có thể nói cho bạn biết sự thật**.
+- Tôi vẫn nhớ cái thời **trong làng hiếm khi thấy ô tô**.
+- Tôi vẫn nhớ cái thời **người ta phải xếp hàng**.
+
+`why`:
+
+Cấu trúc: `The reason (why) + clause + is/was + that + clause` hoặc `+ to + V`
+
+- Lý do **vì sao** tôi không thích anh ta **là** anh ta không trung thực.
+- Lý do **vì sao** chúng tôi đến đây **là để học** tiếng Anh.
+- Lý do **vì sao** tôi không thích ngôi nhà đó **là** nó không có vườn.
+- Lý do **vì sao** tôi thích làm giáo viên **là** tôi yêu trẻ con.
+- Lý do **vì sao** anh ấy đi làm muộn **là** xe anh ấy bị hỏng giữa đường.
+
+### Notes & exceptions
+
+- `where` không thể làm chủ ngữ của mệnh đề; nếu nơi chốn là chủ ngữ thì dùng `which`/`that`.
+- `why` thường được lược bỏ sau `the reason`.
+- Phần bổ ngữ sau `The reason ... is` nên là `that + clause`, không dùng `because`.
+
+### Common mistakes
+
+- Sau `The reason why ... was` phải dùng `that` + mệnh đề, không dùng `because`.
+
+### Contrast with
+
+- [[Relative Pronouns]] — `who`/`which`/`that`, giữ một chức năng ngữ pháp trong mệnh đề
+- [[Clauses of Reason]] — mệnh đề với `because`/`since`

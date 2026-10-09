@@ -71,4 +71,55 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+"Quá khứ của quá khứ": một hành động đã hoàn thành trước một thời điểm hoặc một hành động khác trong quá khứ.
+
+### Form
+
+`(+) S + had + V3/V-ed`
+`(-) S + had not (hadn't) + V3/V-ed`
+`(?) Had + S + V3/V-ed ?`
+
+`had` dùng cho tất cả các ngôi. Về cách viết dạng `-ed`, xem [[Spelling Rules for -ED Forms]].
+
+### When to use
+
+- Hành động hoàn thành **trước** một hành động khác trong quá khứ (hành động xảy ra sau chia ở [[Past Simple]]).
+- Hành động hoàn thành **trước** một thời điểm được nêu rõ trong quá khứ (`by 2010`, `by the time he arrived`).
+- Đi với `after`, `before`, `by the time`, `as soon as`, `when`, `until` → xem [[Clauses of Time]].
+- Đi với `already`, `just`, `never`, `yet`, `for`, `since` khi các từ này được lùi về quá khứ.
+- Sau `It was the first/second time ...` (dạng quá khứ của [[This Is The First Time]]).
+- Trong mệnh đề `if` của [[Third Conditional]] và sau [[Wish and If Only]] để diễn tả sự tiếc nuối về quá khứ.
+- Là dạng lùi thì của [[Past Simple]] và [[Present Perfect]] trong [[Reported Speech]] — xem [[Backshift of Tenses]].
+
+### Examples
+
+- Tàu **đã rời đi** trước khi chúng tôi **đến** ga.
+- Tính đến năm 2015, cô ấy **đã xuất bản** ba cuốn tiểu thuyết.
+- Tôi **chưa từng thấy** tuyết cho đến khi chuyển đến Canada.
+- Anh ấy nói rằng anh ấy **đã làm mất** hộ chiếu.
+- Đó là lần đầu tiên tôi **ăn** sầu riêng.
+
+### Notes & exceptions
+
+- Với `before` và `after`, thứ tự thời gian đã rõ, nên thường có thể dùng [[Past Simple]] ở cả hai mệnh đề: *He left before I arrived / had arrived* (anh ấy rời đi trước khi tôi đến).
+- Đừng dùng quá khứ hoàn thành chỉ vì việc gì đó xảy ra đã lâu. Thì này cần có một **mốc quá khứ thứ hai, xảy ra sau đó**.
+- `When + past perfect` = hành động thứ nhất đã xong; `when + past simple` có thể mang nghĩa hai hành động gần như xảy ra đồng thời.
+  - Khi tôi **ăn xong** bữa tối, tôi đi ra ngoài. (ăn xong trước đã)
+  - Khi tôi **nhìn thấy** anh ấy, tôi vẫy tay. (ngay lúc đó)
+- Bị động: `S + had been + V3` → xem [[Passive Voice in Nine Tenses]].
+
+### Common mistakes
+
+- Chỉ có một mốc quá khứ (`last year`), không có mốc quá khứ thứ hai, nên dùng quá khứ đơn chứ không dùng quá khứ hoàn thành.
+- Sau `had` phải là quá khứ phân từ `gone`, không phải dạng quá khứ đơn `went`.
+- Sau `had` phải là quá khứ phân từ `known`, không phải dạng quá khứ đơn `knew`.
+
+### Contrast with
+
+- [[Past Simple]] — một hành động đơn lẻ đã kết thúc trong quá khứ, hoặc hành động xảy ra sau trong hai hành động
+- [[Past Continuous]] — hành động đang diễn ra quanh một thời điểm trong quá khứ
+- [[Past Perfect Continuous]] — nhấn mạnh **khoảng thời gian kéo dài** cho đến mốc quá khứ đó
+- [[Present Perfect]] — nối quá khứ với **hiện tại**, chứ không phải với một thời điểm quá khứ khác
+- [[Future Perfect]] — cùng ý "trước một mốc thời gian", nhưng chuyển sang tương lai

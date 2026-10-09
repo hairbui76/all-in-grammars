@@ -38,4 +38,23 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Đuôi quá khứ có quy tắc `-ed` được đọc là `/ɪd/`, `/t/` hoặc `/d/`, tuỳ theo âm cuối của động từ nguyên mẫu.
+
+### Rule
+
+| Ending is read | After base verbs ending in | Examples |
+|---|---|---|
+| `/ɪd/` | `/t/` hoặc `/d/` | want**ed**, need**ed**, add**ed**, provid**ed**, invit**ed**, permitt**ed**, post**ed**, exhibit**ed**, hesitat**ed**, plant**ed**, predict**ed** |
+| `/t/` | `/s/` (`ce, ss`), `ch`, `sh`, `x`, `k`, `p`, `/f/` (`f, gh`) | pass**ed**, miss**ed**, danc**ed**, plac**ed**, watch**ed**, snatch**ed**, wash**ed**, finish**ed**, mix**ed**, fix**ed**, work**ed**, cook**ed**, stopp**ed**, kidnapp**ed**, laugh**ed**, cough**ed** |
+| `/d/` | tất cả các âm còn lại | plough**ed**, lov**ed**, arriv**ed**, rais**ed**, plann**ed**, water**ed**, learn**ed**, liv**ed**, mov**ed**, climb**ed** |
+
+### Notes & exceptions
+
+- Chỉ có `/ɪd/` làm từ thêm một âm tiết; `/t/` và `/d/` thì không.
+- Một vài tính từ vẫn giữ cách đọc cũ `/ɪd/` dù động từ thì không đọc như vậy: *aged*, *learned* (= uyên bác, có học thức), *blessed*.
+
+### Contrast with
+
+- [[Pronunciation of Final -S and -ES]] — quy tắc ba cách đọc tương ứng của đuôi `-s`

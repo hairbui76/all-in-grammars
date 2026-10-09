@@ -65,4 +65,50 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Khi động từ tường thuật ở quá khứ, động từ trong lời nói được thuật lại lùi một bậc về quá khứ.
+
+### Form
+
+| Direct speech | Indirect speech |
+|---|---|
+| Hiện tại đơn | Quá khứ đơn |
+| Hiện tại tiếp diễn | Quá khứ tiếp diễn |
+| Hiện tại hoàn thành | Quá khứ hoàn thành |
+| Hiện tại hoàn thành tiếp diễn | Quá khứ hoàn thành tiếp diễn |
+| Quá khứ đơn | Quá khứ hoàn thành (hoặc giữ nguyên quá khứ đơn) |
+| Quá khứ tiếp diễn | Quá khứ hoàn thành tiếp diễn (hoặc giữ nguyên quá khứ tiếp diễn) |
+| `be going to` | `was/were going to` (tương lai trong quá khứ) |
+| Tương lai đơn (`will`) | Dạng điều kiện (`would`) |
+| Tương lai tiếp diễn (`will be + V-ing`) | Dạng điều kiện tiếp diễn (`would be + V-ing`) |
+| Tương lai hoàn thành (`will have + V3`) | Dạng điều kiện hoàn thành (`would have + V3`) |
+
+### When to use
+
+- Chỉ áp dụng khi động từ tường thuật ở thì quá khứ (`said`, `told`, `explained`, `asked`)
+- Không áp dụng khi động từ tường thuật ở hiện tại hoặc tương lai, và không áp dụng với những chân lý luôn đúng
+
+### Examples
+
+- "Tôi không bao giờ ăn thịt chó," anh ấy giải thích → Anh ấy giải thích rằng anh ấy **không bao giờ ăn** thịt chó.
+- "Bây giờ tôi đang đợi Mary," anh ấy nói → Anh ấy nói **lúc đó** anh ấy **đang đợi** Mary.
+- "Tôi chưa bao giờ cưỡi lạc đà," anh ấy nói → Anh ấy nói anh ấy **chưa bao giờ cưỡi** lạc đà.
+- "Tôi chơi ghi-ta đã lâu lắm rồi," cô ấy nói → Cô ấy nói cô ấy **đã chơi** ghi-ta từ lâu lắm rồi.
+- "Tối qua tôi không đi đâu cả," George nói → George nói tối hôm trước anh ấy **đã không đi** đâu cả.
+- "Tôi đang nấu bữa tối thì mất điện," bà Pitt nói → Bà Pitt nói bà **đang nấu** bữa tối thì **mất** điện.
+- "Tháng sau chúng tôi sẽ bán nhà," họ nói → Họ nói tháng sau đó họ **sẽ bán** nhà.
+- "Thứ Hai tôi sẽ ở Paris," cô ấy nói → Cô ấy nói thứ Hai cô ấy **sẽ ở** Paris.
+- "Ngày 25 tôi sẽ tự dùng xe," cô ấy nói → Cô ấy nói ngày 25 cô ấy **sẽ tự dùng** xe.
+- "Đến cuối năm nay tôi sẽ để dành đủ tiền," cô ấy nói → Cô ấy nói đến cuối năm đó cô ấy **sẽ để dành đủ** tiền.
+
+### Notes & exceptions
+
+- Quá khứ đơn và quá khứ tiếp diễn có thể giữ nguyên khi không gây nhầm lẫn về thời gian.
+- Quá khứ hoàn thành và quá khứ hoàn thành tiếp diễn không thể lùi thêm được nữa nên giữ nguyên.
+- Những sự thật vẫn còn đúng tại thời điểm tường thuật thì không cần lùi thì.
+
+### Contrast with
+
+- [[Modal Changes in Reported Speech]] — cách các động từ khuyết thiếu thay đổi theo cùng quy tắc này
+- [[Past Subjunctive in Reported Speech]] — những dạng không lùi thì

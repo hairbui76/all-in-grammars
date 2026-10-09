@@ -61,4 +61,47 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Cả hai đều dùng để khuyên, nhưng `should` là lời khuyên chung, có thể làm theo hoặc không, còn `had better` mang tính cấp bách và cảnh báo hậu quả xấu nếu không làm theo.
+
+### Form
+
+`S + should + V(bare)`
+`S + had better + V(bare)` — phủ định: `S + had better not + V(bare)`
+
+### When to use each
+
+| | `should` | `had better` |
+|---|---|---|
+| Tình huống | chung chung, tình huống nào cũng được | một tình huống cụ thể |
+| Mức độ | lời khuyên mà người nghe có thể làm theo hoặc không | lời khuyên cấp bách; nếu bỏ qua sẽ có chuyện không hay xảy ra |
+| Thời gian nói đến | sự thật chung hoặc tình huống lặp đi lặp lại | hiện tại hoặc tương lai gần |
+
+### Examples — should in general situations
+
+- Tôi nghĩ mọi người đi xe máy đều **nên đội** mũ bảo hiểm.
+- Tôi nghĩ bạn **nên học** chăm hơn.
+- Tôi nghĩ bạn **nên sống** tiết kiệm.
+
+### Examples — should in a specific situation
+
+- Tối nay trong thành phố có chiếu một bộ phim hay. Bạn **nên đi** xem.
+
+### Examples — had better
+
+- Hút thuốc có hại cho sức khoẻ của bạn. Bạn **nên bỏ** thuốc đi.
+- Bạn đang lái xe quá nhanh. Bạn **nên chạy chậm** lại đi.
+- Bạn **không nên xin** tiền bố mẹ.
+
+### Notes & exceptions
+
+- Sau `had better` là động từ nguyên mẫu không `to` dù trông nó giống dạng quá khứ; nó nói về hiện tại hoặc tương lai gần.
+- Dạng phủ định là `had better not`, không bao giờ là *hadn't better*.
+- `ought to` gần nghĩa với `should` nhưng vẫn giữ `to`.
+- Với quá khứ, `should / ought to / had better + have + PII` dùng để chê trách một việc đã không được làm → xem [[Should Have Done]].
+
+### Contrast with
+
+- [[Should Have Done]] — lời khuyên về quá khứ đã không được làm theo
+- [[May As Well And Might As Well]] — lời gợi ý nhẹ hơn, khi không có lý do gì thật sự để không làm

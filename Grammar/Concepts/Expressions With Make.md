@@ -71,4 +71,56 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`Make` được dùng khi xây dựng, chế tạo, tạo ra hoặc sản xuất ra một thứ gì đó, kể cả đồ ăn và lời nói.
+
+### When to use
+
+1. **Xây dựng, chế tạo hoặc tạo ra thứ gì đó**
+   `make a dress`, `make food`, `make a cup of tea / coffee`
+2. **Chuẩn bị đồ ăn thuộc bất kỳ loại nào**
+   `make a meal`, `make breakfast / lunch / dinner`
+3. **Một nhóm lớn các cụm cố định** mà đơn giản là phải học thuộc.
+
+### Common fixed expressions
+
+| Expression | Expression | Expression |
+|---|---|---|
+| `make arrangements` | `make a choice` | `make a comment` |
+| `make a decision` | `make a difference` | `make an effort` |
+| `make an enquiry` | `make an excuse` | `make a fool of yourself` |
+| `make a fortune` | `make friends` | `make a fuss` |
+| `make a journey` | `make love` | `make a mess` |
+| `make a mistake` | `make money` | `make a move` |
+| `make a noise` | `make a phone call` | `make a plan` |
+| `make a point` | `make a profit` | `make a promise` |
+| `make a remark` | `make a sound` | `make a speech` |
+| `make a suggestion` | `make a visit` | `make your bed` |
+| `make use of` | `make progress` | `make up your mind` |
+
+### Examples
+
+- Tôi sẽ **thu xếp mọi việc** cho bạn.
+- Thầy hiệu trưởng sẽ **phát biểu** tại cuộc họp.
+- Xin lỗi! Tôi phải **gọi một cuộc điện thoại**.
+- Mọi người sẽ **chế giễu** bạn nếu bạn ăn mặc như thế đến trường.
+- Bạn tin tôi hay không thì cũng **chẳng có gì khác**.
+- Bạn nên **tận dụng** thư viện khi còn là sinh viên.
+- Năm nay cô ấy đã **tiến bộ rất nhiều** trong môn tiếng Anh.
+
+### Notes & exceptions
+
+- Sau `make use of` và `make progress` là một danh từ hoặc dạng `-ing`: *make use of **studying** abroad* (tận dụng việc du học).
+- `make up your mind to do something` = quyết định làm việc gì.
+
+### Common mistakes
+
+- `a decision` là cụm cố định đi với `make`, không đi với `do`.
+- `a mistake` cũng là cụm cố định đi với `make`, không đi với `do`.
+- Việc nhà là công việc phải thực hiện nên dùng `do`, không dùng `make`.
+
+### Contrast with
+
+- [[Expressions With Do]] — dùng cho hành động, nhiệm vụ, công việc và hoạt động nói chung
+- [[Make vs Do]] — quy tắc kinh nghiệm để chọn giữa hai động từ này

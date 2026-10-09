@@ -67,4 +67,53 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Cho thấy mình cùng hay không cùng quan điểm với ý kiến vừa được nêu — kể cả các câu đáp ngắn lặp lại như `So do I` và `Neither do I`.
+
+### Useful patterns
+
+### Đồng ý
+
+| Strength | Expression |
+|---|---|
+| Mạnh | `You can say that again.` · `Exactly.` · `Absolutely.` |
+| Trung tính | `I agree.` · `I think so, too.` · `I'm with you there.` |
+| Đáp lại một câu khẳng định | `So do I.` / `So am I.` / `So have I.` |
+| Đáp lại một câu phủ định | `Neither do I.` / `Nor do I.` |
+| Xác nhận một nhận xét về quá khứ | `It certainly was.` · `Yes, it really was.` |
+| Miễn cưỡng | `I'm afraid so.` · `I suppose so.` · `Yes, maybe a little.` |
+
+### Không đồng ý
+
+| Strength | Expression |
+|---|---|
+| Nhẹ nhàng | `Do you? I think it's boring.` · `Well, I'm not so sure.` |
+| Trung tính | `I don't think so.` · `No, not really.` |
+| Thẳng thắn | `I can't agree with you.` · `I'm against it.` |
+
+### When to use
+
+- Để đồng ý với một câu **phủ định**, dùng `Neither do I`, không dùng `So do I`. Trợ động từ phải khớp với trợ động từ trong câu gốc.
+- `Do you?` đặt trước ý kiến của mình là một cách nói giảm rất phổ biến: nó ghi nhận quan điểm của người kia trước khi nói ngược lại.
+- `I'm afraid so` là đồng ý với một điều không ai mong muốn; `I'm afraid not` là phủ nhận một điều người ta đang hy vọng.
+
+### Examples
+
+- "Tôi nghĩ chúng ta không nên tập thể dục lúc đêm khuya." — "**Tôi cũng nghĩ vậy.**"
+- "Tôi thấy chơi gôn thật là tuyệt." — "**Thế à? Tôi lại thấy nó chán.**"
+- "Cuốn sách đó chán thật." — "**Đúng là chán thật.**"
+- "Tôi nghĩ khu nghỉ dưỡng mới sẽ tàn phá môi trường." — "**Tôi e là vậy.**"
+- "Bạn có ủng hộ đề xuất xây sân bay mới không?" — "**Không, không hẳn.**"
+
+### Common mistakes
+
+- Câu gốc là câu phủ định nên phải đáp bằng `Neither do I`, không dùng `So do I`.
+- Không có cách nói `I don't, neither`; trong câu phủ định phải dùng `either`, hoặc đảo ngữ `Neither do I`.
+- `Yes` và `I'm against it` mâu thuẫn nhau: đã phản đối thì không thể mở đầu bằng `Yes`.
+
+### Contrast with
+
+- [[Asking For and Giving Opinions]] — hỏi ý kiến mà giờ bạn đang đáp lại
+- [[Inversion with Neither Nor and So]] — quy tắc trật tự từ đằng sau `So do I` / `Neither do I`
+- [[Question Tags]] — gợi cho người nghe đồng ý chứ không phải tự nói ra sự đồng ý

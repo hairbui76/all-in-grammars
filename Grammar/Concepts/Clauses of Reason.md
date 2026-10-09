@@ -57,4 +57,35 @@ As / Since / Seeing that / Now that + S + V, + Main clause
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Mệnh đề chỉ lý do giải thích **vì sao** sự việc ở mệnh đề chính xảy ra, và được mở đầu bằng `because`, `as`, `since`, `seeing that` hoặc `now that`.
+
+### Examples
+
+- Tom đi tàu hoả đến Auckland **vì** anh ấy ghét đi máy bay.
+- **Vì** trời đã muộn nên chúng tôi quyết định về nhà.
+- **Vì** anh ấy đến muộn nên tôi quyết định đi mà không có anh ấy.
+- **Vì** tôi không có tiền nên tôi không mua được cuốn sách.
+- **Giờ thì** con đã lớn rồi, con phải bỏ cái kiểu cư xử trẻ con này đi.
+- Anh ấy không thể đi làm **vì** anh ấy bị ốm.
+
+### Notes & exceptions
+
+- **Vị trí và sự nhấn mạnh.** Mệnh đề với `because` thường đứng **sau** mệnh đề chính, nhằm nhấn mạnh vào lý do. Mệnh đề với `as`, `since`, `seeing that` và `now that` thường đứng **trước**, nhằm nhấn mạnh vào mệnh đề chính.
+- `because` là liên từ và đi với một mệnh đề; `because of` là giới từ và đi với một cụm danh từ → xem [[Because and Because Of]].
+- Mệnh đề chỉ lý do nêu nguyên nhân; mệnh đề chỉ kết quả nêu hệ quả. Cùng một sự việc có thể diễn đạt theo cả hai cách:
+  - Tôi thấy đói **nên** tôi đã ăn hai cái bánh. (`so` + kết quả)
+  - Tôi đã ăn hai cái bánh **vì** tôi thấy đói. (`because` + lý do)
+
+### Common mistakes
+
+- Đã dùng `because` ở mệnh đề chỉ lý do thì không dùng thêm `so` ở mệnh đề chính.
+- `because of` là giới từ nên không đi với mệnh đề; trước mệnh đề phải dùng `because`, còn `because of` đi với cụm danh từ.
+
+### Contrast with
+
+- [[Because and Because Of]] — liên từ so với giới từ
+- [[Clauses of Result]] — nêu hệ quả chứ không phải nguyên nhân
+- [[Clauses of Purpose]] — nêu mục đích chứ không phải nguyên nhân
+- [[Clauses of Concession]] — một lý do không dẫn đến kết quả như thông thường

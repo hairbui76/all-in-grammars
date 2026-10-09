@@ -8,6 +8,7 @@
 //   last   lesson | null        last lesson opened
 //   theme  'light' | 'dark' | null (null follows the system)
 //   fs     0 | 1 | 2            reading text size
+//   vi     boolean              show the Vietnamese lines in lessons
 //   path   index of the study path shown on the home page
 const KEY = 'engram-v1'
 
@@ -21,6 +22,7 @@ const blank = () => ({
   last: null,
   theme: null,
   fs: 1,
+  vi: true,
   path: 0,
 })
 
@@ -91,7 +93,7 @@ export function workOffMiss(title) {
 }
 
 export function resetAll() {
-  Object.assign(S, blank(), { theme: S.theme, fs: S.fs })
+  Object.assign(S, blank(), { theme: S.theme, fs: S.fs, vi: S.vi })
   save()
 }
 

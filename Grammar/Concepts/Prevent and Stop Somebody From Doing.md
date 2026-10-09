@@ -58,4 +58,36 @@ S + be + prevented / stopped / kept + from + V-ing   (passive)
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Mẫu câu chuẩn để nói rằng một điều khiến điều khác không thể xảy ra: `prevent / stop / keep + object + from + V-ing`.
+
+### When to use
+
+- Để nói rằng một trở ngại khiến một hành động không thể thực hiện được.
+- `prevent` trang trọng nhất, `stop` thông dụng nhất, còn `keep` gợi ý sự nỗ lực liên tục.
+
+### Examples
+
+- Trận mưa lớn **khiến chúng tôi không thể ra** ngoài.
+- Không gì có thể **ngăn anh ấy nói ra** sự thật.
+- Bệnh tình **khiến cô ấy không thể dự** cuộc họp.
+- Hàng rào **ngăn không cho đàn cừu trốn thoát**.
+- Đám đông **bị ngăn không cho vào** sân vận động.
+
+### Notes & exceptions
+
+- Với `stop`, `from` thường được lược bỏ: *You can't stop me leaving.* (Bạn không thể ngăn tôi rời đi.) Với `prevent`, chỉ có thể lược bỏ `from` trong tiếng Anh-Anh trang trọng: *prevent him (from) leaving*.
+- `from` là giới từ nên động từ theo sau phải là danh động từ, không bao giờ là động từ nguyên mẫu → xem [[Gerund After Prepositions]].
+- Mẫu câu tương tự với động từ nguyên mẫu có `to` dùng một động từ khác: *forbid somebody **to do** something* (cấm ai làm gì).
+- `stop somebody doing` (ngăn cản) không giống với `stop to do something` (dừng một việc đang làm để làm việc khác) → xem [[Verbs Changing Meaning With Gerund Or Infinitive]].
+
+### Common mistakes
+
+- Sau `prevent + tân ngữ` phải dùng `from + V-ing`, không dùng `to V`.
+- `from` là giới từ nên động từ theo sau ở dạng `V-ing`, không dùng `to V`.
+
+### Contrast with
+
+- [[Verbs Changing Meaning With Gerund Or Infinitive]] — `stop doing` khác với `stop to do`
+- [[Phrasal Verbs With Keep Let And Leave]] — `keep somebody from`, `keep somebody back from`

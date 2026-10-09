@@ -69,4 +69,54 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Cảm ơn hoặc khen ngợi ai đó, và những mẫu câu khiêm tốn mà tiếng Anh dùng để đáp lại.
+
+### Useful patterns
+
+### Cảm ơn
+
+| Register | Expression |
+|---|---|
+| Trung tính | `Thank you for + noun / V-ing.` |
+| Thân tình | `Thanks a million.` · `Thanks a lot.` |
+| Trang trọng | `It was very kind of you to help me out.` · `I really appreciate it.` |
+
+### Đáp lại lời cảm ơn
+
+| Register | Expression |
+|---|---|
+| Trang trọng | `It's my pleasure.` · `You're most welcome.` |
+| Trung tính | `You're welcome.` · `Not at all.` |
+| Coi đó là chuyện nhỏ | `That was the least I could do.` · `Don't mention it.` · `No problem.` |
+
+### Khen và đáp lại lời khen
+
+| Move | Expression |
+|---|---|
+| Lời khen | `You are so patient with us.` · `What a nice shirt!` · `Well done.` |
+| Nhận lời khen một cách khiêm tốn | `Thanks, that's nice of you to say so.` · `It's very kind of you to say that.` |
+| Khéo léo gạt đi | `Oh, it was nothing really.` |
+
+### When to use
+
+- Sau `Thank you for` là danh từ hoặc `-ing`, không bao giờ là động từ nguyên mẫu không `to`.
+- Tiếng Anh đáp lại lời khen bằng cách cảm ơn người nói, chứ không phủ nhận thẳng lời khen đó.
+- `It's my pleasure` dùng để đáp lại **lời cảm ơn**; `That was the least I could do` đáp lại lời cảm ơn về **một việc bạn đã giúp**.
+
+### Examples
+
+- "**Cảm ơn anh đã dành** thời gian đến tận đây." — "**Đó là niềm vinh hạnh của tôi.**"
+- "Thầy thật kiên nhẫn với chúng em." — "**Cảm ơn các em, các em nói vậy thầy vui lắm.**"
+- "Anh thật tốt vì đã giúp tôi lúc khó khăn, Paul ạ." — "**Tôi chỉ làm được có vậy thôi mà.**"
+
+### Common mistakes
+
+- Sau giới từ `for` động từ phải ở dạng `-ing`, không dùng `to` + động từ.
+- Câu trả lời mâu thuẫn với lời khen: được khen là kiên nhẫn mà lại nói mình khó kiềm chế cơn nóng giận.
+
+### Contrast with
+
+- [[Apologising and Responding]] — cặp lời xin lỗi / lời đáp tương ứng
+- [[Greetings and Small Talk]] — những câu mở đầu xã giao chứ không phải lời đáp lại một việc được giúp

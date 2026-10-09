@@ -75,4 +75,54 @@ After the object when there is one:
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Trạng từ chỉ nơi chốn cho biết hành động xảy ra **ở đâu** và thường đứng sau động từ, hoặc sau tân ngữ của động từ.
+
+### Form
+
+Các trạng từ thường gặp: `away, abroad, everywhere, nowhere, somewhere, anywhere, here, there, upstairs, near, up, down, out`.
+
+### Examples
+
+Đứng sau động từ khi không có tân ngữ:
+
+- Cô ấy đã **bỏ đi**.
+- Anh ấy sống ở **nước ngoài**.
+- Bill đang ở **trên gác**.
+- Vụ tai nạn xảy ra ở **đó**.
+
+Đứng sau tân ngữ khi có tân ngữ:
+
+- Cô ấy đuổi anh ta **đi**.
+- Tôi không tìm thấy chìa khoá ở **đâu cả**.
+
+### Notes & exceptions
+
+- `somewhere` và `anywhere` tuân theo quy tắc thông thường của `some` và `any`:
+  - Tôi đã gặp người đàn ông đó ở **đâu đó** rồi.
+  - Tối nay bạn có đi **đâu** không?
+- Sau `here` và `there` có thể là `be`, `come` hoặc `go` + chủ ngữ là danh từ:
+  - Tom **đây rồi**. / Ann **kia rồi**.
+  - Tàu **đến rồi kìa**. / Xe buýt của chúng ta **đi mất rồi kìa**.
+  - Nhưng nếu chủ ngữ là đại từ nhân xưng thì nó đứng trước động từ như bình thường: **There he is.** (anh ấy kia rồi) / **Here it comes.** (nó đến rồi đây)
+- Sau `away, down, in, off, out, over, round, up` có thể là một động từ chỉ sự chuyển động + chủ ngữ là danh từ:
+  - Các vận động viên **lao đi**.
+  - Cả chục quả táo **rơi xuống**.
+  - Chú chim cúc cu **bật ra**.
+  - Chiếc máy bay **lượn hết vòng này đến vòng khác**.
+  - Khi chủ ngữ là đại từ thì không đảo ngữ: *Away **they went**.* (họ lao đi) / *Round and round **it flew**.* (nó lượn hết vòng này đến vòng khác)
+- Cả cụm trạng ngữ chỉ nơi chốn (giới từ + danh từ) cũng có thể được đưa lên đầu câu, kèm đảo ngữ với động từ chỉ vị trí (`crouch, hang, lie, sit, stand`), động từ chỉ sự chuyển động, hoặc `be, born, die, live` → xem [[Inversion after Adverbials of Place]]:
+  - Trên xà nhà **treo những xâu hành**.
+  - Ở ngưỡng cửa **đứng một người đàn ông cầm súng**.
+  - Trên chiếc sào bên cạnh ông ấy **đậu một con vẹt xanh**.
+- Có thể diễn đạt cùng ý đó bằng một phân từ đi với `be`:
+  - **Treo** trên xà nhà **là** những xâu hành.
+  - **Đứng** ở ngưỡng cửa **là** một người đàn ông cầm súng.
+  - **Đậu** trên chiếc sào bên cạnh ông ấy **là** một con vẹt xanh.
+
+### Contrast with
+
+- [[Adverbs of Time]] — khi nào, chứ không phải ở đâu
+- [[Order of Adverbs]] — cách thức đứng trước nơi chốn, nơi chốn đứng trước thời gian
+- [[Clauses of Place]] — cả một mệnh đề với `where` / `wherever`

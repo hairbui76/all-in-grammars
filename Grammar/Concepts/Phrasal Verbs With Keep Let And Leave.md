@@ -73,4 +73,58 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Các cụm với `keep` nói về việc duy trì hoặc ngăn cản; các cụm với `let` và `leave` nói về việc cho phép, thả ra và bỏ sót.
+
+### Examples — keep
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| keep away from = keep off | tránh xa, giữ khoảng cách với | Hãy **tránh xa** mép sân ga. |
+| keep out of | đứng ngoài; không dính líu vào | Đừng **dính vào** chuyện cãi vã của người khác. |
+| keep somebody back from | cản trở ai tiến bộ hoặc làm việc gì | Bệnh tật đã **cản trở** việc học của cậu ấy. |
+| keep somebody from = stop somebody from | ngăn cản | Không gì có thể **ngăn** tôi nói ra sự thật. |
+| keep people together | giữ cho một nhóm người gắn bó, đoàn kết | Những lúc khó khăn đã **giữ** cả gia đình **gắn bó với nhau**. |
+| keep up | duy trì, giữ vững ở cùng một mức | Hãy **tiếp tục phát huy** nhé. |
+| keep up with | theo kịp, bắt kịp | Tôi không **theo kịp** các bạn khác trong lớp. |
+| keep on + V-ing | tiếp tục làm việc gì | Anh ta **cứ** hỏi **mãi** một câu. |
+
+### Examples — let
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| let somebody down | làm ai thất vọng, không giúp đỡ ai như đã mong đợi | Lần này đừng **làm** tôi **thất vọng** nhé. |
+| let somebody in / out | cho ai vào hoặc ra; thả ra | Người bảo vệ **cho** chúng tôi **vào** qua cổng phụ. |
+| let somebody off | tha cho, không phạt | Thẩm phán **tha** cho anh ta, chỉ cảnh cáo. |
+
+### Examples — lay, leave, lie, live, lock
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| lay down | hạ (vũ khí); đề ra (quy định) | Quân nổi dậy cuối cùng cũng **hạ** vũ khí. |
+| lay out | bày ra, sắp xếp, lên kế hoạch | Cô ấy **bày** các bản kế hoạch ra bàn. |
+| leave somebody off = dismiss | sa thải ai | Năm mươi công nhân bị **cho thôi việc** khi nhà máy đóng cửa. |
+| leave out = omit | bỏ sót, không đưa vào | Bạn đã **bỏ sót** một chi tiết quan trọng. |
+| lie down | nằm nghỉ, nhất là trên giường | Tôi cần **nằm nghỉ** nửa tiếng. |
+| live up to | đạt được mức như mong đợi, xứng với | Khách sạn ấy không **xứng với** danh tiếng của nó. |
+| live on | sống nhờ vào (tiền, thức ăn) | Sinh viên thường **sống bằng** rất ít tiền. |
+| lock up | khoá cẩn thận; bỏ tù | Nhớ **khoá cửa cẩn thận** trước khi đi nhé. |
+
+### Notes & exceptions
+
+- Sau `keep on` là danh động từ, không bao giờ là động từ nguyên mẫu: *keep on **trying***.
+- `keep somebody from doing` và `stop / prevent somebody from doing` có thể dùng thay cho nhau → xem [[Prevent and Stop Somebody From Doing]].
+- `let` trong các cụm này vẫn giữ nghĩa cầu khiến là *cho phép*, còn ở những chỗ khác nó đi với động từ nguyên mẫu không `to` → xem [[Bare Infinitive]].
+- `lay` (lay – laid – laid) cần có tân ngữ; `lie` (lie – lay – lain) thì không: *lay the book down* (đặt quyển sách xuống) / *lie down* (nằm xuống).
+
+### Common mistakes
+
+- Sau `keep on` phải dùng `V-ing`, không dùng `to` + động từ nguyên mẫu.
+- "Nằm xuống nghỉ" là `lie down` (không có tân ngữ); `lay down` cần một tân ngữ theo sau.
+
+### Contrast with
+
+- [[Phrasal Verbs With Hand Hang And Hold]] — `hold back` so với `keep back`
+- [[Phrasal Verbs - Relationships and Feelings]] — `let someone down` trong ngữ cảnh cụ thể
+- [[Three Part Phrasal Verbs]] — `keep up with`, `keep away from`, `live up to`

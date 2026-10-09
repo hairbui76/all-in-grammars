@@ -65,4 +65,46 @@ Verbs used in this pattern: `tell, ask, remind, recommend, warn, invite, encoura
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Câu mệnh lệnh, lời yêu cầu, lời khuyên và lời mời được tường thuật bằng động từ tường thuật + tân ngữ + `(not) to` + động từ nguyên mẫu, không dùng mệnh đề `that`.
+
+### Form
+
+Các động từ dùng trong cấu trúc này: `tell, ask, remind, recommend, warn, invite, encourage, beg / plead with / implore, advise, order, request, urge, command, forbid`.
+
+### When to use
+
+- Lời nói trực tiếp là một câu mệnh lệnh, lời yêu cầu, lời khuyên hoặc lời mời
+- Chọn động từ tường thuật theo sắc thái của lời nói gốc (ra lệnh, nài xin, cảnh báo, mời ...)
+
+### Examples
+
+- Jane nói: "Đóng cửa lại rồi đi đi!" → Jane **bảo tôi đóng** cửa lại rồi đi đi.
+- "Xin đừng kể với ai chuyện đã xảy ra," Jane nói với tôi → Jane **yêu cầu tôi đừng kể** với ai chuyện đã xảy ra.
+- Viên chỉ huy nói với người lính: "Bắn!" → Viên chỉ huy **ra lệnh cho người lính bắn**.
+- "Đừng quên đặt rượu vang nhé," bà Pitt nói → Bà Pitt **nhắc chồng đặt** rượu vang.
+- "Thử lại đi," các bạn của Ann động viên → Các bạn của Ann **động viên cô ấy thử** lại.
+- "Nào, nộp đơn xin việc đó đi," Jack nói → Jack **giục / khuyến khích tôi nộp đơn** xin việc đó.
+- "Xin anh, xin anh đừng liều lĩnh," vợ anh ấy nói → Vợ anh ấy **van xin / khẩn khoản xin anh ấy đừng** liều lĩnh.
+- "Cậu đừng nên để xe mà không khoá," các bạn tôi nói → Các bạn tôi **cảnh báo tôi đừng để** xe mà không khoá.
+- "Nếu tôi là anh, tôi sẽ thôi uống thuốc an thần," tôi nói → Tôi **khuyên anh ấy thôi** uống thuốc an thần.
+- "Mời anh ngồi," bà chủ nhà nói → Bà chủ nhà **bảo / mời tôi ngồi**.
+- "Hãy quên hẳn chàng trai này đi; đừng gặp lại hay trả lời thư của cậu ta nữa," bố mẹ cô ấy nói → Bố mẹ cô ấy **ra lệnh cho cô ấy quên** hẳn chàng trai đó và **bảo cô ấy đừng gặp** lại cậu ta nữa.
+
+### Notes & exceptions
+
+- Lời yêu cầu lịch sự với `Would/Could you ...?`, `Why don't you ...?`, `You might ...` được tường thuật bằng `ask` hoặc `advise` + to-infinitive:
+  *"Xin anh cho tôi xem hộ chiếu được không?" ông ấy nói → Ông ấy **yêu cầu tôi cho** ông ấy **xem** hộ chiếu.*
+  *"Cậu gửi giúp tôi mấy lá thư nhé," sếp tôi nói → Sếp tôi **nhờ tôi gửi** giúp ông ấy mấy lá thư.*
+- Lời yêu cầu với `Will you ...?` cũng được tường thuật bằng `ask`: *"Xin mời tất cả những ai không đi tàu lên bờ," ông ấy nói → Ông ấy **yêu cầu** tất cả những ai không đi tàu **lên bờ**.*
+- Lời đề nghị giúp đỡ: *"Tôi mang cho bạn ít trà nhé?" Tom hỏi → Tom **đề nghị mang** trà cho tôi.*
+- Lời mời: *"Bạn ăn cam không?" cô ấy nói → Cô ấy **mời** tôi một quả cam.* / *"Tối nay bạn có muốn đi xem phim với tôi không?" Tom nói → Tom **mời tôi đi** xem phim với anh ấy tối hôm đó.*
+- `You'd better ...` thường được tường thuật bằng `advise (sb) (not) to do`: *"Anh nên dạy ít đi," bác sĩ nói → Bác sĩ **khuyên tôi dạy** ít đi.*
+- Cách nói thay thế ở dạng bị động: *Cô ấy **bị ra lệnh phải quên** hẳn chàng trai đó và **bị cấm gặp** lại cậu ta.*
+
+### Contrast with
+
+- [[Reported Speech - Statements]] — dùng mệnh đề `that`, không dùng động từ nguyên mẫu
+- [[Reported Speech - Questions]] — dùng `if/whether` hoặc từ để hỏi
+- [[Reported Speech - Suggestions]] — `suggest` + mệnh đề `that` hoặc danh động từ, không bao giờ dùng to-infinitive

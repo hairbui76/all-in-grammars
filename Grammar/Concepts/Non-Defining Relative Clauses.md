@@ -59,4 +59,43 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Mệnh đề quan hệ không xác định bổ sung thông tin về một danh từ đã được xác định rõ và luôn được tách bằng dấu phẩy.
+
+### Form
+
+| | Subject | Object | Possessive |
+|---|---|---|---|
+| Chỉ người | who | whom / who | whose |
+| Chỉ vật | which | which | whose / of which |
+
+### When to use
+
+- Danh từ đứng trước đã được xác định đầy đủ: danh từ riêng, tính từ sở hữu + danh từ, hoặc từ chỉ định + danh từ.
+- Có thể bỏ mệnh đề này đi mà không làm hỏng nghĩa của câu.
+
+### Examples
+
+- Newton, **người phát minh ra thuyết vạn vật hấp dẫn**, là một nhà khoa học nổi tiếng người Anh.
+- Chủ tịch Hồ Chí Minh, **người mà chúng ta ngưỡng mộ**, là một nhà lãnh đạo kiệt xuất.
+- James Watt, **người có phát minh về động cơ hơi nước nổi tiếng khắp thế giới**, là một nhà phát minh người Scotland.
+- Cuốn từ điển của tôi, **vốn có 150.000 từ**, rất hữu ích cho việc học của tôi.
+- Tiếng Anh, **thứ tiếng chúng ta đang học**, là ngôn ngữ quốc tế nhất trên thế giới.
+- Chiếc ti vi của tôi, **có vỏ làm bằng gỗ**, được sản xuất tại Nga.
+
+### Notes & exceptions
+
+- **Không bao giờ** dùng `that` trong mệnh đề không xác định.
+- **Không bao giờ** được lược bỏ đại từ quan hệ, kể cả khi nó làm tân ngữ.
+- `which` còn có thể thay cho cả mệnh đề đứng trước → xem [[Which Referring to a Whole Clause]].
+
+### Common mistakes
+
+- Mệnh đề quan hệ không xác định không dùng `that`; ở đây phải dùng `who`.
+- Không được lược bỏ đại từ quan hệ trong mệnh đề không xác định, dù nó làm tân ngữ; phải có `whom`.
+
+### Contrast with
+
+- [[Defining Relative Clauses]] — thông tin thiết yếu, không có dấu phẩy, dùng được `that`, có thể lược đại từ làm tân ngữ
+- [[Appositives]] — một cụm danh từ, không phải mệnh đề, đảm nhận chức năng tương tự

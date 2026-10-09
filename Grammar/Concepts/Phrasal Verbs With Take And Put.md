@@ -69,4 +69,55 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Hai động từ gốc tạo ra rất nhiều cụm: `take` bao gồm các nghĩa lấy được, giống ai và lấy đi, còn `put` bao gồm các nghĩa đặt để, trì hoãn và chịu đựng.
+
+### Examples — take
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| take after | giống (một người thân) | Cậu bé **giống** ông nội. |
+| take away | mang đi, đưa đi | Họ **đưa** người bị thương **đi** bằng xe cứu thương. |
+| take back | mang trả lại cái gì | Tôi sẽ **mang** đôi giày này **trả lại** cửa hàng. |
+| take down | ghi lại; lấy xuống từ trên cao | Người thư ký **ghi lại** từng lời ông ấy nói. |
+| take in | lừa gạt; hiểu | Đừng để những lời hứa của anh ta **đánh lừa**. |
+| take off | (máy bay) cất cánh; cởi quần áo, giày dép | Tôi không **cởi** được đôi bốt ra, chúng chật quá. |
+| take on | tuyển dụng; nhận (việc) | Nhà máy phải **tuyển thêm** 1.000 công nhân để hoàn thành kế hoạch. |
+| take over | tiếp quản, nhận lấy quyền điều hành hay trách nhiệm | Em gái tôi đã đủ lớn để **đảm nhận** một phần việc nấu nướng. |
+| take to | bắt đầu thích | Jane **mê** âm nhạc ngay từ khi mới biết đến nó. |
+| take up | bắt đầu (một sở thích); chiếm (chỗ) | Jim **bắt đầu** chạy thi đấu từ khi nào vậy? |
+
+### Examples — put
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| put aside | để dành lại cho sau này | Bạn có muốn chúng tôi **để dành** chỗ len còn lại cho bạn không? |
+| put away | cất cái gì vào đúng chỗ | **Cất** đồ chơi **đi** trước bữa tối nào. |
+| put by | để dành tiền | Tôi có **để dành** một ít tiền phòng khi túng thiếu. |
+| put down | đặt xuống; đàn áp, dập tắt | Anh ấy **đặt** cái hộp **xuống** sàn. |
+| put down to | cho là do, quy cho | Tôi **cho rằng** anh ta thô lỗ **là do** mệt mỏi. |
+| put forward | đề xuất | Chúng tôi đã **đề xuất** một hệ thống tốt hơn để ngăn chặn chiến tranh thế giới. |
+| put in for | đăng ký, nộp đơn xin | Bạn đã **đăng ký** tham gia cuộc thi chưa? |
+| put off | hoãn lại | Buổi hoà nhạc tối nay sẽ bị **hoãn** sang tuần sau. |
+| put on | bật; tăng cân; mặc | Tôi không mặc được chiếc váy này vì tôi đã **tăng** cân nhiều. |
+| put out | dập tắt | Lính cứu hoả đã **dập tắt** đám cháy trong hai mươi phút. |
+| put through | nối máy điện thoại | Bạn **nối máy** giúp tôi tới số này được không? |
+| put up | xây dựng; tăng (giá) | Một trường cao đẳng mới sẽ được **xây** ở trung tâm thành phố. |
+| put up with | chịu đựng | Tôi không thể **chịu đựng** cô ta thêm một ngày nào nữa, cô ta phàn nàn suốt. |
+
+### Notes & exceptions
+
+- `take off` là nội động từ khi nói về máy bay (*the plane took off* – máy bay cất cánh), nhưng là ngoại động từ tách được khi nói về quần áo (*take your coat off* – cởi áo khoác ra).
+- `put on` và `put off` trái nghĩa nhau khi nói về máy móc và quần áo, nhưng `put off` còn có nghĩa là *hoãn lại*, khi đó từ trái nghĩa là `bring forward`.
+- `take up` (bắt đầu một sở thích) đối lập với `give up` (từ bỏ một thói quen).
+
+### Common mistakes
+
+- `take after` không tách được; tân ngữ phải đứng sau `after`.
+- Tân ngữ là đại từ phải đứng giữa động từ và tiểu từ: `put it off`.
+
+### Contrast with
+
+- [[Phrasal Verbs With Get]] — một nhóm rất lớn khác
+- [[Separable Phrasal Verbs]] — phần lớn các cụm với `put` và `take` theo mẫu này

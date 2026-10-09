@@ -41,4 +41,27 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Cách thêm `-ed` vào động từ có quy tắc để tạo dạng quá khứ đơn và quá khứ phân từ.
+
+### Rules
+
+| Rule | Condition | Examples |
+|---|---|---|
+| 1 | Mặc định → thêm `-ed` | visit → visit**ed**, play → play**ed** |
+| 2 | Động từ tận cùng bằng `-e` → chỉ thêm `-d` | live → live**d** |
+| 3 | Phụ âm + `y` → đổi `y` thành `i` rồi thêm `-ed` | study → stud**ied** |
+| 4 | Nguyên âm + `y` → giữ nguyên `y`, thêm `-ed` | play → play**ed** |
+| 5 | Động từ một âm tiết tận cùng bằng một nguyên âm + một phụ âm → gấp đôi phụ âm cuối | stop → sto**pped**, step → ste**pped**, plan → pla**nned** |
+| 6 | Động từ hai âm tiết tận cùng bằng một nguyên âm + một phụ âm, trọng âm rơi vào âm tiết thứ hai → gấp đôi phụ âm cuối | permit → permi**tted**, admit → admi**tted** |
+
+### Notes & exceptions
+
+- Quy tắc 6 phụ thuộc vào trọng âm: *per**MIT*** thì gấp đôi phụ âm, còn *`VIS`it* thì không.
+- Các quy tắc này chỉ cho biết cách viết; cách ĐỌC đuôi `-ed` là một quy tắc riêng — xem [[Pronunciation of -ED Endings]].
+- Động từ bất quy tắc không theo các quy tắc trên và phải học thuộc lòng.
+
+### Contrast with
+
+- [[Spelling Rules for -ing Forms]] — các quy tắc tương ứng khi thêm `-ing`

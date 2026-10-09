@@ -94,7 +94,7 @@ export async function flashcards({ arg }, fresh) {
   }
 
   const title = FC.list[FC.i]
-  const { fc, lead } = chunk[title]
+  const { fc, lead, leadVi } = chunk[title]
   const n = N[title]
   const seen = Math.min(FC.i, FC.total)
   return {
@@ -108,7 +108,7 @@ export async function flashcards({ arg }, fresh) {
       (n.al.length ? `<p class="aliases">${esc(n.al.join(' · '))}</p>` : '') +
       `<p class="fc-hint">Nhớ lại công thức và cách dùng, rồi chạm để lật thẻ</p></div>` +
       `<div class="fc-face back"><span class="eyebrow">${esc(title)}</span>` +
-      (lead ? `<p class="fc-lead">${lead}</p>` : '') +
+      (lead ? `<p class="fc-lead">${lead}${leadVi ? `<span class="vi">${leadVi}</span>` : ''}</p>` : '') +
       (fc.f ? `<div class="fc-form prose">${fc.f}</div>` : '') +
       (fc.e.length ? `<ul class="fc-ex">${fc.e.map((e) => `<li>${e}</li>`).join('')}</ul>` : '') +
       `<a class="fc-open" href="${href('n', title)}">${I.book}Mở bài đầy đủ</a></div>` +

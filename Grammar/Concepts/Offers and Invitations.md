@@ -68,4 +68,53 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Đề nghị giúp đỡ ai đó, hoặc mời họ cùng làm một việc với mình, và những câu đáp cố định đi kèm với mỗi trường hợp.
+
+### Useful patterns
+
+### Đề nghị giúp đỡ hoặc phục vụ
+
+| Register | Offer | Typical response |
+|---|---|---|
+| Dịch vụ / cửa hàng | `May I help you?` | `Yes. Do you have any shirts?` |
+| Trung tính | `Do you want me to help you with ...?` | `No, I can manage them myself.` |
+| Thân mật | `Let me + V ...` | `No problem.` / `Don't worry. I'm all right.` |
+| Nhà hàng | `Would you like to order now?` | `Yes, I'd like beef steak.` |
+| Nhà hàng | `Would you like anything else?` | `No, thank you. That'll be all.` |
+
+### Mời
+
+| Register | Invitation | Typical response |
+|---|---|---|
+| Lịch sự | `Would you like to ...?` | `Yes, I'd love to.` |
+| Trung tính | `Can you come over after ...?` | `That would be nice.` |
+| Thân mật | `Do you fancy + V-ing ...?` | `That would be nice.` |
+| Thân mật | `How about + V-ing / noun?` | `That sounds nice.` |
+| Gợi ý gián tiếp | `There is a baseball game tonight.` | `Great. Let's go.` |
+| Gợi ý gián tiếp | `I've got two tickets for the show.` | `That's great. When is it?` |
+
+### When to use
+
+- `Would you like ...?` được trả lời bằng `I'd like ...` hoặc `I'd love to`, **không** dùng `I like ...` — `would like` là mong muốn cho một dịp cụ thể, còn `like` là sở thích nói chung.
+- Một câu trần thuật có thể đóng vai trò lời mời gián tiếp (`I've got two tickets for the show.`). Hãy đáp lại bằng sự hào hứng kèm một câu hỏi tiếp lời, chứ đừng chỉ buông một câu nhận xét.
+- `Let me ...` đề nghị giúp mà không hỏi xin phép, nên lời từ chối là một câu trấn an (`Don't worry, I'm all right.`), chứ không phải `No`.
+
+### Examples
+
+- "Bạn có muốn tôi xách giúp mấy cái va li đó không?" — "**Không cần đâu, tôi tự xách được.**"
+- "Quý khách gọi món bây giờ chứ ạ?" — "Vâng, **cho tôi** món bít tết bò."
+- "Tối nay bạn có thích đi xem phim không?" — "**Thế thì hay quá.**"
+- "Để tôi lái xe đưa bạn về." — "**Đừng lo. Tôi không sao đâu.**"
+
+### Common mistakes
+
+- Để gọi món phải dùng `I'd like`; `I like` chỉ nói về sở thích nói chung.
+- Câu trả lời tự mâu thuẫn: mở đầu bằng `No` rồi lại khen ý đó hay.
+
+### Contrast with
+
+- [[Making Requests]] — người kia được nhờ làm việc đó, không phải bạn
+- [[Accepting and Declining]] — đầy đủ các cách đáp lại một lời đề nghị hoặc lời mời
+- [[Suggestions and Advice]] — đề xuất một việc nên làm chứ không phải đề nghị làm giúp

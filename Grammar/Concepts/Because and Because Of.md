@@ -56,4 +56,34 @@ because of + noun / noun phrase / gerund
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`because` là liên từ và cần một mệnh đề đầy đủ theo sau; `because of` là giới từ và cần một cụm danh từ.
+
+### Examples
+
+| Conjunction (`because` + clause) | Preposition (`because of` + noun) |
+| --- | --- |
+| Tôi đến trường muộn **vì** trời mưa to. | Tôi đến trường muộn **vì** cơn mưa to. |
+| Anh ấy không đi làm được **vì** anh ấy bị ốm. | Anh ấy không đi làm được **vì** bệnh của mình. |
+
+### Notes & exceptions
+
+- Chuyển đổi giữa hai cấu trúc thường có nghĩa là đổi động từ thành danh từ: *it rained heavily* → *the heavy rain*; *he was ill* → *his illness*.
+- Sự phân biệt liên từ/giới từ như vậy xuyên suốt toàn bộ hệ thống từ nối trạng ngữ:
+
+| Meaning | Conjunction (+ clause) | Preposition (+ noun) |
+| --- | --- | --- |
+| lý do | because, as, since | because of, due to, owing to |
+| nhượng bộ | although, though, even though | despite, in spite of |
+
+### Common mistakes
+
+- `because of` là giới từ nên không đi với mệnh đề; trước mệnh đề dùng `because`, trước cụm danh từ dùng `because of`.
+- `because` là liên từ nên không đi với cụm danh từ; phải dùng `because of`.
+
+### Contrast with
+
+- [[Despite and In Spite Of]] — sự phân biệt tương tự đối với nghĩa nhượng bộ
+- [[Clauses of Reason]] — cấu trúc mệnh đề đầy đủ
+- [[Clauses of Concession]] — chỉ sự tương phản chứ không phải nguyên nhân

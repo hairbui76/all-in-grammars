@@ -26,10 +26,10 @@
   overflow: hidden;
   text-overflow: ellipsis;
 }
-.lmeta span {
+.lmeta > span {
   flex: none;
 }
-.lmeta span::before {
+.lmeta > span:not(.ltools)::before {
   content: '·';
   margin-right: 8px;
 }
@@ -37,12 +37,22 @@
   flex: none;
   min-width: 44px;
   height: 36px;
-  margin-left: auto;
+  padding: 0 10px;
   border: 1px solid var(--line-2);
   border-radius: 10px;
   color: var(--ink-2);
   font-size: 0.75rem;
   font-weight: 600;
+}
+.aa.on {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  color: var(--accent-ink);
+}
+.ltools {
+  display: flex;
+  gap: 6px;
+  margin-left: auto;
 }
 .aa b {
   font-size: 1.35em;
@@ -257,6 +267,57 @@
 .callout .ct {
   margin-bottom: 4px;
   font-weight: 600;
+}
+
+/* ---------- Vietnamese lines: each sits right under the English it translates ---------- */
+.vi {
+  display: block;
+  margin-top: 0.2em;
+  color: var(--ink-2);
+  font-size: 0.94em;
+  font-weight: 400;
+  line-height: 1.5;
+}
+.no-vi .vi {
+  display: none;
+}
+.vi strong {
+  color: inherit;
+}
+.prose p.vi {
+  margin-top: -0.35em;
+}
+.prose pre.vi {
+  margin-top: -0.2em;
+}
+.prose li > .vi {
+  margin-bottom: 0.15em;
+}
+.lead .vi {
+  margin-top: 0.5em;
+  padding-top: 0.5em;
+  border-top: 1px solid color-mix(in srgb, var(--accent) 22%, transparent);
+}
+.prose h3 .vi {
+  font-size: 0.9em;
+}
+/* a Vietnamese part that could not be matched line by line follows the section as one block */
+.vi-block {
+  margin-top: 0.9em;
+  padding-left: 12px;
+  border-left: 3px solid var(--line-2);
+}
+.vi-block .vi,
+.vi .vi {
+  color: inherit;
+  font-size: inherit;
+}
+.fix p.fix-vi {
+  display: block;
+  margin: 0;
+  padding: 8px 14px 10px;
+  border-top: 1px dashed var(--line-2);
+  font-size: 0.9em;
 }
 
 /* ---------- tables ---------- */

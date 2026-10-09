@@ -73,4 +73,50 @@ More examples:
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`It + be + adjective + of + somebody + to-infinitive` nhận xét về cách cư xử hoặc tính cách của ai đó, và có hai cách diễn đạt tương đương.
+
+### Adjectives used in this pattern
+
+`wise, unwise, kind, nice, foolish, stupid, wrong, careless, clever, naughty, polite, generous, rude`
+
+Tất cả các tính từ này đều mô tả phẩm chất của **con người**, đó là lý do dùng `of` chứ không dùng `for`.
+
+### Examples
+
+Ba dạng tương đương:
+
+- **Bạn thật tốt khi nói vậy.**
+- ⇔ **Bạn mới tốt làm sao khi nói vậy.**
+- ⇔ **Bạn rất tốt khi nói vậy.**
+
+Thêm ví dụ:
+
+- Cô ấy đã ngốc nghếch khi mắc một lỗi như vậy. ⇔ **Cô ấy thật ngốc khi mắc** một lỗi như vậy.
+- **Ông White thật thiếu khôn ngoan khi cho** ông Brown **vay** một khoản tiền lớn như thế. ⇔ **Ông White mới thiếu khôn ngoan làm sao khi cho** ... **vay** ...
+- **Các cậu bé mới thông minh làm sao khi tìm ra** lời giải cho bài toán nhanh đến vậy. ⇔ **Các cậu bé thật thông minh khi tìm ra** ...
+- Mary đã hư khi kéo đuôi con mèo con. ⇔ **Mary thật hư khi kéo** đuôi con mèo con.
+- **Em thật sai trái khi cãi lại** thầy giáo. ⇔ **Em đã sai khi cãi lại** thầy giáo.
+- **Bạn thật tốt khi đến thăm tôi** sau khi tôi từ nước ngoài trở về.
+- **Bạn đã tốt bụng mời** chúng tôi đến dự tiệc sinh nhật của bạn.
+
+### Notes & exceptions
+
+- Dùng `of` vì tính từ đánh giá **con người**. Khi tính từ đánh giá **hành động hoặc công việc**, hãy dùng `for` → xem [[It Is Adjective For Somebody To Do]].
+- Ý này cũng có thể diễn đạt bằng một trạng từ đứng trước động từ, nhưng trọng tâm nhấn mạnh sẽ thay đổi:
+  - Anh ta đã **dại dột** trả lời các câu hỏi. (= Anh ta thật dại dột khi trả lời các câu hỏi.)
+  - Anh ta trả lời các câu hỏi **một cách ngớ ngẩn**. (= các câu trả lời của anh ta ngớ ngẩn)
+  - Xem phần trình bày đầy đủ ở [[Adverbs of Manner]].
+- `adjective + enough + to-infinitive` là một biến thể thông dụng: *Would you be **kind enough to wait** for me?* (Bạn vui lòng đợi tôi được không?)
+
+### Common mistakes
+
+- Tính từ `kind` đánh giá con người nên dùng `of`, không dùng `for`.
+- Sau `of + somebody` phải dùng động từ nguyên mẫu có `to`, không dùng dạng `-ing`.
+
+### Contrast with
+
+- [[It Is Adjective For Somebody To Do]] — `for` đánh giá hành động chứ không phải con người
+- [[Adverbs of Manner]] — cách dùng trạng từ thay thế và sự thay đổi về nghĩa
+- [[Enough With Infinitive]] — biến thể `kind enough to`

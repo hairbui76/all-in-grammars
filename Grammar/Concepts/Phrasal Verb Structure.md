@@ -58,4 +58,43 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Cụm động từ là một động từ kết hợp với một hoặc hai tiểu từ, và nghĩa của cả cụm không thể suy ra từ nghĩa của từng từ riêng lẻ.
+
+### Form
+
+`V + particle` — động từ hai từ
+`V + adverb + preposition` — động từ ba từ
+
+- `put` + `off` → **put off** = hoãn lại
+- `put` + `up` + `with` → **put up with** = chịu đựng
+
+### When to use
+
+- Cụm động từ thuộc về tiếng Anh nói và viết thông thường; các động từ một từ tương đương (`postpone`, `tolerate`, `investigate`) thường trang trọng hơn.
+- Tiểu từ làm thay đổi hoàn toàn nghĩa của động từ, vì vậy phải học cụm động từ như một đơn vị từ vựng, chứ không phải là động từ + giới từ.
+- Một động từ gốc có thể tạo ra nhiều cụm động từ không liên quan gì đến nhau — hãy so sánh `take off`, `take after`, `take on`, `take over`, `take up`.
+
+### Examples
+
+- Buổi hoà nhạc tối nay sẽ bị **hoãn** đến tuần sau.
+- Tôi không thể **chịu đựng** cô ta thêm một ngày nào nữa, cô ta không lúc nào ngừng phàn nàn.
+- Người phụ nữ **buộc tội** cậu bé làm hỏng chiếc radio của bà.
+- Một đám cháy đã **bùng lên** trong bệnh viện đêm qua.
+
+### Notes & exceptions
+
+- Tiểu từ có thể là trạng từ (`blow up`, `turn on`) hoặc giới từ (`look after`, `count on`). Sự khác biệt này quyết định tân ngữ có thể tách ra được hay không → xem [[Separable Phrasal Verbs]] và [[Inseparable Phrasal Verbs]].
+- Nhiều cụm động từ có hai nghĩa khác nhau trở lên: `break up` = chấm dứt một mối quan hệ / bật cười; `make up` = bịa ra, trang điểm, làm lành với nhau.
+- Một cụm động từ có thể được chuyển thành danh từ: `bring up` → *upbringing*; `break down` → *breakdown*.
+
+### Common mistakes
+
+- `postpone` là động từ một từ, không đi với tiểu từ `off`; cụm động từ có nghĩa hoãn lại là `put off`.
+- `put up with` là cụm động từ ba từ không tách được; tân ngữ phải đứng sau cả cụm.
+
+### Contrast with
+
+- [[Verb Preposition Combinations]] — động từ vẫn giữ nghĩa thông thường và chỉ đòi hỏi một giới từ cố định
+- [[Prepositions Of Movement]] — tiểu từ chỉ phương hướng theo nghĩa đen, không mang nghĩa thành ngữ

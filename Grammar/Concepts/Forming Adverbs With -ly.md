@@ -68,4 +68,48 @@ Adjective + ly = Adverb
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Phần lớn trạng từ chỉ cách thức và mức độ được tạo bằng cách thêm `-ly` vào tính từ tương ứng, kèm một vài thay đổi chính tả có quy luật.
+
+### Form
+
+- quick → **quickly**
+- beautiful → **beautifully**
+- slow → **slowly**
+- grave → **gravely**
+- immediate → **immediately**
+
+### Spelling rules
+
+| Adjective ending | Change | Example |
+| --- | --- | --- |
+| phụ âm + `-y` | `y` → `i` + `ly` | easy → **easily**, happy → **happily** |
+| `-ble` / `-ible` | bỏ `e`, thêm `y` | possible → **possibly**, capable → **capably**, sensible → **sensibly** |
+| `-ic` | thêm `-ally` | automatic → **automatically** |
+| `-e` ở cuối từ | thường giữ nguyên `e` | extreme → **extremely** |
+| nguyên âm + `l` | chỉ cần thêm `-ly` | beautiful → **beautifully**, final → **finally** |
+
+### Examples
+
+- Anh ấy đang lái xe **cẩn thận**.
+- Anh trai tôi đã hoàn thành công việc **một cách thành công**.
+- Cô gái ấy hát **hay**.
+- Anh ấy lái xe **chậm**.
+
+### Notes & exceptions
+
+- Bất quy tắc: `true` → **truly**, `due` → **duly**, `whole` → **wholly** (bỏ `e` cuối).
+- `good` có trạng từ bất quy tắc là **well** → xem [[Good and Well]].
+- Một số từ tận cùng bằng `-ly` là tính từ chứ không phải trạng từ (`friendly`, `lovely`, `silly`) → xem [[Adjectives Ending in -ly]].
+- Một số trạng từ có dạng giống hệt tính từ và không thêm `-ly` (`fast`, `hard`, `late`) → xem [[Adjectives and Adverbs With the Same Form]].
+
+### Common mistakes
+
+- Trước danh từ `driver` phải dùng tính từ `slow`; trạng từ `slowly` chỉ bổ nghĩa cho động từ.
+- Không có trạng từ `goodly`; trạng từ của `good` là `well`.
+
+### Contrast with
+
+- [[Adjectives and Adverbs With the Same Form]] — không thêm `-ly`
+- [[Adverbs With Two Forms]] — dạng có `-ly` mang nghĩa khác

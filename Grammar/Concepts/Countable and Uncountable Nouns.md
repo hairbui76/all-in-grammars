@@ -71,4 +71,55 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Danh từ đếm được có dạng số nhiều, đi được với `a/an` và số đếm; danh từ không đếm được thì không.
+
+### Form
+
+| | Countable | Uncountable |
+|---|---|---|
+| Mạo từ số ít | `a book`, `an apple` | không dùng `a/an` |
+| Số nhiều | `books`, `apples` | không có dạng số nhiều `-s` |
+| Số đếm | `three chairs` | `three pieces of advice` |
+| Từ chỉ lượng | `many`, `few`, `a few`, `a number of` | `much`, `little`, `a little`, `an amount of` |
+| Dùng cho cả hai | `some`, `any`, `a lot of`, `plenty of`, `no`, `the` | như bên danh từ đếm được |
+| Động từ | số ít hoặc số nhiều | luôn ở **số ít** |
+
+### When to use
+
+- Danh từ không đếm được bao gồm **chất liệu** (water, rice, gold), **khái niệm trừu tượng** (information, advice, knowledge, progress), **hoạt động** (homework, work, research) và **danh từ tập hợp** (furniture, luggage, equipment, money).
+- Để đếm một danh từ không đếm được, dùng **từ chỉ đơn vị**: `a piece of advice` (một lời khuyên), `a bar of soap` (một bánh xà phòng), `a loaf of bread` (một ổ bánh mì), `two glasses of water` (hai cốc nước), `an item of news` (một mẩu tin).
+
+### Examples
+
+- Cô ấy cho tôi vài **lời khuyên** hữu ích. (không nói *advices*)
+- **Đồ nội thất** ở đây đắt. (động từ số ít)
+- Tôi cần biết hai **thông tin** trước khi có thể quyết định.
+- Bạn mang theo **bao nhiêu hành lý**? / Bạn mang theo **bao nhiêu cái túi**?
+- Hôm nay **xe cộ** rất đông.
+
+### Notes & exceptions
+
+- Các danh từ không đếm được hay bị nhầm: `advice, information, news, furniture, luggage, baggage, equipment, homework, work, progress, research, knowledge, money, traffic, weather, accommodation, machinery`.
+- `news` tận cùng bằng `-s` nhưng là danh từ không đếm được và ở số ít: *The news **is** good.* (Tin tức tốt lành.)
+- Một số danh từ đổi nghĩa tuỳ theo đếm được hay không đếm được:
+  - `a paper` = tờ báo / bài luận · `paper` = giấy (chất liệu)
+  - `a hair` = một sợi tóc · `hair` = cả mái tóc
+  - `an experience` = một trải nghiệm, một sự việc đã trải qua · `experience` = kinh nghiệm tích luỹ được
+  - `a room` = một căn phòng · `room` = chỗ trống, không gian
+  - `an iron` = cái bàn là · `iron` = sắt (kim loại)
+- Danh từ không đếm được không dùng mạo từ khi mang nghĩa chung, và dùng `the` khi nói đến cái cụ thể.
+
+### Common mistakes
+
+- `information` là danh từ không đếm được: không thêm `-s` và không đi với `many`.
+- `hair` (mái tóc) là danh từ không đếm được: không dùng `a` và không thêm `-s`.
+- `furniture` là danh từ không đếm được: không có dạng số nhiều và động từ chia ở số ít.
+
+### Contrast with
+
+- [[Regular Plural Nouns]] — cách danh từ đếm được tạo dạng số nhiều
+- [[Quantifiers]] — từ chỉ lượng nào đi với loại danh từ nào
+- [[Many Much and A Lot Of]] — cặp từ cốt lõi phân biệt đếm được / không đếm được
+- [[Few A Few Little and A Little]] — số lượng ít ở mỗi loại danh từ

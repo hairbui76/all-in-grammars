@@ -83,4 +83,62 @@ Type 3 with `had`:
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Có thể bỏ `if` và đưa trợ động từ `should`, `were` hoặc `had` lên đầu mệnh đề — một cách nói trang trọng tương đương với mệnh đề `if` thông thường.
+
+### Form
+
+Dạng phủ định **không** viết tắt sau khi đảo ngữ: `Had she not ...`, `Were it not ...`.
+
+### When to use
+
+- Tiếng Anh trang trọng hoặc văn viết, nhất là thông báo, thư thương mại và văn phong học thuật
+- Để điều kiện nghe xa vời, dè dặt hoặc lịch sự hơn
+
+### Examples
+
+Loại 1 với `should` (khả năng ít xảy ra hơn):
+
+- **Nếu** anh ấy **có gọi**, xin hãy ghi lại lời nhắn. (= If he calls, ...)
+- **Nếu** cô ấy **làm việc** chăm chỉ, cô ấy sẽ được thăng chức.
+- **Nếu** thời tiết **có** thay đổi, họ sẽ hoãn tất cả các chuyến bay.
+- Nếu bạn có nghe thấy chuông báo cháy, hãy rời khỏi toà nhà ngay lập tức. → **Nếu bạn có nghe thấy** chuông báo cháy, hãy rời khỏi toà nhà ngay lập tức.
+- Nếu cậu ta đã gian lận, cậu ta sẽ phải bị phạt. → **Nếu cậu ta đã gian lận**, cậu ta sẽ phải bị phạt.
+
+Loại 2 với `were`:
+
+- **Nếu tôi là** bạn, tôi sẽ không bỏ một công việc tốt như vậy.
+- **Nếu anh ấy** giàu, anh ấy sẽ giúp đỡ người nghèo.
+- **Nếu tôi biết** câu trả lời, tôi sẽ nói cho bạn ngay.
+- Nếu Alan ăn sáng, anh ấy sẽ không ăn quá nhiều vào bữa trưa. → **Nếu Alan ăn** sáng, anh ấy sẽ không ăn quá nhiều vào bữa trưa.
+- Nếu anh ấy làm chậm hơn, anh ấy sẽ không mắc nhiều lỗi. → **Nếu anh ấy làm** chậm hơn, anh ấy sẽ không mắc nhiều lỗi.
+
+Loại 3 với `had`:
+
+- **Nếu cô ấy không cứ đòi** hôn tạm biệt từng người, cô ấy đã không lỡ chuyến tàu.
+- **Nếu không vì** sự khăng khăng của cô ấy, cô ấy đã không lỡ chuyến tàu.
+- Nếu họ nhận ra mối nguy hiểm, họ đã làm việc đó theo cách khác. → **Nếu họ nhận ra** mối nguy hiểm, họ đã làm việc đó theo cách khác.
+
+### Notes & exceptions
+
+- Đảo ngữ **chỉ xảy ra ở mệnh đề `if`**; mệnh đề chính giữ trật tự từ bình thường.
+- `Were + S + to + V` thay cho mệnh đề `if` ở quá khứ đơn và đẩy giả thiết về phía tương lai. Đây là mẫu dùng khi động từ trong mệnh đề `if` **không phải** là `be`.
+- `Were it not for + noun` và `Had it not been for + noun` là dạng đảo ngữ tương đương của `If it weren't for` / `If it hadn't been for`.
+- Trong điều kiện **phủ định**, `not` đứng sau chủ ngữ và không bao giờ viết tắt:
+  - Nếu bạn không tin điều tôi nói, hãy hỏi mẹ bạn. → **Nếu bạn không tin** điều tôi nói, hãy hỏi mẹ bạn.
+  - Nếu cô ấy không nhút nhát, cô ấy sẽ thích các bữa tiệc. → **Nếu cô ấy không nhút nhát**, cô ấy sẽ thích các bữa tiệc.
+  - Nếu tôi không tận mắt nhìn thấy, tôi đã không tin. → **Nếu tôi không tận mắt nhìn thấy**, tôi đã không tin.
+
+### Common mistakes
+
+- Sau khi đảo ngữ không viết tắt `not` với trợ động từ; `not` phải đứng sau chủ ngữ.
+- Sau `Should + S` là động từ nguyên mẫu không `to`, không thêm `to`.
+- Khi động từ là `be` chỉ cần `Were + S`, không dùng `to be`.
+
+### Contrast with
+
+- [[But For and Without]] — cùng ý đó nhưng diễn đạt bằng giới từ + danh từ
+- [[First Conditional]] — dạng không đảo ngữ của mẫu với `Should`
+- [[Second Conditional]] — dạng không đảo ngữ
+- [[Third Conditional]] — dạng không đảo ngữ

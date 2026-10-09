@@ -84,4 +84,69 @@ The tag repeats the **auxiliary** (or `be`) plus a **subject pronoun**. If there
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Một câu hỏi ngắn được thêm vào sau câu trần thuật để xin xác nhận: câu khẳng định → đuôi phủ định, và ngược lại.
+
+### Form
+
+`Positive statement + negative tag?` (câu khẳng định + đuôi phủ định) — *You are ready, **aren't you**?* (Bạn sẵn sàng rồi, phải không?)
+`Negative statement + positive tag?` (câu phủ định + đuôi khẳng định) — *You aren't ready, **are you**?* (Bạn chưa sẵn sàng, phải không?)
+
+Phần đuôi lặp lại **trợ động từ** (hoặc `be`) cộng với một **đại từ làm chủ ngữ**. Nếu không có trợ động từ thì dùng `do / does / did`.
+
+- *Cô ấy làm việc ở đây, **phải không**?*
+- *Họ đã về nhà rồi, **phải không**?*
+- *Anh ấy biết bơi, **phải không**?*
+- *Bạn làm xong rồi, **phải không**?*
+
+### When to use
+
+- Để mời người nghe đồng tình (xuống giọng) hoặc để hỏi thật sự (lên giọng).
+- Thường gặp trong các bài thi nói và trong dạng bài thi "chọn câu hỏi đuôi đúng".
+
+### Các câu hỏi đuôi đặc biệt cần ghi nhớ
+
+| Statement | Tag |
+|---|---|
+| Tôi đến muộn, | **aren't I**? |
+| Chúng ta đi nào, | **shall we**? |
+| Mở cửa ra, | **will/won't you**? |
+| Đừng đến muộn, | **will you**? |
+| Có một vấn đề, | **isn't there**? |
+| **Mọi người / Ai đó** biết, | **don't they**? |
+| **Không có gì / Mọi thứ** sẵn sàng, | **is it**? |
+| **Tôi nghĩ** anh ấy đúng, | **isn't he**? (câu hỏi đuôi theo mệnh đề *that*) |
+| **Tôi từng** sống ở đây, | **didn't I**? |
+| **Tôi nên** đi thì hơn, | **hadn't I**? |
+| **Bạn thích** ở lại hơn, | **wouldn't you**? |
+| **Cái này / Cái kia** là của bạn, | **isn't it**? |
+| **Những cái này / Những cái kia** còn mới, | **aren't they**? |
+| **Người ta** nên thử, | **shouldn't one/they**? |
+
+### Examples
+
+- Bạn **không** thấy chìa khoá của tôi đâu, **phải không**?
+- Chúng ta nghỉ giải lao một chút **nhé**?
+- Không ai gọi điện, **phải không**?
+- Tôi là người phát biểu tiếp theo, **phải không**?
+- Tôi nghĩ là cô ấy không đồng ý, **phải không**?
+
+### Notes & exceptions
+
+- Với `I think / I suppose / I believe + clause`, câu hỏi đuôi hoà hợp với mệnh đề **phụ**; nếu động từ chính ở dạng phủ định (`I don't think he is right`) thì đuôi vẫn ở dạng khẳng định (`**is he**?`).
+- `nobody, no one, everyone, someone` được thay bằng `they` trong câu hỏi đuôi.
+- `nothing, everything, something` được thay bằng `it`.
+- Câu trần thuật có chứa một từ phủ định được coi là câu phủ định → xem [[Question Tags With Negative Adverbs]].
+
+### Common mistakes
+
+- Câu hỏi đuôi phải lặp lại đúng trợ động từ và chủ ngữ của câu (`are`, `you`), không dùng `isn't it` cho mọi trường hợp.
+- Sau `Let's`, câu hỏi đuôi là `shall we`.
+- Không có dạng `amn't`; với `I am`, câu hỏi đuôi là `aren't I`.
+
+### Contrast with
+
+- [[Question Tags With Negative Adverbs]] — các từ phủ định ẩn như `hardly`, `never`, `seldom`
+- [[Reported Speech - Questions]] — câu hỏi thay đổi thế nào trong câu tường thuật
+- [[Questions in the Passive Voice]] — cách đặt câu hỏi ở thể bị động

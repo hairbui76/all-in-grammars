@@ -69,4 +69,54 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Nhiều từ hai âm tiết có cách viết giống hệt nhau khi là danh từ và khi là động từ; danh từ (hoặc tính từ) nhấn trọng âm ở âm tiết thứ nhất, còn động từ nhấn ở âm tiết thứ hai.
+
+### Rule
+
+`NOUN / ADJECTIVE` → trọng âm rơi vào âm tiết 1
+`VERB` → trọng âm rơi vào âm tiết 2
+
+- **PRE**sent /ˈprezənt/ (n/adj) *món quà; hiện tại* khác với pre**SENT** /prɪˈzent/ (v) *giới thiệu, trình bày*
+- **PER**fect /ˈpɜːfɪkt/ (adj) *hoàn hảo* khác với per**FECT** /pəˈfekt/ (v) *hoàn thiện, làm cho hoàn hảo*
+- **DES**ert /ˈdezət/ (n) *sa mạc* khác với de**SERT** /dɪˈzɜːt/ (v) *bỏ rơi, rời bỏ*
+
+### The main list
+
+| Word | Noun / adjective | Verb |
+|---|---|---|
+| conflict | /ˈkɒnflɪkt/ sự bất đồng, mâu thuẫn | /kənˈflɪkt/ mâu thuẫn, xung đột với nhau |
+| contest | /ˈkɒntest/ cuộc thi | /kənˈtest/ tranh cãi, phản bác |
+| contrast | /ˈkɒntrɑːst/ sự khác biệt, tương phản | /kənˈtrɑːst/ so sánh, đối chiếu |
+| convert | /ˈkɒnvɜːt/ người cải đạo | /kənˈvɜːt/ thay đổi, chuyển đổi |
+| decrease | /ˈdiːkriːs/ sự giảm sút | /dɪˈkriːs/ giảm xuống |
+| import | /ˈɪmpɔːt/ hàng nhập khẩu | /ɪmˈpɔːt/ nhập khẩu từ nước ngoài |
+| increase | /ˈɪŋkriːs/ sự gia tăng | /ɪnˈkriːs/ tăng lên |
+| insult | /ˈɪnsʌlt/ lời lăng mạ | /ɪnˈsʌlt/ xúc phạm |
+| perfect | /ˈpɜːfɪkt/ (adj) hoàn hảo | /pəˈfekt/ hoàn thiện, làm cho hoàn hảo |
+| permit | /ˈpɜːmɪt/ giấy phép | /pəˈmɪt/ cho phép |
+| pervert | /ˈpɜːvɜːt/ kẻ đồi bại | /pəˈvɜːt/ xuyên tạc, làm hư hỏng |
+| present | /ˈprezənt/ món quà | /prɪˈzent/ giới thiệu |
+| produce | /ˈprɒdjuːs/ nông sản | /prəˈdjuːs/ sản xuất, làm ra |
+| protest | /ˈprəʊtest/ cuộc biểu tình | /prəˈtest/ phản đối |
+| recall | /ˈriːkɔːl/ lệnh triệu hồi | /rɪˈkɔːl/ nhớ lại |
+| record | /ˈrekɔːd/ bản ghi chép, hồ sơ | /rɪˈkɔːd/ ghi lại, thu âm |
+| reject | /ˈriːdʒekt/ sản phẩm lỗi bị loại | /rɪˈdʒekt/ từ chối, bác bỏ |
+| suspect | /ˈsʌspekt/ nghi phạm | /səˈspekt/ nghi ngờ, cho rằng điều gì đó là đúng |
+
+### Examples
+
+- Hai người bạn đang có **mâu thuẫn** với nhau.
+- Hai lời kể của anh về chuyện đã xảy ra **mâu thuẫn** nhau.
+- Gần đây doanh số đã có sự **sụt giảm**.
+- Chúng ta cần **giảm** số trẻ trong lớp.
+- Anh có **giấy phép** lái chiếc xe tải này không?
+- Anh có **cho phép** tôi đỗ xe trước nhà anh không?
+- Cảnh sát đã thẩm vấn **nghi phạm** suốt năm tiếng đồng hồ.
+- Tôi **ngờ rằng** cái cây đó sẽ phải bị chặt đi.
+
+### Notes & exceptions
+
+- Âm tiết đầu không mang trọng âm của động từ thường bị yếu đi thành /ə/: `con-` /kɒn/ → /kən/, `per-` /pɜː/ → /pə/.
+- Không phải từ nào viết giống nhau ở dạng danh từ và động từ cũng đổi trọng âm: `answer`, `promise`, `visit` vẫn nhấn âm tiết thứ nhất ở cả hai từ loại.

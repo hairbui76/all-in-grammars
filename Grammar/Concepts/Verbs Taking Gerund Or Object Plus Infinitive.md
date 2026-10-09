@@ -51,4 +51,29 @@ advise / allow / recommend / encourage / permit / forbid + Obj + to + V
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`advise, allow, recommend, encourage, permit, forbid` đi với danh động từ khi không có tân ngữ chỉ người, nhưng đi với tân ngữ + động từ nguyên mẫu có `to` khi có nêu rõ người.
+
+### Examples
+
+- Cô ấy không cho phép **hút thuốc** trong phòng mình.
+- Cô ấy không cho phép bất kỳ ai **hút thuốc** trong phòng mình.
+- Anh ấy khuyên nên **đi** đường này.
+- Anh ấy khuyên chúng tôi **đi** đường này.
+- Chúng tôi được khuyên **đi** đường này.
+
+### Notes & exceptions
+
+- Ở thể bị động, chỉ dùng được cấu trúc với động từ nguyên mẫu có `to`: *We were advised to take this route* (chúng tôi được khuyên đi đường này).
+- Nghĩa không thay đổi; chỉ có việc có hay không có tân ngữ chỉ người mới quyết định cấu trúc nào được dùng.
+
+### Common mistakes
+
+- Khi đã có tân ngữ chỉ người (`anybody`) sau `allow` thì phải dùng `to + V`, không dùng `V-ing`.
+- Khi đã có tân ngữ chỉ người (`us`) sau `advise` thì phải dùng `to + V`, không dùng `V-ing`.
+
+### Contrast with
+
+- [[Verbs Followed By Gerund]] — các động từ chỉ đi với `-ing`
+- [[Verb Patterns With Gerund and Infinitive]] — bảng tổng quan đầy đủ

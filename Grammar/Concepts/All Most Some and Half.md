@@ -80,4 +80,55 @@ all / most / some / half + of + object pronoun
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`all, most, some` và `half` đứng ngay trước danh từ khi mang nghĩa chung, nhưng cần có `of` trước từ hạn định hoặc đại từ khi mang nghĩa cụ thể.
+
+### Examples
+
+### Với danh từ đếm được số nhiều
+
+- **Mọi loài cây** đều cần nước.
+- **Hầu hết mọi người** đều đồng tình với quan điểm của tôi.
+- Bạn có **vài đĩa nhạc jazz hay** đấy.
+- Học kỳ này chúng tôi **không** rảnh **thứ Năm nào**.
+
+### Với danh từ không đếm được
+
+- Anh trai tôi thích **mọi thể loại nhạc**.
+- **Hầu hết các loại thịt** đều đắt.
+- Bạn có muốn uống **thêm chút bia** không?
+- Xin lỗi — bây giờ **không có thời gian** để nói chuyện.
+
+### Với `of` + từ hạn định + danh từ (nghĩa cụ thể)
+
+- **Tất cả bạn bè của tôi** ở trường đều thích tiếng Anh.
+- **Hầu hết đồ ăn** ở nhà hàng này đều rất ngon.
+- **Một số cuốn sách của ông ấy** được viết bằng tiếng Pháp.
+- **Một nửa số tiền** là của tôi.
+
+### Với `of` + đại từ tân ngữ
+
+- **Tất cả bọn họ** đều không tán thành kế hoạch của tôi.
+- **Một số em** đã mắc lỗi bất cẩn trong bài kiểm tra.
+- **Hầu hết chúng tôi** đều có cùng cảm nghĩ về cuộc chiến.
+
+### Notes & exceptions
+
+- Sau `all` và `half` có thể bỏ `of` khi theo sau là từ hạn định + danh từ, nhưng không bao giờ được bỏ trước đại từ:
+  - `all of the clothes` = `all the clothes`
+  - `all of us` ✅ / ~~all us~~ ❌
+  - `half of our group` = `half our group`
+  - `half of us` ✅ / ~~half us~~ ❌
+- Không có `of` thì nghĩa là nói chung (mọi loài cây ở khắp nơi); có `of` thì nghĩa bị giới hạn trong một nhóm xác định.
+
+### Common mistakes
+
+- Khi nói chung, `all` đứng ngay trước danh từ, không có `of`.
+- Sau `most of` phải có từ hạn định (`the`, `my`...) trước danh từ; khi nói chung thì dùng `most` + danh từ.
+
+### Contrast with
+
+- [[No and None]] — `none` không thể đứng trước danh từ
+- [[Many Much and A Lot Of]] — số lượng lớn
+- [[Few A Few Little and A Little]] — số lượng nhỏ

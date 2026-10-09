@@ -73,4 +73,49 @@ V + O + to V       e.g. advise him to work
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Động từ tiếng Anh chia thành bốn mẫu bổ ngữ: `V + V-ing`, `V + to V`, `V + O + V(bare)` và `V + O + to V`.
+
+### The four lists
+
+| `V + V-ing` | `V + to V` | `V + O + V(bare)` | `V + O + to V` |
+|---|---|---|---|
+| appreciate | afford | make | advise |
+| admit | appear | let | allow |
+| avoid | arrange | have | encourage |
+| can't help | decide | hope | force |
+| can't stand | fail | catch | invite |
+| can't bear | forget | see | order |
+| consider | happen | watch | persuade |
+| deny | intend | feel | remind |
+| dislike | learn | find | teach |
+| enjoy | manage | hear | tell |
+| feel like | mean | overhear | warn |
+| finish | offer | observe | show |
+| give up | plan | | command |
+| imagine | prepare | | ask |
+| keep (on) | promise | | urge |
+| look forward to | refuse | | |
+| mention | seem | | |
+| object to | threaten | | |
+| practise | hope | | |
+| put off | expect | | |
+| risk | hesitate | | |
+| suggest | agree | | |
+| be/get used to | want | | |
+| be worth | attempt | | |
+| | wish | | |
+| | tend | | |
+
+### Notes & exceptions
+
+- `look forward to`, `object to`, `be/get used to` kết thúc bằng giới từ `to` nên theo sau là dạng `-ing` → xem [[To As Preposition]].
+- Sau các động từ tri giác thuộc mẫu `V + O + V(bare)` (`see, watch, hear, feel, find, catch, observe`), cũng có thể dùng danh động từ nhưng thể của hành động thay đổi: *I saw him **cross** the road* (tôi thấy anh ấy băng qua đường — toàn bộ hành động) khác với *I saw him **crossing** the road* (tôi thấy anh ấy đang băng qua đường — hành động đang diễn ra).
+- Ở thể bị động, `make` đi với động từ nguyên mẫu có `to`: *He was made **to work** harder.* (Anh ấy bị bắt phải làm việc chăm chỉ hơn.)
+
+### Contrast with
+
+- [[Verbs Followed By Gerund]] — danh sách chi tiết các động từ đi với `-ing`
+- [[Verbs Taking Gerund Or Object Plus Infinitive]] — các động từ xuất hiện ở cả hai cột
+- [[Bare Infinitive]] — khi `to` bị lược bỏ

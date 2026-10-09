@@ -67,4 +67,52 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`Enough` đứng sau tính từ hoặc trạng từ và, khi có động từ nguyên mẫu theo sau, mang nghĩa "đủ … để có thể".
+
+### Form
+
+`S + be / V + adj / adv + enough + (for sb) + to V`
+
+`enough + noun + to V` (khi `enough` bổ nghĩa cho danh từ thì nó đứng **trước** danh từ)
+
+### The infinitive refers to the subject
+
+- Cô ấy chưa **đủ tuổi để kết hôn**.
+- Cô ấy không còn **đủ trẻ để sinh** con.
+- Tôi không **đủ giàu để mua** một căn hộ nhỏ ở ngoại ô, nói gì đến một căn biệt thự ở trung tâm thành phố.
+- Anh ấy không **đủ khoẻ để xách** chiếc va li nặng.
+- Tiếng Anh của tôi có **đủ tốt để tôi làm** biên dịch viên không?
+
+### The infinitive refers to the object of a verb
+
+- Tách trà này chưa **đủ nguội để tôi uống**.
+- Câu hỏi của bạn không **đủ dễ để tôi trả lời**.
+- Ngôi nhà không **đủ rẻ để họ mua**.
+- Chiếc xe không **đủ tin cậy để chúng tôi đi** một chuyến đường dài.
+
+### The infinitive refers to the object of a preposition
+
+- Cỏ chưa **đủ khô để chúng ta ngồi lên**.
+- Băng chưa **đủ dày để chúng ta đi trên đó**.
+- Ánh sáng không **đủ mạnh để tôi đọc sách**.
+- Nước chưa **đủ ấm để chúng ta bơi**.
+- Anh ta không **đủ tốt để tôi kết bạn**.
+
+### Enough as adjective and as pronoun
+
+- Trước danh từ, `enough` là tính từ: Tôi có **đủ sách** để học. / Anh ấy không có **đủ tiền** để đi du học.
+- Khi đứng một mình, nó là đại từ: Anh ấy không kiếm **đủ** để sống.
+
+### Notes & exceptions
+
+- `have + enough + abstract noun` (danh từ trừu tượng) có thể được thay bằng `have + the + abstract noun`:
+  - Tôi không **đủ kiên nhẫn** để đợi thêm nữa.
+  - Cô ấy đã không **đủ sáng suốt** để quyết định.
+  - Anh ấy đã không **đủ can đảm** để thừa nhận lỗi của mình.
+
+### Contrast with
+
+- [[Too With Infinitive]] — cấu trúc mang nghĩa phủ định tương ứng, "quá … đến mức không thể"
+- [[So As To Structure]] — `so kind as to` / `kind enough to` trong lời đề nghị

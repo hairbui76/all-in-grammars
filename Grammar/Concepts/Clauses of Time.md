@@ -60,4 +60,40 @@ Time conjunctions: `when`, `as` (when/while), `before`, `after`, `since`, `until
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Mệnh đề chỉ thời gian cho biết hành động ở mệnh đề chính xảy ra **khi nào**, và không bao giờ dùng thì tương lai.
+
+### Form
+
+Các liên từ chỉ thời gian: `when`, `as` (khi / trong khi), `before`, `after`, `since`, `until / till`, `as soon as`, `while`, `once`, `whenever`, `as long as`, `just as`.
+
+### Examples
+
+- **Khi** sống ở Darwin, tôi đã nếm trải thời tiết nóng bức.
+- **Sau khi** làm xong bài tập về nhà, cậu ấy xem ti vi.
+- Tôi sẽ cho bạn vay tiền **bất cứ khi nào** bạn cần.
+- Anh ấy gọi điện cho tôi **ngay khi** đi nghỉ về.
+- **Một khi** đã sống ở Darwin, tôi mới biết thế nào là một cơn lốc xoáy thực sự.
+- Tôi sẽ đợi ở đây **cho đến khi** xe buýt đến.
+
+### Notes & exceptions
+
+- **Sự hoà hợp về thì.** Động từ trong mệnh đề chỉ thời gian phải phù hợp với động từ chính và với nghĩa của liên từ:
+  - **Cho đến khi** sống ở Việt Nam, tôi **chưa từng biết** thời tiết nóng là thế nào. (`until` chỉ một trạng thái tồn tại trước một sự việc khác trong quá khứ, nên dùng thì quá khứ hoàn thành)
+  - **Trong khi** **đang đi bộ** trên phố, tôi **nhìn thấy** Joe lái một chiếc Toyota. (`while` = trong lúc, nên dùng thì tiếp diễn là tự nhiên)
+- **Không dùng thì tương lai trong mệnh đề chỉ thời gian.** Dùng thì hiện tại đơn để nói về tương lai, và thì hiện tại hoàn thành cho một hành động sẽ hoàn tất trong tương lai:
+  - Tôi sẽ nhớ ngày hôm đó **chừng nào tôi còn sống**. [không nói: ~~as long as I'll live~~]
+  - Tôi sẽ kể cho bạn chuyện đó **khi tôi đến**. [không nói: ~~when I'll come~~]
+  - Tôi muốn đi dạo một khi mưa **đã tạnh**.
+
+### Common mistakes
+
+- Sau `after` trong mệnh đề chỉ thời gian không dùng `will`; dùng thì hiện tại đơn hoặc hiện tại hoàn thành.
+- Sau `as long as` không dùng thì tương lai; dùng thì hiện tại đơn.
+
+### Contrast with
+
+- [[Clauses of Reason]] — trả lời câu hỏi vì sao, không phải khi nào
+- [[Adverbs of Time]] — chỉ là một từ đơn chứ không phải một mệnh đề
+- [[First Conditional]] — cùng quy tắc "không dùng thì tương lai sau liên từ"

@@ -45,4 +45,31 @@ have · need · ought · used to · be going to
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Để tránh lặp lại một động từ đã được nhắc đến, chỉ giữ lại tiểu từ `to` còn động từ thì được lược bỏ.
+
+### Form
+
+`... V + to` (phần còn lại của động từ nguyên mẫu được hiểu ngầm từ mệnh đề trước)
+
+### Verbs and auxiliaries used this way
+
+want (muốn) · would like (muốn) · would love (rất muốn) · mean (định) · try (cố gắng) · hate (ghét) · hope (hy vọng) · intend (dự định) · plan (lên kế hoạch) ·
+have (phải) · need (cần) · ought (nên) · used to (đã từng) · be going to (sắp, định)
+
+### Examples
+
+- Tối nay bạn có muốn đi xem phim với tôi không? — Có, tôi muốn.
+- Sao bạn lại phải bắt taxi? — Tôi buộc phải thế vì tôi bị muộn.
+- Anh ấy hát hay hơn trước đây.
+- Bạn sửa xe chưa? — Chưa, nhưng tôi sắp sửa đây.
+
+### Notes & exceptions
+
+- Trong cấu trúc này không bao giờ bỏ `to`: ❌ *Yes, I'd like.* → ✅ *Yes, I'd like to.*
+- Sau `can`, `must`, `will` và các động từ khuyết thiếu khác đi với động từ nguyên mẫu không `to`, không còn giữ lại gì cả: *Can you come? — Yes, I can.* (Bạn đến được không? — Được, tôi đến được.)
+
+### Contrast with
+
+- [[Bare Infinitive]] — động từ khuyết thiếu không để lại `to` khi động từ bị lược bỏ

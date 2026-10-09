@@ -56,4 +56,41 @@ tell (how) · tempt · urge · warn
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Nhiều động từ chỉ sự tác động, ra lệnh và cho phép đi với một tân ngữ rồi đến động từ nguyên mẫu có `to`.
+
+### Form
+
+`S + V + object + to + V`
+
+Phủ định: `S + V + object + not + to + V`
+
+### The list
+
+advise (khuyên) · allow (cho phép) · beg (van xin) · bribe (hối lộ) · change (thay đổi) · command (ra lệnh) · compel (buộc) · encourage (khuyến khích) · entitle (cho quyền) ·
+forbid (cấm) · force (ép buộc) · implore (khẩn nài) · induce (xui khiến) · instruct (chỉ thị, hướng dẫn) · invite (mời) · oblige (bắt buộc) · order (ra lệnh) · permit (cho phép) ·
+persuade (thuyết phục) · plead with (nài xin) · recommend (khuyên, đề nghị) · remind (nhắc nhở) · request (yêu cầu) · show (how) (chỉ cho cách) · teach (how) (dạy cách) ·
+tell (how) (bảo, chỉ cách) · tempt (dụ dỗ) · urge (thúc giục) · warn (cảnh báo)
+
+### Examples
+
+- Tôi **đã thuyết phục anh ấy đổi** ý.
+- Tôi **đã cảnh báo học sinh của mình không được trốn** học.
+- Bạn bè **khuyên tôi tiếp tục** học ở trường Cao đẳng Sư phạm.
+- Cô ta **xui tôi lấy trộm** số tiền đó.
+- Tôi **chỉ cho anh ấy cách dùng** máy ảnh.
+- Mẹ **giục tôi đi** sớm.
+- Cô ấy **nài nỉ tôi giúp** cô ấy một việc.
+- Tên cướp **bắt mọi người nằm** xuống sàn.
+
+### Notes & exceptions
+
+- Từ phủ định `not` đứng ngay trước `to`: *Mr Brown told the schoolgirls **not to eat** in class.* (Thầy Brown bảo các nữ sinh không được ăn trong lớp.)
+- `make`, `let` và `have` đi với động từ nguyên mẫu **không `to`** trong mẫu câu này, không phải `to + V` → xem [[Bare Infinitive]] và [[Causative Form]].
+- Dạng bị động của mẫu câu này vẫn giữ động từ nguyên mẫu có `to`: *The tourists were encouraged to visit the museum.* (Du khách được khuyến khích tham quan viện bảo tàng.)
+
+### Contrast with
+
+- [[Bare Infinitive]] — `make / let / have + tân ngữ + V(bare)`
+- [[Causative Form]] — `have / get something done`

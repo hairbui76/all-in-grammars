@@ -64,4 +64,40 @@ S + waste(s)/wasted + time or money + V-ing
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Hai cấu trúc có thể thay thế cho nhau để nói một hoạt động tốn bao nhiêu thời gian hoặc tiền bạc: `It takes somebody ... to do` và `somebody spends ... doing`.
+
+### When to use
+
+- `It takes ... to do` đặt trọng tâm vào công việc; người thực hiện là tân ngữ.
+- `spend ... doing` đặt trọng tâm vào người thực hiện, vốn là chủ ngữ.
+- `on + noun` thay cho danh động từ khi bổ ngữ là một sự vật chứ không phải một hành động.
+- `waste` thay cho `spend` khi thời gian hoặc tiền bạc bỏ ra không đem lại điều gì có ích.
+
+### Examples
+
+- Tôi **mất** năm phút **để đến** trường.
+- Hôm qua anh ấy **mất** mười phút **để làm** bài tập này.
+- Mỗi ngày tôi **dành** hai tiếng **đọc** sách.
+- Cô ấy **tiêu** hết tiền **vào** quần áo.
+- Đừng **phí** thời gian **tranh cãi** với anh ta.
+
+### Notes & exceptions
+
+- Hai cấu trúc này chuyển đổi được cho nhau: *It takes me an hour to cook dinner* = *I spend an hour cooking dinner* (tôi mất một tiếng để nấu bữa tối).
+- Sau `take`, động từ ở dạng nguyên mẫu có `to`; sau `spend` và `waste`, động từ ở dạng danh động từ → xem [[Verb Patterns With Gerund and Infinitive]].
+- `It` ở đây là chủ ngữ giả, không phải đại từ thay cho một sự vật nào → xem [[Infinitive As Subject]].
+- Khi không nhắc đến người thực hiện, chỉ cần bỏ tân ngữ: *It takes three hours to fly there* (bay đến đó mất ba tiếng).
+
+### Common mistakes
+
+- Sau `spend` + khoảng thời gian, động từ phải ở dạng `-ing`, không dùng động từ nguyên mẫu có `to`.
+- Sau `It takes` + người + khoảng thời gian, dùng động từ nguyên mẫu có `to`, không dùng dạng `-ing`.
+- Tiêu tiền vào thứ gì thì `spend` đi với giới từ `on`, không dùng `for`.
+
+### Contrast with
+
+- [[It Is Time]] — một cấu trúc khác với `it`, nói về thời điểm thích hợp để hành động
+- [[It Is Adjective For Somebody To Do]] — một cấu trúc khác với `it` làm chủ ngữ giả
+- [[Find It Adjective To Do Something]] — `it` giả làm tân ngữ

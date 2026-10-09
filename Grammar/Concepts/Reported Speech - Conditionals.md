@@ -64,4 +64,40 @@ Type 3:
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Khi tường thuật, chỉ câu điều kiện loại 1 lùi thì; loại 2 và loại 3 giữ nguyên dạng động từ, chỉ đổi đại từ và từ chỉ thời gian.
+
+### When to use
+
+- Chỉ áp dụng quy tắc lùi thì thông thường cho loại 1
+- Giữ nguyên loại 2 và loại 3, vì dạng quá khứ của chúng vốn đã là thức giả định và không thể lùi thêm nữa
+
+### Examples
+
+Loại 1:
+
+- "Nếu thời tiết đẹp, tuần sau chúng tôi sẽ đi cắm trại," cậu bé nói → Cậu bé nói rằng **nếu thời tiết đẹp, cậu ấy sẽ đi** cắm trại vào tuần sau đó.
+- "Nếu ông không nghỉ ngơi vài ngày, ông sẽ lại lên cơn đau tim," bác sĩ nói → Bác sĩ cảnh báo bệnh nhân rằng **nếu ông ấy không nghỉ ngơi** vài ngày, ông ấy **sẽ lại lên** cơn đau tim.
+
+Loại 2:
+
+- "Nếu tôi có nhiều tiền, tôi sẽ mua một chiếc xe hơi đời mới," anh ấy nói → Anh ấy nói rằng **nếu anh ấy có** nhiều tiền, anh ấy **sẽ mua** một chiếc xe hơi đời mới.
+- "Bạn sẽ làm gì nếu bạn giàu?" cô ấy hỏi → Cô ấy hỏi **tôi sẽ làm gì nếu tôi** giàu.
+
+Loại 3:
+
+- "Nếu tôi biết bạn ốm thì tôi đã đến thăm bạn rồi," một người bạn của tôi nói → Một người bạn của tôi nói rằng **nếu anh ấy biết** tôi ốm thì anh ấy **đã đến** thăm tôi rồi.
+
+### Notes & exceptions
+
+- Câu điều kiện loại 2 bắt đầu bằng `If I were you, ...` hoặc `If I were in your shoes / situation / position, ...` thường được tường thuật bằng **advise**, không dùng mệnh đề `if`:
+  - "Nếu tôi là bạn, tôi sẽ nộp đơn xin việc đó," cô ấy nói → Cô ấy **khuyên tôi nộp đơn** xin việc đó.
+  - "Nếu tôi ở vào địa vị của bạn, tôi sẽ không từ chối lời mời của họ," Jack nói → Jack **khuyên tôi đừng từ chối** lời mời của họ.
+  - "Nếu thầy là em, thầy sẽ chú tâm học tiếng Anh hơn," thầy giáo tôi nói → Thầy giáo **khuyên tôi nên chú tâm** học tiếng Anh hơn.
+- Cấu trúc: `advise sb to do smth` / `advise sb not to do smth` = `advise sb against doing smth`.
+
+### Contrast with
+
+- [[Past Subjunctive in Reported Speech]] — cùng nguyên tắc không lùi thì đối với `wish`, `as if`, `would rather`
+- [[Backshift of Tenses]] — quy tắc chung mà loại 2 và loại 3 không phải theo

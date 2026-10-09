@@ -61,6 +61,16 @@ on('theme', () => {
   applyTheme()
   renderChrome()
 })
+function applyVietnamese() {
+  document.documentElement.classList.toggle('no-vi', !S.vi)
+}
+on('vi', (_, el) => {
+  S.vi = !S.vi
+  save()
+  applyVietnamese()
+  el.classList.toggle('on', S.vi)
+  el.setAttribute('aria-pressed', String(S.vi))
+})
 on('fs', () => {
   S.fs = (S.fs + 1) % 3
   save()
@@ -69,6 +79,7 @@ on('fs', () => {
 matchMedia('(prefers-color-scheme: dark)').addEventListener('change', applyTheme)
 applyTheme()
 applyTextSize()
+applyVietnamese()
 
 /* ================= shell ================= */
 let page = { tab: 'home' }

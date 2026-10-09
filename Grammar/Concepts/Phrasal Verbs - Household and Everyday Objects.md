@@ -64,4 +64,48 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Các cụm động từ dùng để nói về việc cầm nắm, sửa chữa, dọn dẹp và bật tắt đồ vật.
+
+### Reference list
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| `clean something up` | dọn dẹp, lau chùi | Con hãy **dọn dẹp** phòng ngủ trước khi ra ngoài nhé. |
+| `cross something out` | gạch bỏ | Vui lòng **gạch bỏ** địa chỉ cũ và viết địa chỉ mới của bạn. |
+| `cut something down` | chặt, đốn cho đổ xuống đất | Chúng tôi phải **đốn** cái cây già trong sân sau trận bão. |
+| `cut something off` | cắt bỏ bằng vật sắc | Các bác sĩ đã **cắt bỏ** chân của anh ấy vì nó bị thương quá nặng. |
+| `cut something off` | ngừng cung cấp | Công ty điện thoại đã **cắt** điện thoại của chúng tôi vì chúng tôi không trả tiền cước. |
+| `cut something out` | cắt rời một phần của vật gì (thường dùng kéo cắt giấy) | Tôi **cắt** mẩu quảng cáo này **ra** từ tờ báo. |
+| `do something up` | cài, kéo khoá, đóng lại | **Cài** áo khoác **lại** trước khi ra ngoài đi. Trời đang có tuyết đấy! |
+| `fill something in` | điền thông tin vào chỗ trống (Anh-Anh) | Vui lòng **điền** tên, địa chỉ và số điện thoại của bạn vào mẫu đơn. |
+| `fill something out` | điền thông tin vào chỗ trống (Anh-Mỹ) | Mẫu đơn phải được **điền** bằng chữ in hoa. |
+| `fill something up` | đổ đầy | Tôi luôn **đổ đầy** bình nước mỗi khi nó hết. |
+| `hand something down` | để lại đồ đã dùng cho người khác | Tôi **để lại** những cuốn truyện tranh cũ cho đứa em họ. |
+| `hand something out` | phân phát cho một nhóm người | Chúng tôi sẽ **phát** thiệp mời ở cửa. |
+| `hand something over` | giao nộp (thường là miễn cưỡng) | Cảnh sát yêu cầu người đàn ông **giao nộp** ví và vũ khí. |
+| `hold onto someone/something` | giữ chặt bằng tay hoặc cánh tay | **Giữ chặt** mũ của bạn vì ngoài trời gió rất to. |
+| `mix something up` | nhầm lẫn hai hay nhiều thứ với nhau | Tôi lại **nhầm** tên của hai đứa sinh đôi rồi! |
+| `put something down` | đặt vật đang cầm xuống một mặt phẳng hoặc sàn nhà | Bạn có thể **đặt** đồ vừa mua **xuống** bàn bếp. |
+| `put something on` | mặc quần áo hoặc đeo phụ kiện lên người | Đừng quên **đeo** đôi hoa tai mới của bạn khi đi dự tiệc nhé. |
+| `put something out` | dập tắt | Hàng xóm đã **dập tắt** đám cháy trước khi lính cứu hoả đến. |
+| `put something together` | lắp ráp | Tôi phải **lắp** chiếc cũi trước khi em bé chào đời. |
+| `switch something off` | ngắt dòng điện, tắt | Đèn sáng quá. Bạn **tắt** nó đi được không? |
+| `switch something on` | cho dòng điện chạy, bật | Chúng tôi nghe được tin đó ngay khi **bật** radio trên xe. |
+| `take something apart` | cố ý tháo rời ra từng mảnh | Anh ấy **tháo rời** bộ phanh xe và tìm ra vấn đề. |
+| `take something off` | cởi, tháo ra (thường là quần áo) | **Cởi** tất và giày ra rồi xuống hồ đi! |
+| `take something out` | lấy ra, mang ra khỏi một nơi hay một vật | Bạn **mang** rác **ra** ngoài đường giúp tôi được không? |
+| `tear something up` | xé thành từng mảnh | Tôi **xé nát** những lá thư của bạn trai cũ rồi trả lại cho anh ta. |
+| `let someone in` | cho vào | Con **cho** con mèo **vào** trước khi đi học được không? |
+| `keep someone/something out` | không cho vào | Cố **đừng để** con chó ướt **vào** phòng khách. |
+| `come apart` | rời ra, tách ra | Phần trên và phần dưới sẽ **rời ra** nếu bạn kéo đủ mạnh. |
+| `fall apart` | vỡ, rã ra thành từng mảnh | Chiếc váy mới của tôi **bung rã ra** trong máy giặt. |
+| `fall down` | rơi xuống đất | Bức tranh bạn treo tối qua đã **rơi xuống** sáng nay. |
+| `fall out` | rơi ra khỏi bên trong vật gì | Chắc là tiền đã **rơi ra** khỏi túi của tôi. |
+
+### Notes & exceptions
+
+- `fill in` (Anh-Anh) và `fill out` (Anh-Mỹ) có nghĩa hoàn toàn giống nhau khi nói về việc điền mẫu đơn.
+- `cut something off` có hai nghĩa: cắt đứt về mặt vật lý, và ngừng một nguồn cung cấp.
+- `come apart` và `fall apart` là nội động từ; `take something apart` là dạng ngoại động từ chỉ hành động có chủ ý.

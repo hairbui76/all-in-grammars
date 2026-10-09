@@ -58,4 +58,40 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`to be + V-ing` diễn tả một hành động đang diễn ra tại thời điểm được nói đến.
+
+### Form
+
+`(to) be + V-ing` — to be doing (đang làm), to be working (đang làm việc)
+
+### Uses
+
+| After | Meaning | Equivalent |
+|---|---|---|
+| `will / shall` | thì tương lai tiếp diễn | Giờ này ngày mai, tôi **sẽ đang làm** bài tập về nhà. |
+| `must` | chắc chắn việc đó đang diễn ra | `= I'm sure + present continuous clause` |
+| `can't` | chắc chắn việc đó không đang diễn ra | `= I'm sure + negative present continuous clause` |
+| `may / might` | có thể việc đó đang diễn ra | `= Perhaps + present continuous clause` |
+| `should` | đáng lẽ việc đó phải đang diễn ra nhưng lại không | lời chê trách |
+| `be said / thought to` | câu bị động tường thuật | `People say that he is ...` |
+| `seem, appear, pretend, happen` | hành động có vẻ như đang diễn ra | `It seems that he is ...` |
+| `hope, promise, determine, arrange` | hành động sẽ đang diễn ra trong tương lai | |
+
+### Examples
+
+- Đừng gọi điện cho tôi lúc 12 giờ đêm nay. Lúc đó tôi **sẽ đang ngủ**.
+- Căn nhà yên ắng quá. Mọi người **chắc hẳn đang ngủ**. = Tôi chắc chắn mọi người đang ngủ.
+- Nhà bên cạnh ồn ào quá. Hàng xóm của tôi **chắc hẳn đang mở** tiệc.
+- Hôm nay là Chủ nhật. Họ **không thể nào đang làm việc** ở văn phòng được. = Tôi chắc chắn họ không đang làm việc ở văn phòng.
+- Trông anh ấy nghiêm túc lắm. Anh ấy **không thể nào đang đùa** được.
+- Họ **có thể đang trốn** trong rừng. = Có lẽ họ đang trốn trong rừng.
+- Trời rất lạnh. Ông Brown, người dạo này không được khoẻ, đang đi bộ ngoài phố mà không mặc áo khoác. Lẽ ra ông ấy **phải đang mặc** một chiếc áo khoác ấm.
+- Lẽ ra em **không nên nói chuyện** lúc này. Lẽ ra em **phải đang tập trung** vào bài học.
+- Người ta nói rằng anh ấy đang du học. → Anh ấy **được cho là đang du học**.
+- Anh ta **có vẻ đang chạy** trốn con chó dữ của bạn. = Trông như thể anh ta đang chạy trốn.
+- Tôi tình cờ **đang đứng** cạnh đứa bé khi nó ngã.
+- Cô ấy giả vờ / đã giả vờ **đang ngủ**.
+- Tôi hy vọng giờ này năm sau mình **đang học** ở một trường đại học.
+- Tôi hứa **sẽ đợi** bạn ở cổng rạp chiếu phim lúc 7 giờ tối nay.

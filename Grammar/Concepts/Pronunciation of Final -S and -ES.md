@@ -39,4 +39,24 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Đuôi `-s/-es` ở danh từ số nhiều và động từ ngôi thứ ba số ít có ba cách đọc khác nhau, tuỳ theo âm đứng ngay trước nó.
+
+### Rule
+
+| Ending is read | After | Examples |
+|---|---|---|
+| `/s/` | các âm vô thanh `/p/ /k/ /t/ /f/ /θ/` | cu**ps**, coo**ks**, ca**ts**, clif**fs**, handkerchie**fs**, mon**ths** |
+| `/ɪz/` | các âm xuýt — được viết là `ce, ge, se, ze, ch, sh, ss, x` | pla**ces**, oran**ges**, hou**ses**, chur**ches**, bru**shes**, ki**sses**, bo**xes** |
+| `/z/` | tất cả các âm còn lại (phụ âm hữu thanh và nguyên âm) | be**ds**, flower**s**, teacher**s**, plan**s**, tree**s** |
+
+### Notes & exceptions
+
+- Cách đọc phụ thuộc vào ÂM đứng trước đuôi, không phải vào chữ cái: *months* kết thúc bằng âm `/θ/` nên đuôi đọc là `/s/`.
+- Quy tắc ba cách đọc này cũng áp dụng cho sở hữu cách `'s` (xem [[Possessive Case With Apostrophe S]]).
+- Danh từ tận cùng bằng `-o, -ch, -sh, -ss, -x` thêm `-es` khi viết; trừ trường hợp `-o`, đuôi `-es` đó được đọc là `/ɪz/`.
+
+### Contrast with
+
+- [[Pronunciation of -ED Endings]] — quy tắc ba cách đọc tương ứng của các dạng quá khứ

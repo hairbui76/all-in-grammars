@@ -49,4 +49,34 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Động từ ghép và phần lớn tính từ ghép có trọng âm chính rơi vào thành phần **thứ hai**, khác với danh từ ghép.
+
+### Compound verbs
+
+`compound verb` → nhấn trọng âm vào từ thứ hai
+
+- become /bɪˈkʌm/
+- understand /ˌʌndəˈstænd/
+
+### Compound adjectives
+
+| Pattern | Stress | Examples |
+|---|---|---|
+| Noun + Adjective | **danh từ** (thành phần thứ 1) | **home**sick /ˈhəʊmsɪk/, **air**tight /ˈeətaɪt/, **trust**worthy /ˈtrʌstˌwɜːði/ |
+| Noun + V3 (quá khứ phân từ) | **phân từ** | hand**made** /hændˈmeɪd/ |
+| Adjective + Adjective | tính từ **thứ 2** | red-**hot** /redˈhɒt/, dark**blue** /ˌdɑːkˈbluː/ |
+| Adjective + Noun + -ed | thành phần **thứ 2** | bad-**tem**pered /ˌbædˈtempəd/, old-**fash**ioned /əʊldˈfæʃənd/ |
+| Adjective + Noun | **tính từ** (thành phần thứ 1) | **long**-distance /ˈlɒŋˌdɪstəns/, **high**-quality /ˌhaɪˈkwɒlɪti/ |
+| Adjective + V3 | thành phần **thứ 2** | clear-**cut** /klɪəˈkʌt/, ready-**made** /ˌrediˈmeɪd/ |
+| Adverb + Gerund | thành phần **thứ 2** | far-**reach**ing /fɑːˈriːtʃɪŋ/, hard-**work**ing /ˌhɑːdˈwɜːkɪŋ/ |
+
+### Notes & exceptions
+
+- Hai mẫu vẫn giữ trọng âm ở thành phần thứ nhất là `Noun + Adjective` (homesick) và `Adjective + Noun` (long-distance).
+- Quy luật chung có thể nhớ gọn là: **danh từ ghép → nhấn phía trước; động từ ghép / tính từ ghép → nhấn phía sau**.
+
+### Contrast with
+
+- [[Stress in Compound Nouns]] — trọng âm luôn rơi vào thành phần thứ nhất

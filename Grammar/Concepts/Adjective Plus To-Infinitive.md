@@ -71,4 +71,55 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Nhiều tính từ được hoàn chỉnh nghĩa bằng một cụm `to + V`: *glad to see you* (vui khi gặp bạn), *hard to explain* (khó giải thích).
+
+### Form
+
+`S + be + adjective + to + V(bare)`
+`S + be + adjective + (for + object) + to + V`
+`It + be + adjective + to + V`
+
+### When to use
+
+- **Cảm xúc và phản ứng**: `glad, happy, pleased, delighted, sorry, sad, surprised, astonished, disappointed, lucky, proud, relieved, ashamed`.
+  - Tôi **rất vui khi nghe** tin đó.
+- **Sự sẵn lòng và sẵn sàng**: `ready, willing, eager, keen, reluctant, determined, prepared`.
+  - Cô ấy đã **sẵn sàng lên đường**.
+- **Dễ và khó** — chủ ngữ chính là **tân ngữ** của động từ nguyên mẫu, nên không có đại từ tân ngữ theo sau:
+  - `easy, hard, difficult, simple, dangerous, expensive, impossible, pleasant`
+  - Bài toán này **dễ giải**. (không nói *to solve it*)
+- **Khả năng xảy ra**: `likely, unlikely, certain, sure, bound, due, apt`.
+  - Anh ấy **có khả năng sẽ thắng**.
+- **Số thứ tự và so sánh nhất**: `the first, the last, the next, the only, the best`.
+  - Cô ấy là **người đầu tiên đến**.
+- Sau `too` và `enough` → xem [[Too With Infinitive]] và [[Enough With Infinitive]].
+
+### Examples
+
+- Chúng tôi **rất tiếc khi nghe** tin bạn bị tai nạn.
+- Bản hướng dẫn này **khó làm theo**.
+- Họ **khó có khả năng chấp nhận** các điều khoản đó.
+- Cậu ấy là **học sinh duy nhất làm xong** đúng giờ.
+- Tôi **sẵn lòng giúp** bạn bất cứ lúc nào.
+
+### Notes & exceptions
+
+- Với các tính từ kiểu `easy / hard / difficult`, **không** lặp lại tân ngữ: ❌ *English is easy to learn it.*
+- Một số tính từ lại đi với giới từ + danh động từ: `interested in doing`, `good at doing`, `afraid of doing` → xem [[Adjective Preposition Combinations]] và [[Gerund After Prepositions]].
+- `afraid`, `sure`, `ashamed` dùng được cả hai mẫu với nghĩa khác nhau: *afraid **to ask*** (ngại, không dám hỏi) khác với *afraid **of failing*** (sợ một điều gì đó xảy ra: sợ thất bại).
+- Dạng có `for + object` đưa vào một người thực hiện khác: *It is important **for students to arrive** on time.* (Việc học sinh đến đúng giờ là quan trọng.)
+
+### Common mistakes
+
+- `interested` đi với `in + V-ing`, không đi với `to + V`.
+- Chủ ngữ `this book` đã là tân ngữ của `read`, nên không lặp lại bằng `it`.
+- Sau `likely` dùng `to + V`, không dùng `V-ing`.
+
+### Contrast with
+
+- [[It Is Adjective For Somebody To Do]] — dạng dùng chủ ngữ giả `it`, có nêu người thực hiện
+- [[It Is Adjective Of Somebody To Do]] — nhận xét về cách cư xử của một người
+- [[Anticipatory It As Object]] — `find it easy to ...`
+- [[Adjective Preposition Combinations]] — tính từ + giới từ + `-ing`

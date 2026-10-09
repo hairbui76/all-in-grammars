@@ -42,4 +42,28 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Đồng vị ngữ là một danh từ hoặc cụm danh từ đặt cạnh một danh từ khác để giải thích hoặc xác định danh từ đó, và nó có cùng chức năng ngữ pháp với danh từ ấy.
+
+### Form
+
+`Noun, + noun phrase, + ...` (giải thích — có dấu phẩy)
+`Noun + noun phrase + ...` (xác định — không có dấu phẩy)
+
+### When to use
+
+- **Có dấu phẩy** khi đồng vị ngữ chỉ giải thích thêm cho một danh từ đã được xác định.
+- **Không có dấu phẩy** khi cần đồng vị ngữ để xác định danh từ.
+
+### Examples
+
+- Manchester, **một thành phố lớn ở Tây Bắc nước Anh**, có một đội bóng rất mạnh. (`a big city in Northwest England` giải thích cho `Manchester` và cùng làm chủ ngữ của `has`)
+- Ai cũng đến thăm Nhà Trắng, **nơi ở của tổng thống**. (`the house of the president` giải thích cho `the White House` và cùng làm tân ngữ của `visits`)
+- Nhà soạn kịch vĩ đại người Anh **Shakespeare** sinh năm 1564. (xác định — không có dấu phẩy)
+- Bố anh ấy **ông John** sẽ có một bài thuyết trình về động vật hoang dã. (xác định — không có dấu phẩy)
+
+### Contrast with
+
+- [[Non-Defining Relative Clauses]] — cùng chức năng giải thích, nhưng dùng một mệnh đề có động từ chia
+- [[Reduced Relative Clauses]] — rút gọn thành phân từ chứ không phải thành cụm danh từ

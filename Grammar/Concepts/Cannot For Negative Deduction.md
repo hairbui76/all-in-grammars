@@ -60,4 +60,46 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`Can't` và `couldn't` diễn tả sự chắc chắn của người nói rằng điều gì đó **không** đúng — chúng là dạng phủ định tương ứng của `must` chỉ suy luận.
+
+### Form
+
+| Time reference | Structure | Equivalent |
+|---|---|---|
+| hiện tại, đang diễn ra | `S + can't be + V-ing` | `I'm sure` + mệnh đề phủ định ở thì hiện tại tiếp diễn |
+| quá khứ, đã hoàn thành | `S + can't / couldn't have + PII` | `I'm sure` + mệnh đề phủ định ở thì quá khứ đơn |
+| quá khứ, đang diễn ra | `S + can't / couldn't have been + V-ing` | `I'm sure` + mệnh đề phủ định ở thì quá khứ tiếp diễn |
+
+### Examples — present
+
+- Hôm nay là Chủ nhật. Họ **không thể nào đang làm việc** ở văn phòng được. = Tôi chắc chắn họ không làm việc ở văn phòng.
+- Trông anh ấy nghiêm túc lắm. Anh ấy **không thể nào đang đùa** được. = Tôi chắc chắn anh ấy không đùa.
+- Bây giờ bọn trẻ **không thể nào đang học** ở trường được.
+- Cô ấy **không thể nào đang kiếm được** nhiều tiền.
+- Cô ấy **không thể nào đang vui vẻ** được vì thời tiết khá xấu.
+
+### Examples — past
+
+- Người mà bạn thấy trong siêu thị sáng nay **không thể nào là** Hương được, vì cô ấy đã sang Canada và đến tháng sau mới về.
+- Mặt đất khô ráo. Đêm qua trời **không thể nào đã mưa** được.
+- Tôi **không thể nào nhầm** cô ấy với ai khác được.
+- Họ thua năm trận liên tiếp. Họ **không thể nào đã chơi** tốt được.
+- Peter không chào tôi khi tôi gặp anh ấy trên phố. Anh ấy **không thể nào đã nhìn thấy** tôi. = Tôi chắc chắn Peter đã không nhìn thấy tôi.
+- Anh ta **không thể nào đã lấy trộm** số tiền đó vì lúc ấy anh ta không có mặt ở đó.
+
+### Examples — past continuous
+
+- Jack đi thẳng vào bức tường. Lúc đó anh ấy **không thể nào đang nhìn** đường mình đi được.
+- Bọn trẻ **không thể nào đang học** ở trường vào lúc 10 giờ tối hôm qua được. = Tôi chắc chắn lúc đó bọn trẻ không học.
+
+### Notes & exceptions
+
+- Không dùng `mustn't` cho suy luận phủ định; `mustn't` mang nghĩa cấm đoán.
+- `Couldn't` được dùng trong **mọi** tình huống ở dạng phủ định, trong khi `could` khẳng định chỉ giới hạn ở khả năng nói chung trong quá khứ → xem [[Ability With Can And Could]].
+
+### Contrast with
+
+- [[Must For Deduction]] — chắc chắn rằng điều gì đó đúng
+- [[May And Might For Possibility]] — sự không chắc chắn, chứ không phải sự chắc chắn

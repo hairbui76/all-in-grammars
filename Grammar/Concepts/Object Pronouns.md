@@ -54,4 +54,40 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Dạng của đại từ nhân xưng khi nó là đối tượng chịu tác động của hành động, tức là khi đứng sau động từ hoặc giới từ.
+
+### The set
+
+| Subject | Object |
+|---|---|
+| I | me |
+| you | you |
+| he | him |
+| she | her |
+| it | it |
+| we | us |
+| you | you |
+| they | them |
+
+### When to use
+
+- Làm tân ngữ trực tiếp hoặc gián tiếp của động từ
+- Đứng sau giới từ
+
+### Examples
+
+- Tôi thích **anh ấy**.
+- Tôi muốn nói chuyện với **cô ấy**.
+- Anh ấy khoẻ hơn **tôi**.
+
+### Notes & exceptions
+
+- `you` và `it` không đổi dạng.
+- Trong câu so sánh, cả hai dạng đều được dùng: *He is stronger than **me*** (thân mật) / *than **I** am* (trang trọng) — xem [[Comparative and Superlative]].
+
+### Contrast with
+
+- [[Personal Pronouns]] — ở vị trí chủ ngữ
+- [[Reflexive Pronouns]] — dùng khi chủ ngữ và tân ngữ là cùng một người

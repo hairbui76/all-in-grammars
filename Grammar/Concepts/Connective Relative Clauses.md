@@ -58,4 +58,44 @@ Use `of whom` for persons and `of which` for things. The pronoun is never `that`
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Mệnh đề quan hệ nối tiếp kéo dài câu sau tân ngữ của động từ, thường với cấu trúc `quantifier + of whom/of which`.
+
+### Form
+
+`..., quantifier + of whom / of which + clause`
+
+Các từ chỉ số lượng được dùng: `all of` · `most of` · `none of` · `neither of` · `any of` · `either of` ·
+`some of` · `many of` · `much of` · `(a) few of` · `both of` · `half of` · `each of` ·
+`one of` · `two of` ...
+
+Dùng `of whom` cho người và `of which` cho vật. Đại từ ở đây không bao giờ là `that`, và bắt buộc phải có dấu phẩy.
+
+### When to use
+
+- Để nối câu thứ hai nói về một phần hoặc toàn bộ nhóm đã được nhắc đến trước đó.
+- Thay cho việc lặp lại `them`/`some of them` trong một câu riêng.
+
+### Examples
+
+- Tôi có một chiếc xe **được sản xuất tại Nhật**.
+- Họ có hai chiếc xe. Họ hiếm khi dùng một trong hai chiếc. → Họ có hai chiếc xe, **một trong số đó họ hiếm khi dùng**.
+- Ông Brown có hai cô con gái. Cả hai đều là bác sĩ. → Ông Brown có hai cô con gái, **cả hai đều là bác sĩ**.
+- Ông Brown có hai cô con gái. Họ là bác sĩ. → Ông Brown có hai cô con gái **làm bác sĩ**.
+- Mary có ba anh em trai. Tất cả đều đã lập gia đình. → Mary có ba anh em trai, **tất cả đều đã lập gia đình**.
+- Họ hỏi tôi rất nhiều câu hỏi. Tôi không trả lời được phần lớn trong số đó. → Họ hỏi tôi rất nhiều câu hỏi, **phần lớn trong số đó tôi không trả lời được**.
+- Tom thử ba chiếc áo khoác, **không chiếc nào vừa với anh ấy**.
+- Hai người đàn ông, **cả hai tôi đều chưa từng gặp trước đó**, bước vào văn phòng của tôi.
+- Họ có ba chiếc xe, **hai chiếc trong số đó họ hiếm khi dùng**.
+- Cô ấy có rất nhiều bạn, **nhiều người trong số đó từng học cùng trường với cô**.
+
+### Notes & exceptions
+
+- Từ chỉ số lượng phải giữ `of`: ❌ `all whom`, ✅ `all of whom`.
+- So sánh `both of whom are doctors` (toàn bộ thông tin đã biết) với mệnh đề xác định thông thường `who are doctors`, vốn giới hạn phạm vi những người được nói đến.
+
+### Contrast with
+
+- [[Non-Defining Relative Clauses]] — thông tin bổ sung với một đại từ quan hệ thông thường
+- [[Which Referring to a Whole Clause]] — `which` bình luận về toàn bộ ý đứng trước

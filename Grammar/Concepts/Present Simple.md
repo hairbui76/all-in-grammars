@@ -64,4 +64,41 @@ Add `-es` when the verb ends in `s, ss, sh, ch, x, z` (*passes, washes, watches,
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Nêu lên các sự thật, thói quen và tình huống lâu dài, đúng trong khoảng thời gian hiện tại.
+
+### Form
+
+Thêm `-es` khi động từ tận cùng bằng `s, ss, sh, ch, x, z` (*passes, washes, watches, fixes*), bằng `o` (*do → does, go → goes*), hoặc bằng phụ âm + `y` (đổi `y` thành `i`: *study → studies*). Các trường hợp còn lại thêm `-s`.
+
+### When to use
+
+- Sở thích, điều không thích và cảm xúc ở hiện tại
+- Thói quen và những hành động lặp lại hằng ngày
+- Khả năng hay năng lực của ai đó ở hiện tại
+- Chân lý chung và quy luật tự nhiên
+- Trong mệnh đề `if` của câu điều kiện có thật ở hiện tại (loại 1)
+- Sau liên từ chỉ thời gian (`when, by the time, as soon as, until/till, after, before, while`) trong câu nói về tương lai
+- Các sự kiện theo lịch trình: lịch tàu xe, phim ảnh, chương trình tivi, kế hoạch cá nhân đã cố định
+
+### Examples
+
+- Tôi **thích** nhạc cổ điển. — Cô ấy **ghét** phải dậy sớm.
+- Mẹ tôi thường **thức** khuya và **dậy** sớm.
+- Anh ấy **nói** tiếng Anh trôi chảy.
+- Trái đất **quay** quanh mặt trời. — Dầu **nổi** trên mặt nước.
+- Nếu bạn **học** chăm chỉ, bạn sẽ thi đỗ.
+- Khi **về** đến nhà, tôi sẽ gọi điện cho bạn. — Ngay khi buổi học **kết thúc**, chúng tôi sẽ về nhà.
+- Chuyến tàu đi Hà Nội **rời** ga Thái Nguyên lúc 7 giờ sáng mai.
+
+### Notes & exceptions
+
+- Thì này dùng cho các tình huống ỔN ĐỊNH, nên nó đi với các cụm từ chỉ thời gian mang tính ổn định: *every day* (hằng ngày), *every week* (hằng tuần), *every month* (hằng tháng), *on Mondays* (vào các ngày thứ Hai), *in the morning/afternoon/evening* (vào buổi sáng/chiều/tối), *at noon* (vào buổi trưa), *in spring/summer/autumn/winter* (vào mùa xuân/hạ/thu/đông), *every four years* (bốn năm một lần), *every hour* (mỗi giờ).
+- Sau `when` trong câu nói về tương lai không dùng `will`; động từ chia ở thì hiện tại đơn (`get`).
+
+### Contrast with
+
+- [[Present Continuous]] — các tình huống tạm thời đang diễn ra quanh hiện tại
+- [[Present Perfect]] — hành động trong quá khứ có liên quan đến hiện tại
+- [[Be Going To]] — các kế hoạch đã được quyết định từ trước

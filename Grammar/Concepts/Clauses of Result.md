@@ -68,4 +68,44 @@ Paired result with `so ... that` and `such ... that`:
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Mệnh đề chỉ kết quả nêu **hệ quả** của mệnh đề chính và được mở đầu bằng `so`, `therefore`, hoặc các cấu trúc đi theo cặp `so ... that` và `such ... that`.
+
+### Examples
+
+Kết quả đơn giản với `so`:
+
+- Tôi thấy đói **nên** tôi đã ăn hai cái bánh.
+- Anh ấy thi trượt. **Vì thế** anh ấy phải làm công việc mà mình không thích.
+
+Kết quả với cặp `so ... that` và `such ... that`:
+
+- Trời lạnh **đến nỗi** chúng tôi phải ngừng chơi.
+- Hôm đó là một ngày lạnh **đến nỗi** chúng tôi phải ngừng chơi.
+- Anh ấy là người tốt bụng **đến mức** ai cũng quý anh ấy.
+- Có **quá ít** người dự họp **đến nỗi** họ quyết định hoãn cuộc họp.
+- Hôm nay tôi có **nhiều** bài tập về nhà **đến nỗi** không thể chơi cầu lông.
+
+### Notes & exceptions
+
+- `so` đi với tính từ, trạng từ, hoặc `few / much / many`; `such` đi với danh từ (có hoặc không có tính từ đi kèm) → xem [[So and Such]].
+- Mệnh đề chỉ kết quả và mệnh đề chỉ lý do mô tả cùng một sự việc từ hai đầu ngược nhau:
+  - Tôi thấy đói **nên** tôi đã ăn hai cái bánh. (`so` + kết quả)
+  - Tôi đã ăn hai cái bánh **vì** tôi thấy đói. (`because` + lý do)
+- Đừng nhầm `so that` (chỉ mục đích, đi với động từ khuyết thiếu) với `so ... that` (chỉ kết quả, đi với từ chỉ mức độ):
+  - Anh ấy học chăm chỉ **vì** anh ấy muốn thi đỗ. (lý do)
+  - Anh ấy học chăm chỉ **để** có thể thi đỗ. (mục đích)
+  - Anh ấy học chăm chỉ **đến mức** đã thi đỗ. (kết quả)
+
+### Common mistakes
+
+- `a cold day` là cụm danh từ nên phải dùng `such`, không dùng `so`.
+- `a kind person` là cụm danh từ nên phải dùng `such`; `so` chỉ đi với tính từ hoặc trạng từ đứng một mình.
+
+### Contrast with
+
+- [[So and Such]] — cách chọn giữa hai từ chỉ mức độ này
+- [[Clauses of Purpose]] — ý định chứ không phải kết quả
+- [[Clauses of Reason]] — nguyên nhân chứ không phải hệ quả
+- [[Connectors of Result]] — `therefore`, `consequently`, `as a result` nối hai câu với nhau

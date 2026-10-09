@@ -50,4 +50,36 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Có một nhóm nhỏ các đuôi tự mang trọng âm, nên trọng âm chính rơi vào hậu tố chứ không rơi vào từ gốc.
+
+### Rule
+
+`root + stressed suffix` → trọng âm chính rơi **vào hậu tố**
+
+### The list
+
+| Suffix | Examples with transcription |
+|---|---|
+| **-eer** | volunteer /ˌvɒlənˈtɪə/, career /kəˈrɪə/ |
+| **-ee** | employee /emplɔɪˈiː/, interviewee /ˌɪntəvjuːˈiː/ |
+| **-oo** | bamboo /ˌbamˈbuː/, taboo /təˈbuː/ |
+| **-oon** | afternoon /ˌɑːftəˈnuːn/, cartoon /kɑːˈtuːn/ |
+| **-ese** | Vietnamese /ˌvɪetnəˈmiːz/ |
+| **-ette** | cigarette /ˌsɪɡəˈret/ |
+| **-esque** | picturesque /ˌpɪktʃəˈresk/ |
+| **-ade** | lemonade /ˌleməˈneɪd/ |
+| **-mental** | environmental /ɪnˌvaɪərənˈmentl/ |
+| **-nental** | continental /ˌkɒntɪˈnentl/ |
+| **-ain** | entertain /ˌentəˈteɪn/ |
+
+### Notes & exceptions
+
+- `-ee` / `-eer` có những ngoại lệ quen thuộc: coffee /ˈkɒfi/, reindeer /ˈreɪndɪə/, committee /kəˈmɪti/, employee /ɪmˈplɔɪiː/ (cũng đọc là /ˌemplɔɪˈiː/) → xem [[Word Stress Exceptions]].
+- Vì `-ain` mang trọng âm nên một từ như `entertainment` (trong đó `-ment` là đuôi trung tính) vẫn nhấn trọng âm ở âm tiết thứ ba: /ˌentəˈteɪnmənt/.
+
+### Contrast with
+
+- [[Suffixes That Shift Stress to the Previous Syllable]] — hậu tố không mang trọng âm nhưng kéo trọng âm về ngay sát nó
+- [[Suffixes That Do Not Affect Stress]] — hậu tố không ảnh hưởng gì đến trọng âm

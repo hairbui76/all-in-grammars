@@ -52,4 +52,38 @@ Active: `S + modal + V + Object` → Passive: `S + modal + be + P2 + by + Agent`
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Sau động từ khuyết thiếu hoặc trợ động từ có tính chất như động từ khuyết thiếu, câu bị động được tạo bằng `be + quá khứ phân từ`; bản thân động từ khuyết thiếu không bao giờ thay đổi.
+
+### Form
+
+`S + modal + be + P2 + (by + Agent)`
+
+Các động từ khuyết thiếu và trợ động từ dùng theo cấu trúc này:
+
+`can` · `could` · `may` · `might` · `must` · `ought to` · `should` · `had better` ·
+`have/has to` · `used to`
+
+Chủ động: `S + modal + V + Object` → Bị động: `S + modal + be + P2 + by + Agent`
+
+### Examples
+
+- Anh ấy **không thể sửa** xe đạp của tôi. → Xe đạp của tôi **không thể được** anh ấy **sửa**.
+- Bạn **nên chú ý** nhiều hơn đến việc học của mình. → Việc học của bạn **nên được chú ý** nhiều hơn.
+- Bạn **phải rửa** tay. → Tay của bạn **phải được rửa**.
+- Trẻ em **nên đối xử** với người già một cách kính trọng. → Người già **nên được** trẻ em **đối xử** một cách kính trọng.
+- Thầy giáo của chúng tôi **từng cấm** chúng tôi nói chuyện trong lớp. → Chúng tôi **từng bị** thầy giáo **cấm** nói chuyện trong lớp.
+- Ngày mai ông Brown **sẽ bổ nhiệm** Tom làm giám đốc. → Ngày mai Tom **sẽ được** ông Brown **bổ nhiệm** làm giám đốc.
+- Họ **phải báo** việc đó cho cảnh sát. → Việc đó **phải được báo** cho cảnh sát.
+
+### Notes & exceptions
+
+- Từ phủ định vẫn đi liền với động từ khuyết thiếu: `can't be repaired`, `mustn't be touched`.
+- `used to + V` chuyển thành `used to be + P2` — dạng `used to` không chia.
+- Với động từ khuyết thiếu ở dạng hoàn thành, cấu trúc mở rộng thành `modal + have been + P2`: `He must have been arrested.` (chắc hẳn anh ta đã bị bắt).
+
+### Contrast with
+
+- [[Passive Voice in Nine Tenses]] — câu bị động chia theo thì, trong đó `be` mang thì của câu
+- [[Causative Form]] — sắp xếp để người khác thực hiện hành động

@@ -59,4 +59,45 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Đại từ sở hữu thay cho "tính từ sở hữu + danh từ" để không phải lặp lại danh từ.
+
+### Form
+
+| Possessive adjective | Possessive pronoun |
+|---|---|
+| my | mine |
+| your | yours |
+| his | his |
+| her | hers |
+| its | its |
+| our | ours |
+| your | yours |
+| their | theirs |
+
+`It is my car.` (Đó là xe của tôi.) ⇔ `It is mine.` (Nó là của tôi.)
+
+### When to use
+
+- Làm chủ ngữ của động từ
+- Làm tân ngữ của động từ
+- Đứng một mình, không có danh từ theo sau
+
+### Examples
+
+- Áo sơ mi của bạn màu đỏ. **Của tôi** màu trắng.
+- Bố cô ấy là kỹ sư. Còn **bố anh ấy** là cảnh sát.
+- **Nước chúng ta** là một nước đang phát triển.
+- Cuốn sách này là **của tôi** / **của anh ấy** / **của họ** / của Peter.
+- Những chiếc bút này là **của cô ấy**.
+
+### Common mistakes
+
+- Sau đại từ sở hữu `mine` không có danh từ; trước danh từ phải dùng tính từ sở hữu `my`.
+- Đại từ sở hữu không bao giờ viết với dấu nháy: `yours`, `hers`.
+
+### Contrast with
+
+- [[Possessive Adjectives]] — luôn có danh từ theo sau
+- [[Possessive Case With Apostrophe S]] — dạng tương ứng của danh từ (`Peter's`, `Linh's`)

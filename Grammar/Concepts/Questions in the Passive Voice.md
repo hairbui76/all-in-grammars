@@ -57,4 +57,43 @@ Question word as object:
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Cách chuyển một câu hỏi sang bị động tuỳ thuộc vào việc từ để hỏi là chủ ngữ hay tân ngữ của câu chủ động.
+
+### Form
+
+**A. Từ để hỏi là CHỦ NGỮ** (câu hỏi chủ động không có trợ động từ; động từ chia ở ngôi thứ ba số ít).
+
+`Who/What + V + O?` → `By whom + be + S + P2?` hoặc `Who/What + be + S + P2 + by?`
+
+Áp dụng công thức bị động thông thường của thì tương ứng.
+
+**B. Từ để hỏi là TÂN NGỮ** (câu hỏi chủ động cần có trợ động từ).
+
+`Wh- + auxiliary + S + V?` → lập câu bị động khẳng định thông thường của thì đó, trong đó từ để hỏi lúc này đóng vai trò chủ ngữ của câu bị động.
+
+### Examples
+
+Từ để hỏi làm chủ ngữ:
+
+- **Ai yêu** cô ấy? → Cô ấy **được ai yêu**?
+- **Ai đã làm vỡ** cửa sổ kính? → Cửa sổ kính **đã bị ai làm vỡ**?
+- **Cái gì đã tàn phá** thành phố Oxford? → Thành phố Oxford **đã bị cái gì tàn phá**?
+- **Ai sẽ giải quyết** vấn đề này? → Vấn đề này **sẽ được ai giải quyết**?
+
+Từ để hỏi làm tân ngữ:
+
+- Cô ấy **yêu ai**? → **Ai được** cô ấy **yêu**?
+- Cảnh sát **đã bắt ai**? → **Ai đã bị** cảnh sát **bắt**?
+- Họ **đã gọi loại rượu vang nào**? → **Loại rượu vang nào đã được** họ **gọi**?
+- Chúng ta **có thể làm gì** để bảo vệ môi trường? → **Điều gì có thể được làm** để bảo vệ môi trường?
+
+### Notes & exceptions
+
+- `Who ... by?` là trật tự từ thân mật; `By whom ...?` là cách nói trang trọng.
+- Ở cấu trúc A, câu trả lời cho câu hỏi gốc luôn là `S + auxiliary`; đây là một phép thử hữu ích để nhận ra cấu trúc này.
+
+### Contrast with
+
+- [[Passive Voice in Nine Tenses]] — các dạng câu trần thuật mà từ đó những câu hỏi này được tạo ra

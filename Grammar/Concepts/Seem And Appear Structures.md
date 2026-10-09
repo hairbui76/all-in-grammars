@@ -60,4 +60,44 @@ status: complete
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`Seem, appear, pretend` và `happen` đi với động từ nguyên mẫu, và dạng của nguyên mẫu (đơn, tiếp diễn, hoàn thành, hoàn thành tiếp diễn) cho biết thời gian của hành động; mỗi câu đều có một mệnh đề `It ... that` tương đương.
+
+### Form
+
+`S + seem / appear / pretend / happen + to-infinitive`
+= `It + seems / appears / happens + that + clause`
+= `S + pretends + that + clause`
+
+### Examples — simple and continuous
+
+- Anh ta **có vẻ đang chạy** trốn con chó dữ của bạn. = Trông như thể anh ta đang chạy trốn ...
+- Tôi **tình cờ đang đứng** cạnh đứa bé khi nó ngã. = Tình cờ là lúc đó tôi đang đứng ...
+- Cô ấy **giả vờ / đã giả vờ đang ngủ**. = Cô ấy giả vờ / đã giả vờ rằng mình đang ngủ.
+
+### Examples — perfect infinitive
+
+- Cô ấy **giả vờ đã để dành được** nhiều tiền. = Cô ấy giả vờ rằng mình đã để dành được nhiều tiền.
+- Tôi **tình cờ đã gặp** anh ấy. = Tình cờ là tôi đã gặp anh ấy.
+- Họ **có vẻ đã sống** ở thành phố này lâu rồi. = Có vẻ như họ đã sống ...
+- **Dường như** không ai **đoán** đúng đáp án. = Có vẻ như không ai đoán đúng đáp án.
+- Anh ấy **có vẻ đã đi** London công tác. = Có vẻ như anh ấy đã đi London công tác.
+- Họ **có vẻ đã giấu** số vàng ở đó từ lâu.
+- Bạn **có vẻ / lúc đó có vẻ đã tăng** cân. = Có vẻ như / Lúc đó có vẻ như bạn đã tăng cân.
+
+### Examples — perfect continuous infinitive
+
+- Cô ấy **có vẻ đã đợi** bạn lâu lắm rồi. = Có vẻ như cô ấy đã đợi bạn lâu lắm rồi.
+- Tôi **tình cờ đã đứng** ở đó được vài phút thì đám cháy bùng lên.
+- Cô ấy **giả vờ đã học** tiếng Anh từ lâu. Thực ra cô ấy mới bắt đầu học.
+
+### Notes & exceptions
+
+- `hope, promise, determine, arrange, expect` cũng hoạt động theo cách đó nhưng hướng về tương lai:
+  - Tôi **hy vọng** đến cuối năm nay **sẽ để dành đủ** tiền để mua một chiếc ô tô. = Tôi hy vọng rằng mình sẽ để dành đủ ...
+  - Em **hứa** đến buổi sau **sẽ học thuộc hết** các từ mới.
+
+### Contrast with
+
+- [[Passive Reporting Structures]] — cùng dãy các dạng nguyên mẫu đó nhưng ở thể bị động với `say / think / believe`

@@ -58,4 +58,43 @@ Things:
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+`whose` thay cho tính từ sở hữu (`my`, `her`, `his`, `their`, `its`) và luôn có danh từ đi liền ngay sau.
+
+### Form
+
+- Chỉ người và vật: `antecedent + whose + noun + ...`
+- Chỉ dùng cho vật, cách nói trang trọng hơn: `antecedent + the + noun + of which + ...`
+
+### When to use
+
+- Dùng `whose` bất cứ khi nào thành phần bị lặp lại ở câu thứ hai là một tính từ sở hữu.
+- Với vật, cả `whose + noun` và `noun + of which` đều dùng được; `of which` trang trọng hơn và không dùng cho người.
+
+### Examples
+
+Chỉ người:
+
+- Người phụ nữ ấy là một nhà vật lý người Pháp. Cha bà là người Ba Lan. → Người phụ nữ **có cha là người Ba Lan** là một nhà vật lý người Pháp.
+- Những người **bị tăng tiền thuê nhà** có thể khiếu nại.
+- Bộ phim kể về một điệp viên **bị vợ phản bội**.
+- Trẻ mồ côi là đứa trẻ **có cha mẹ đã mất**.
+- Người đàn ông ấy là một nhà vật lý người Anh **có tên tuổi lừng danh trong lịch sử ngành điện**.
+- Người đàn ông **có ngôi nhà to nhất làng** là một triệu phú.
+- Nhà toán học là người **có mối quan tâm dành cho toán học**.
+
+Chỉ vật:
+
+- Ngôi nhà là của chúng tôi. Cửa của nó màu xanh lá. → Ngôi nhà **có cửa màu xanh lá** là của chúng tôi.
+- Ngôi nhà **có mái** bị cơn bão thổi bay giờ đang trong tình trạng tồi tệ.
+
+### Common mistakes
+
+- Để chỉ sở hữu phải dùng `whose` thay cho tính từ sở hữu, không dùng `who` + `her`.
+- Sau `whose` là danh từ ngay, không có mạo từ.
+
+### Contrast with
+
+- [[Relative Pronouns]] — `who`/`which` thay cho chủ ngữ hoặc tân ngữ, không phải từ sở hữu
+- [[Connective Relative Clauses]] — `of whom` / `of which` sau một từ chỉ số lượng

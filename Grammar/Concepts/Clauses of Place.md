@@ -55,4 +55,37 @@ Main clause + where / wherever + S + V
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Mệnh đề chỉ nơi chốn cho biết hành động ở mệnh đề chính xảy ra **ở đâu** và được mở đầu bằng `where` hoặc `wherever`.
+
+### Form
+
+- `where` = ở / đến đúng cái nơi mà
+- `wherever` = ở / đến bất cứ nơi nào mà, bất kể ở đâu
+
+### Examples
+
+- Tôi nhìn về **nơi** anh ấy chỉ.
+- Anh ấy cho tôi biết **nơi** anh ấy đã thấy số tiền.
+- Hãy ngồi **bất cứ chỗ nào** bạn muốn.
+- Tôi sẽ đi **bất cứ nơi đâu** bạn đi.
+- Ở Bali, **đi đâu** bạn cũng sẽ thấy những nghi lễ này.
+
+### Notes & exceptions
+
+- Không cần giới từ trước `where`: trong cấu trúc này, ❌ *I looked at where he pointed* là thừa giới từ.
+- Động từ trong mệnh đề `where` / `wherever` không bao giờ chia ở thì tương lai khi mệnh đề chính nói về tương lai: *I will go **wherever you go*** (tôi sẽ đi bất cứ nơi đâu bạn đi), không viết ~~wherever you will go~~.
+- `where` còn đóng vai trò **trạng từ quan hệ** gắn với một danh từ chỉ nơi chốn (*the town **where** I was born* — thị trấn nơi tôi sinh ra); đó là mệnh đề quan hệ chứ không phải mệnh đề trạng ngữ → xem [[Relative Adverbs]].
+
+### Common mistakes
+
+- Mệnh đề `wherever` không dùng thì tương lai khi mệnh đề chính đã nói về tương lai; dùng hiện tại đơn.
+- Mệnh đề chỉ nơi chốn giữ trật tự từ của câu trần thuật, không đảo trợ động từ `do` như trong câu hỏi.
+
+### Contrast with
+
+- [[Relative Adverbs]] — `where` bổ nghĩa cho một danh từ chứ không phải cho cả mệnh đề
+- [[Adverbs of Place]] — một trạng từ đơn chứ không phải mệnh đề
+- [[Clauses of Time]] — chỉ thời gian (khi nào), không phải nơi chốn (ở đâu)
+- [[However and No Matter]] — nhóm cấu trúc `no matter` mà `wherever` thuộc về

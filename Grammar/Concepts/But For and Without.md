@@ -67,4 +67,44 @@ Present reference:
 
 ## Ghi chú tiếng Việt
 
-<!-- reserved: Vietnamese explanation will be added in a later pass -->
+### In one line
+
+Một điều kiện có thể được rút gọn thành `but for` hoặc `without` + danh từ, mang nghĩa "if it were not for" / "if it had not been for" (nếu không có / nếu đã không có).
+
+### Form
+
+Cả sáu cấu trúc dưới đây đều diễn đạt cùng một ý nghĩa điều kiện:
+
+Với nghĩa hiện tại / trái với thực tế hiện tại, cặp tương đương là `Without + N` = `Were it not for + N`.
+
+### When to use
+
+- Khi điều kiện là một sự vật hoặc hành động của một người, có thể gọi tên bằng một cụm danh từ
+- Để tránh một mệnh đề `if` dài, nhất là trong văn viết trang trọng
+
+### Examples
+
+Nói về quá khứ (các câu đều tương đương):
+
+- Nếu cô ấy **không khăng khăng** đòi hôn tạm biệt mọi người thì cô ấy đã không lỡ tàu.
+- **Giá cô ấy không khăng khăng** đòi hôn tạm biệt mọi người thì cô ấy đã không lỡ tàu.
+- **Nếu không vì** việc cô ấy khăng khăng đòi hôn tạm biệt mọi người thì cô ấy đã không lỡ tàu.
+- **Nếu không có** việc cô ấy khăng khăng đòi hôn tạm biệt mọi người thì cô ấy đã không lỡ tàu.
+- **Nếu không phải vì** sự khăng khăng của cô ấy thì cô ấy đã không lỡ tàu.
+- **Giá mà không phải vì** sự khăng khăng của cô ấy thì cô ấy đã không lỡ tàu.
+
+Nói về hiện tại:
+
+- **Không có** âm nhạc, cuộc sống của chúng ta sẽ tẻ nhạt.
+- **Nếu không vì** tiền thì công việc này chẳng đáng làm.
+
+### Notes & exceptions
+
+- `But for` trang trọng hơn `without` và hầu như luôn đi với một danh từ trừu tượng (`but for your help`, `but for the rain`).
+- Mệnh đề chính giữ nguyên thì của loại câu điều kiện mà nó thay thế: `would + V` cho hiện tại, `would have + V3` cho quá khứ.
+
+### Contrast with
+
+- [[Inversion in Conditionals]] — cùng nghĩa, dạng đảo động từ lên đầu câu
+- [[Third Conditional]] — dạng mệnh đề đầy đủ
+- [[Implied Conditionals]] — điều kiện không nói ra mà phải tự suy ra

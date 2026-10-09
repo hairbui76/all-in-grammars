@@ -18,19 +18,54 @@ try {
 // A phone sometimes lays the page out at desktop width (about 980px) and shrinks it to fit,
 // e.g. with "Desktop site" switched on, which leaves the phone layout unreadably small.
 // Scale it back up so one CSS pixel matches the real screen again.
+//
+// A wrong guess here would blow the page up on a healthy phone, so the test is strict: besides the
+// width mismatch, the browser must actually be showing the page zoomed out. Sizes that are briefly
+// out of step, as in the middle of a rotation, never do that.
 (function () {
-  function fit() {
-    var landscape = matchMedia('(orientation: landscape)').matches;
-    // iOS keeps screen.width as the portrait width whichever way the phone is held
-    var screenW = landscape ? Math.max(screen.width, screen.height) : Math.min(screen.width, screen.height);
-    var w = window.innerWidth;
-    var touch = navigator.maxTouchPoints > 0 || 'ontouchstart' in window || matchMedia('(pointer: coarse)').matches;
-    var on = touch && screenW < 700 && w < 1000 && w > screenW * 1.25;
-    document.documentElement.style.zoom = on ? w / screenW : '';
-    document.documentElement.classList.toggle('fit', on);
+  var root = document.documentElement;
+  var fitted = null; // {w, landscape} the zoom was computed for, or null while not zoomed
+
+  function isLandscape() {
+    return matchMedia('(orientation: landscape)').matches;
   }
-  fit();
-  addEventListener('resize', fit);
+  // Zoom factor the page needs, or 0. Only meaningful while the page is not zoomed.
+  function needed() {
+    // iOS keeps screen.width as the portrait width whichever way the phone is held
+    var screenW = isLandscape() ? Math.max(screen.width, screen.height) : Math.min(screen.width, screen.height);
+    var w = window.innerWidth;
+    var vv = window.visualViewport;
+    var touch = navigator.maxTouchPoints > 0 || 'ontouchstart' in window || matchMedia('(pointer: coarse)').matches;
+    var shrunk = !!vv && vv.scale < 0.9;
+    return touch && shrunk && screenW >= 240 && screenW < 700 && w < 1000 && w > screenW * 1.25 ? w / screenW : 0;
+  }
+  function apply() {
+    var z = needed();
+    root.style.zoom = z || '';
+    root.classList.toggle('fit', !!z);
+    fitted = z ? { w: window.innerWidth, landscape: isLandscape() } : null;
+  }
+  function check() {
+    if (!fitted) return apply();
+    // zoomed already: the address bar or keyboard resizing the window changes nothing
+    if (fitted.w === window.innerWidth && fitted.landscape === isLandscape()) return;
+    // the layout changed: measure again from the unzoomed state
+    root.style.zoom = '';
+    root.classList.remove('fit');
+    fitted = null;
+    requestAnimationFrame(function () {
+      requestAnimationFrame(apply);
+    });
+  }
+  var timer;
+  function later() {
+    clearTimeout(timer);
+    timer = setTimeout(check, 250);
+  }
+  check();
+  addEventListener('DOMContentLoaded', check);
+  addEventListener('load', later);
+  addEventListener('resize', later);
 })();
 </script>
 </head>

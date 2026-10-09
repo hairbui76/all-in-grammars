@@ -1019,3 +1019,66 @@ mark {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }
+
+/* ---------- quiz sets on the review page ---------- */
+.sets {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+}
+.tile small {
+  margin-top: 6px;
+  color: var(--accent-ink);
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+.tile.dim small {
+  color: var(--ink-3);
+}
+.block-note {
+  margin: -4px 2px 10px;
+}
+.tests {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(96px, 1fr));
+  gap: 8px;
+}
+.test {
+  display: grid;
+  gap: 2px;
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--r);
+  background: var(--surface);
+  color: var(--ink);
+  text-align: center;
+}
+.test b {
+  font-size: 0.9375rem;
+  font-weight: 600;
+}
+.test span {
+  color: var(--ink-3);
+  font-size: 0.75rem;
+}
+.test.taken {
+  border-color: var(--accent);
+}
+.test.taken span {
+  color: var(--accent-ink);
+  font-weight: 600;
+}
+.pill:not(.bad) {
+  background: var(--surface-2);
+  color: var(--ink-2);
+}
+@media (hover: hover) {
+  .test:hover {
+    border-color: var(--accent);
+  }
+}
+@media (min-width: 640px) {
+  html:not(.fit) .sets {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}

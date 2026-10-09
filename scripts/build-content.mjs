@@ -2,6 +2,7 @@
 //   src/generated/index.json       units + light per-note metadata (always loaded)
 //   src/generated/units/<id>.json  lessons split into typed sections + flashcards, one chunk per unit
 //   src/generated/search.json      plain text of every lesson, loaded on first search
+//   src/generated/quiz.json        raw quiz material (see quiz-bank.mjs), loaded with the first quiz
 //
 // Each note may end with "## Ghi chú tiếng Việt": a Vietnamese mirror of its sections, one
 // "### <English section title>" part per section. The mirror is woven into the lesson item by item
@@ -14,6 +15,7 @@ import { fileURLToPath } from 'node:url'
 import path from 'node:path'
 import { marked } from 'marked'
 import { parse as parseHtml } from 'node-html-parser'
+import { quizItems, finishBank } from './quiz-bank.mjs'
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const conceptsDir = path.join(root, 'Grammar', 'Concepts')
@@ -145,10 +147,15 @@ function flashcard(sections, vi) {
   return { f: form ? render(form) : '', e: examples }
 }
 
-function quizPairs(sections) {
+/** Wrong/right sentence pairs from "Common mistakes": [bad, good, why, Vietnamese explanation]. */
+function quizPairs(sections, vi) {
   const pairs = []
-  for (const line of (sections['Common mistakes'] || '').split('\n')) {
-    const m = line.match(/^- [❌✗]\s*(.+?)\s*→\s*[✅✓]\s*(.+)$/)
+  const lines = topBullets(sections['Common mistakes'])
+  // the Vietnamese part explains each mistake, bullet for bullet
+  const viLines = topBullets(vi['Common mistakes'])
+  const explain = (i) => (viLines.length === lines.length ? plain(viLines[i]) : '')
+  for (const [i, text] of lines.entries()) {
+    const m = `- ${text}`.match(/^- [❌✗]\s*(.+?)\s*→\s*[✅✓]\s*(.+)$/)
     if (!m) continue
     // a trailing "(…)" explains the answer, so it is shown only after answering
     const why = []
@@ -159,7 +166,7 @@ function quizPairs(sections) {
     )
     // a wrong side that lists alternatives, or a gloss with "=", does not work as a two-way choice
     if ([bad, good].some((x) => x.length < 3 || / = /.test(x)) || bad.includes(' / ') || bad === good) continue
-    pairs.push(why.length ? [bad, good, why.join('; ')] : [bad, good])
+    pairs.push([bad, good, why.join('; '), explain(i)])
   }
   return pairs
 }
@@ -465,6 +472,7 @@ linkTarget = (target) => {
 const index = { meta: { book: config.book, total: 0, quiz: 0 }, paths: config.paths || [], units: [], notes: {} }
 const chunks = new Map(config.units.map((u) => [u.id, {}]))
 const search = {}
+let bank = []
 /** note title → what is missing or misaligned in its Vietnamese mirror */
 const report = new Map()
 /** A section made only of code blocks and formulas has nothing to translate. */
@@ -481,10 +489,10 @@ for (const u of config.units) {
 
     const abstract = (md.match(/^> \[!abstract\][^\n]*\n((?:>.*\n?)+)/m)?.[1] || '').replace(/^> ?/gm, '').trim()
     const sections = splitSections(md)
-    const q = quizPairs(sections)
 
     const problems = []
     const vi = parseVi(viMd, ['In one line', ...Object.keys(sections)], problems)
+    const q = quizPairs(sections, vi)
     if (!Object.keys(vi).length) problems.push(viMd.trim() ? 'the Vietnamese part has no "### <English section title>" headings' : 'no Vietnamese part yet')
     else {
       const missing = Object.entries(sections).filter(([name, text]) => sectionMeta(name).k !== 'rel' && !vi[name]?.trim() && needsVi(text))
@@ -517,14 +525,18 @@ for (const u of config.units) {
     const leadVi = vi['In one line']?.trim() ? renderInline(vi['In one line'].trim()) : ''
     const introHtml = intro ? render(intro) : ''
 
-    index.notes[title] = { u: u.id, ab: plain(abstract), al: Array.isArray(fm.aliases) ? fm.aliases : [], q }
+    bank.push(...quizItems({ title, unit: u.title, sections, vi, pairs: q, english: md }))
+    index.notes[title] = { u: u.id, ab: plain(abstract), al: Array.isArray(fm.aliases) ? fm.aliases : [], qn: 0 }
     chunks.get(u.id)[title] = { lead, leadVi, intro: introHtml, secs, rel, src: fm.source || '', fc: flashcard(sections, vi) }
     const text = [lead, leadVi, introHtml, ...secs.map((x) => `${x.en} ${x.h}`)].join(' ')
     search[title] = unescHtml(text.replace(/<[^>]+>/g, ' ')).replace(/\s+/g, ' ').trim()
     index.meta.total++
-    index.meta.quiz += q.length
   }
 }
+
+bank = finishBank(bank)
+for (const item of bank) index.notes[item.n].qn++
+index.meta.quiz = bank.length
 
 const untranslated = [...report.values()].filter((p) => p.includes('no Vietnamese part yet')).length
 const misaligned = [...report].filter(([, p]) => p.length && !p.includes('no Vietnamese part yet'))
@@ -546,9 +558,13 @@ await rm(outDir, { recursive: true, force: true })
 await mkdir(path.join(outDir, 'units'), { recursive: true })
 await writeFile(path.join(outDir, 'index.json'), JSON.stringify(index))
 await writeFile(path.join(outDir, 'search.json'), JSON.stringify(search))
+await writeFile(path.join(outDir, 'quiz.json'), JSON.stringify(bank))
 for (const [id, chunk] of chunks) await writeFile(path.join(outDir, 'units', `${id}.json`), JSON.stringify(chunk))
 
-console.log(`content: ${index.meta.total} notes, ${index.units.length} units, ${index.meta.quiz} quiz pairs`)
+const kinds = {}
+for (const item of bank) kinds[item.k] = (kinds[item.k] || 0) + 1
+console.log(`content: ${index.meta.total} notes, ${index.units.length} units`)
+console.log(`quiz: ${bank.length} items (${Object.entries(kinds).map(([k, n]) => `${k} ${n}`).join(', ')})`)
 console.log(
   `vietnamese: ${index.meta.total - untranslated}/${index.meta.total} notes` +
     (misaligned.length ? `, ${misaligned.length} with gaps (run "npm run content -- --check" for details)` : ''),

@@ -282,3 +282,64 @@
     border: 0;
   }
 }
+
+/* ---------- question wording ---------- */
+.q-kind {
+  margin-bottom: -10px;
+  color: var(--ink-3);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.q-ask b {
+  color: var(--accent-ink);
+}
+.q-term {
+  overflow-wrap: anywhere;
+}
+/* the sentence being completed, or the line being replied to */
+.q-stem {
+  padding: 14px 16px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: var(--surface);
+  font-size: 1.0625rem;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+}
+.gap {
+  display: inline-block;
+  width: 4.5em;
+  margin: 0 0.15em;
+  border-bottom: 2px solid var(--accent);
+  vertical-align: baseline;
+}
+.q-why {
+  display: grid;
+  gap: 4px;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}
+.q-why b {
+  color: var(--accent-ink);
+}
+.q-fb.no .q-why b {
+  color: inherit;
+}
+.q-ex,
+.q-line {
+  display: block;
+}
+.q-ex {
+  color: var(--ink-2);
+  font-size: 0.9375em;
+}
+.fix-q {
+  border-bottom: 1px solid var(--line);
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+.fix .fix-q {
+  display: block;
+}

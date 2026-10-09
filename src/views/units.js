@@ -67,7 +67,7 @@ export function unit({ arg }) {
 
   const primary = next
     ? `<a class="btn primary cta-main" href="${href('n', next)}">${I.play}<span class="btn-2"><b>${d ? 'Học tiếp' : 'Bắt đầu học'}</b><small>${esc(next)}</small></span></a>`
-    : `<a class="btn primary cta-main" href="${href('quiz', u.id)}">${I.quiz}<span class="btn-2"><b>Đã học hết ${u.n.length} bài</b><small>Làm quiz để kiểm tra</small></span></a>`
+    : `<a class="btn primary cta-main" href="${href('quiz', `u-${u.id}`)}">${I.quiz}<span class="btn-2"><b>Đã học hết ${u.n.length} bài</b><small>Làm quiz để kiểm tra</small></span></a>`
 
   let html =
     `<div class="page"><nav class="crumbs" aria-label="Vị trí"><a href="#/units">Chuyên đề</a><span>›</span><span>${esc(u.g)}</span></nav>` +
@@ -76,7 +76,7 @@ export function unit({ arg }) {
     `<div class="uprog">${bar(p)}<span><b>${d}/${u.n.length}</b> bài</span>${a ? `<span>Quiz đúng <b>${a.p}%</b></span>` : ''}</div></header>` +
     `<div class="cta">${primary}` +
     `<a class="btn" href="${href('fc', u.id)}">${I.cards}Flashcard</a>` +
-    (quizzes ? `<a class="btn" href="${href('quiz', u.id)}">${I.quiz}Quiz<span class="count">${quizzes}</span></a>` : '') +
+    (quizzes ? `<a class="btn" href="${href('quiz', `u-${u.id}`)}">${I.quiz}Quiz<span class="count">${quizzes}</span></a>` : '') +
     `<details class="menu"><summary class="btn icon-only" aria-label="Tuỳ chọn khác">${I.more}</summary><div class="menu-pop">` +
     `<button data-act="mark-all" data-a="${u.id}">${I.check}${d === u.n.length ? 'Bỏ đánh dấu tất cả' : 'Đánh dấu đã học tất cả'}</button>` +
     `<button class="danger" data-act="reset-unit" data-a="${u.id}">${I.redo}Đặt lại tiến độ</button></div></details></div>` +

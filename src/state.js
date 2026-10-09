@@ -4,6 +4,10 @@
 //   q      {ok, no}             quiz answers overall
 //   qu     {unitId: {ok, no}}   quiz answers per unit
 //   miss   {lesson: count}      wrong answers per lesson
+//   bad    {question id: lesson} questions answered wrongly and not yet got right
+//   tried  {lesson: 1}          lessons that have had at least one quiz answer
+//   tests  {n: {best, last}}    scores (percent) on the fixed tests
+//   daily  {d, ids, s, n}       today's round: date, its question ids, score once finished
 //   days   {YYYY-MM-DD: count}  study activity per day (drives the streak)
 //   last   lesson | null        last lesson opened
 //   theme  'light' | 'dark' | null (null follows the system)
@@ -18,6 +22,10 @@ const blank = () => ({
   q: { ok: 0, no: 0 },
   qu: {},
   miss: {},
+  bad: {},
+  tried: {},
+  tests: {},
+  daily: {},
   days: {},
   last: null,
   theme: null,
@@ -45,7 +53,7 @@ export function save() {
   } catch {}
 }
 
-const dayKey = (d = new Date()) =>
+export const dayKey = (d = new Date()) =>
   `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
 
 /** Counts one unit of study (a lesson finished, a quiz answer, a card known) towards today. */
@@ -72,23 +80,31 @@ export function setKnown(title, known) {
   save()
 }
 
-export function recordAnswer(unitId, title, ok) {
+/** Records one quiz answer. `id` is the question's id in the bank. */
+export function recordAnswer(unitId, title, id, ok) {
   const st = (S.qu[unitId] ??= { ok: 0, no: 0 })
+  S.tried[title] = 1
   if (ok) {
     S.q.ok++
     st.ok++
+    // getting a question right at last works it, and its lesson, off the review lists
+    if (S.bad[id]) {
+      delete S.bad[id]
+      if (S.miss[title] && --S.miss[title] <= 0) delete S.miss[title]
+    }
   } else {
     S.q.no++
     st.no++
-    S.miss[title] = (S.miss[title] || 0) + 1
+    if (!S.bad[id]) S.miss[title] = (S.miss[title] || 0) + 1
+    S.bad[id] = title
   }
   touchDay()
   save()
 }
 
-/** A correct answer on a lesson that was missed before works it off the review list. */
-export function workOffMiss(title) {
-  if (S.miss[title] && --S.miss[title] <= 0) delete S.miss[title]
+/** Keeps the latest and the best score of a fixed test. */
+export function recordTest(n, percent) {
+  S.tests[n] = { best: Math.max(percent, S.tests[n]?.best ?? 0), last: percent }
   save()
 }
 
@@ -102,8 +118,10 @@ export function resetUnit(unit) {
     delete S.done[t]
     delete S.known[t]
     delete S.miss[t]
+    delete S.tried[t]
     if (S.last === t) S.last = null
   }
+  for (const [id, title] of Object.entries(S.bad)) if (unit.n.includes(title)) delete S.bad[id]
   const st = S.qu[unit.id]
   if (st) {
     S.q.ok = Math.max(0, S.q.ok - st.ok)

@@ -1,6 +1,6 @@
 import { app, on } from '../app.js'
 import { U, N, META, PATHS, unitById, unitOfNote, doneIn, pct, totalDone, nextLesson, missedNotes } from '../data.js'
-import { S, save, accuracy, streak, week } from '../state.js'
+import { S, save, accuracy, streak, week, dayKey } from '../state.js'
 import { esc, href, I, bar, ring } from '../ui.js'
 import { unitCard } from './units.js'
 
@@ -15,8 +15,8 @@ function resumeCard() {
   if (!next) {
     return (
       `<div class="resume done"><span class="eyebrow">Hoàn thành</span><strong>Bạn đã học hết ${META.total} bài</strong>` +
-      `<span class="resume-ab">Giữ phong độ bằng quiz tổng hợp và flashcard.</span>` +
-      `<a class="btn primary" href="${href('quiz', 'all')}">${I.quiz}Làm quiz tổng hợp</a></div>`
+      `<span class="resume-ab">Giữ phong độ bằng mười câu ôn mỗi ngày và các đề cố định.</span>` +
+      `<a class="btn primary" href="${href('quiz', 'me-daily')}">${I.quiz}Ôn hôm nay</a></div>`
     )
   }
   const u = unitOfNote(next.t)
@@ -52,12 +52,13 @@ function statsCard() {
 }
 
 function quickActions() {
-  const missed = missedNotes().length
+  const bad = Object.keys(S.bad).length
+  const doneToday = S.daily.d === dayKey() && S.daily.n
   const cur = S.last && N[S.last] ? unitOfNote(S.last) : unitById(PATHS[0]?.units[0]) || U[0]
   return (
     `<section class="quick">` +
-    `<a class="tile" href="${href('quiz', 'all')}">${I.quiz}<b>Quiz nhanh</b><span>10 câu ngẫu nhiên</span></a>` +
-    `<a class="tile${missed ? '' : ' dim'}" href="${href('quiz', 'miss')}">${I.redo}<b>Ôn câu sai</b><span>${missed ? `${missed} bài cần ôn` : 'Chưa có câu sai'}</span></a>` +
+    `<a class="tile" href="${href('quiz', 'me-daily')}">${I.quiz}<b>Ôn hôm nay</b><span>${doneToday ? `Đã làm: ${S.daily.s}/${S.daily.n}` : '10 câu'}</span></a>` +
+    `<a class="tile${bad ? '' : ' dim'}" href="${href('quiz', 'me-bad')}">${I.redo}<b>Câu từng sai</b><span>${bad ? `${bad} câu cần ôn` : 'Chưa có câu sai'}</span></a>` +
     `<a class="tile" href="${href('fc', cur.id)}">${I.cards}<b>Flashcard</b><span>${esc(cur.t)}</span></a>` +
     `</section>`
   )

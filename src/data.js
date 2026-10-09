@@ -14,7 +14,7 @@ export const unitOfNote = (title) => (N[title] ? unitById(N[title].u) : null)
 export const doneIn = (u) => u.n.reduce((c, t) => c + (S.done[t] ? 1 : 0), 0)
 export const pct = (u) => (u.n.length ? Math.round((doneIn(u) / u.n.length) * 100) : 0)
 export const totalDone = () => Object.keys(S.done).reduce((c, t) => c + (N[t] ? 1 : 0), 0)
-export const quizCount = (u) => u.n.reduce((c, t) => c + N[t].q.length, 0)
+export const quizCount = (u) => u.n.reduce((c, t) => c + N[t].qn, 0)
 export const missedNotes = () => Object.entries(S.miss).filter(([t]) => N[t]).sort((a, b) => b[1] - a[1])
 
 /** First lesson of a unit not yet marked as learnt. */
@@ -53,4 +53,12 @@ export function loadSearch() {
   searchText ??= import('./generated/search.json').then((m) => m.default)
   searchText.catch(() => (searchText = undefined))
   return searchText
+}
+
+let quizBank
+/** Raw quiz items, see scripts/quiz-bank.mjs. */
+export function loadQuiz() {
+  quizBank ??= import('./generated/quiz.json').then((m) => m.default)
+  quizBank.catch(() => (quizBank = undefined))
+  return quizBank
 }

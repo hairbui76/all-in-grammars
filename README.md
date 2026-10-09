@@ -11,7 +11,7 @@ Tiến độ học lưu trong `localStorage` của trình duyệt, không cần 
 - **Bài học** chia theo mục (công thức, cách dùng, ví dụ, lưu ý, lỗi thường gặp, phân biệt), có mục lục nhảy nhanh và đổi cỡ chữ.
 - **Song ngữ**: dưới mỗi ý tiếng Anh (cách dùng, ví dụ, ô trong bảng, lỗi thường gặp…) là dòng tiếng Việt tương ứng; nút "Việt" trong bài để ẩn/hiện.
 - **Flashcard** theo chuyên đề: chạm để lật, vuốt trái/phải hoặc bấm nút để đánh dấu thuộc/chưa thuộc.
-- **Quiz** "câu nào đúng ngữ pháp" theo chuyên đề, quiz nhanh 10 câu, và ôn lại các câu từng sai.
+- **Quiz** hơn 3.000 câu thuộc 7 dạng (chọn câu đúng, điền chỗ trống, nghĩa cụm từ, giới từ/tiểu từ, trọng âm, phát âm, giao tiếp), chia thành nhiều bộ: theo chuyên đề, theo lộ trình, theo dạng bài thi, theo tiến độ của bạn (ôn hôm nay, câu từng sai, bài đã học, bài chưa làm quiz) và 10 đề cố định 40 câu.
 - **Tìm kiếm** theo tên bài, tên tiếng Việt của chuyên đề và toàn bộ nội dung.
 - Giao diện sáng/tối.
 
@@ -40,6 +40,7 @@ Bài học là các file Markdown (kiểu Obsidian) trong `Grammar/Concepts/`. M
 - Mỗi tiêu đề `##` thành một mục của bài; các tiêu đề quen thuộc (`Form`, `Examples`, `Common mistakes`…) được gắn nhãn tiếng Việt.
 - Mục `## Form` và `## Examples` thành mặt sau flashcard.
 - Các dòng `- ❌ câu sai → ✅ câu đúng` trong `## Common mistakes` thành thẻ sửa lỗi và câu quiz.
+- Câu hỏi quiz sinh tự động từ ghi chú (`scripts/quiz-bank.mjs`): phần in đậm trong ví dụ thành câu điền chỗ trống, bảng "… | Meaning | Example" thành câu hỏi nghĩa và giới từ, từ có phiên âm thành câu trọng âm, bảng hội thoại thành câu giao tiếp. Đáp án nhiễu được chọn lúc làm bài (`src/quiz/`).
 - `[[Tên bài]]` thành liên kết giữa các bài; mục `## Related` thành các nút "Bài liên quan".
 - Mục `## Ghi chú tiếng Việt` ở cuối mỗi bài là bản tiếng Việt, viết song song từng mục với phần tiếng Anh. Bước build ghép từng dòng tiếng Việt xuống dưới dòng tiếng Anh tương ứng. Quy tắc viết: [content/VIETNAMESE.md](content/VIETNAMESE.md). Kiểm tra bài nào thiếu hoặc lệch cấu trúc: `npm run check:vi`.
 
@@ -52,6 +53,7 @@ Bài mới chưa có trong file này sẽ tự vào chuyên đề đầu tiên �
 |---|---|
 | `src/main.js` | Khung trang (sidebar, thanh trên, thanh tab), router theo hash, xử lý sự kiện |
 | `src/views/` | Mỗi màn hình một file: trang chủ, chuyên đề, bài học, ôn tập, tìm kiếm, flashcard, quiz |
+| `src/quiz/` | Dựng câu hỏi từ dữ liệu thô, định nghĩa các bộ quiz |
 | `src/state.js` | Tiến độ học và lưu `localStorage` |
 | `src/data.js` | Nội dung đã build, tải bài theo từng chuyên đề khi cần |
 | `src/styles/` | CSS viết theo hướng mobile-first |

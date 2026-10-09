@@ -88,7 +88,7 @@ export async function flashcards({ arg }, fresh) {
         `<div class="practice"><div class="result-card">${ring(p, { size: 96, stroke: 8, label: `${p}%` })}` +
         `<h1>Xong bộ thẻ</h1><p class="muted">Bạn đã thuộc ${known}/${u.n.length} thẻ của <b>${esc(u.t)}</b>.</p>` +
         `<div class="stack"><button class="btn primary" data-act="fc-new">${I.redo}Học lại bộ thẻ</button>` +
-        `<a class="btn" href="${href('quiz', u.id)}">${I.quiz}Làm quiz chuyên đề</a>` +
+        `<a class="btn" href="${href('quiz', `u-${u.id}`)}">${I.quiz}Làm quiz chuyên đề</a>` +
         `<a class="btn ghost" href="${href('u', u.id)}">Về chuyên đề</a></div></div></div>`,
     }
   }
